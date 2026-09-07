@@ -188,6 +188,7 @@ def in_window(a, start, end):
 
 
 def resolve_google_links(items, workers=16, cap=2500):
+    """(현재 미사용) 구글 중계 주소를 원출처로 변환. 속도 문제로 기본 비활성."""
     """구글 뉴스 RSS가 주는 중계 주소를 원출처 주소로 바꾼다.
     - 링크 길이가 크게 줄어 파일 용량이 절반 이하로 떨어진다
     - 리포트에 원출처 링크가 실린다
@@ -255,12 +256,21 @@ def balance_by_date(items, limit):
     return picked, True
 
 
+def short_url(a):
+    """구글 뉴스 중계 주소는 400자가 넘고 리포트에 쓸 수도 없으므로
+    파일에는 표시만 남긴다. 실제 주소가 필요하면 읽는 쪽에서 제목으로 찾는다."""
+    u = a.get("url") or ""
+    if "news.google.com" in u:
+        return "google:" + (a.get("media") or "unknown")
+    return u
+
+
 def to_lines(items):
     lines = []
     for a in items:
         pub = (a.get("published") or "")[:16].replace("T", " ") or "날짜미상"
         title = a["title"].replace("|", "/")
-        lines.append(f"{pub} | {a.get('media','')} | {title} | {a.get('url','')}")
+        lines.append(f"{pub} | {a.get('media','')} | {title} | {short_url(a)}")
     return lines
 
 
@@ -284,10 +294,6 @@ def main():
         print(f"  sweep {site}: +{len(got)}")
         sweep += got
 
-    if sweep:
-        print()
-        sweep = resolve_google_links(sweep)
-
     outdir = os.path.join(ROOT, "pool")
     os.makedirs(outdir, exist_ok=True)
     summary = []
@@ -307,7 +313,6 @@ def main():
         items = dedupe(items)
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
 
-        items = resolve_google_links(items)
         print(f"      기간내 고유 기사 {len(items)}건")
         items, cut = balance_by_date(items, MAX_LINES)
 
