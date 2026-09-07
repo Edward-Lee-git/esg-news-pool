@@ -1,0 +1,26 @@
+{
+  "sweep": [
+    "hankyung.com",
+    "sedaily.com"
+  ],
+  "set_a": {
+    "naver": [
+      "지속가능경영"
+    ],
+    "rss": []
+  },
+  "set_b": {
+    "naver": [
+      "환경부 입법예고"
+    ],
+    "rss": [
+      "ESG regulation"
+    ]
+  },
+  "set_c": {
+    "naver": [
+      "탄소중립 정책"
+    ],
+    "rss": []
+  }
+}
