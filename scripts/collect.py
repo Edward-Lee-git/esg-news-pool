@@ -32,6 +32,7 @@ import html
 import urllib.parse
 import datetime as dt
 from difflib import SequenceMatcher
+from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 
 import requests
@@ -44,8 +45,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NAVER_ENDPOINT = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
-MAX_LINES = 600          # 세트당 최대 기사 수
-LINES_PER_FILE = 300     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대응)
+MAX_LINES = 1200         # 세트당 최대 기사 수
+LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대응)
 SETS = ["set_a", "set_b", "set_c"]
 
 
@@ -186,6 +187,74 @@ def in_window(a, start, end):
         return True
 
 
+def resolve_google_links(items, workers=16, cap=2500):
+    """구글 뉴스 RSS가 주는 중계 주소를 원출처 주소로 바꾼다.
+    - 링크 길이가 크게 줄어 파일 용량이 절반 이하로 떨어진다
+    - 리포트에 원출처 링크가 실린다
+    실패하면 원래 주소를 그대로 둔다(수집 자체는 실패시키지 않는다)."""
+    targets = [a for a in items
+               if "news.google.com" in (a.get("url") or "")][:cap]
+    if not targets:
+        return items
+
+    session = requests.Session()
+    session.headers.update({"User-Agent": "Mozilla/5.0"})
+    ok = 0
+
+    def one(a):
+        nonlocal ok
+        try:
+            r = session.get(a["url"], timeout=8, allow_redirects=True)
+            final = r.url or ""
+            if final and "news.google.com" not in final:
+                a["url"] = final.split("?")[0]
+                if not a.get("media"):
+                    a["media"] = domain_of(final)
+                ok += 1
+        except Exception:
+            pass
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        list(ex.map(one, targets))
+
+    print(f"  링크 정리: {len(targets)}건 중 {ok}건 원출처 확인 "
+          f"({ok*100//max(len(targets),1)}%)")
+    return items
+
+
+def balance_by_date(items, limit):
+    """건수 상한을 넘을 때, 날짜별로 골고루 남긴다.
+    최신순으로 자르면 검색기간 첫날(월요일 기준 금요일) 기사가 통째로
+    날아가므로, 각 날짜에서 돌아가며 뽑는다."""
+    if len(items) <= limit:
+        return items, False
+    by_day = {}
+    for a in items:
+        by_day.setdefault((a.get("published") or "")[:10], []).append(a)
+    for k in by_day:
+        by_day[k].sort(key=lambda a: (a.get("published") or ""), reverse=True)
+
+    days = sorted(by_day.keys(), reverse=True)
+    picked, i = [], 0
+    while len(picked) < limit:
+        added = False
+        for d in days:
+            if i < len(by_day[d]) and len(picked) < limit:
+                picked.append(by_day[d][i])
+                added = True
+        if not added:
+            break
+        i += 1
+
+    kept = {}
+    for a in picked:
+        kept.setdefault((a.get("published") or "")[:10], 0)
+        kept[(a.get("published") or "")[:10]] += 1
+    print(f"      날짜별 배분: " +
+          ", ".join(f"{d[5:]} {n}건" for d, n in sorted(kept.items())))
+    return picked, True
+
+
 def to_lines(items):
     lines = []
     for a in items:
@@ -215,6 +284,10 @@ def main():
         print(f"  sweep {site}: +{len(got)}")
         sweep += got
 
+    if sweep:
+        print()
+        sweep = resolve_google_links(sweep)
+
     outdir = os.path.join(ROOT, "pool")
     os.makedirs(outdir, exist_ok=True)
     summary = []
@@ -234,10 +307,9 @@ def main():
         items = dedupe(items)
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
 
-        cut = len(items) > MAX_LINES
-        if cut:
-            # 오래된 것부터 버려 최신 MAX_LINES건만 남긴다
-            items = items[:MAX_LINES]
+        items = resolve_google_links(items)
+        print(f"      기간내 고유 기사 {len(items)}건")
+        items, cut = balance_by_date(items, MAX_LINES)
 
         lines = to_lines(items)
 
