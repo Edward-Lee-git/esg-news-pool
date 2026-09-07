@@ -45,9 +45,18 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NAVER_ENDPOINT = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
-MAX_LINES = 1200         # 세트당 최대 기사 수
 LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대응)
-SETS = ["set_a", "set_b", "set_c"]
+
+# 세트별 설정
+#   sweep : 매체 전수 훑기 결과를 포함할지
+#   limit : 최대 기사 수
+# set_a(부정기사)는 회사명 검색 결과가 핵심이므로 매체 훑기를 넣지 않는다.
+# 넣으면 훑기 결과가 상한을 차지해 회사 검색 결과가 잘려나간다.
+SETS = {
+    "set_a": {"sweep": False, "limit": 900},
+    "set_b": {"sweep": True,  "limit": 1200},
+    "set_c": {"sweep": True,  "limit": 1200},
+}
 
 
 # ---------------------------------------------------------------
@@ -180,7 +189,7 @@ def dedupe(items, threshold=0.88):
 def in_window(a, start, end):
     p = a.get("published")
     if not p:
-        return True
+        return False   # 게재일시 불명은 제외 (기간 밖 기사 혼입 방지)
     try:
         return start <= dt.datetime.fromisoformat(p) <= end + dt.timedelta(hours=1)
     except Exception:
@@ -298,7 +307,7 @@ def main():
     os.makedirs(outdir, exist_ok=True)
     summary = []
 
-    for s in SETS:
+    for s, opt in SETS.items():
         spec = cfg.get(s) or {}
         items = []
         if key_id and key:
@@ -308,13 +317,14 @@ def main():
             items += google_rss(f"{q} when:{days}d")
         raw_n = len(items)
 
-        items += sweep
+        use_sweep = sweep if opt["sweep"] else []
+        items += use_sweep
         items = [a for a in items if in_window(a, start, end)]
         items = dedupe(items)
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
 
         print(f"      기간내 고유 기사 {len(items)}건")
-        items, cut = balance_by_date(items, MAX_LINES)
+        items, cut = balance_by_date(items, opt["limit"])
 
         lines = to_lines(items)
 
@@ -345,7 +355,7 @@ def main():
             else:
                 break
 
-        print(f"  {base}: 고유수집 {raw_n} + 매체훑기 {len(sweep)} "
+        print(f"  {base}: 고유수집 {raw_n} + 매체훑기 {len(use_sweep)} "
               f"-> {len(lines)}줄{' (절단됨)' if cut else ''}")
         for n in names:
             print(f"      {n}")
