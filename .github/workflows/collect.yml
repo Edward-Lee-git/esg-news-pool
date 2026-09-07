@@ -41,7 +41,13 @@ jobs:
           git add pool
           if git diff --cached --quiet; then
             echo "no change"
-          else
-            git commit -m "pool: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
-            git push
+            exit 0
           fi
+          git commit -m "pool: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "retry $i"
+            sleep 5
+          done
+          echo "push failed after 3 attempts"
+          exit 1
