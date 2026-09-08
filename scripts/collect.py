@@ -103,8 +103,20 @@ RISK_WORDS = [
 ]
 
 
+# 리스크 신호가 있어도 부정이슈가 아닌 정형 기사 유형.
+# 증시 시황("코스피 붕괴"), 부고, 인사 등은 신호어가 들어가도 제외한다.
+BOILERPLATE = [
+    "코스피", "코스닥", "증시", "시황", "마감", "장중", "개장", "환율",
+    "부고", "부음", "별세", "모친상", "부친상", "빙부상", "빙모상", "궂긴",
+    "인사]", "[인사", "승진", "취업박람회", "job festival", "채용박람회",
+    "주간증시", "특징주", "상한가", "하한가", "공모주",
+]
+
+
 def has_risk_signal(title):
     t = (title or "").lower()
+    if any(b.lower() in t for b in BOILERPLATE):
+        return False
     return any(w.lower() in t for w in RISK_WORDS)
 
 
@@ -160,7 +172,11 @@ def naver_search(query, key_id, key, max_items=300, tag=""):
             # 네이버는 검색어를 형태소로 쪼개 느슨하게 매칭한다.
             # "삼성바이오에피스"를 던지면 "삼성"만 걸린 기사까지 돌려준다.
             # 그래서 검색어의 모든 낱말이 제목+요약에 실제로 있는지 직접 확인한다.
-            confirmed = verify(query, title + " " + desc)
+            # 본문(요약) 언급만으로는 스쳐 지나간 언급과 실제 이슈를 구분할 수 없다.
+            # 취업박람회 기사의 참가기업 목록, 재건축 기사의 시공사 목록 등이
+            # 모두 본문 언급으로 잡히기 때문이다. 그래서 제목을 기준으로 삼는다.
+            confirmed = verify(query, title)
+            body_only = (not confirmed) and verify(query, title + " " + desc)
             out.append({
                 "title": title,
                 "media": domain_of(link),
@@ -168,6 +184,7 @@ def naver_search(query, key_id, key, max_items=300, tag=""):
                 "url": link,
                 "tags": {tag if confirmed else tag + "?"} if tag else set(),
                 "confirmed": confirmed,
+                "body_only": body_only,
                 "risk": has_risk_signal(title),
             })
         if len(items) < 100:
@@ -419,6 +436,7 @@ def main():
         items = [a for a in items
                  if a.get("confirmed") or a.get("risk")
                  or "sw" in (a.get("tags") or set())]
+        # 남은 것 중 제목 언급 없이 리스크 신호로만 살아난 기사에는 물음표를 붙인다.
         print(f"      노이즈 제거: {before} -> {len(items)}건")
 
         items = dedupe(items)
