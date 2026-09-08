@@ -97,7 +97,7 @@ def load_queries():
 
 
 # ---------------------------------------------------------------
-def naver_search(query, key_id, key, max_items=300):
+def naver_search(query, key_id, key, max_items=300, tag=""):
     out = []
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
@@ -121,6 +121,7 @@ def naver_search(query, key_id, key, max_items=300):
                 "media": domain_of(link),
                 "published": parse_rfc822(it.get("pubDate", "")),
                 "url": link,
+                "tags": {tag} if tag else set(),
             })
         if len(items) < 100:
             break
@@ -128,7 +129,7 @@ def naver_search(query, key_id, key, max_items=300):
     return out
 
 
-def google_rss(query, locale="kr"):
+def google_rss(query, locale="kr", tag=""):
     out = []
     hl, gl, lang = LOCALES.get(locale, LOCALES["kr"])
     url = GOOGLE_RSS.format(q=urllib.parse.quote(query), hl=hl, gl=gl, lang=lang)
@@ -148,6 +149,7 @@ def google_rss(query, locale="kr"):
                      or domain_of(e.get("link", "")),
             "published": pub,
             "url": e.get("link", ""),
+            "tags": {tag} if tag else set(),
         })
     return out
 
@@ -181,13 +183,22 @@ def dedupe(items, threshold=0.88):
     for a in items:
         u = (a.get("url") or "").split("?")[0]
         if u and u in seen:
+            for k in kept:
+                if (k.get("url") or "").split("?")[0] == u:
+                    k.setdefault("tags", set()).update(a.get("tags") or set())
+                    break
             continue
         n = norm(a["title"])
         if not n:
             continue
-        if any(abs(len(n) - len(k["_n"])) <= 25
-               and SequenceMatcher(None, n, k["_n"]).ratio() >= threshold
-               for k in kept):
+        dup = None
+        for k in kept:
+            if abs(len(n) - len(k["_n"])) <= 25 and \
+               SequenceMatcher(None, n, k["_n"]).ratio() >= threshold:
+                dup = k
+                break
+        if dup is not None:
+            dup.setdefault("tags", set()).update(a.get("tags") or set())
             continue
         if u:
             seen.add(u)
@@ -291,7 +302,8 @@ def to_lines(items):
     for a in items:
         pub = (a.get("published") or "")[:16].replace("T", " ") or "날짜미상"
         title = a["title"].replace("|", "/")
-        lines.append(f"{pub} | {a.get('media','')} | {title} | {short_url(a)}")
+        tg = ",".join(sorted(a.get("tags") or set()))
+        lines.append(f"{pub} | {a.get('media','')} | {title} | {short_url(a)} | {tg}")
     return lines
 
 
@@ -311,7 +323,7 @@ def main():
     # 공통 매체 훑기
     sweep = []
     for site in cfg.get("sweep", []):
-        got = google_rss(f"site:{site} when:{days}d")
+        got = google_rss(f"site:{site} when:{days}d", tag="sw")
         print(f"  sweep {site}: +{len(got)}")
         sweep += got
 
@@ -322,18 +334,27 @@ def main():
     for s, opt in SETS.items():
         spec = cfg.get(s) or {}
         items = []
+        pfx = s[-1]                      # set_a -> "a", set_b -> "b", set_c -> "c"
+        legend = []                      # 태그 개수 집계용 (내용은 출력하지 않음)
+
         if key_id and key:
-            for q in spec.get("naver", []):
-                items += naver_search(q, key_id, key)
-        for q in spec.get("rss", []):
-            items += google_rss(f"{q} when:{days}d")
+            for i, q in enumerate(spec.get("naver", []), 1):
+                t = f"{pfx}{i}"
+                legend.append((t, q))
+                items += naver_search(q, key_id, key, tag=t)
+        for i, q in enumerate(spec.get("rss", []), 1):
+            t = f"{pfx}r{i}"
+            legend.append((t, q))
+            items += google_rss(f"{q} when:{days}d", tag=t)
 
         # 해외 보도: {"locale": "en", "queries": [...]} 형태의 목록
         for blk in spec.get("foreign", []):
             loc = blk.get("locale", "en")
             n0 = len(items)
-            for q in blk.get("queries", []):
-                items += google_rss(f"{q} when:{days}d", locale=loc)
+            for i, q in enumerate(blk.get("queries", []), 1):
+                t = f"{pfx}{loc}{i}"
+                legend.append((t, q))
+                items += google_rss(f"{q} when:{days}d", locale=loc, tag=t)
             print(f"    해외[{loc}]: +{len(items)-n0}")
 
         raw_n = len(items)
@@ -359,7 +380,7 @@ def main():
                 f"# collected: {end:%Y-%m-%d %H:%M} KST",
                 f"# window: {start:%Y-%m-%d} 00:00 ~ {end:%Y-%m-%d %H:%M} KST",
                 f"# part {idx} of {len(chunks)}, lines: {len(chunk)}",
-                "# format: date | media | title | url",
+                "# format: date | media | title | url | tags",
                 "",
             ]
             name = f"{base}-{idx}.txt"
@@ -376,6 +397,9 @@ def main():
             else:
                 break
 
+        # 태그 대응표는 로그에 출력하지 않는다.
+        # 공개 저장소의 Actions 로그는 누구나 열람 가능하므로 검색어(회사명)가 노출된다.
+        print(f"    태그 {len(legend)}종 부여")
         print(f"  {base}: 고유수집 {raw_n} + 매체훑기 {len(use_sweep)} "
               f"-> {len(lines)}줄{' (절단됨)' if cut else ''}")
         for n in names:
