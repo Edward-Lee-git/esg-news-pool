@@ -43,7 +43,17 @@ KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 NAVER_ENDPOINT = "https://naverapihub.apigw.ntruss.com/search/v1/news"
-GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
+GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{lang}"
+
+# 구글 뉴스 지역·언어 코드. 해외 현지 보도를 잡기 위해 사용한다.
+# 네이버 뉴스 검색 API는 국내 등록 매체만 다루므로 해외 보도는 여기서만 확보된다.
+LOCALES = {
+    "kr": ("ko",    "KR", "ko"),   # 한국어
+    "en": ("en-US", "US", "en"),   # 영어 (미국)
+    "gb": ("en-GB", "GB", "en"),   # 영어 (영국)
+    "id": ("id",    "ID", "id"),   # 인도네시아어
+    "ro": ("ro",    "RO", "ro"),   # 루마니아어
+}
 
 LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대응)
 
@@ -118,10 +128,12 @@ def naver_search(query, key_id, key, max_items=300):
     return out
 
 
-def google_rss(query):
+def google_rss(query, locale="kr"):
     out = []
+    hl, gl, lang = LOCALES.get(locale, LOCALES["kr"])
+    url = GOOGLE_RSS.format(q=urllib.parse.quote(query), hl=hl, gl=gl, lang=lang)
     try:
-        feed = feedparser.parse(GOOGLE_RSS.format(q=urllib.parse.quote(query)))
+        feed = feedparser.parse(url)
     except Exception as e:
         print(f"    [rss ERR] {e}")
         return out
@@ -315,6 +327,15 @@ def main():
                 items += naver_search(q, key_id, key)
         for q in spec.get("rss", []):
             items += google_rss(f"{q} when:{days}d")
+
+        # 해외 보도: {"locale": "en", "queries": [...]} 형태의 목록
+        for blk in spec.get("foreign", []):
+            loc = blk.get("locale", "en")
+            n0 = len(items)
+            for q in blk.get("queries", []):
+                items += google_rss(f"{q} when:{days}d", locale=loc)
+            print(f"    해외[{loc}]: +{len(items)-n0}")
+
         raw_n = len(items)
 
         use_sweep = sweep if opt["sweep"] else []
