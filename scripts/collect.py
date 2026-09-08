@@ -98,6 +98,12 @@ def load_queries():
 
 # ---------------------------------------------------------------
 def naver_search(query, key_id, key, max_items=300, tag=""):
+    # 네이버 뉴스 검색 API는 검색어를 형태소로 쪼개 느슨하게 매칭한다.
+    # "삼성웰스토리"를 던지면 "삼성"만 걸린 기사까지 반환하므로,
+    # 큰따옴표로 감싸 구(phrase) 단위 정확 일치를 강제한다.
+    if not query.startswith('"'):
+        query = f'"{query}"'
+
     out = []
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
@@ -399,7 +405,15 @@ def main():
 
         # 태그 대응표는 로그에 출력하지 않는다.
         # 공개 저장소의 Actions 로그는 누구나 열람 가능하므로 검색어(회사명)가 노출된다.
-        print(f"    태그 {len(legend)}종 부여")
+        # 태그별 건수 분포를 출력해 검색 정확도를 진단한다.
+        # 서로 다른 검색어의 건수가 거의 같으면 느슨한 매칭이 일어나는 신호다.
+        from collections import Counter
+        tc = Counter()
+        for a in items:
+            for t in (a.get("tags") or set()):
+                tc[t] += 1
+        top = ", ".join(f"{t}:{c}" for t, c in tc.most_common(12))
+        print(f"    태그 {len(legend)}종 부여 | 상위 분포 {top}")
         print(f"  {base}: 고유수집 {raw_n} + 매체훑기 {len(use_sweep)} "
               f"-> {len(lines)}줄{' (절단됨)' if cut else ''}")
         for n in names:
