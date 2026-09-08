@@ -70,6 +70,45 @@ SETS = {
 
 
 # ---------------------------------------------------------------
+# 검색어 검증 및 리스크 신호
+# ---------------------------------------------------------------
+def verify(query, text):
+    """검색어의 모든 낱말이 대상 텍스트(제목+요약)에 실제로 있는지 확인한다.
+    네이버 검색이 형태소 분해로 돌려준 무관한 기사를 걸러내는 용도."""
+    t = (text or "").lower().replace(" ", "")
+    for w in re.split(r"\s+", (query or "").strip().strip('"')):
+        w = w.strip('"').lower().replace(" ", "")
+        if not w or w in ("or", "and"):
+            continue
+        if w not in t:
+            return False
+    return True
+
+
+# 제목에 이 표현이 있으면 부정이슈 가능성이 있는 기사로 본다.
+# 검색어가 본문 깊숙이만 언급된 기사(요약문에 안 잡히는 경우)를 살려두기 위한 장치.
+RISK_WORDS = [
+    "제재", "처분", "과징금", "벌금", "시정명령", "불승인", "불허", "반려",
+    "적발", "고발", "기소", "수사", "조사", "압수", "감사", "지적", "논란",
+    "의혹", "혐의", "담합", "배임", "횡령", "탈세", "소송", "피소", "패소",
+    "사고", "사망", "부상", "붕괴", "화재", "누출", "재해", "리콜", "결함",
+    "하자", "불량", "파업", "쟁의", "해고", "갑질", "괴롭힘", "성희롱",
+    "차별", "오염", "그린워싱", "인권", "아동노동", "강제노동",
+    "유상증자", "지분희석", "주주가치", "소액주주", "반발", "항의", "시위",
+    "국정감사", "청문회", "제동", "중단", "취소", "박탈", "경고",
+    "scandal", "controversy", "lawsuit", "fine", "penalty", "probe",
+    "investigation", "violation", "dispute", "protest", "accident",
+    "sengketa", "konflik", "tuntut", "protes", "deforestasi",
+    "amenda", "accident", "greva",
+]
+
+
+def has_risk_signal(title):
+    t = (title or "").lower()
+    return any(w.lower() in t for w in RISK_WORDS)
+
+
+# ---------------------------------------------------------------
 def resolve_window(now=None):
     """전일부터 거꾸로 올라가 처음 만나는 평일 00:00을 시작점으로 삼는다.
     토·일 및 한국 법정공휴일(대체공휴일 포함)은 건너뛴다."""
@@ -98,12 +137,6 @@ def load_queries():
 
 # ---------------------------------------------------------------
 def naver_search(query, key_id, key, max_items=300, tag=""):
-    # 네이버 뉴스 검색 API는 검색어를 형태소로 쪼개 느슨하게 매칭한다.
-    # "삼성웰스토리"를 던지면 "삼성"만 걸린 기사까지 반환하므로,
-    # 큰따옴표로 감싸 구(phrase) 단위 정확 일치를 강제한다.
-    if not query.startswith('"'):
-        query = f'"{query}"'
-
     out = []
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
@@ -122,12 +155,20 @@ def naver_search(query, key_id, key, max_items=300, tag=""):
             break
         for it in items:
             link = it.get("originallink") or it.get("link", "")
+            title = clean(it.get("title", ""))
+            desc = clean(it.get("description", ""))
+            # 네이버는 검색어를 형태소로 쪼개 느슨하게 매칭한다.
+            # "삼성바이오에피스"를 던지면 "삼성"만 걸린 기사까지 돌려준다.
+            # 그래서 검색어의 모든 낱말이 제목+요약에 실제로 있는지 직접 확인한다.
+            confirmed = verify(query, title + " " + desc)
             out.append({
-                "title": clean(it.get("title", "")),
+                "title": title,
                 "media": domain_of(link),
                 "published": parse_rfc822(it.get("pubDate", "")),
                 "url": link,
-                "tags": {tag} if tag else set(),
+                "tags": {tag if confirmed else tag + "?"} if tag else set(),
+                "confirmed": confirmed,
+                "risk": has_risk_signal(title),
             })
         if len(items) < 100:
             break
@@ -149,13 +190,16 @@ def google_rss(query, locale="kr", tag=""):
         if getattr(e, "published_parsed", None):
             pub = dt.datetime(*e.published_parsed[:6], tzinfo=dt.timezone.utc)\
                     .astimezone(KST).isoformat()
+        title = clean(e.get("title", ""))
         out.append({
-            "title": clean(e.get("title", "")),
+            "title": title,
             "media": (e.get("source", {}) or {}).get("title", "")
                      or domain_of(e.get("link", "")),
             "published": pub,
             "url": e.get("link", ""),
             "tags": {tag} if tag else set(),
+            "confirmed": True,      # 구글 뉴스는 구 단위 매칭이 정확하다
+            "risk": has_risk_signal(title),
         })
     return out
 
@@ -368,6 +412,15 @@ def main():
         use_sweep = sweep if opt["sweep"] else []
         items += use_sweep
         items = [a for a in items if in_window(a, start, end)]
+
+        # 검색어가 제목·요약에 확인되지 않았고 제목에 리스크 신호도 없는 기사는 버린다.
+        # (코스피 시황, 부고, 취업박람회 등 검색어가 본문에 스쳐 지나간 기사)
+        before = len(items)
+        items = [a for a in items
+                 if a.get("confirmed") or a.get("risk")
+                 or "sw" in (a.get("tags") or set())]
+        print(f"      노이즈 제거: {before} -> {len(items)}건")
+
         items = dedupe(items)
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
 
