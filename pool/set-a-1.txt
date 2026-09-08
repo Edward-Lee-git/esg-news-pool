@@ -1,29 +1,150 @@
-# collected: 2026-09-08 13:02 KST
-# window: 2026-09-07 00:00 ~ 2026-09-08 13:02 KST
-# part 1 of 2, lines: 250
+# collected: 2026-09-08 18:15 KST
+# window: 2026-09-07 00:00 ~ 2026-09-08 18:15 KST
+# part 1 of 3, lines: 250
 # format: date | media | title | url | tags
 
+2026-09-08 18:15 | TipRanks | Samsung Electronics Reports Minor Adjustments in Major Shareholders’ Stakes - TipRanks | google:TipRanks | aen1
+2026-09-08 18:03 | hankyung.com | [부고] 성상현씨 별세 外 | https://www.hankyung.com/article/2026090821381 | a1
+2026-09-08 18:02 | newsmaker.or.kr | 청년단체부터 자립준비청년까지…전남광주와 삼성 공동 지원 | http://www.newsmaker.or.kr/news/articleView.html?idxno=182182 | a1
+2026-09-08 18:00 | newsgn.com | '7천피' 탈환 실패한 코스피…개미 3조 순매도에 4일 만에 하락 | https://www.newsgn.com/news/articleView.html?idxno=572365 | a7
+2026-09-08 17:58 | dailian.co.kr | 삼성바이오 노사, 교섭 후 2차 사후 조정…노조 "결렬시 단체행동" | https://www.dailian.co.kr/news/view/1687924/?sc=Naver | a7
+2026-09-08 17:56 | webeconomy.co.kr | [경북대] 120개 기업 취업박람회 / 이집트 사막연구소 협력 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2295248 | a1,a10,a12
+2026-09-08 17:53 | Tribunpekanbaru.com | Warga Ramai-ramai Tanam Sawit di Lahan Perusahaan,Plt Bupati Kuansing Minta Semua Pihak Menahan Diri - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid9
+2026-09-08 17:53 | mk.co.kr | K원전, 핵연료봉부터 시공까지 '밸류체인 독립'… 수출 새 동력 | https://www.mk.co.kr/article/12147373 | a1
+2026-09-08 17:52 | newsis.com | '임금협상 갈등' 삼성바이오 노사, 다음주 2차조정 | https://www.newsis.com/view/NISX20260908_0003781474 | a7
+2026-09-08 17:44 | inews24.com | 삼성바이오로직스 노사, 1차 사후조정 합의 불발⋯15일 2차 조정 | http://www.inews24.com/view/2003398 | a7
+2026-09-08 17:43 | biz.chosun.com | “서로 신뢰하고 노력해야”…삼성바이오 사후 조정서 나온 당부 | https://biz.chosun.com/science-chosun/bio/2026/09/08/AJHKEBZDFVEMTA7KYMITZNJ4D4/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
+2026-09-08 17:43 | Chosunbiz | Samsung Biologics labor, management clash on wages as post-mediation resumes - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-08 17:42 | dnews.co.kr | 건원엔지니어링, 압구정4구역 재건축 ‘프리콘CM’ 수주 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071320228200931 | a1,a10,a12,a3,a7
+2026-09-08 17:42 | ajunews.com | 삼성바이오 노사, 사후조정도 이견… 15일 2차 조정 | https://www.ajunews.com/view/20260908173614503 | a7
+2026-09-08 17:38 | news2day.co.kr | [오늘의 부고 : 9월 8일] 성연진(헤럴드경제 건설부동산부장)씨 부친상... | https://www.news2day.co.kr/article/20260908500238 | a1
+2026-09-08 17:34 | hitnews.co.kr | 삼성바이오 노사, 사후조정 첫발…10~11일 단협 재교섭 | https://www.hitnews.co.kr/news/articleView.html?idxno=78999 | a10,a7
+2026-09-08 17:28 | imaeil.com | 경북대서 120개 기업·기관 참여 취업박람회… 현장면접·동문 멘토링 | https://www.imaeil.com/page/view/2026090817232687218 | a1
+2026-09-08 17:22 | mk.co.kr | [부음] 윤경자씨 별세 | https://www.mk.co.kr/article/12147284 | a1
+2026-09-08 17:22 | etoday.co.kr | 삼성바이오 노사, 10·11일 단체교섭 재개…15일 2차 조정 | https://www.etoday.co.kr/news/view/2623238 | a7
+2026-09-08 17:21 | newspim.com | 820조 예산 풀린다…AI·전력·주택 수요에 건설株 뜬다 | https://www.newspim.com/news/view/20260908000275 | a1
+2026-09-08 17:18 | busan.com | 삼성바이오 노사, 1차 사후조정 합의 없이 종료 | https://www.busan.com/view/busan/view.php?code=2026090817160928577 | a10,a12,a7
+2026-09-08 17:16 | yonhapnewstv.co.kr | [시티&로컬] 서울 장기전세주택 퇴거자 72% '내 집 거주' 外 | http://www.yonhapnewstv.co.kr/news/MYH20260908171601KVn | a1
+2026-09-08 17:16 | economist.co.kr | “7000피의 벽 높았나” 코스피, 차익 실현·중동 리스크에 6950선으로 후... | https://economist.co.kr/article/view/ecn202609080041 | a7
+2026-09-08 17:14 | kfenews.co.kr | 코스피, 유가 급등 우려에 6950선 반락 마감 | https://www.kfenews.co.kr/news/articleView.html?idxno=664116 | a10,a12,a7
+2026-09-08 17:13 | greened.kr | [데이터 뉴스룸] 유통상사業 올 상반기 매출 성적에 방긋…이마트·롯데... | https://www.greened.kr/news/articleView.html?idxno=349571 | a1,a10,a12,a7
+2026-09-08 17:12 | dailian.co.kr | 본전 찾기에 단타까지…개미 투매에 코스피 6950선 하락 마감 [시황] | https://www.dailian.co.kr/news/view/1687898/?sc=Naver | a1,a7
+2026-09-08 17:11 | Aju Press | Samsung Biologics, union to bargain under mediators watch - Aju Press | google:Aju Press | aen3
+2026-09-08 17:08 | newsian.co.kr | 삼성바이오 노사 임단협 '평행선'…1차 사후 조정서 의견 못 좁혔다 | http://www.newsian.co.kr/news/articleView.html?idxno=95006 | a7
+2026-09-08 17:07 | mydaily.co.kr | 삼성바이오로직스, 노사 다시 협상대…10~11일 재교섭·15일 2차 조정 | https://www.mydaily.co.kr/page/view/2026090817064917900 | a7
+2026-09-08 17:04 | kormedi.com | 삼성바이오 노사 첫 사후조정⋯수정안 윤곽, 10~11일 교섭서 나올 전망 | https://kormedi.com/?p=2862484 | a7
+2026-09-08 17:00 | safetimes.co.kr | [부고종합·8일] 신권식 전 삼성물산 부사장 모친상 등 | https://www.safetimes.co.kr/news/articleView.html?idxno=245538 | a1
+2026-09-08 17:00 | newscj.com | 코스피, 마감 직전 하락… 코스닥도 하락 마감 | https://www.newscj.com/news/articleView.html?idxno=3430964 | a1,a7
+2026-09-08 17:00 | lecturernews.com | [이미루의 트렌드 세일즈] SFA에 AI를 얹을 때 범하는 5가지 실수 | https://www.lecturernews.com/news/articleView.html?idxno=207041 | a7
+2026-09-08 16:58 | sisajournal-e.com | 파업에도 최대 실적···삼성바이오로직스, 달라진 협상 셈법 | https://www.sisajournal-e.com/news/articleView.html?idxno=423586 | a7
+2026-09-08 16:52 | edaily.co.kr | 오늘의 부고 종합 | https://www.edaily.co.kr/News/Read?newsId=03663766645578152&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1,a10,a12,a7
+2026-09-08 16:52 | newspim.com | [부고] 신권식(전 삼성물산 부사장)씨 모친상 | https://www.newspim.com/news/view/20260908001085 | a1
+2026-09-08 16:50 | 아시아경제 | Samsung Biologics Labor and Management Fail to Reach Agreement in Post-Mediation... Second Session Set for the 15th - 아시아경제 | google:아시아경제 | aen3
+2026-09-08 16:50 | iminju.net | 삼성·포스코·두산 공채, 현대차·SK·LG 수시채용…하반기 채용 시작 | http://www.iminju.net/news/articleView.html?idxno=169229 | a1,a7
+2026-09-08 16:50 | view.asiae.co.kr | 삼성바이오 노사, 사후조정서 결론 못 내…15일 2차 조정 | https://view.asiae.co.kr/article/2026090816500158397 | a7
+2026-09-08 16:48 | yna.co.kr | 삼성바이오 노사, 추가 교섭하기로…15일 2차 조정 | https://www.yna.co.kr/view/AKR20260908143700017?input=1195m | a7
+2026-09-08 16:48 | news.mtn.co.kr | 삼성바이오로직스 노사, 첫 사후조정 마쳐…15일 다시 만난다 | https://news.mtn.co.kr/news-detail/2026090816391284099 | a7
+2026-09-08 16:44 | startuptoday.co.kr | [Weekly 뷰티·패션] 르셉템버·신성통상 에디션 센서빌리티·GLXY 外 | https://www.startuptoday.co.kr/news/articleView.html?idxno=812338 | a1,a5
+2026-09-08 16:41 | Bela Rakyat | Konflik Sawit di Kuansing Memanas, Siti Aisyah Desak Negara Hadir dan Lindungi Rakyat - Bela Rakyat | google:Bela Rakyat | aid9
+2026-09-08 16:40 | sateconomy.co.kr | 한번 터진 협업, 다시 꺼내든다…패션업계 ‘검증된 조합’ 재활용 | https://sateconomy.co.kr/news/view/1065595456249120 | a1,a5
+2026-09-08 16:38 | pinpointnews.co.kr | [코스피 지수선물 옵션] SK하이닉스는 올랐는데 삼성전기는 급락…선물... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=485098 | a1,a10,a12,a5,a7,a9
+2026-09-08 16:37 | seoul.co.kr | [마감시황]코스피, 장중 7171.52 찍고 밀려 6954.52 마감…외국인·기관 ... | https://www.seoul.co.kr/news/economy/securities/2026/09/08/20260908500277?wlog_tag3=naver | a7
+2026-09-08 16:34 | issuenbiz.com | 코스피, 7천피 반납...6950선 마감 | http://www.issuenbiz.com/news/articleView.html?idxno=79564 | a7
+2026-09-08 16:32 | newsis.com | AI 훈풍에 7170선 날았던 코스피…'중동 리스크' 발목 잡혀 하락 마감 | https://www.newsis.com/view/NISX20260908_0003781291 | a7
+2026-09-08 16:30 | goodkyung.com | 개인 3조원대 차익실현에 코스피 7000선 붕괴…코스닥도 1.25% 하락 | https://www.goodkyung.com/news/articleView.html?idxno=291151 | a1,a7
+2026-09-08 16:30 | ajunews.com | 정비사업 늘었는데 수주경쟁 사라졌다…사업성이 공급 속도 발목 | https://www.ajunews.com/view/20260908153401058 | a1
+2026-09-08 16:30 | ddaily.co.kr | “중동發 전운에 코스피 7000선 아래로 후퇴”…유가 불안에 장중 220P 출... | https://www.ddaily.co.kr/page/view/2026090816192245914 | a1,a7
+2026-09-08 16:30 | biz.chosun.com | 삼성바이오 노사 사후 조정 결렬...9월 15일 2차 조정 | https://biz.chosun.com/science-chosun/bio/2026/09/08/WQNLKH3OZFH23FOPP2F7T5OC4A/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
+2026-09-08 16:29 | Chosunbiz | Samsung Biologics labor-management deadlock prompts second Korea mediation Sept. 15 - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-08 16:26 | ajunews.com | 또 '전강후약'…장중 7170 찍은 코스피, 7000선 못 넘었다 | https://www.ajunews.com/view/20260908153635074 | a1,a7
+2026-09-08 16:24 | hankookilbo.com | [부고] 성연진(헤럴드경제 건설부동산부장)씨 부친상 외 | https://www.hankookilbo.com/news/article/A2026090815320001741?did=NA | a1
+2026-09-08 16:23 | moneystorm.kr | [증시 프리즘] 코스피 0.58% 하락한 6954.52 마감…상승분 반납, 하락 반... | https://www.moneystorm.kr/news/articleView.html?idxno=6324 | a1,a10,a7
+2026-09-08 16:20 | Indragirione.com | Harga TBS Sawit Riau Naik 1,51 Persen, Petani Indragiri Terima Rp3.943 per Kilogram - Indragirione.com | google:Indragirione.com | aid8
+2026-09-08 16:20 | news.dealsitetv.com | [전국소식] 전남광주특별시, 첫 추경 3458억 증액 外 | https://news.dealsitetv.com/articles/175723 | a1
+2026-09-08 16:20 | pointdaily.co.kr | '전강후약' 코스피…0.58% 하락해 '칠천피' 탈환 실패 | https://www.pointdaily.co.kr/news/articleView.html?idxno=318498 | a1,a10,a12,a5,a7
+2026-09-08 16:19 | renewablesnow.com | Samsung C&T wins permit to connect 400-MWh Aussie BESS - renewablesnow.com | google:renewablesnow.com | aen1
+2026-09-08 16:18 | choicenews.co.kr | 개인 투매, 코스피 '막판 급랭'...삼성전기·LG엔솔 '뚝' | http://www.choicenews.co.kr/news/articleView.html?idxno=171069 | a1,a7
+2026-09-08 16:18 | newsworks.co.kr | 코스피, 개인 '팔자'에 7000선 사수 실패…6950선 마감 | https://www.newsworks.co.kr/news/articleView.html?idxno=853040 | a1,a10,a12,a7
+2026-09-08 16:14 | digitaltoday.co.kr | 코스피 7000선 반납... 코스닥도 하락 | https://www.digitaltoday.co.kr/news/articleView.html?idxno=699039 | a10,a12,a7
+2026-09-08 16:14 | newsclaim.co.kr | 고점 찍고 밀린 코스피 7000선 아래로 | https://www.newsclaim.co.kr/news/articleView.html?idxno=3074685 | a7
+2026-09-08 16:13 | news1.kr | 코스피 개미 3조 매도…모처럼 7000피, 반나절 만에 반납[시황종합] | https://www.news1.kr/finance/market-exr/6283785 | a1,a7
+2026-09-08 16:13 | inews24.com | 코스피, 장 막판 '급커브'⋯'7000선' 아래서 약보합 | http://www.inews24.com/view/2003328 | a1,a7
+2026-09-08 16:12 | metroseoul.co.kr | 코스피, 장중 7000선 재돌파 후 반락…6954.52 마감 | http://www.metroseoul.co.kr/article/20260908500370 | a1,a7
+2026-09-08 16:12 | newskr.kr | 코스피, 장중 7170선 찍고 7000선 반납…6954.52 마감 | http://www.newskr.kr/news/articleView.html?idxno=106202 | a1,a10,a12,a7
+2026-09-08 16:12 | news2day.co.kr | (마감시황) 코스피, 반도체 강세에도 유가·통상 악재에 발목…6,950선 후... | https://www.news2day.co.kr/article/20260908500183 | a1,a7
+2026-09-08 16:10 | apparelnews.co.kr | 다이이찌오리모노코리아, 본사에서 2027 F/W 전시회 진행 중 | http://www.apparelnews.co.kr/news/news_view/?idx=227506 | a1,a5
+2026-09-08 16:08 | kgnews.co.kr | '전강후약' 코스피, 장중 7000선 반납…끝내 하락 마감 | https://www.kgnews.co.kr/news/article.html?no=910793 | a1,a6,a7
+2026-09-08 16:06 | mediapen.com | 코스피, 장중 7170선 터치 후 반락…6950선 후퇴 마감 | https://www.mediapen.com/news/view/1122138 | a1,a7
+2026-09-08 16:06 | mt.co.kr | 대교 이어 목화·시범까지…동여의도 한강변 '래미안 천하' 예고 | https://www.mt.co.kr/estate/2026/09/08/2026090714051583734 | a1,a3
+2026-09-08 16:06 | newsquest.co.kr | "배당률 4.7%+시총 9% 주주환원…연말 배당 시즌 최고 종목은 '미스토홀... | https://www.newsquest.co.kr/news/articleView.html?idxno=300506 | a1
+2026-09-08 16:06 | Bagynews.com | Sengketa Tanah Ulayat Memanas, Pemkab Kuansing Desak PT RAPP dan Masyarakat Lakukan Moratorium - Bagynews.com | google:Bagynews.com | aid9
+2026-09-08 16:04 | g-enews.com | 코스피, 상승분 전부 반납…0.58% 내린 6950선 마감 | https://www.g-enews.com/view.php?ud=20260908155204729923c501012_1 | a1,a10,a12,a3,a6,a7
+2026-09-08 16:03 | sedaily.com | 코스피 7000선 탈환 실패…유가·통상 리스크에 6950선 마감[마켓시그널... | https://www.sedaily.com/article/20088501?ref=naver | a7
+2026-09-08 16:02 | smedaily.co.kr | 코스피 7000선 넘자 개미 차익실현 '전강후약'장세…삼성전자 0.2%↓ | http://www.smedaily.co.kr/news/articleView.html?idxno=362834 | a1,a10,a12,a7
+2026-09-08 16:01 | ESS News | Samsung secures grid clearance for 400 MWh battery in Australia - ESS News | google:ESS News | aen1
+2026-09-08 16:00 | dt.co.kr | 장중 7170선 찍고 미끄러진 코스피…‘삼전닉스’ 엇갈림 속 6954선 후퇴 | https://www.dt.co.kr/article/12082765?ref=naver | a1,a7
+2026-09-08 16:00 | opinionnews.co.kr | 코스피, 0.58% 내린 6954 마감...유가 상승·美-캐나다 갈등에 반락 | http://www.opinionnews.co.kr/news/articleView.html?idxno=144148 | a1,a10,a12,a7
+2026-09-08 16:00 | cnbizm.com | 삼성물산 패션, 'GLXY 스튜디오' 개점… 남성 캐주얼 고객층 확대 | https://www.cnbizm.com/news/articleView.html?idxno=314344 | a1,a5
+2026-09-08 16:00 | news.tf.co.kr | 코스피, 개미 '팔자'에 6900선 후퇴…7100선은 '일장춘몽' | https://news.tf.co.kr/read/economy/2363416.htm | a1,a7
+2026-09-08 15:59 | newspim.com | [마감시황] 코스피, 전일 급등 후 숨 고르기…7000선 아래로 | https://www.newspim.com/news/view/20260908000987 | a1,a7
+2026-09-08 15:58 | ziksir.com | 코스피, 장중 7100선 돌파 후 하락 전환…6954선 마감 | https://www.ziksir.com/news/articleView.html?idxno=145795 | a1,a12,a7
+2026-09-08 15:56 | 아시아경제 | KOSPI Closes Lower at 6,950 on Net Selling by Individual Investors - 아시아경제 | google:아시아경제 | aen1
+2026-09-08 15:56 | news.mtn.co.kr | 미끄러진 코스피 7000선 반납… 개인 3조 순매도 [MTN 마감시황] | https://news.mtn.co.kr/news-detail/2026090815540810090 | a1,a7
+2026-09-08 15:56 | view.asiae.co.kr | 코스피, 개인 순매도에 하락…6950선 마감 | https://view.asiae.co.kr/article/2026090815560444093 | a1,a7
+2026-09-08 15:56 | newsway.co.kr | 코스피, 7000피 회복 후 다시 추락…0.58% 하락 마감[마감시황] | https://www.newsway.co.kr/news/view?ud=2026090815472085088 | a10,a12,a7
+2026-09-08 15:50 | hidomin.com | 코스피, 장중 7200선 넘보다 막판 급락… '7천피'도 반납 | https://www.hidomin.com/news/articleView.html?idxno=720310 | a1,a10,a12,a7
+2026-09-08 15:50 | the-biz.co.kr | 7000선 뚫고 달리던 코스피 '급제동'… 유가·차익실현에 발목 | http://www.the-biz.co.kr/news/articleView.html?idxno=727548 | a1,a7
+2026-09-08 15:50 | etoday.co.kr | 잘나가던 코스피, 장 막판 미끄러졌다…7000선 반납 | https://www.etoday.co.kr/news/view/2623175 | a1,a7
+2026-09-08 15:47 | mt.co.kr | 바이오시밀러 '임상 완화' 수혜…셀트리온·삼성에피스 "파이프라인 확... | https://www.mt.co.kr/thebio/2026/09/08/2026090814292991965 | a10
+2026-09-08 15:44 | fieldnews.kr | [마감 시황] 코스피, 하락 마감…증권가 "일시적 조정" | http://www.fieldnews.kr/news/articleView.html?idxno=31373 | a1,a7
+2026-09-08 15:44 | cbci.co.kr | 코스피 7,100선 돌파 후 약세 전환…삼성전기 5.78%↓ | https://www.cbci.co.kr/news/articleView.html?idxno=604913 | a1,a7,a9
+2026-09-08 15:42 | theguru.co.kr | 공사비 올린 송파 마천5구역 재개발, 현대건설 '디에이치' 달까 | https://www.theguru.co.kr/news/article.html?no=106838 | a1
+2026-09-08 15:41 | en.yna.co.kr | KOSPI 200 Closing Price List-4 | https://en.yna.co.kr/view/AEN20260908007900320?input=2106m | a2,a8
+2026-09-08 15:40 | joongangenews.com | 샘 올트먼 "삼성SDS, 글로벌 톱티어 파트너"...삼성SDS, 오픈AI·앤트로픽... | https://www.joongangenews.com/news/articleView.html?idxno=546521 | a1,a10,a12,a7
+2026-09-08 15:39 | newsis.com | 하반기 대기업 채용 '각양각색'…삼성·포스코·두산 '공채' vs SK·현대차... | https://www.newsis.com/view/NISX20260908_0003780642 | a1,a7
+2026-09-08 15:37 | mk.co.kr | [속보] 잘 나가다 하락 반전…코스피 0.58%↓ 마감 | https://www.mk.co.kr/article/12147129 | a1,a7
+2026-09-08 15:29 | inews24.com | 여전한 건설사 '남초벽' 女관리자 4.7%…포스코이앤씨 여성임원 '0명' | http://www.inews24.com/view/2003126 | a1
+2026-09-08 15:24 | ktnews.com | 부음. 신권식 前 삼성물산 패션부문 고문 모친상 | http://www.ktnews.com/news/articleView.html?idxno=148350 | a1,a5
+2026-09-08 15:20 | press9.kr | 삼성물산, UAE 2.5~2.7GW 알조라 복합화력 EPC 수주전 후보 | http://www.press9.kr/news/articleView.html?idxno=82400 | a1,a10,a12
+2026-09-08 15:18 | metroseoul.co.kr | [부고]9월8일 | http://www.metroseoul.co.kr/article/20260908500286 | a1
+2026-09-08 15:14 | biz.chosun.com | [마켓뷰] ‘롤러코스피’ 7000선 아래로… 중동 리스크에 하락 | https://biz.chosun.com/stock/stock_general/2026/09/08/4ATMSROPZFED5PPFTSQSCE4VYY/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
+2026-09-08 14:56 | news2day.co.kr | [명동백작들의 영화 이야기㉟] 박인환이 베니스영화제를 몰랐을까? | https://www.news2day.co.kr/article/20260908500057 | a1
+2026-09-08 14:55 | news1.kr | 코스피, 7100선 반납하며 개장가 회귀…개인 2.8조 '팔자'[장중시황] | https://www.news1.kr/finance/market-exr/6283628 | a1,a7
+2026-09-08 14:53 | biz.chosun.com | 공공사업에 ‘오티에르·써밋’ 거론… 목동 4209가구 개발 | https://biz.chosun.com/real_estate/real_estate_general/2026/09/08/LGZ3CDDIIFDF5K4UNJFU2VFTPY/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
+2026-09-08 14:52 | mydaily.co.kr | [재계 빅4, 지배구조 2.0 리포트②] 개정 상법 시험대 오른 삼성…이재... | https://www.mydaily.co.kr/page/view/2026090812591607723 | a1,a7
+2026-09-08 14:52 | Chosunbiz | Seoul’s Mok-dong plans 4,209 homes as LH launches urban complex bid - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
+2026-09-08 14:47 | koreajoongangdaily.com | Musinsa considers going public to expand business globally | https://www.koreajoongangdaily.com/business/musinsa-considers-going-public-to-expand-business-globally/12864811 | a2
+2026-09-08 14:44 | fnnews.com | '美 투자·AI 데이터센터' 모든 게 호재...건설주도 날개 [종목 NOW] | https://www.fnnews.com/news/202609081427314745 | a1
+2026-09-08 14:31 | hankookilbo.com | 광주 옛 전방·일신방직 부지 첫 주거단지… '챔피언스시티 1차' 분양 [... | https://www.hankookilbo.com/news/article/A2026090809360002697?did=NA | a1
+2026-09-08 14:30 | housingherald.co.kr | 9월 재개발·재건축 시공자 선정 동향(2026.8.24.~2026.9.20.) | https://www.housingherald.co.kr/news/articleView.html?idxno=62816 | a1
+2026-09-08 14:22 | obsnews.co.kr | 오늘부터 삼성 신입 공채…4대 그룹 중 유일 | https://www.obsnews.co.kr/news/articleView.html?idxno=1536725 | a1,a7
+2026-09-08 14:22 | journal.kobeta.com | 삼성, 9월 8일부터 2026년 하반기 공채 실시 | http://journal.kobeta.com/?post_type=post&p=63769 | a1,a10,a12,a7
+2026-09-08 14:11 | news.tf.co.kr | 코스피, 기관·외인 '사자'에 7100선 돌파…코스닥도 830선 터치 | https://news.tf.co.kr/read/economy/2363323.htm | a1,a7
+2026-09-08 14:08 | smarttoday.co.kr | [정비사업 디코드] '총공사비 1.2조' 상계주공14단지에 대형사 몰린다 | https://www.smarttoday.co.kr/ko-kr/articles/111319 | a1,a3
+2026-09-08 14:08 | ebn.co.kr | [EBN 데이터센터] 가덕도 신공항·반도체·모빌리티 기대감에 건설주 강... | https://www.ebn.co.kr/news/articleView.html?idxno=1723396 | a1,a10,a12,a5,a7
+2026-09-08 14:06 | financialpost.co.kr | 삼성물산 이어 GS·호반까지…건설 현장 로봇으로 바꾸는 건설사들 | https://www.financialpost.co.kr/news/articleView.html?idxno=274508 | a1
+2026-09-08 14:01 | newsis.com | "파이프라인 확대"…자금 확보 나선 제약바이오 | https://www.newsis.com/view/NISX20260908_0003780728 | a7
+2026-09-08 13:40 | etoday.co.kr | 코스피, 7100선도 뚫었다…외국인·기관 쌍끌이에 반도체 폭주 | https://www.etoday.co.kr/news/view/2623082 | a1,a7
+2026-09-08 13:22 | biospace.com | 4 CDMOs to consider when outsourcing manufacturing - biospace.com | google:biospace.com | aen3
+2026-09-08 13:12 | ajunews.com | <오늘의 부고> | https://www.ajunews.com/view/20260908130957488 | a1
+2026-09-08 13:06 | finance.biggo.com | OpenAI Korea Chief: "AI Must Connect to Data and Tools to Work" — Enterprise Adoption Gap Reaches 8.3x - finance.biggo.com | google:finance.biggo.com | aen13
+2026-09-08 13:02 | yonhapnewstv.co.kr | [경제읽기] 반도체 훈풍에 '7천피' 탈환…다시 강세장 열리나 | http://www.yonhapnewstv.co.kr/news/MYH20260908130123fOm | a1,a7
 2026-09-08 12:52 | popcornnews.net | 하반기 '송파로 쏠리는 눈'...4곳 재건축에 2만 여 가구 조성 | http://www.popcornnews.net/news/articleView.html?idxno=132178 | a1,a10,a12,a3,a5,a7
 2026-09-08 12:48 | businesskorea.co.kr | Nuclear Project Emerges as Likely Second U.S. Investment Deal | https://www.businesskorea.co.kr/news/articleView.html?idxno=276423 | a2
 2026-09-08 12:45 | polinews.co.kr | 삼성, 인재 확보 전략 살펴보니… 정기 채용·실무 교육 결합 | https://www.polinews.co.kr/news/articleView.html?idxno=742488 | a1,a10,a12,a7
 2026-09-08 12:24 | econonews.co.kr | 삼성물산 패션, 'GLXY 스튜디오'  신세계백화점 센텀·강남점 리뉴얼 오... | http://www.econonews.co.kr/news/articleView.html?idxno=444016 | a1,a10,a12,a5,a7
 2026-09-08 12:22 | tokenpost.kr | 에프아이엘 측, 한양이엔지 지분 5% 신규 보고 | https://www.tokenpost.kr/news/market/404053 | a1
-2026-09-08 12:16 | pressman.kr | [부고] 신권식(전 삼성물산 부사장)씨 모친상 | https://www.pressman.kr/news/articleView.html?idxno=103557 | a1
 2026-09-08 12:06 | munhwa.com | 美 가스발전소·원전 투자 윤곽… 韓 기술 주도권이 관건[사설] | https://www.munhwa.com/article/11615406?ref=naver | a1
-2026-09-08 12:04 | Majalah Sawit Indonesia | PTPN IV Regional III Kerahkan 660 Personil dan Teknologi Arfina Gempur Karhutla di Tiga Kabupaten Riau - Majalah Sawit Indonesia | google:Majalah Sawit Indonesia | aid8
+2026-09-08 12:00 | Majalah Sawit Indonesia | PTPN IV Regional III Kerahkan 660 Personil dan Teknologi Arfina Gempur Karhutla di Tiga Kabupaten Riau - Majalah Sawit Indonesia | google:Majalah Sawit Indonesia | aid8
 2026-09-08 11:46 | newsis.com | 삼전·닉스 상승세 지속…코스피 7100선 회복 | https://www.newsis.com/view/NISX20260908_0003780713 | a1,a7
 2026-09-08 11:46 | ajunews.com | [食전食후] 반도체가 끌고 원전이 밀고…코스피 7140선 상승 | https://www.ajunews.com/view/20260908114235279 | a1,a7
-2026-09-08 11:40 | biz.chosun.com | 코스피, 외국인·기관 ‘사자’에 7100선 돌파… 코스닥도 상승 | https://biz.chosun.com/stock/stock_general/2026/09/08/CZHJQRP4INFSLG4S66ZKZKLB5E/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1,a7
 2026-09-08 11:40 | businesspost.co.kr | [부음] 이필호 모친, 성연진 부친, 김봉연 모친 외 | https://www.businesspost.co.kr/BP?command=article_view&num=446649 | a1,a10,a12,a7
+2026-09-08 11:40 | biz.chosun.com | 코스피, 외국인·기관 ‘사자’에 7100선 돌파… 코스닥도 상승 | https://biz.chosun.com/stock/stock_general/2026/09/08/CZHJQRP4INFSLG4S66ZKZKLB5E/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1,a7
 2026-09-08 11:39 | Chosunbiz | Foreign and institutions lift South Korea stocks as semiconductors rally - Chosunbiz | google:Chosunbiz | aen1
-2026-09-08 11:38 | industrynews.co.kr | '7000피' 되찾은 코스피…오픈AI '아스트라' 호재에 상승폭 확대 | https://www.industrynews.co.kr/news/articleView.html?idxno=85669 | a1,a10,a12,a7
-2026-09-08 11:34 | hidomin.com | 삼전닉스 강세에 외인·기관 '쌍끌이'까지…코스피 7100선 회복 | https://www.hidomin.com/news/articleView.html?idxno=720239 | a1,a10,a12,a7
+2026-09-08 11:38 | industrynews.co.kr | '7000피' 되찾은 코스피…오픈AI '아스트라' 호재에 상승폭 확대 | https://www.industrynews.co.kr/news/articleView.html?idxno=85669 | a1,a10,a12
 2026-09-08 11:34 | mediapen.com | 코스피, 외인·기관 쌍끌이에 7080선 안착…삼성전자·SK하이닉스 '질주... | https://www.mediapen.com/news/view/1121986 | a1,a7
-2026-09-08 11:30 | g-enews.com | 대미투자 1호로 떠오른 30조 엔시날 발전소…국내 건설사 참여 주목 | https://www.g-enews.com/view.php?ud=2026090810232594614b1077807_1 | a1,a10,a12,a3,a6,a7
 2026-09-08 11:30 | news1.kr | 대미 1호 투자 프로젝트 '발전'…가스터빈·전력기기·건설 '미소' | https://www.news1.kr/industry/general-industry/6283317 | a1
-2026-09-08 11:28 | ebn.co.kr | 대미 투자 1호 텍사스 발전소 유력…'삼성·현대·DL' 잭팟 기대감 | https://www.ebn.co.kr/news/articleView.html?idxno=1723349 | a1,a10,a12,a5,a7
 2026-09-08 11:26 | biz.newdaily.co.kr | K-바이오, 줄 잇는 유증 … 3조 성장투자부터 채무상환까지 | https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800114.html | a7
-2026-09-08 11:24 | financialpost.co.kr | 대미 투자 1호, '220억달러 규모' 텍사스 발전소 유력… 대형 원전 8기도... | https://www.financialpost.co.kr/news/articleView.html?idxno=274460 | a1,a7
 2026-09-08 11:21 | biz.heraldcorp.com | 이재용 ‘인재제일’ 철학…70년 공채 전통 잇는다 | https://biz.heraldcorp.com/article/10866174?ref=naver | a1,a10,a12,a7
 2026-09-08 11:21 | yna.co.kr | 코스피, 반도체 견인에 7,100선까지 상승 확대…삼전닉스 2∼3%↑ | https://www.yna.co.kr/view/AKR20260908075200008?input=1195m | a1
 2026-09-08 11:20 | news1.kr | 삼전닉스 이틀째 질주, 외인도 '사자'…코스피 7100선 회복[장중시황] | https://www.news1.kr/finance/market-exr/6283331 | a1,a7
@@ -31,71 +152,64 @@
 2026-09-08 11:08 | wikitree.co.kr | 광주·삼성 손잡았다…청년 자립·성장 '든든한 둥지' 조성 | https://www.wikitree.co.kr/articles/1157912 | a1
 2026-09-08 11:02 | finomy.com | 코스피, 15거래일 만에 7000선 탈환 | http://www.finomy.com/news/articleView.html?idxno=260988 | a1,a10,a12,a7
 2026-09-08 11:00 | news.jtbc.co.kr | '70년 정기 공채' 삼성, 하반기 신입 채용…반도체·AI 인재 모은다 | https://news.jtbc.co.kr/article/NB12317271?influxDiv=NAVER | a1
-2026-09-08 10:57 | mk.co.kr | Kospi reclaims 7,000 as chip stocks extend OpenAI-driven rally | https://www.mk.co.kr/article/12146823 | a2,aen1
+2026-09-08 10:57 | mk.co.kr | Kospi reclaims 7,000 as chip stocks extend OpenAI-driven rally | https://www.mk.co.kr/article/12146823 | a2
 2026-09-08 10:56 | view.asiae.co.kr | 미분양 리스크 덜고 용적률 상향까지…알짜 '도심공공복합사업'에 몰린... | https://view.asiae.co.kr/article/2026090719173830527 | a1
 2026-09-08 10:56 | lcnews.co.kr | [부고] 신권식(前 삼성물산패션부문 홍보담당 고문)씨 모친상 | https://www.lcnews.co.kr/news/articleView.html?idxno=207916 | a1,a10,a12,a5
+2026-09-08 10:55 | Sabang Merauke NEWS | 2.121 Titik Api Mengamuk di Sumatera, Riau Sumbang 270 Hotspot - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid8
 2026-09-08 10:52 | redian.org | '역대 최대 실적' 삼성, 하반기 공채 돌입...이재용 "조금 더 채용할 여... | https://www.redian.org/news/articleView.html?idxno=257273 | a1,a10,a12,a7
-2026-09-08 10:52 | pinpointnews.co.kr | AI 반도체 훈풍에 S7 들썩…SK스퀘어·SK하이닉스 활짝 웃다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=484892 | a1,a10,a12,a5,a7,a9
-2026-09-08 10:46 | newstnt.com | [특징주] 하나증권 "2027년 건설 발주 본격화…대미투자도 주목" | https://www.newstnt.com/news/articleView.html?idxno=717197 | a1,a10,a12,a7
+2026-09-08 10:46 | newstnt.com | [특징주] 하나증권 "2027년 건설 발주 본격화…대미투자도 주목" | https://www.newstnt.com/news/articleView.html?idxno=717197 | a1,a10,a12
 2026-09-08 10:42 | mediawatch.kr | 삼성, 하반기 공채 시작… AI 호황에 채용 규모 확대 기대 | https://www.mediawatch.kr/news/article.html?no=260934 | a1,a10,a7
 2026-09-08 10:42 | mk.co.kr | Samsung launches H2 hiring drive across 19 affiliates | https://www.mk.co.kr/article/12146804 | a2,aen1
 2026-09-08 10:32 | news2day.co.kr | 코스피, 외인·기관 매수세에 7,060선 돌파…삼전·하이닉스 강세 | https://www.news2day.co.kr/article/20260908500055 | a1,a7
 2026-09-08 10:31 | 아시아경제 | KOSPI Gains Over 1% Intraday on Institutional Net Buying - 아시아경제 | google:아시아경제 | aen1
 2026-09-08 10:31 | view.asiae.co.kr | 코스피, 기관 순매수세에 장중 1%대 강세 | https://view.asiae.co.kr/article/2026090810311681408 | a1,a7
-2026-09-08 10:30 | seouleconews.com | 코스피,반도체주 견인에 '7천피' 회복…삼전 1.5%·닉스 3.4% 상승 | http://www.seouleconews.com/news/articleView.html?idxno=93595 | a1,a10,a12,a7
+2026-09-08 10:30 | seouleconews.com | 코스피,반도체주 견인에 '7천피' 회복…삼전 1.5%·닉스 3.4% 상승 | http://www.seouleconews.com/news/articleView.html?idxno=93595 | a1,a10,a12
 2026-09-08 10:26 | view.asiae.co.kr | 칠천피 복귀한 코스피…대미 투자 기대감에 원전주 강세 | https://view.asiae.co.kr/article/2026090810133032225 | a1
-2026-09-08 10:26 | theguru.co.kr | 성수동에 래미안·아크로 깃발...시공사 선정 눈앞 | https://www.theguru.co.kr/news/article.html?no=106819 | a1
 2026-09-08 10:26 | vn.asiatoday.co.kr | Samsung giữ truyền thống tuyển dụng 70 năm, Lee Jae-yong đẩy mạ... | https://vn.asiatoday.co.kr/view.php?key=20260908000942173 | a11,a2,a8
 2026-09-08 10:26 | smarttoday.co.kr | 코스피, 8일 장중 7000선 재돌파.. 15거래일 만 | https://www.smarttoday.co.kr/ko-kr/articles/111298 | a7
 2026-09-08 10:22 | ajunews.com | [특징주] 건설주, 대미투자·원전 수주 기대에 동반 강세…대우건설 7%대... | https://www.ajunews.com/view/20260908102018964 | a1
 2026-09-08 10:14 | it.chosun.com | 코스피, 반도체주 훈풍에 7천선 복귀… 하이닉스 3% 강세 | https://it.chosun.com/news/articleView.html?idxno=2023092169672 | a1,a7
-2026-09-08 10:07 | segye.com | 삼성, 6000명 채용 하반기 공채 시작…AI·반도체 등 첨단산업 인재 확보 | https://www.segye.com/newsView/20260908504523?OutUrl=naver | a1,a10,a12,a7
-2026-09-08 10:04 | hansbiz.co.kr | [개장시황] 코스피 7000선 탈환…아스트라 훈풍 지속 | http://www.hansbiz.co.kr/news/articleView.html?idxno=863065 | a1,a10,a12,a3,a4,a5
-2026-09-08 10:04 | fetv.co.kr | 현대건설, 보행자와 로봇 공존 실험…주거단지 동선 재설계 | https://www.fetv.co.kr/news/articleView.html?idxno=309815 | a1,a3
-2026-09-08 10:02 | smedaily.co.kr | 대미투자 구체화에 힘받는 '원전株' | http://www.smedaily.co.kr/news/articleView.html?idxno=362786 | a1,a10,a12,a3,a7
-2026-09-08 10:02 | fntoday.co.kr | 오픈AI '아스트라' 훈풍에… 코스피 '7,000피' 복귀 | https://www.fntoday.co.kr/news/articleView.html?idxno=392398 | a1
+2026-09-08 10:09 | Sabang Merauke NEWS | Riau Hari Ini Tak Cuma Panas: Hujan dan Petir Mengintai Saat Warga Terlelap - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid8
+2026-09-08 10:07 | segye.com | 삼성, 6000명 하반기 공채 시작…AI·반도체 등 첨단산업 인재 확보 | https://www.segye.com/newsView/20260908504523?OutUrl=naver | a1,a10,a12,a7
+2026-09-08 10:04 | fetv.co.kr | 현대건설, 보행자와 로봇 공존 실험…주거단지 동선 재설계 | https://www.fetv.co.kr/news/articleView.html?idxno=309815 | a1
+2026-09-08 10:04 | hansbiz.co.kr | [개장시황] 코스피 7000선 탈환…아스트라 훈풍 지속 | http://www.hansbiz.co.kr/news/articleView.html?idxno=863065 | a1,a10,a12,a3
 2026-09-08 10:02 | news1.kr | 삼성 공채 시작에 토익스피킹도 긴급 편성…14일 추가 시험 | https://www.news1.kr/society/education/6283181 | a1,a10,a12,a7
+2026-09-08 10:02 | fntoday.co.kr | 오픈AI '아스트라' 훈풍에… 코스피 '7,000피' 복귀 | https://www.fntoday.co.kr/news/articleView.html?idxno=392398 | a1
 2026-09-08 10:01 | sedaily.com | 내년 반도체 인력전쟁 더 뜨거워진다…외국계, 억대 인센티브로 맞불 | https://www.sedaily.com/article/20088272?ref=naver | a1,a7
-2026-09-08 10:00 | wowtv.co.kr | 동원개발, 울산 남구 '문수로 비스타 더파크' 9월 분양 예정 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609070223&t=NN | a1,a6
+2026-09-08 10:00 | wowtv.co.kr | 동원개발, 울산 남구 '문수로 비스타 더파크' 9월 분양 예정 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609070223&t=NN | a1
 2026-09-08 10:00 | nextdaily.co.kr | '문수로 비스타 더파크', 전 세대 유리난간·세대창고 적용... 9월 오픈 | https://www.nextdaily.co.kr/news/articleView.html?idxno=252842 | a1,a10,a12,a6
 2026-09-08 09:57 | segye.com | AI 훈풍에 코스피 7000선 회복… 삼전·닉스 나란히 강세 | https://www.segye.com/newsView/20260908504599?OutUrl=naver | a1
 2026-09-08 09:55 | fnnews.com | “돈 있어도 못 들어간다”… 시니어 주택 품귀 속 ‘오시리아 라우어’... | https://www.fnnews.com/news/202609080839431301 | a12
 2026-09-08 09:52 | biz.heraldcorp.com | ‘칠천피’ 다시 열렸다…코스피, 15거래일 만에 장중 7000선 탈환 [투자... | https://biz.heraldcorp.com/article/10865930?ref=naver | a1,a7
 2026-09-08 09:51 | mt.co.kr | 건설株, 장 초반 동반 상승…대미투자·주택예산 기대감 | https://www.mt.co.kr/stock/2026/09/08/2026090809503537953 | a1
-2026-09-08 09:50 | joongangenews.com | '챔피언스시티 1차' 견본주택 사흘간 2만1000명 방문…14일 청약 시작 | https://www.joongangenews.com/news/articleView.html?idxno=546312 | a1,a10,a12,a7
 2026-09-08 09:50 | christiantoday.co.kr | 한국해비타트, 신혼부부 위한 16회 ‘한국번개건축’ | https://www.christiantoday.co.kr/news/377223 | a14
 2026-09-08 09:49 | dailian.co.kr | 반도체 상승에…코스피, 7000선 회복 출발 [시황] | https://www.dailian.co.kr/news/view/1687610/?sc=Naver | a1,a7
-2026-09-08 09:48 | ziksir.com | 반도체주 급등 다음날 '조정'…삼성전자·SK하이닉스 프리마켓서 하락 | https://www.ziksir.com/news/articleView.html?idxno=145704 | a1,a10,a12,a7
 2026-09-08 09:46 | beyondpost.co.kr | 코스피, 장초반 1%대 상승…15거래일 만에 7000선 돌파 | http://www.beyondpost.co.kr/view.php?ud=202609080943414349be44c0aacd_30 | a1,a14,a7
 2026-09-08 09:46 | inews24.com | 15거래일 만에 되찾은 '7000피'⋯삼전닉스 장초반 상승 | http://www.inews24.com/view/2003006 | a1,a7
 2026-09-08 09:45 | seoul.co.kr | [서울데이터랩]코스피, 장 초반 7045.79로 출발…7000 회복 후 강보합 | https://www.seoul.co.kr/news/economy/securities/2026/09/08/20260908500048?wlog_tag3=naver | a7
 2026-09-08 09:43 | mk.co.kr | “이게 얼마만에 보는 7천피냐”…코스닥도 덩달아 상승 | https://www.mk.co.kr/article/12146718 | a1,a7
 2026-09-08 09:42 | news1.kr | 코스피 15일 만에 7000선 탈환…반도체 강세 영향 1%대 상승 [개장시황] | https://www.news1.kr/finance/market-exr/6283106 | a1,a7
-2026-09-08 09:40 | dailypop.kr | '경험과 가치' 전달하는 오프라인 거점…신성통상·프로-스펙스 外 2026 ... | http://www.dailypop.kr/news/articleView.html?idxno=102348 | a1,a10,a12,a5,a7
 2026-09-08 09:40 | ezyeconomy.com | 코스피 7000선 안착 시도…반도체 강세에 7100선 눈앞 | https://www.ezyeconomy.com/news/articleView.html?idxno=239484 | a1,a10,a12,a7
+2026-09-08 09:40 | dailypop.kr | '경험과 가치' 전달하는 오프라인 거점…신성통상·프로-스펙스 外 2026 ... | http://www.dailypop.kr/news/articleView.html?idxno=102348 | a1,a10,a12,a5,a7
 2026-09-08 09:38 | kukinews.com | 코스피, 장중 ‘칠천피’ 탈환…코스닥도 오름세 | https://www.kukinews.com/article/view/kuk202609080030 | a1,a7
 2026-09-08 09:38 | news.mtn.co.kr | 코스피, 장 초반 7000선 탈환…코스닥 강보합 | https://news.mtn.co.kr/news-detail/2026090809300065727 | a7
-2026-09-08 09:37 | kookje.co.kr | 코스피, 상승 출발해 ‘7000피’ 탈환 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260908.99099002334 | a1,a10,a12,a7
+2026-09-08 09:37 | kookje.co.kr | 코스피, 상승 출발해 ‘7000피’ 탈환 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260908.99099002334 | a1,a10,a12
 2026-09-08 09:35 | yna.co.kr | 코스피, 반도체주 견인에 '7천피' 탈환…코스닥도 올라(종합) | https://www.yna.co.kr/view/AKR20260908031651008?input=1195m | a1
 2026-09-08 09:34 | etoday.co.kr | 코스피, 21일 만에 장중 7000선 탈환…아스트라 훈풍에 반도체 강세 | https://www.etoday.co.kr/news/view/2622942 | a1,a7
 2026-09-08 09:34 | wikitree.co.kr | 관객이 직접 좀비 소탕 작전 투입… 에버랜드가 작정하고 준비한 가을 ... | https://www.wikitree.co.kr/articles/1157983 | a1,a6
-2026-09-08 09:34 | opinionnews.co.kr | 코스피, 장초반 1% 상승에 7000 회복...삼성전자·하이닉스 ↑ | http://www.opinionnews.co.kr/news/articleView.html?idxno=144116 | a1,a10,a12,a7
 2026-09-08 09:34 | cstimes.com | 코스피, 0.5% 올라 '7000피' 탈환...코스닥은 3거래일 '상승' | https://www.cstimes.com/news/articleView.html?idxno=719790 | a7
 2026-09-08 09:32 | straightnews.co.kr | 코스피 1%대 상승…'반도체 투톱' 장 초반 지수 견인 | https://www.straightnews.co.kr/news/articleView.html?idxno=310627 | a1,a10,a12,a7
 2026-09-08 09:30 | slownews.kr | Slow Letter: September 08, 2026. | https://slownews.kr/166085 | a2
-2026-09-08 09:28 | newsway.co.kr | 15거래일 만에 7000선 넘은 코스피…기관 순매수에 상승 출발[개장시황... | https://www.newsway.co.kr/news/view?ud=2026090809211213358 | a10,a12,a7
 2026-09-08 09:27 | newspim.com | [개장시황] 코스피, 어제 이은 추가 상승에 7000선 탈환…반도체株 혼조 | https://www.newspim.com/news/view/20260908000220 | a7
-2026-09-08 09:22 | metroseoul.co.kr | 코스피, 15거래일 만에 7000선 탈환…코스닥도 0.78% 상승 | http://www.metroseoul.co.kr/article/20260908500031 | a7
 2026-09-08 09:22 | ddaily.co.kr | 코스피, 장 초반 7000선 회복…삼성전자·SK하이닉스가 견인 | https://www.ddaily.co.kr/page/view/2026090809174815896 | a7
 2026-09-08 09:22 | mt.co.kr | 21일 만에 '7000피' 회복...'아스트라' 덕에 반도체주 달린다 | https://www.mt.co.kr/stock/2026/09/08/2026090809185050632 | a7
+2026-09-08 09:22 | metroseoul.co.kr | 코스피, 15거래일 만에 7000선 탈환…코스닥도 0.78% 상승 | http://www.metroseoul.co.kr/article/20260908500031 | a7
 2026-09-08 09:20 | news.tf.co.kr | 코스피, 개인 매수에 장 초반 상승…7000선 안착 시도 | https://news.tf.co.kr/read/economy/2363076.htm | a7
 2026-09-08 09:19 | biz.chosun.com | 코스피, 상승 출발해 7000선 탈환… 15거래일 만 | https://biz.chosun.com/stock/stock_general/2026/09/08/A73O33CKVREELFPUZQIURMFMLE/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
 2026-09-08 09:17 | kwnews.co.kr | 코스피, 반도체 견인에 7,100선까지 상승 확대…삼성전자 27만원 선, SK하... | https://www.kwnews.co.kr/article/20260908500056 | a1
 2026-09-08 09:16 | kor.theasian.asia | [오늘의 신문] 수출은 일본 넘고 코스피는 7000 눈앞…청년·가계·지방... | http://kor.theasian.asia/archives/414897 | a1,a7
-2026-09-08 09:16 | newskr.kr | 코스피, 개장 동시에 7000선 탈환…0.7% 상승 | http://www.newskr.kr/news/articleView.html?idxno=106183 | a10,a12,a7
 2026-09-08 09:14 | ajunews.com | [개장시황] 코스피, 7000선 회복…반도체 숨고르기·2차전지 강세 | https://www.ajunews.com/view/20260908090740579 | a7
 2026-09-08 09:09 | biz.heraldcorp.com | 불로초 넘보는 마운자로·위고비…‘항노화 신약 임상’ 본격화 | https://biz.heraldcorp.com/article/10865792?ref=naver | a7
-2026-09-08 09:06 | edaily.co.kr | [속보]코스피, 7000선 돌파…SK하이닉스 180만원 회복 | https://www.edaily.co.kr/News/Read?newsId=02191046645578152&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1,a10,a12,a7
 2026-09-08 09:04 | news.bizwatch.co.kr | 삼성, 70년째 '공채 약속'…19개사 신입 채용 나선다 | https://news.bizwatch.co.kr/article/industry/2026/09/08/0002 | a1,a10,a12,a7
 2026-09-08 09:02 | dealsite.co.kr | 한·미 SMR 협력 속도 내는데…기후부, 협회 전환 방치 | https://dealsite.co.kr/articles/168437 | a1
 2026-09-08 08:58 | sentv.co.kr | 삼성물산, 2.4조 목동13단지 재건축 단독 응찰…수의계약 가능성 | https://www.sentv.co.kr/article/view/sentv202609080017 | a1,a3
@@ -105,16 +219,13 @@
 2026-09-08 08:26 | newsprime.co.kr | 미스토홀딩스, 중화권 K-패션 러시 '수혜'…높은 주주환원율까지 "투자... | http://www.newsprime.co.kr/news/article.html?no=746767 | a1
 2026-09-08 08:14 | dailian.co.kr | [오늘 부동산] 대우건설, 가덕도신공항 기본설계 접수…11월 우선 착공 ... | https://www.dailian.co.kr/news/view/1687453/?sc=Naver | a1
 2026-09-08 08:14 | dt.co.kr | 반도체 랠리 하루 만에 ‘숨 고르기’…삼전· SK하닉, 프리마켓 약세 | https://www.dt.co.kr/article/12082631?ref=naver | a1
-2026-09-08 08:12 | the-biz.co.kr | [프리마켓 포커스] 美 휴장에도 AI 기대는 계속… 코스피 '강보합' | http://www.the-biz.co.kr/news/articleView.html?idxno=727504 | a1,a7
-2026-09-08 08:02 | youthdaily.co.kr | [재계부] '3.6조' 목동13·신월시영 입찰 본격시동…수주 시험대 오른 '... | https://www.youthdaily.co.kr/news/article.html?no=226546 | a1,a10,a12,a3,a7
-2026-09-08 08:02 | donga.com | [현장]10년 기다린 ‘광주의 강남’…챔피언스시티 견본주택 사흘새 2만... | https://www.donga.com/news/Economy/article/all/20260907/134622848/1 | a1
+2026-09-08 08:02 | youthdaily.co.kr | [재계부] '3.6조' 목동13·신월시영 입찰 본격시동…수주 시험대 오른 '... | https://www.youthdaily.co.kr/news/article.html?no=226546 | a1,a10,a12,a3
 2026-09-08 08:02 | etoday.co.kr | [증시키워드] 하반기 공채 닻 올린 삼성...대우건설 '가덕도신공항' 본... | https://www.etoday.co.kr/news/view/2622855 | a1,a7
+2026-09-08 08:02 | donga.com | [현장]10년 기다린 ‘광주의 강남’…챔피언스시티 견본주택 사흘새 2만... | https://www.donga.com/news/Economy/article/all/20260907/134622848/1 | a1
 2026-09-08 07:48 | slownews.kr | “위험한 선택에는 대가가 따릅니다”, 이란 외교부 대변인이 한글로 남... | https://slownews.kr/166071 | a1
 2026-09-08 07:30 | bloter.net | [김형석의 프리Zoom] 같은듯 다른 삼성바이오·CJ CGV 유증 | https://www.bloter.net/news/articleView.html?idxno=672666 | a1,a10,a7,a9
 2026-09-08 07:02 | viva100.com | [비바100] “역이민은 또 한번의 이민…투자수익보다 ‘정착 설계’가 ... | https://www.viva100.com/article/20260903501013 | a1
 2026-09-08 07:00 | metroseoul.co.kr | 메트로신문 9월8일자 한줄뉴스 | http://www.metroseoul.co.kr/article/20260907500647 | a1
-2026-09-08 07:00 | theviewers.co.kr | [목동 재건축②] '‘쩐의 전쟁' 아닌 '눈치 싸움'…갈린 건설사 표적 | https://theviewers.co.kr/View.aspx?No=4210104 | a1,a10,a12,a7
-2026-09-08 06:37 | greened.kr | 삼성전자 등 삼성그룹 19개사 하반기 공채 시작...이재용, 청년 채용 약... | https://www.greened.kr/news/articleView.html?idxno=349465 | a1,a10,a12,a7
 2026-09-08 06:06 | medipana.com | 상반기 제약·바이오 R&D 인력 9170명…비중 15% 유지 | https://www.medipana.com/news/articleView.html?idxno=417208 | a7
 2026-09-08 06:05 | biz.chosun.com | FDA 문턱 넘고 빅파마 딜까지…K바이오 ‘글로벌 인재’ 확보전 | https://biz.chosun.com/science-chosun/bio/2026/09/08/5AF3IS2BQ5CD3MPCG4EBHQXW7Y/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
 2026-09-08 06:02 | segye.com | “청년 고용난 해소 마중물”… 삼성 19개사 하반기 공채 돌입 | https://www.segye.com/newsView/20260907515012?OutUrl=naver | a1,a7
@@ -130,126 +241,15 @@
 2026-09-08 04:33 | donga.com | 삼성 오늘부터 신입 정기공채, 반도체 채용 늘릴듯 | https://www.donga.com/news/Economy/article/all/20260908/134623189/2 | a1,a10,a12,a7
 2026-09-08 04:12 | apnews.kr | GLXY, 센텀·강남 '스튜디오' 띄운다…글로벌 큐레이션으로 고객 확대 | https://www.apnews.kr/news/articleView.html?idxno=3051071 | a1,a5
 2026-09-08 04:05 | mt.co.kr | '70년째' 이어진 인재투자… 삼성, 오늘부터 공채 접수 | https://www.mt.co.kr/industry/2026/09/08/2026090720095362220 | a1,a10,a12,a7
-2026-09-08 04:00 | pointdaily.co.kr | [출근길 포인트] 한-프, 전기차·EU 산업가속화법 포함 '공급망·핵심광... | https://www.pointdaily.co.kr/news/articleView.html?idxno=318345 | a1,a10,a12,a5,a7
-2026-09-08 03:24 | 조선일보 | Samsung Begins Second-Half New Graduate Recruitment - 조선일보 | google:조선일보 | aen1,aen4
+2026-09-08 03:24 | 조선일보 | Samsung Begins Second-Half New Graduate Recruitment - 조선일보 | google:조선일보 | aen1,aen3,aen4
 2026-09-08 01:24 | kmib.co.kr | ‘70년 역사’ 삼성 공채 8일부터… 관계사 19곳 신입 채용 | https://www.kmib.co.kr/article/view.asp?arcid=9000009995&cp=nv | a1,a10,a12,a7
 2026-09-08 01:21 | KED Global | SPA retailers enjoy revival as Uniqlo, Zara post record consumer card spending in Korea - KED Global | google:KED Global | aen1
 2026-09-08 00:34 | chosun.com | 삼성, 오늘부터 하반기 신입 공채 실시 | https://www.chosun.com/economy/industry-company/2026/09/08/NBPTRG75UREIXFMLVY6WVEFTAA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a1,a10,a12,a7
 2026-09-08 00:10 | gukjenews.com | '2026 삼성전자 하반기 채용 일정 떴다' 예상 연봉과 신청방법 | https://www.gukjenews.com/news/articleView.html?idxno=3687620 | a1,a10,a12,a7
-2026-09-08 00:02 | joongang.co.kr | “더 뽑을 여력” 이재용 약속대로…삼성 공채 | https://www.joongang.co.kr/article/25459879 | a1,a10,a7
 2026-09-08 00:02 | ksilbo.co.kr | 삼성, 8일부터 하반기 공채…4대 그룹 중 유일 | https://www.ksilbo.co.kr/news/articleView.html?idxno=1066610 | a1,a10,a12,a7
-2026-09-08 00:00 | kdpress.co.kr | [주요공시] 씨에스윈드, 비나텍, 나우로보틱스, 셀트리온, 한국카본, 한... | https://www.kdpress.co.kr/news/articleView.html?idxno=208393 | a1,a10,a12,a4,a7
-2026-09-08 00:00 | cbci.co.kr | "올해로 70년째 전통 잇는다"… GSAT부터 SW 실기까지, 삼성 하반기 채용... | https://www.cbci.co.kr/news/articleView.html?idxno=604540 | a1,a7,a9
-2026-09-07 23:55 | techtimes.com | Samsung P5 Cleanroom Piping Starts: Contract Confirms Phase One Is Under Active Construction - techtimes.com | google:techtimes.com | aen1
+2026-09-08 00:02 | joongang.co.kr | “더 뽑을 여력” 이재용 약속대로…삼성 공채 | https://www.joongang.co.kr/article/25459879 | a1,a10,a7
+2026-09-08 00:00 | kdpress.co.kr | [주요공시] 씨에스윈드, 비나텍, 나우로보틱스, 셀트리온, 한국카본, 한... | https://www.kdpress.co.kr/news/articleView.html?idxno=208393 | a1,a10,a12,a7
+2026-09-07 23:55 | Tech Times | Samsung P5 Cleanroom Piping Starts: Contract Confirms Phase One Is Under Active Construction - Tech Times | google:Tech Times | aen1
 2026-09-07 23:38 | dailysportshankook.co.kr | 삼성, 8일부터 하반기 공채 시작… "청년에게 양질의 일자리 제공" | https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433308 | a1,a10,a12,a7
 2026-09-07 22:58 | spiritriau.com | Gunakan Pengeras Suara, Polisi Imbau Jaga Kamtibmas dan Peduli Lingkungan - spiritriau.com | google:spiritriau.com | aid5
 2026-09-07 22:44 | IDX Channel | Polri Ungkap 45 Kasus Karhutla di Riau, 49 Orang Jadi Tersangka - IDX Channel | google:IDX Channel | aid6,aid8
-2026-09-07 22:38 | thedailypost.kr | 삼성, 2026년 하반기 신입사원 공채 개시…19개 관계사 참여 | https://www.thedailypost.kr/news/articleView.html?idxno=115442 | a1,a7
-2026-09-07 22:00 | thepublic.kr | 삼성, 19개 계열사 하반기 공채 실시…8일부터 지원서 접수 | https://www.thepublic.kr/news/articleView.html?idxno=317866 | a1,a10,a12,a7
-2026-09-07 21:40 | us.aving.net | LMSS Develops Smart Airbag Vest to Protect Workers From Falls | https://us.aving.net/news/articleView.html?idxno=54516 | a2
-2026-09-07 21:30 | biz.chosun.com | 삼성물산, ‘2.3조’ 목동13단지 재건축 단독 응찰 | https://biz.chosun.com/real_estate/real_estate_general/2026/09/07/SZNPBHCRJREN3DCMPTIYW4DD2U/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1,a3
-2026-09-07 21:29 | Chosunbiz | Samsung C&T’s sole bid stalls Mokdong 13 redevelopment in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
-2026-09-07 21:21 | ikbc.co.kr | 전남광주-삼성, 지역 청년 자립 협력 강화 | https://www.ikbc.co.kr/article/view/kbc202609070067 | a1
-2026-09-07 21:01 | mk.co.kr | 삼성전자 넘치는 현금…바이오 증자 불렀나 [재계톡톡] | https://www.mk.co.kr/article/12144326 | a1,a7
-2026-09-07 20:57 | Katadata.co.id | Anomali Kebijakan Gambut RI di Balik Bencana Karhutla dan Asap - Katadata.co.id | google:Katadata.co.id | aid8
-2026-09-07 20:40 | ujeil.com | 삼성, 하반기 공채 실시… 19개 관계사 참여 | http://www.ujeil.com/news/articleView.html?idxno=391653 | a1,a10,a12,a7
-2026-09-07 20:34 | khan.co.kr | 삼성, 8일부터 하반기 신입 공개채용 | https://www.khan.co.kr/article/202609072034005 | a1,a10,a12,a7
-2026-09-07 20:06 | todayeconomic.com | 삼성, 8일부터 하반기 공채…전자·바이오 등 19개사 참여 | https://www.todayeconomic.com/news/article.html?no=32023 | a1,a10,a12,a7
-2026-09-07 19:52 | biztribune.co.kr | 삼성물산 패션부문 GLXY, 'GLXY 스튜디오' 매장 첫선 | http://www.biztribune.co.kr/news/articleView.html?idxno=358566 | a1,a10,a12,a5,a7
-2026-09-07 19:30 | queen.co.kr | 삼성그룹, 2026년 하반기 공채 시작… 19개 관계사 참여 | http://www.queen.co.kr/news/articleView.html?idxno=462955 | a1,a10,a12,a7
-2026-09-07 19:30 | jndn.com | 전남광주특별시·삼성, 지역청년 ‘성장·자립’ 맞손 | http://www.jndn.com/article.php?aid=1788776833439211001 | a1
-2026-09-07 19:26 | newsbrite.net | 이재용 "올해 조금 더 채용할 여력"...삼성 19개사 하반기 공채 돌입 | http://www.newsbrite.net/news/articleView.html?idxno=200226 | a1,a10,a12,a7
-2026-09-07 19:20 | namdonews.com | 전남광주통합특별시-삼성, 청년지원 협력 MOU | https://www.namdonews.com/news/articleView.html?idxno=922611 | a1
-2026-09-07 18:52 | bigtanews.co.kr | [증시 오늘] 반도체 폭등 코스피 7000 눈앞 | https://www.bigtanews.co.kr/article/view/big202609070013 | a7
-2026-09-07 18:48 | donga.com | 2조 목동13단지 삼성물산 단독 응찰…홀수단지 선점에 경쟁사들 출혈 경... | https://www.donga.com/news/Economy/article/all/20260907/134622563/1 | a1,a3
-2026-09-07 18:46 | sportsworldi.com | 1000만 홀린 에버랜드 좀비, 더 독해져 돌아왔다 | https://www.sportsworldi.com/newsView/20260907514490 | a1,a6
-2026-09-07 18:45 | thelec.net | Samsung Opens 2026 Second-Half Recruitment - thelec.net | google:thelec.net | aen1
-2026-09-07 18:45 | thelec.net | Hanyang ENG Wins 148 Billion Won Piping Order for Samsung’s Pyeongtaek P5 Fab - thelec.net | google:thelec.net | aen1
-2026-09-07 18:35 | Construction Briefing | Inside South Korea’s unusual system for ranking contractors - Construction Briefing | google:Construction Briefing | aen1
-2026-09-07 18:26 | koreareport.co.kr | 오픈AI 훈풍에 반도체주 급등…코스피 '7천선' 눈앞 | https://www.koreareport.co.kr/news/articleView.html?idxno=52689 | a1,a5
-2026-09-07 18:25 | Haluan Riau | Polres Pelalawan Gencar Mobiling Imbau Warga, Larang Bakar Lahan di 9 Titik - Haluan Riau - Haluan Riau | google:Haluan Riau | aid5
-2026-09-07 18:14 | 4th.kr | 삼성물산, 2.4조 목동13단지 단독 입찰...수의계약 수순 | http://www.4th.kr/news/articleView.html?idxno=2117611 | a1,a10,a12,a3,a5,a7
-2026-09-07 18:13 | fnnews.com | "좀비영화 주인공 된다" 에버랜드 호러 축제 | https://www.fnnews.com/news/202609071811547658 | a1,a6
-2026-09-07 18:11 | fnnews.com | 70년째 이어진 삼성 공채… 이재용 '청년 고용' 약속 지켰다 | https://www.fnnews.com/news/202609071808581947 | a1,a10,a12,a7
-2026-09-07 18:04 | job-post.co.kr | 삼성, 8일부터 하반기 신입 공채...70년째 지속 | https://www.job-post.co.kr/news/articleView.html?idxno=226499 | a1,a7
-2026-09-07 18:00 | mk.co.kr | 삼성그룹 19개사 동시 공채 … 청년 일자리 '큰 장' 열린다 | https://www.mk.co.kr/article/12146425 | a1,a10,a12,a7
-2026-09-07 17:59 | 매일경제 | Samsung Group to Recruit Simultaneously at 19 Affiliates ... Major Opportunity Opens for Youth Employment - 매일경제 | google:매일경제 | aen1,aen4
-2026-09-07 17:54 | thefirstmedia.net | 에버랜드, 가을축제 '블러드시티 제로' 운영…이머시브 호러 선보여 | http://www.thefirstmedia.net/news/articleView.html?idxno=207942 | a1,a6
-2026-09-07 17:54 | asiatoday.co.kr | '70년 공채' 전통 잇는 이재용… 반도체·AI 등 미래 인재 뽑는다 | https://www.asiatoday.co.kr/kn/view.php?key=20260908010002689 | a1,a10,a7
-2026-09-07 17:54 | sisafocus.co.kr | 반도체주 반등에 코스피 4.61% 급등…7000선 회복 눈앞 | http://www.sisafocus.co.kr/news/articleView.html?idxno=364668 | a1,a10,a12,a7
-2026-09-07 17:52 | sedaily.com | 삼성 19개사 신입 6000명 채용…반도체·AI 등 통합형 인재 선발 | https://www.sedaily.com/article/20088126?ref=naver | a1,a10,a12,a7
-2026-09-07 17:52 | economist.co.kr | ‘아스트라’ 호재에 외국인이 돌아왔다…코스피, 반도체 훈풍에 4.61% 상... | https://economist.co.kr/article/view/ecn202609070074 | a1,a7
-2026-09-07 17:47 | ikbc.co.kr | '얼마만인가' 오픈AI '아스트라'발 훈풍에 코스피 4%대 날았다 | https://www.ikbc.co.kr/article/view/kbc202609070051 | a1
-2026-09-07 17:46 | Korea JoongAng Daily | Samsung opens hiring across 19 affiliates - Korea JoongAng Daily | google:Korea JoongAng Daily | aen1
-2026-09-07 17:46 | dailysmart.co.kr | "목동에 반포 래미안 신화 재현한다"… 삼성물산 건설부문, 목동13단지 ... | http://www.dailysmart.co.kr/news/articleView.html?idxno=129363 | a1,a3
-2026-09-07 17:46 | koreajoongangdaily.com | Samsung opens hiring across 19 affiliates | https://www.koreajoongangdaily.com/business/samsung-opens-hiring-across-19-affiliates/12863443 | a11,a2,a8
-2026-09-07 17:45 | hankyung.com | 삼성, 하반기 신입 공채…4대그룹 중 유일 | https://www.hankyung.com/article/2026090794871 | a1,a10,a12,a7
-2026-09-07 17:42 | upkoreanews.kr | 삼성물산 패션, 상반기 영업익 920억…준지·아미·에잇세컨즈 '멀티브... | https://www.upkoreanews.kr/news/articleView.html?idxno=100132 | a1,a5
-2026-09-07 17:42 | weekly.hankooki.com | "성장 온기, 청년에 이어지도록"…삼성그룹 19개 관계사 하반기 공채 시... | https://weekly.hankooki.com/news/articleView.html?idxno=7182915 | a1,a10,a12,a5,a7
-2026-09-07 17:42 | daily.hankooki.com | 전남광주통합특별시-삼성, 청년 성장 업무협약 | https://daily.hankooki.com/news/articleView.html?idxno=1403516 | a1,a10,a12,a7
-2026-09-07 17:41 | biz.heraldcorp.com | ‘칠천피’ 회복까지 단 ‘4.61포인트’…오픈AI 훈풍에 돌아온 외인, 하... | https://biz.heraldcorp.com/article/10865329?ref=naver | a1
-2026-09-07 17:34 | mbnmoney.mbn.co.kr | 코스피, 반도체 훈풍에 4.6% 급등…7,000선 육박 | http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005917302 | a1
-2026-09-07 17:34 | newsworks.co.kr | [전남광주 소식] '첫 추경안 3458억 증액' 편성·'삼성과 청년 자립 지원... | https://www.newsworks.co.kr/news/articleView.html?idxno=852913 | a1,a10,a12,a7
-2026-09-07 17:31 | thetracker.co.kr | 코스피, 반도체주 질주에 7000선 턱밑…외국인·기관 5조원 매수 | https://thetracker.co.kr/View.aspx?No=4216138 | a1,a10,a12
-2026-09-07 17:30 | delighti.co.kr | "메모리 수요 폭증한다" 오픈AI발 소식에 4.61% 급등…7,000 목전에 | https://www.delighti.co.kr/news/articleView.html?idxno=121449 | a1,a10,a12
-2026-09-07 17:30 | Haluan Riau | Kelompok Tani 80 Sumber Berkah Kembali Kuasai Kebun Sawit di Muara Langsat, Sengketa Lahan Masih Berjalan - Haluan Riau - Haluan Riau | google:Haluan Riau | aid9
-2026-09-07 17:29 | dailian.co.kr | 삼성물산까지 가세…목동 재건축 대형사 ‘자리 선점’ | https://www.dailian.co.kr/news/view/1687413/?sc=Naver | a1,a3
-2026-09-07 17:24 | news.bbsi.co.kr | 전남광주시-삼성, 청년 성장·자립 지원 협력 강화 | https://news.bbsi.co.kr/news/articleView.html?idxno=4105141 | a1
-2026-09-07 17:24 | kyeonggi.com | 박찬대 ‘1호 공약’ 인천바이오과학기술원 ‘시동’…당위성 및 입지·... | https://www.kyeonggi.com/article/20260907580418 | a7
-2026-09-07 17:22 | discoverynews.kr | 삼성, 8일부터 하반기 공채...19개 관계사 신입사원 채용 | https://www.discoverynews.kr/news/articleView.html?idxno=1100796 | a1,a10,a12,a7
-2026-09-07 17:22 | fntimes.com | 삼성, 2026년 하반기 공채...15일까지 접수 | https://www.fntimes.com/html/view.php?ud=2026090717152313867de3572ddd_18 | a1,a10,a12,a7
-2026-09-07 17:22 | news.dealsitetv.com | [재계 투데이] 삼성, 하반기 신입 공채 실시 外 | https://news.dealsitetv.com/articles/175706 | a1,a7
-2026-09-07 17:20 | thevaluenews.co.kr | 삼성, 하반기 공채 실시…19개 계열사 신입사원 채용 | http://www.thevaluenews.co.kr/news/view.php?idx=201375 | a1,a7
-2026-09-07 17:14 | businessplus.kr | [영상]삼성 19개 관계사 하반기 신입 공채 시작…8일 접수 | https://www.businessplus.kr/news/articleView.html?idxno=116494 | a1,a10,a12,a7
-2026-09-07 17:12 | sedaily.com | 기업 공시 [9월 7일] | https://www.sedaily.com/article/20088080?ref=naver | a1
-2026-09-07 17:12 | news.sbs.co.kr | [자막뉴스] "파병하면 한국 시설도 공격 대상"…이란 '비공식 대변인', ... | https://news.sbs.co.kr/news/endPage.do?news_id=N1008741397&plink=ORI&cooper=NAVER | a1
-2026-09-07 17:12 | newslock.co.kr | 삼성물산 패션 GLXY, 'GLXY 스튜디오' 첫선…센텀시티·강남 공략 | http://www.newslock.co.kr/news/articleView.html?idxno=135717 | a1,a10,a12,a5,a7
-2026-09-07 17:12 | mediapen.com | 코스피, 반도체 훈풍에 7000선 턱밑 마감…외인·기관 '쌍끌이' | https://www.mediapen.com/news/view/1121905 | a7
-2026-09-07 17:11 | Seoul Economic Daily | CS Wind Wins 151 Billion Won Wind Tower Supply Deal - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-09-07 17:10 | autodaily.co.kr | 삼성, 하반기 19개 계열사 공채⋯AI·반도체 인재 확보 나서 | https://www.autodaily.co.kr/news/articleView.html?idxno=600233 | a1,a10,a12,a7
-2026-09-07 17:10 | swtvnews.com | 삼성, 2026년 하반기 공채 착수…19개 관계사 총 출동 | https://swtvnews.com/news/newsview.php?ncode=1065599666507236 | a1,a10,a12,a7
-2026-09-07 17:10 | smarttimes.co.kr | 에버랜드 호러 테마존 '블러드시티'…거대 좀비 탈출 미션, 대규모 플래... | http://www.smarttimes.co.kr/news/articleView.html?idxno=48765 | a1,a6
-2026-09-07 17:08 | goodkyung.com | '아스트라 효과' 코스피 4.61% 급등…7000선 코앞 | https://www.goodkyung.com/news/articleView.html?idxno=291094 | a7
-2026-09-07 16:59 | topdaily.kr | [TOP's Pick] [전자·IT] 장병규 크래프톤 의장, 나렌드라 모디 인도 총리... | https://www.topdaily.kr/articles/111831 | a1,a7
-2026-09-07 16:58 | ekn.kr | [패션가 NOW] 삼성물산 패션, 유니클로, 에이블리, 크림, 노스페이스, B... | https://www.ekn.kr/web/view.php?key=20260907026321609 | a1,a10,a12,a5,a7
-2026-09-07 16:58 | ekoreanews.co.kr | 삼성, 2026년 하반기 공채 8일 시작…70년간 채용 문턱 낮춘 제도 개선 ... | https://www.ekoreanews.co.kr/news/articleView.html?idxno=87947 | a1,a7
-2026-09-07 16:56 | newsis.com | 전남광주시·삼성, 청년지원 맞손…'성장·자립' 사회공헌 | https://www.newsis.com/view/NISX20260907_0003779685 | a1
-2026-09-07 16:55 | donga.com | 삼성, 하반기 신입 공채…반도체 인력 채용 늘릴 듯 | https://www.donga.com/news/Economy/article/all/20260907/134619704/1 | a1,a10,a12,a7
-2026-09-07 16:54 | fnnews.com | 광주특별시-삼성, 지역 청년 성장 및 정착 기반 마련 힘 모은다 | https://www.fnnews.com/news/202609071641528628 | a1
-2026-09-07 16:52 | insight.co.kr | 70년 '인재경영' 잇는다... 삼성, 하반기 공채 실시 | https://www.insight.co.kr/news/572335 | a1,a10,a12,a7
-2026-09-07 16:51 | seoulfn.com | 코스피, 4.6% 급등 '7천피' 턱밑 마감···'수요 기대' 삼전·닉스 초강... | https://www.seoulfn.com/news/articleView.html?idxno=637425 | a1,a10,a12,a7
-2026-09-07 16:48 | ibuan.com | [직격 인터뷰] 박지원 국회의원, "부안을 10중 7로 생각해야 5대5… 더 신... | https://www.ibuan.com/news/articleView.html?idxno=56454 | a1
-2026-09-07 16:46 | newstomato.com | 코스피, 반도체 훈풍에 4.6%↑…외인·기관 5조원 '쌍끌이' | http://www.newstomato.com/ReadNews.aspx?no=1312818&inflow=N | a1,a10,a12,a7
-2026-09-07 16:46 | asiatime.co.kr | 전남광주시, 삼성과 '청년 성장∙자립역량 강화' 맞손 | https://www.asiatime.co.kr/article/20260907500356 | a1
-2026-09-07 16:45 | seoul.co.kr | 삼성·현대, 파병 희생양 되나…“韓자산 파괴 식은 죽 먹기” 섬뜩 엄... | https://www.seoul.co.kr/news/international/2026/09/07/20260907500279?wlog_tag3=naver | a1
-2026-09-07 16:42 | magazine.hankyung.com | 삼성 하반기 공채 스타트···삼성전자 등 19개사 참여 | https://magazine.hankyung.com/job-joy/article/202609079230d | a1,a10,a12,a7
-2026-09-07 16:42 | imaeil.com | 오픈 AI발 훈풍에 코스피 강세…7천피 턱밑 마감 | https://www.imaeil.com/page/view/2026090716404269613 | a1
-2026-09-07 16:41 | jnilbo.com | 전남광주시·삼성, 청년 성장·자립 위해 맞손 | https://www.jnilbo.com/news/articleView.html?idxno=90000063254 | a1
-2026-09-07 16:36 | asiatime.co.kr | IPARK현대산업개발, AI·로봇 등 건설 신기술 발굴 PoC 추진 | https://www.asiatime.co.kr/article/20260907500332 | a1
-2026-09-07 16:35 | etnews.com | 전남광주시-삼성, 청년 성장·자립 '맞손'…지역 정착 기반 강화 | https://www.etnews.com/20260907000422 | a1
-2026-09-07 16:34 | ftoday.co.kr | 삼성, 8일부터 하반기 공채 진행…삼성전자 등 19곳 참여 | http://www.ftoday.co.kr/news/articleView.html?idxno=364959 | a1,a10,a12,a5,a7
-2026-09-07 16:30 | enetnews.co.kr | 대기업 하반기 채용문 활짝···AI·원전·반도체 인재 쟁탈전 | https://www.enetnews.co.kr/news/articleView.html?idxno=54158 | a1,a14,a7
-2026-09-07 16:28 | getnews.co.kr | 코스피, 오픈AI발 반도체 강세에 4.6% ↑... 지수 7,000 회복 눈앞 | https://www.getnews.co.kr/news/articleView.html?idxno=880047 | a1,a10,a12,a7
-2026-09-07 16:28 | sentv.co.kr | 코스피, 반도체 강세에 4%대 급등…7000선 코앞 | https://www.sentv.co.kr/article/view/sentv202609070170 | a7
-2026-09-07 16:28 | seoul.co.kr | [마감시황]코스피 4.61% 급등 마감…삼성전자·SK하이닉스 강세에 6995.39... | https://www.seoul.co.kr/news/economy/securities/2026/09/07/20260907500269?wlog_tag3=naver | a7
-2026-09-07 16:26 | etoday.co.kr | "에너지·데이터센터가 미래 먹거리"⋯건설업계 달라진 채용 지도 | https://www.etoday.co.kr/news/view/2622660 | a1,a3
-2026-09-07 16:26 | kdfnews.com | 코스피, 오픈AI 훈풍에 4.61% 상승 마감…삼성전자 5.68%·SK하이닉스 8.... | http://www.kdfnews.com/news/articleView.html?idxno=187647 | a1,a5
-2026-09-07 16:26 | news2day.co.kr | (마감시황) 코스피, 오픈AI·엔비디아 호재에 반도체 날았다…4.61% 강세 | https://www.news2day.co.kr/article/20260907500171 | a7
-2026-09-07 16:24 | news.mtn.co.kr | [단독]분당 양지마을 설계사 선정에 에이앤유·나우동인 등 9개사 ‘도전... | https://news.mtn.co.kr/news-detail/2026090716202933637 | a1,a14,a3
-2026-09-07 16:24 | issuenbiz.com | 코스피, 4.6% 급등 7000선 눈앞...코스닥도 상승 | http://www.issuenbiz.com/news/articleView.html?idxno=79521 | a1,a7
-2026-09-07 16:24 | megaeconomy.co.kr | 삼성, 하반기 공채 돌입…19개 계열사서 미래 인재 뽑는다 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597561605068 | a1,a10,a12,a5,a7
-2026-09-07 16:24 | newsroad.co.kr | 코스피, 오픈AI發 반도체 훈풍에 7,000선 코앞…4.6% '폭등 랠리' | http://www.newsroad.co.kr/news/articleView.html?idxno=63919 | a1,a5
-2026-09-07 16:24 | topstarnews.net | 코스피 4.6% 급등 7,000선 눈앞…삼성전자·SK하이닉스 폭등 | https://www.topstarnews.net/news/articleView.html?idxno=16185620 | a1
-2026-09-07 16:22 | lkp.news | 삼성, 2026년 하반기 공채 돌입… 31년 전 '열린 채용' 뿌리 이어 미래 ... | http://www.lkp.news/news/articleView.html?idxno=83780 | a1,a10,a12,a7
-2026-09-07 16:22 | dnews.co.kr | 오픈AI 發 호재에 코스피 4%↑…7000선 턱밑 마감 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071556225090985 | a1,a10,a12,a3,a7
-2026-09-07 16:20 | choicenews.co.kr | AI 훈풍, 코스피 '폭등'...LG전자·LS일렉트릭·신한지주 '껑충' | http://www.choicenews.co.kr/news/articleView.html?idxno=171034 | a1,a7
-2026-09-07 16:20 | news.dealsitetv.com | [퇴근길 7분 뉴스] 개헌·AGI시대·베어로보틱스·삼성공채 | https://news.dealsitetv.com/articles/175699 | a1,a7
-2026-09-07 16:20 | socialvalue.kr | 삼성, 8일부터 하반기 공채 돌입…전자·물산 등 19개사 채용 | https://www.socialvalue.kr/news/view/1065595475067852 | a1,a10,a12,a7
-2026-09-07 16:20 | inews24.com | 외인·기관 5조 쓸어담았다⋯코스피 7000 '턱밑' 마감 | http://www.inews24.com/view/2002811 | a7
-2026-09-07 16:17 | sportsseoul.com | “좀비 도시서 살아남아라”…에버랜드, 첫 야외 ‘이머시브 호러’로... | https://www.sportsseoul.com/news/read/1633397?ref=naver | a1,a6
-2026-09-07 16:16 | newsis.com | 삼성물산, 목동13단지 재건축 단독 응찰…사실상 수주 '9부 능선' | https://www.newsis.com/view/NISX20260907_0003779561 | a1,a3
-2026-09-07 16:16 | hbnpress.com | 삼성, 19개 관계사 하반기 공채...15일까지 지원서 접수 | https://hbnpress.com/news/view/1065597079774553 | a1,a10,a12,a7
-2026-09-07 16:15 | TipRanks | Samsung Biologics Confirms Stable Samsung Group Control Despite Minor Share Adjustments - TipRanks | google:TipRanks | aen1,aen3
-2026-09-07 16:13 | news1.kr | AI 훈풍에 반도체 날았다…코스피 4.6% 급등·7000선 목전[시황종합] | https://www.news1.kr/finance/market-exr/6282484 | a7
-2026-09-07 16:12 | metroseoul.co.kr | 삼성전자 5%·SK하이닉스 8%↑…코스피 7000선 턱밑 | http://www.metroseoul.co.kr/article/20260907500498 | a7
-2026-09-07 16:11 | yna.co.kr | 코스피, 오픈AI발 반도체 훈풍에 4.6% 급등…7,000선 턱밑(종합) | https://www.yna.co.kr/view/AKR20260907128900008?input=1195m | a1

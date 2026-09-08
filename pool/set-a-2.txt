@@ -1,165 +1,237 @@
-# collected: 2026-09-08 13:02 KST
-# window: 2026-09-07 00:00 ~ 2026-09-08 13:02 KST
-# part 2 of 2, lines: 195
+# collected: 2026-09-08 18:15 KST
+# window: 2026-09-07 00:00 ~ 2026-09-08 18:15 KST
+# part 2 of 3, lines: 250
 # format: date | media | title | url | tags
 
-2026-09-07 16:10 | thelec.kr | 삼성, 2026년 하반기 공채 | https://www.thelec.kr/news/articleView.html?idxno=61920 | a1,a10,a12,a7
+2026-09-07 22:38 | thedailypost.kr | 삼성, 2026년 하반기 신입사원 공채 개시…19개 관계사 참여 | https://www.thedailypost.kr/news/articleView.html?idxno=115442 | a1,a7
+2026-09-07 22:00 | thepublic.kr | 삼성, 19개 계열사 하반기 공채 실시…8일부터 지원서 접수 | https://www.thepublic.kr/news/articleView.html?idxno=317866 | a1,a10,a12,a7
+2026-09-07 21:40 | us.aving.net | LMSS Develops Smart Airbag Vest to Protect Workers From Falls | https://us.aving.net/news/articleView.html?idxno=54516 | a2
+2026-09-07 21:30 | biz.chosun.com | 삼성물산, ‘2.3조’ 목동13단지 재건축 단독 응찰 | https://biz.chosun.com/real_estate/real_estate_general/2026/09/07/SZNPBHCRJREN3DCMPTIYW4DD2U/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1,a3
+2026-09-07 21:29 | Chosunbiz | Samsung C&T’s sole bid stalls Mokdong 13 redevelopment in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
+2026-09-07 21:21 | ikbc.co.kr | 전남광주-삼성, 지역 청년 자립 협력 강화 | https://www.ikbc.co.kr/article/view/kbc202609070067 | a1
+2026-09-07 21:01 | mk.co.kr | 삼성전자 넘치는 현금…바이오 증자 불렀나 [재계톡톡] | https://www.mk.co.kr/article/12144326 | a1,a7
+2026-09-07 20:57 | Katadata.co.id | Anomali Kebijakan Gambut RI di Balik Bencana Karhutla dan Asap - Katadata.co.id | google:Katadata.co.id | aid8
+2026-09-07 20:40 | ujeil.com | 삼성, 하반기 공채 실시… 19개 관계사 참여 | http://www.ujeil.com/news/articleView.html?idxno=391653 | a1,a10,a12,a7
+2026-09-07 20:34 | khan.co.kr | 삼성, 8일부터 하반기 신입 공개채용 | https://www.khan.co.kr/article/202609072034005 | a1,a10,a12,a7
+2026-09-07 20:06 | todayeconomic.com | 삼성, 8일부터 하반기 공채…전자·바이오 등 19개사 참여 | https://www.todayeconomic.com/news/article.html?no=32023 | a1,a10,a12,a7
+2026-09-07 19:52 | biztribune.co.kr | 삼성물산 패션부문 GLXY, 'GLXY 스튜디오' 매장 첫선 | http://www.biztribune.co.kr/news/articleView.html?idxno=358566 | a1,a10,a12,a5,a7
+2026-09-07 19:30 | queen.co.kr | 삼성그룹, 2026년 하반기 공채 시작… 19개 관계사 참여 | http://www.queen.co.kr/news/articleView.html?idxno=462955 | a1,a10,a12,a7
+2026-09-07 19:30 | jndn.com | 전남광주특별시·삼성, 지역청년 ‘성장·자립’ 맞손 | http://www.jndn.com/article.php?aid=1788776833439211001 | a1
+2026-09-07 19:29 | PelalawanPos | Puluhan Warga dan Aparat Berjibaku Padamkan Karhutla di Kuala Kampar, Lahan Gambut Masih Berasap - PelalawanPos | google:PelalawanPos | aid6
+2026-09-07 19:26 | newsbrite.net | 이재용 "올해 조금 더 채용 여력 생겨"... 삼성 19개사 하반기 공채 돌입 | http://www.newsbrite.net/news/articleView.html?idxno=200226 | a1,a10,a12,a7
+2026-09-07 19:20 | namdonews.com | 전남광주통합특별시-삼성, 청년지원 협력 MOU | https://www.namdonews.com/news/articleView.html?idxno=922611 | a1
+2026-09-07 18:52 | bigtanews.co.kr | [증시 오늘] 반도체 폭등 코스피 7000 눈앞 | https://www.bigtanews.co.kr/article/view/big202609070013 | a7
+2026-09-07 18:48 | donga.com | 2조 목동13단지 삼성물산 단독 응찰…홀수단지 선점에 경쟁사들 출혈 경... | https://www.donga.com/news/Economy/article/all/20260907/134622563/1 | a1,a3
+2026-09-07 18:46 | sportsworldi.com | 1000만 홀린 에버랜드 좀비, 더 독해져 돌아왔다 | https://www.sportsworldi.com/newsView/20260907514490 | a1,a6
+2026-09-07 18:45 | thelec.net | Samsung Opens 2026 Second-Half Recruitment - thelec.net | google:thelec.net | aen1
+2026-09-07 18:45 | thelec.net | Hanyang ENG Wins 148 Billion Won Piping Order for Samsung’s Pyeongtaek P5 Fab - thelec.net | google:thelec.net | aen1
+2026-09-07 18:26 | koreareport.co.kr | 오픈AI 훈풍에 반도체주 급등…코스피 '7천선' 눈앞 | https://www.koreareport.co.kr/news/articleView.html?idxno=52689 | a1,a5
+2026-09-07 18:25 | Haluan Riau | Polres Pelalawan Gencar Mobiling Imbau Warga, Larang Bakar Lahan di 9 Titik - Haluan Riau - Haluan Riau | google:Haluan Riau | aid5
+2026-09-07 18:14 | 4th.kr | 삼성물산, 2.4조 목동13단지 단독 입찰...수의계약 수순 | http://www.4th.kr/news/articleView.html?idxno=2117611 | a1,a10,a12,a3,a5,a7
+2026-09-07 18:13 | fnnews.com | "좀비영화 주인공 된다" 에버랜드 호러 축제 | https://www.fnnews.com/news/202609071811547658 | a1,a6
+2026-09-07 18:11 | fnnews.com | 70년째 이어진 삼성 공채… 이재용 '청년 고용' 약속 지켰다 | https://www.fnnews.com/news/202609071808581947 | a1,a10,a12,a7
+2026-09-07 18:04 | job-post.co.kr | 삼성, 8일부터 하반기 신입 공채...70년째 지속 | https://www.job-post.co.kr/news/articleView.html?idxno=226499 | a1,a7
+2026-09-07 18:00 | mk.co.kr | 삼성그룹 19개사 동시 공채 … 청년 일자리 '큰 장' 열린다 | https://www.mk.co.kr/article/12146425 | a1,a10,a12,a7
+2026-09-07 17:59 | 매일경제 | Samsung Group to Recruit Simultaneously at 19 Affiliates ... Major Opportunity Opens for Youth Employment - 매일경제 | google:매일경제 | aen1,aen4
+2026-09-07 17:54 | asiatoday.co.kr | '70년 공채' 전통 잇는 이재용… 반도체·AI 등 미래 인재 뽑는다 | https://www.asiatoday.co.kr/kn/view.php?key=20260908010002689 | a1,a10,a7
+2026-09-07 17:54 | sisafocus.co.kr | 반도체주 반등에 코스피 4.61% 급등…7000선 회복 눈앞 | http://www.sisafocus.co.kr/news/articleView.html?idxno=364668 | a1,a10,a12
+2026-09-07 17:54 | thefirstmedia.net | 에버랜드, 가을축제 '블러드시티 제로' 운영…이머시브 호러 선보여 | http://www.thefirstmedia.net/news/articleView.html?idxno=207942 | a1,a6
+2026-09-07 17:52 | economist.co.kr | ‘아스트라’ 호재에 외국인이 돌아왔다…코스피, 반도체 훈풍에 4.61% 상... | https://economist.co.kr/article/view/ecn202609070074 | a1,a7
+2026-09-07 17:52 | sedaily.com | 삼성 19개사 신입 6000명 채용…반도체·AI 등 통합형 인재 선발 | https://www.sedaily.com/article/20088126?ref=naver | a1,a10,a12,a7
+2026-09-07 17:47 | ikbc.co.kr | '얼마만인가' 오픈AI '아스트라'발 훈풍에 코스피 4%대 날았다 | https://www.ikbc.co.kr/article/view/kbc202609070051 | a1
+2026-09-07 17:46 | Korea JoongAng Daily | Samsung opens hiring across 19 affiliates - Korea JoongAng Daily | google:Korea JoongAng Daily | aen1
+2026-09-07 17:46 | dailysmart.co.kr | "목동에 반포 래미안 신화 재현한다"… 삼성물산 건설부문, 목동13단지 ... | http://www.dailysmart.co.kr/news/articleView.html?idxno=129363 | a1,a3
+2026-09-07 17:46 | koreajoongangdaily.com | Samsung opens hiring across 19 affiliates | https://www.koreajoongangdaily.com/business/samsung-opens-hiring-across-19-affiliates/12863443 | a11,a2,a8
+2026-09-07 17:45 | hankyung.com | 삼성, 하반기 신입 공채…4대그룹 중 유일 | https://www.hankyung.com/article/2026090794871 | a1,a10,a12,a7
+2026-09-07 17:42 | daily.hankooki.com | 전남광주통합특별시-삼성, 청년 성장 업무협약 | https://daily.hankooki.com/news/articleView.html?idxno=1403516 | a1,a10,a12,a7
+2026-09-07 17:42 | weekly.hankooki.com | "성장 온기, 청년에 이어지도록"…삼성그룹 19개 관계사 하반기 공채 시... | https://weekly.hankooki.com/news/articleView.html?idxno=7182915 | a1,a10,a12,a5,a7
+2026-09-07 17:42 | upkoreanews.kr | 삼성물산 패션, 상반기 영업익 920억…준지·아미·에잇세컨즈 '멀티브... | https://www.upkoreanews.kr/news/articleView.html?idxno=100132 | a1,a5
+2026-09-07 17:41 | biz.heraldcorp.com | ‘칠천피’ 회복까지 단 ‘4.61포인트’…오픈AI 훈풍에 돌아온 외인, 하... | https://biz.heraldcorp.com/article/10865329?ref=naver | a1
+2026-09-07 17:34 | mbnmoney.mbn.co.kr | 코스피, 반도체 훈풍에 4.6% 급등…7,000선 육박 | http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005917302 | a1
+2026-09-07 17:31 | thetracker.co.kr | 코스피, 반도체주 질주에 7000선 턱밑…외국인·기관 5조원 매수 | https://thetracker.co.kr/View.aspx?No=4216138 | a1,a10,a12
+2026-09-07 17:30 | delighti.co.kr | "메모리 수요 폭증한다" 오픈AI발 소식에 4.61% 급등…7,000 목전에 | https://www.delighti.co.kr/news/articleView.html?idxno=121449 | a1,a10,a12
+2026-09-07 17:30 | Haluan Riau | Kelompok Tani 80 Sumber Berkah Kembali Kuasai Kebun Sawit di Muara Langsat, Sengketa Lahan Masih Berjalan - Haluan Riau - Haluan Riau | google:Haluan Riau | aid9
+2026-09-07 17:29 | dailian.co.kr | 삼성물산까지 가세…목동 재건축 대형사 ‘자리 선점’ | https://www.dailian.co.kr/news/view/1687413/?sc=Naver | a1,a3
+2026-09-07 17:24 | news.bbsi.co.kr | 전남광주시-삼성, 청년 성장·자립 지원 협력 강화 | https://news.bbsi.co.kr/news/articleView.html?idxno=4105141 | a1
+2026-09-07 17:24 | kyeonggi.com | 박찬대 ‘1호 공약’ 인천바이오과학기술원 ‘시동’…당위성 및 입지·... | https://www.kyeonggi.com/article/20260907580418 | a7
+2026-09-07 17:22 | fntimes.com | 삼성, 2026년 하반기 공채...15일까지 접수 | https://www.fntimes.com/html/view.php?ud=2026090717152313867de3572ddd_18 | a1,a10,a12,a7
+2026-09-07 17:22 | news.dealsitetv.com | [재계 투데이] 삼성, 하반기 신입 공채 실시 外 | https://news.dealsitetv.com/articles/175706 | a1,a7
+2026-09-07 17:22 | discoverynews.kr | 삼성, 8일부터 하반기 공채...19개 관계사 신입사원 채용 | https://www.discoverynews.kr/news/articleView.html?idxno=1100796 | a1,a10,a12,a7
+2026-09-07 17:20 | thevaluenews.co.kr | 삼성, 하반기 공채 실시…19개 계열사 신입사원 채용 | http://www.thevaluenews.co.kr/news/view.php?idx=201375 | a1,a7
+2026-09-07 17:14 | businessplus.kr | [영상]삼성 19개 관계사 하반기 신입 공채 시작…8일 접수 | https://www.businessplus.kr/news/articleView.html?idxno=116494 | a1,a10,a12,a7
+2026-09-07 17:12 | sedaily.com | 기업 공시 [9월 7일] | https://www.sedaily.com/article/20088080?ref=naver | a1
+2026-09-07 17:12 | news.sbs.co.kr | [자막뉴스] "파병하면 한국 시설도 공격 대상"…이란 '비공식 대변인', ... | https://news.sbs.co.kr/news/endPage.do?news_id=N1008741397&plink=ORI&cooper=NAVER | a1
+2026-09-07 17:12 | newslock.co.kr | 삼성물산 패션 GLXY, 'GLXY 스튜디오' 첫선…센텀시티·강남 공략 | http://www.newslock.co.kr/news/articleView.html?idxno=135717 | a1,a10,a12,a5
+2026-09-07 17:12 | mediapen.com | 코스피, 반도체 훈풍에 7000선 턱밑 마감…외인·기관 '쌍끌이' | https://www.mediapen.com/news/view/1121905 | a7
+2026-09-07 17:11 | Seoul Economic Daily | CS Wind Wins 151 Billion Won Wind Tower Supply Deal - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-07 17:10 | autodaily.co.kr | 삼성, 하반기 19개 계열사 공채⋯AI·반도체 인재 확보 나서 | https://www.autodaily.co.kr/news/articleView.html?idxno=600233 | a1,a10,a12,a7
+2026-09-07 17:10 | swtvnews.com | 삼성, 2026년 하반기 공채 착수…19개 관계사 총 출동 | https://swtvnews.com/news/newsview.php?ncode=1065599666507236 | a1,a10,a12,a7
+2026-09-07 17:10 | smarttimes.co.kr | 에버랜드 호러 테마존 '블러드시티'…거대 좀비 탈출 미션, 대규모 플래... | http://www.smarttimes.co.kr/news/articleView.html?idxno=48765 | a1,a6
+2026-09-07 16:59 | topdaily.kr | [TOP's Pick] [전자·IT] 장병규 크래프톤 의장, 나렌드라 모디 인도 총리... | https://www.topdaily.kr/articles/111831 | a1,a7
+2026-09-07 16:58 | ekoreanews.co.kr | 삼성, 2026년 하반기 공채 8일 시작…70년간 채용 문턱 낮춘 제도 개선 ... | https://www.ekoreanews.co.kr/news/articleView.html?idxno=87947 | a1,a7
+2026-09-07 16:58 | ekn.kr | [패션가 NOW] 삼성물산 패션, 유니클로, 에이블리, 크림, 노스페이스, B... | https://www.ekn.kr/web/view.php?key=20260907026321609 | a1,a10,a12,a5,a7
+2026-09-07 16:56 | newsis.com | 전남광주시·삼성, 청년지원 맞손…'성장·자립' 사회공헌 | https://www.newsis.com/view/NISX20260907_0003779685 | a1
+2026-09-07 16:55 | donga.com | 삼성, 하반기 신입 공채…반도체 인력 채용 늘릴 듯 | https://www.donga.com/news/Economy/article/all/20260907/134619704/1 | a1,a10,a12,a7
+2026-09-07 16:54 | fnnews.com | 광주특별시-삼성, 지역 청년 성장 및 정착 기반 마련 힘 모은다 | https://www.fnnews.com/news/202609071641528628 | a1
+2026-09-07 16:52 | insight.co.kr | 70년 '인재경영' 잇는다... 삼성, 하반기 공채 실시 | https://www.insight.co.kr/news/572335 | a1,a10,a12,a7
+2026-09-07 16:51 | seoulfn.com | 코스피, 4.6% 급등 '7천피' 턱밑 마감···'수요 기대' 삼전·닉스 초강... | https://www.seoulfn.com/news/articleView.html?idxno=637425 | a1,a10,a12,a7
+2026-09-07 16:48 | ibuan.com | [직격 인터뷰] 박지원 국회의원, "부안을 10중 7로 생각해야 5대5… 더 신... | https://www.ibuan.com/news/articleView.html?idxno=56454 | a1
+2026-09-07 16:46 | asiatime.co.kr | 전남광주시, 삼성과 '청년 성장∙자립역량 강화' 맞손 | https://www.asiatime.co.kr/article/20260907500356 | a1
+2026-09-07 16:46 | newstomato.com | 코스피, 반도체 훈풍에 4.6%↑…외인·기관 5조원 '쌍끌이' | http://www.newstomato.com/ReadNews.aspx?no=1312818&inflow=N | a1,a10,a12,a7
+2026-09-07 16:45 | seoul.co.kr | 삼성·현대, 파병 희생양 되나…“韓자산 파괴 식은 죽 먹기” 섬뜩 엄... | https://www.seoul.co.kr/news/international/2026/09/07/20260907500279?wlog_tag3=naver | a1
+2026-09-07 16:42 | magazine.hankyung.com | 삼성 하반기 공채 스타트···삼성전자 등 19개사 참여 | https://magazine.hankyung.com/job-joy/article/202609079230d | a10,a12,a7
+2026-09-07 16:30 | enetnews.co.kr | 대기업 하반기 채용문 활짝···AI·원전·반도체 인재 쟁탈전 | https://www.enetnews.co.kr/news/articleView.html?idxno=54158 | a14,a7
+2026-09-07 16:28 | sentv.co.kr | 코스피, 반도체 강세에 4%대 급등…7000선 코앞 | https://www.sentv.co.kr/article/view/sentv202609070170 | a7
+2026-09-07 16:28 | seoul.co.kr | [마감시황]코스피 4.61% 급등 마감…삼성전자·SK하이닉스 강세에 6995.39... | https://www.seoul.co.kr/news/economy/securities/2026/09/07/20260907500269?wlog_tag3=naver | a7
+2026-09-07 16:26 | etoday.co.kr | "에너지·데이터센터가 미래 먹거리"⋯건설업계 달라진 채용 지도 | https://www.etoday.co.kr/news/view/2622660 | a3
+2026-09-07 16:26 | news2day.co.kr | (마감시황) 코스피, 오픈AI·엔비디아 호재에 반도체 날았다…4.61% 강세 | https://www.news2day.co.kr/article/20260907500171 | a7
+2026-09-07 16:24 | news.mtn.co.kr | [단독]분당 양지마을 설계사 선정에 에이앤유·나우동인 등 9개사 ‘도전... | https://news.mtn.co.kr/news-detail/2026090716202933637 | a14,a3
+2026-09-07 16:24 | megaeconomy.co.kr | 삼성, 하반기 공채 돌입…19개 계열사서 미래 인재 뽑는다 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597561605068 | a10,a12,a7
+2026-09-07 16:22 | lkp.news | 삼성, 2026년 하반기 공채 돌입… 31년 전 '열린 채용' 뿌리 이어 미래 ... | http://www.lkp.news/news/articleView.html?idxno=83780 | a10,a12,a7
+2026-09-07 16:20 | socialvalue.kr | 삼성, 8일부터 하반기 공채 돌입…전자·물산 등 19개사 채용 | https://www.socialvalue.kr/news/view/1065595475067852 | a10,a12,a7
+2026-09-07 16:20 | inews24.com | 외인·기관 5조 쓸어담았다⋯코스피 7000 '턱밑' 마감 | http://www.inews24.com/view/2002811 | a7
+2026-09-07 16:20 | news.dealsitetv.com | [퇴근길 7분 뉴스] 개헌·AGI시대·베어로보틱스·삼성공채 | https://news.dealsitetv.com/articles/175699 | a7
+2026-09-07 16:17 | sportsseoul.com | “좀비 도시서 살아남아라”…에버랜드, 첫 야외 ‘이머시브 호러’로... | https://www.sportsseoul.com/news/read/1633397?ref=naver | a6
+2026-09-07 16:16 | newsis.com | 삼성물산, 목동13단지 재건축 단독 응찰…사실상 수주 '9부 능선' | https://www.newsis.com/view/NISX20260907_0003779561 | a3
+2026-09-07 16:16 | hbnpress.com | 삼성, 19개 관계사 하반기 공채...15일까지 지원서 접수 | https://hbnpress.com/news/view/1065597079774553 | a10,a12,a7
+2026-09-07 16:15 | TipRanks | Samsung Biologics Confirms Stable Samsung Group Control Despite Minor Share Adjustments - TipRanks | google:TipRanks | aen1,aen3
+2026-09-07 16:13 | news1.kr | AI 훈풍에 반도체 날았다…코스피 4.6% 급등·7000선 목전[시황종합] | https://www.news1.kr/finance/market-exr/6282484 | a7
+2026-09-07 16:12 | metroseoul.co.kr | 삼성전자 5%·SK하이닉스 8%↑…코스피 7000선 턱밑 | http://www.metroseoul.co.kr/article/20260907500498 | a7
 2026-09-07 16:10 | etoday.co.kr | 삼성바이오 노사, 109일 만에 노사정 대화…협상 실마리 풀릴까? | https://www.etoday.co.kr/news/view/2622616 | a7
-2026-09-07 16:08 | hankyung.com | 의왕 백운밸리 시니어 레지던스 선매각 착수…세빌스코리아 주관 | https://www.hankyung.com/article/202609079073r | a1,a3
+2026-09-07 16:10 | thelec.kr | 삼성, 2026년 하반기 공채 | https://www.thelec.kr/news/articleView.html?idxno=61920 | a10,a12,a7
+2026-09-07 16:08 | hankyung.com | 의왕 백운밸리 시니어 레지던스 선매각 착수…세빌스코리아 주관 | https://www.hankyung.com/article/202609079073r | a3
 2026-09-07 16:06 | fnnews.com | 간만에 활짝 웃은 코스피...SK하이닉스는 8%대 급등 [fn마감시황] | https://www.fnnews.com/news/202609071602103407 | a7
-2026-09-07 16:06 | newsclaim.co.kr | 삼성전자 SK하이닉스 급등 코스피 7000선 목전 | https://www.newsclaim.co.kr/news/articleView.html?idxno=3074551 | a7
-2026-09-07 16:04 | junggi.co.kr | 삼성, 8~15일 '2026년 하반기 공채' 지원서 접수 | https://www.junggi.co.kr/news/articleView.html?idxno=37686 | a1,a10,a12,a7
-2026-09-07 16:02 | newspost.kr | 삼성 관계사 19곳, 2026년 하반기 공채 8일부터 접수 시작 | https://www.newspost.kr/news/articleView.html?idxno=225491 | a1,a10,a12,a5,a7
-2026-09-07 16:00 | digitaltoday.co.kr | 반도체 불붙자 코스피 4.61% 급등...7000선 턱밑 | https://www.digitaltoday.co.kr/news/articleView.html?idxno=698746 | a1,a10,a12,a7
-2026-09-07 16:00 | dt.co.kr | 오픈AI 훈풍 탄 ‘삼전닉스’… 코스피 7000선 턱밑 ‘활짝’ | https://www.dt.co.kr/article/12082523?ref=naver | a1,a7
-2026-09-07 16:00 | fnnews.com | '의왕 백운밸리 메디컬·시니어 단지' 선매각 시동 [fn마켓워치] | https://www.fnnews.com/news/202609071556585316 | a1,a3
+2026-09-07 16:04 | junggi.co.kr | 삼성, 8~15일 '2026년 하반기 공채' 지원서 접수 | https://www.junggi.co.kr/news/articleView.html?idxno=37686 | a10,a12,a7
+2026-09-07 16:00 | fnnews.com | '의왕 백운밸리 메디컬·시니어 단지' 선매각 시동 [fn마켓워치] | https://www.fnnews.com/news/202609071556585316 | a3
 2026-09-07 16:00 | newspim.com | [마감시황] 외인·기관 쌍끌이에 코스피 4.61% 급등…6995선 마감 | https://www.newspim.com/news/view/20260907000925 | a7
+2026-09-07 16:00 | dt.co.kr | 오픈AI 훈풍 탄 ‘삼전닉스’… 코스피 7000선 턱밑 ‘활짝’ | https://www.dt.co.kr/article/12082523?ref=naver | a7
 2026-09-07 15:59 | 디지털투데이 | KOSPI jumps 4.61 percent to just below 7,000 on semiconductor rally - 디지털투데이 | google:디지털투데이 | aen1
-2026-09-07 15:59 | ichannela.com | 이재용 “올해 더 채용할 여력”…삼성, 8일부터 하반기 공채 | https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549073 | a1,a10,a7
-2026-09-07 15:58 | hg-times.com | 삼성, 19개 관계사 하반기 공채 진행.."양질의 일자리 창출" | https://www.hg-times.com/news/articleView.html?idxno=305076 | a1,a10,a12,a7
+2026-09-07 15:59 | ichannela.com | 이재용 “올해 더 채용할 여력”…삼성, 8일부터 하반기 공채 | https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549073 | a10,a7
+2026-09-07 15:58 | hg-times.com | 삼성, 19개 관계사 하반기 공채 진행.."양질의 일자리 창출" | https://www.hg-times.com/news/articleView.html?idxno=305076 | a10,a12,a7
 2026-09-07 15:58 | dailian.co.kr | 코스피, 삼전닉스 질주에 7000선 턱밑 [시황] | https://www.dailian.co.kr/news/view/1687369/?sc=Naver | a7
-2026-09-07 15:57 | dt.co.kr | 목동13단지, 삼성물산 단독 응찰…목동 첫 래미안 유력 | https://www.dt.co.kr/article/12082520?ref=naver | a1,a3
+2026-09-07 15:57 | dt.co.kr | 목동13단지, 삼성물산 단독 응찰…목동 첫 래미안 유력 | https://www.dt.co.kr/article/12082520?ref=naver | a3
 2026-09-07 15:56 | kado.net | 코스피 4.61% 급등한 6995.39 마감…'반도체 훈풍'에 7000선 턱밑 | https://www.kado.net/news/articleView.html?idxno=2071002 | a7
-2026-09-07 15:54 | smarttoday.co.kr | [정비사업 디코드] 래미안 강세 이어진 반포…경쟁 사라져 조합원 실익... | https://www.smarttoday.co.kr/ko-kr/articles/111271 | a1,a3
-2026-09-07 15:50 | m-i.kr | [기획] 재건축·리모델링 대신 '리뉴얼'…건설사들이 만든 새 틈새시장 | https://www.m-i.kr/news/articleView.html?idxno=1410875 | a1,a5,a7
-2026-09-07 15:50 | ntoday.co.kr | "70년 지킨 삼성의 약속"…하반기 신입사원 공채 실시 | https://www.ntoday.co.kr/news/articleView.html?idxno=129200 | a1,a10,a12,a7
-2026-09-07 15:50 | wsobi.com | 삼성·넷마블, 하반기 공채 실시·대학생 서포터즈 '마블챌린저' 26기 발... | http://www.wsobi.com/news/articleView.html?idxno=317701 | a1,a10,a12,a5,a7
-2026-09-07 15:49 | news.tf.co.kr | 코스피, 돌아온 외인·기관 '사자'에 4.61% 상승…6990선 마감 | https://news.tf.co.kr/read/economy/2362890.htm | a1,a7
-2026-09-07 15:48 | mk.co.kr | ‘7000피 코앞’ 코스피, 오픈AI발 훈풍에 강세 마감…코스닥도 1% 올라 | https://www.mk.co.kr/article/12146136 | a1,a7
-2026-09-07 15:48 | meconomynews.com | 삼성, 8일부터 하반기 공채... 19개 관계사 참여 | https://www.meconomynews.com/news/articleView.html?idxno=201297 | a1,a10,a12,a7
-2026-09-07 15:46 | huffingtonpost.kr | '왜 펩타이드일까?' 존 림 삼성바이오로직스 2.7조 투자하는 이유 : 차세... | https://www.huffingtonpost.kr/article/260225 | a1,a10,a7
-2026-09-07 15:43 | hankyung.com | 코스피, 오픈AI 훈풍에 7000선 턱밑 마감…삼전닉스 급등 | https://www.hankyung.com/article/2026090790596 | a1,a7
-2026-09-07 15:42 | newsian.co.kr | 이재용 "일자리 창출" 약속 지킨다…삼성, 8일부터 하반기 공개채용 돌... | http://www.newsian.co.kr/news/articleView.html?idxno=94913 | a1,a7
-2026-09-07 15:42 | etoday.co.kr | "구조대 도착?"…코스피 6990선 안착, 개인 8.2조 '팔자' | https://www.etoday.co.kr/news/view/2622717 | a1,a7
+2026-09-07 15:56 | theviewers.co.kr | ‘ADC 열풍’ 탄 K바이오, 기술력 입증 넘어 상업화 시험대 | https://theviewers.co.kr/View.aspx?No=4216067 | a10,a12
+2026-09-07 15:54 | smarttoday.co.kr | [정비사업 디코드] 래미안 강세 이어진 반포…경쟁 사라져 조합원 실익... | https://www.smarttoday.co.kr/ko-kr/articles/111271 | a3
+2026-09-07 15:50 | ntoday.co.kr | "70년 지킨 삼성의 약속"…하반기 신입사원 공채 실시 | https://www.ntoday.co.kr/news/articleView.html?idxno=129200 | a10,a12,a7
+2026-09-07 15:49 | news.tf.co.kr | 코스피, 돌아온 외인·기관 '사자'에 4.61% 상승…6990선 마감 | https://news.tf.co.kr/read/economy/2362890.htm | a7
+2026-09-07 15:48 | mk.co.kr | ‘7000피 코앞’ 코스피, 오픈AI발 훈풍에 강세 마감…코스닥도 1% 올라 | https://www.mk.co.kr/article/12146136 | a7
+2026-09-07 15:48 | meconomynews.com | 삼성, 8일부터 하반기 공채... 19개 관계사 참여 | https://www.meconomynews.com/news/articleView.html?idxno=201297 | a10,a12,a7
+2026-09-07 15:46 | huffingtonpost.kr | '왜 펩타이드일까?' 존 림 삼성바이오로직스 2.7조 투자하는 이유 : 차세... | https://www.huffingtonpost.kr/article/260225 | a10,a7
+2026-09-07 15:43 | hankyung.com | 코스피, 오픈AI 훈풍에 7000선 턱밑 마감…삼전닉스 급등 | https://www.hankyung.com/article/2026090790596 | a7
 2026-09-07 15:42 | ajunews.com | [마감시황] 코스피 7000선 눈앞서 마감…반도체 질주에 4.61% 급등 | https://www.ajunews.com/view/20260907153902135 | a7
-2026-09-07 15:40 | kfenews.co.kr | 삼성, 하반기 공채 시작…70년 '인재경영' 이어간다 | https://www.kfenews.co.kr/news/articleView.html?idxno=663981 | a1,a10,a12,a7
-2026-09-07 15:40 | en.yna.co.kr | KOSPI 200 Closing Price List-3 | https://en.yna.co.kr/view/AEN20260907006500320?input=2106m | a2,a8
-2026-09-07 15:38 | ngetnews.com | 에버랜드, 좀비 탈출 체험형 호러 '블러드시티 제로' 12일 개막 | https://www.ngetnews.com/news/articleView.html?idxno=553092 | a1,a6
-2026-09-07 15:36 | onews.tv | 삼성, 2026년 하반기 공채 시작…19개 관계사 8일부터 지원서 접수 | https://www.onews.tv/news/articleView.html?idxno=286435 | a1,a10,a12,a7
-2026-09-07 15:35 | BukaMata.Co | Massa Sewan Dari Pekanbaru Dikerahkan Rebut Lahan Sawit Kuansing, Bentrok Berdarah Pecah bak Film Gangster - BukaMata.Co | google:BukaMata.Co | aid9
-2026-09-07 15:34 | wikileaks-kr.org | 현대건설, 한강로구역 단독입찰… 하반기수주도 속도 | http://www.wikileaks-kr.org/news/articleView.html?idxno=191738 | a1
-2026-09-07 15:34 | updownnews.co.kr | 삼성, 하반기 공채 스타트…19개 계열사 청년인재 뽑는다 | http://www.updownnews.co.kr/news/articleView.html?idxno=318650 | a1,a10,a12,a7
-2026-09-07 15:34 | gpkorea.com | 삼성, 하반기 신입 공채…전자·바이오 등 19개사 채용 | https://www.gpkorea.com/news/articleView.html?idxno=146458 | a1,a10,a12,a7
-2026-09-07 15:32 | metroseoul.co.kr | 삼성, 하반기 신입 공채 시작…전자·물산 등 19개사 참여 | http://www.metroseoul.co.kr/article/20260907500418 | a1,a10,a12,a7
-2026-09-07 15:30 | kgnews.co.kr | 에버랜드, 12일 이머시티 호러 테마존 '블러드시티 제로' 오픈 | https://www.kgnews.co.kr/news/article.html?no=910508 | a1,a6,a7
-2026-09-07 15:29 | newsis.com | 삼성, 8일부터 19개 계열사 하반기 공채…'70년 채용史' 잇는다 | https://www.newsis.com/view/NISX20260907_0003779380 | a1,a10,a12,a7
-2026-09-07 15:28 | ytn.co.kr | 삼성 하반기 공채 실시...삼성전자 등 19개 관계사 참여 | https://www.ytn.co.kr/_ln/0102_202609071528095929 | a1
-2026-09-07 15:26 | breaknews.com | 삼성, 양질의 일자리 창출..2026년 하반기 공채 실시 | http://www.breaknews.com/1234629 | a1,a10,a11,a12,a13,a2,a7,a8
-2026-09-07 15:26 | realty.chosun.com | 시범·광장 38-1·목화, 시공사 선정 코앞…삼성·현대, 여의도 독식 수... | https://realty.chosun.com/site/data/html_dir/2026/09/07/2026090701956.html | a1,a3
-2026-09-07 15:24 | dealsite.co.kr | 삼성그룹, 8일부터 하반기 공채 실시 | https://dealsite.co.kr/articles/168543 | a1,a10,a12,a7
-2026-09-07 15:24 | enewstoday.co.kr | 삼성, 8일부터 하반기 공채···4대 그룹 유일 '70년 공채' 이어간다 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2467510 | a1,a10,a12,a5,a7
-2026-09-07 15:24 | kpenews.com | 삼성물산 GLXY, 브랜드 정체성에 글로벌 감각 접목..‘GLXY 스튜디오’ ... | https://kpenews.com/View.aspx?No=4216035 | a1,a10,a12,a5,a7
-2026-09-07 15:23 | news1.kr | "경험 쌓을 곳 없는데 경력직만"…70년 이어진 삼성 공채의 재발견 | https://www.news1.kr/industry/general-industry/6282190 | a1,a10,a12,a7
-2026-09-07 15:22 | viva100.com | 목동13단지 삼성물산 단독 응찰…목동 신시가지 ‘첫 래미안’ 성큼 | https://www.viva100.com/article/20260907500944 | a1,a3
-2026-09-07 15:19 | ikbc.co.kr | '4대 그룹 유일 공채' 삼성, 삼전 등 19개사 8일 하반기 채용 돌입 | https://www.ikbc.co.kr/article/view/kbc202609070037 | a1,a10,a12,a7
-2026-09-07 15:16 | mdtoday.co.kr | 삼성전자 이름값만 135조…AI 열풍에 K반도체 몸값 뛰었다 | https://www.mdtoday.co.kr/news/articleView.html?idxno=611130 | a1
-2026-09-07 15:16 | insight.co.kr | GLXY 스튜디오, 신세계백화점 센텀시티점·강남점 연이어 오픈 | https://www.insight.co.kr/news/572228 | a1,a5
-2026-09-07 15:15 | news.jtbc.co.kr | 삼성전자 하반기 정기 공채 열린다..."4대 그룹 중 70년째 유일 지속" | https://news.jtbc.co.kr/article/NB12317103?influxDiv=NAVER | a1,a7
-2026-09-07 15:11 | joongang.co.kr | “더 채용할 여력 생겼다” 이재용의 약속…삼성 19개사 하반기 공채 | https://www.joongang.co.kr/article/25459746 | a1,a10,a7
-2026-09-07 15:11 | magazine.hankyung.com | [속보]삼성, 하반기 채용문 연다 | https://magazine.hankyung.com/business/article/202609078946b | a1,a7
-2026-09-07 15:10 | asiatime.co.kr | 삼성, 하반기 공채 시작…학력·성별 제한 없는 '열린 채용' 70년 이어간... | https://www.asiatime.co.kr/article/20260907500322 | a1,a10,a12,a7
-2026-09-07 15:10 | asiatime.co.kr | 해외 현지 기업 품는 K-바이오…M&A로 사업 확장 '속도' | https://www.asiatime.co.kr/article/20260907500308 | a7
+2026-09-07 15:42 | etoday.co.kr | "구조대 도착?"…코스피 6990선 안착, 개인 8.2조 '팔자' | https://www.etoday.co.kr/news/view/2622717 | a7
+2026-09-07 15:38 | ngetnews.com | 에버랜드, 좀비 탈출 체험형 호러 '블러드시티 제로' 12일 개막 | https://www.ngetnews.com/news/articleView.html?idxno=553092 | a6
+2026-09-07 15:36 | onews.tv | 삼성, 2026년 하반기 공채 시작…19개 관계사 8일부터 지원서 접수 | https://www.onews.tv/news/articleView.html?idxno=286435 | a10,a12,a7
+2026-09-07 15:34 | updownnews.co.kr | 삼성, 하반기 공채 스타트…19개 계열사 청년인재 뽑는다 | http://www.updownnews.co.kr/news/articleView.html?idxno=318650 | a10,a12,a7
+2026-09-07 15:34 | gpkorea.com | 삼성, 하반기 신입 공채…전자·바이오 등 19개사 채용 | https://www.gpkorea.com/news/articleView.html?idxno=146458 | a10,a12,a7
+2026-09-07 15:32 | metroseoul.co.kr | 삼성, 하반기 신입 공채 시작…전자·물산 등 19개사 참여 | http://www.metroseoul.co.kr/article/20260907500418 | a10,a12,a7
+2026-09-07 15:29 | newsis.com | 삼성, 8일부터 19개 계열사 하반기 공채…'70년 채용史' 잇는다 | https://www.newsis.com/view/NISX20260907_0003779380 | a10,a12,a7
+2026-09-07 15:26 | breaknews.com | 삼성, 양질의 일자리 창출..2026년 하반기 공채 실시 | http://www.breaknews.com/1234629 | a10,a11,a12,a13,a2,a7,a8
+2026-09-07 15:26 | realty.chosun.com | 시범·광장 38-1·목화, 시공사 선정 코앞…삼성·현대, 여의도 독식 수... | https://realty.chosun.com/site/data/html_dir/2026/09/07/2026090701956.html | a3
+2026-09-07 15:24 | kpenews.com | 삼성물산 GLXY, 브랜드 정체성에 글로벌 감각 접목..‘GLXY 스튜디오’ ... | https://kpenews.com/View.aspx?No=4216035 | a10,a12,a5
+2026-09-07 15:24 | dealsite.co.kr | 삼성그룹, 8일부터 하반기 공채 실시 | https://dealsite.co.kr/articles/168543 | a10,a12,a7
+2026-09-07 15:23 | news1.kr | "경험 쌓을 곳 없는데 경력직만"…70년 이어진 삼성 공채의 재발견 | https://www.news1.kr/industry/general-industry/6282190 | a10,a12,a7
+2026-09-07 15:22 | viva100.com | 목동13단지 삼성물산 단독 응찰…목동 신시가지 ‘첫 래미안’ 성큼 | https://www.viva100.com/article/20260907500944 | a3
+2026-09-07 15:19 | ikbc.co.kr | '4대 그룹 유일 공채' 삼성, 삼전 등 19개사 8일 하반기 채용 돌입 | https://www.ikbc.co.kr/article/view/kbc202609070037 | a10,a12,a7
+2026-09-07 15:16 | insight.co.kr | GLXY 스튜디오, 신세계백화점 센텀시티점·강남점 연이어 오픈 | https://www.insight.co.kr/news/572228 | a5
+2026-09-07 15:15 | news.jtbc.co.kr | 삼성전자 하반기 정기 공채 열린다..."4대 그룹 중 70년째 유일 지속" | https://news.jtbc.co.kr/article/NB12317103?influxDiv=NAVER | a7
+2026-09-07 15:11 | joongang.co.kr | “더 채용할 여력 생겼다” 이재용의 약속…삼성 19개사 하반기 공채 | https://www.joongang.co.kr/article/25459746 | a10,a7
+2026-09-07 15:11 | magazine.hankyung.com | [속보]삼성, 하반기 채용문 연다 | https://magazine.hankyung.com/business/article/202609078946b | a7
+2026-09-07 15:10 | asiatime.co.kr | 삼성, 하반기 공채 시작…학력·성별 제한 없는 '열린 채용' 70년 이어간... | https://www.asiatime.co.kr/article/20260907500322 | a10,a12
 2026-09-07 15:06 | finance.biggo.com | Samsung to Hire 6,000 in Second-Half Open Recruitment, Betting on Semiconductor and AI Talent - finance.biggo.com | google:finance.biggo.com | aen1,aen3
-2026-09-07 15:04 | 조선일보 | Samsung Launches Second-Half Graduate Recruitment on September 8 - 조선일보 | google:조선일보 | aen1,aen4
-2026-09-07 15:04 | wikitree.co.kr | 9월 8일부터 시작...삼성 공채, 꼭 필요한 스펙은? | https://www.wikitree.co.kr/articles/1157821 | a1,a10,a12,a7
-2026-09-07 15:02 | techholic.co.kr | 삼성, 19개 관계사 '2026년 하반기 공채' 실시 | http://www.techholic.co.kr/news/articleView.html?idxno=222775 | a1,a10,a12,a7
+2026-09-07 15:04 | 조선일보 | Samsung Launches Second-Half Graduate Recruitment on September 8 - 조선일보 | google:조선일보 | aen1,aen3,aen4
+2026-09-07 15:04 | wikitree.co.kr | 9월 8일부터 시작...삼성 공채, 꼭 필요한 스펙은? | https://www.wikitree.co.kr/articles/1157821 | a10,a12
+2026-09-07 15:02 | techholic.co.kr | 삼성, 19개 관계사 '2026년 하반기 공채' 실시 | http://www.techholic.co.kr/news/articleView.html?idxno=222775 | a10,a12
 2026-09-07 15:00 | Nusantaraterkini.co | Bentrok Rebutan Lahan Sawit di Kuansing, 9 Orang Luka Bacok dan Terkena Panah - Nusantaraterkini.co | google:Nusantaraterkini.co | aid9
 2026-09-07 14:58 | Kabar Reskrim | Perwakilan Warga Datangi AJPLH Pelalawan Tuntut Pemeriksaan Menyeluruh dan Akan Gelar Aksi Massa - Kabar Reskrim | google:Kabar Reskrim | aid6
-2026-09-07 14:55 | news.kbs.co.kr | 삼성 하반기 채용 8일 시작…삼성전자 등 19개 관계사 참여 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8656501&ref=A | a1,a10,a12,a7
+2026-09-07 14:55 | news.kbs.co.kr | 삼성 하반기 채용 8일 시작…삼성전자 등 19개 관계사 참여 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8656501&ref=A | a10,a12
 2026-09-07 14:55 | finance.biggo.com | GS, Hoban Acquire Construction Robot Firm Robocon's CBs — Race to Automate Rebar Processing Heats Up in South Korea - finance.biggo.com | google:finance.biggo.com | aen1
 2026-09-07 14:54 | asiatime.co.kr | "얼마나 빌려주나"…서울 재건축 수주전 '금융조건' 경쟁 | https://www.asiatime.co.kr/article/20260907500294 | a3
-2026-09-07 14:51 | donga.com | 삼성, ‘70년 공채전통’ 이어간다…19개 계열사 하반기 신입채용 개시 | https://www.donga.com/news/Economy/article/all/20260907/134619419/1 | a10,a12,a7
-2026-09-07 14:50 | livebiz.today | 호실적에 삼성그룹 채용문 넓어질까...19개사 참여 하반기 공채 8일부터... | https://www.livebiz.today/news/articleView.html?idxno=204693 | a10,a12,a7
-2026-09-07 14:46 | sateconomy.co.kr | 삼성, 하반기 공채 돌입…19개 관계사 채용 나선다 | https://sateconomy.co.kr/news/view/1065591295766065 | a10,a12,a7
-2026-09-07 14:37 | fnnews.com | 삼성 하반기 채용문 열린다… 19개 관계사 참여 | https://www.fnnews.com/news/202609071408266780 | a10,a12,a7
-2026-09-07 14:34 | dealsite.co.kr | 美 바이오 '탈중국' 본격화…韓 바이오 기회 커진다 | https://dealsite.co.kr/articles/168547 | a7
-2026-09-07 14:30 | cnbnews.com | 삼성, 삼성전자 등 2026년 하반기 공채 실시 | https://www.cnbnews.com/news/articleView.html?idxno=1014694 | a10,a12,a7
-2026-09-07 14:28 | whitepaper.co.kr | 삼성 '하반기 공채' 시작, 15일까지 접수…19개 관계사 참여 | http://www.whitepaper.co.kr/news/articleView.html?idxno=266500 | a12,a7
+2026-09-07 14:51 | donga.com | 삼성, ‘70년 공채전통’ 이어간다…19개 계열사 하반기 신입채용 개시 | https://www.donga.com/news/Economy/article/all/20260907/134619419/1 | a10,a12
+2026-09-07 14:50 | livebiz.today | 호실적에 삼성그룹 채용문 넓어질까...19개사 참여 하반기 공채 8일부터... | https://www.livebiz.today/news/articleView.html?idxno=204693 | a10,a12
+2026-09-07 14:48 | getnews.co.kr | '4대그룹 중 유일' 삼성 하반기 공채 실시...전자·물산·바이오·전기 ... | https://www.getnews.co.kr/news/articleView.html?idxno=880018 | a10,a12
+2026-09-07 14:46 | sateconomy.co.kr | 삼성, 하반기 공채 돌입…19개 관계사 채용 나선다 | https://sateconomy.co.kr/news/view/1065591295766065 | a10,a12
+2026-09-07 14:37 | fnnews.com | 삼성 하반기 채용문 열린다… 19개 관계사 참여 | https://www.fnnews.com/news/202609071408266780 | a10,a12
+2026-09-07 14:30 | cnbnews.com | 삼성, 삼성전자 등 2026년 하반기 공채 실시 | https://www.cnbnews.com/news/articleView.html?idxno=1014694 | a10,a12
+2026-09-07 14:28 | whitepaper.co.kr | 삼성 '하반기 공채' 시작, 15일까지 접수…19개 관계사 참여 | http://www.whitepaper.co.kr/news/articleView.html?idxno=266500 | a10,a12
 2026-09-07 14:23 | DetakIndonesia.co.id | PTPN IV Regional III Bantu Satgas Tanggulangi Karhutla Riau di Tiga Kabupaten - DetakIndonesia.co.id | google:DetakIndonesia.co.id | aid8
 2026-09-07 14:22 | smartbizn.com | GLXY, 강남·센텀에 첫 '스튜디오'···국내 최상위 상권서 신규 고객 잡... | https://www.smartbizn.com/news/articleView.html?idxno=153194 | a10,a12,a5,a7
-2026-09-07 14:18 | economist.co.kr | '드디어 떴다' 삼성그룹 19개사 신입사원 하반기 공채 | https://economist.co.kr/article/view/ecn202609070038 | a10,a12,a7
+2026-09-07 14:18 | economist.co.kr | '드디어 떴다' 삼성그룹 19개사 신입사원 하반기 공채 | https://economist.co.kr/article/view/ecn202609070038 | a10,a12
 2026-09-07 14:16 | UA.NEWS | Samsung to begin entry-level recruitment at 19 companies in South Korea - UA.NEWS | google:UA.NEWS | aen1
-2026-09-07 14:16 | public25.com | 삼성, 8일부터 하반기 신입사원 공채…삼성전자 등 19개사 참여 | https://www.public25.com/news/articleView.html?idxno=54223 | a10,a12,a7
-2026-09-07 14:12 | biz.heraldcorp.com | 삼성, 내일부터 하반기 공채…삼성전자 등 19개사 지원서 접수 | https://biz.heraldcorp.com/article/10865048?ref=naver | a10,a12,a7
+2026-09-07 14:16 | public25.com | 삼성, 8일부터 하반기 신입사원 공채…삼성전자 등 19개사 참여 | https://www.public25.com/news/articleView.html?idxno=54223 | a10,a12
+2026-09-07 14:12 | biz.heraldcorp.com | 삼성, 내일부터 하반기 공채…삼성전자 등 19개사 지원서 접수 | https://biz.heraldcorp.com/article/10865048?ref=naver | a10,a12
 2026-09-07 14:11 | 헤럴드경제 | Samsung launches second-half recruitment drive at 19 affiliates starting Tuesday - 헤럴드경제 | google:헤럴드경제 | aen1,aen3
 2026-09-07 14:11 | detikcom | Bentrok 2 Kelompok Gegara Kebun Sawit di Kuansing, 9 Luka Bacok-Panah - detikcom | google:detikcom | aid9
-2026-09-07 14:08 | newsinside.kr | 삼성, 19개 관계사 하반기 공채 돌입…8일부터 접수 | https://www.newsinside.kr/news/articleView.html?idxno=4980845 | a10,a12,a7
-2026-09-07 14:07 | kizmom.com | 삼성 하반기 신입 공채 시작…15일까지 접수·10월 GSAT | https://www.kizmom.com/news/articleView.html?idxno=112581 | a10,a12,a7
-2026-09-07 14:06 | consumernews.co.kr | 삼성, 8일부터 전자·바이오 등 19개사 하반기 공채 접수 시작 | http://www.consumernews.co.kr/news/articleView.html?idxno=763204 | a10,a12,a7
-2026-09-07 14:06 | dailycar.co.kr | “학력 제한 폐지·열린 채용 문화 주도”..삼성, 하반기 신입 공채 ‘주... | https://www.dailycar.co.kr/content/news.html?type=view&autoId=62472 | a7
+2026-09-07 14:08 | newsinside.kr | 삼성, 19개 관계사 하반기 공채 돌입…8일부터 접수 | https://www.newsinside.kr/news/articleView.html?idxno=4980845 | a10,a12
+2026-09-07 14:07 | kizmom.com | 삼성 하반기 신입 공채 시작…15일까지 접수·10월 GSAT | https://www.kizmom.com/news/articleView.html?idxno=112581 | a10,a12
+2026-09-07 14:06 | consumernews.co.kr | 삼성, 8일부터 전자·바이오 등 19개사 하반기 공채 접수 시작 | http://www.consumernews.co.kr/news/articleView.html?idxno=763204 | a10,a12
 2026-09-07 14:04 | news.mtn.co.kr | 목동13단지, 삼성물산 단독 응찰…래미안 첫 깃발 '눈앞' | https://news.mtn.co.kr/news-detail/2026090713311356119 | a3
 2026-09-07 14:02 | koreatimes.co.kr | Samsung Group to begin 2nd-half 2026 open recruitment | https://www.koreatimes.co.kr/path/A2026090711160005790 | a11,a2,a8
-2026-09-07 14:02 | news.einfomax.co.kr | 삼성, 하반기 공채 실시…8일부터 지원서 접수 | https://news.einfomax.co.kr/news/articleView.html?idxno=4433756 | a10,a12,a7
-2026-09-07 14:02 | viva100.com | 삼성, 2026년 하반기 공채 실시⋯ 이재용 “일자리 창출 지속” | https://www.viva100.com/article/20260907500327 | a10,a12,a7
-2026-09-07 14:02 | thebigdata.co.kr | 삼성, 하반기 공채 실시…19개사 채용 | http://www.thebigdata.co.kr/view.php?ud=2026090711030986040ecbf9426b_23 | a10,a12,a7
-2026-09-07 14:02 | ajunews.com | 삼성, 4대 그룹 中 유일 '70년 공채' 전통 이어간다…8일부터 하반기 공... | https://www.ajunews.com/view/20260907091345897 | a10,a12,a7
-2026-09-07 14:02 | mediapen.com | "청년 일자리 약속 지킨다"… 이재용의 '동행 철학', 삼성 하반기 19개사... | https://www.mediapen.com/news/view/1121649 | a10,a7
-2026-09-07 14:02 | tfmedia.co.kr | 삼성전자 등 삼성 관계사 19곳, 8일부터 올해 하반기 공채 돌입 | https://www.tfmedia.co.kr/news/article.html?no=207032 | a10,a12,a7
-2026-09-07 14:02 | econovill.com | 삼성, 하반기 공채 19개사 8일 접수 시작 | https://www.econovill.com/news/articleView.html?idxno=750028 | a10,a12,a7
-2026-09-07 14:01 | The Korea Times | Samsung Group to begin 2nd-half 2026 open recruitment - The Korea Times | google:The Korea Times | aen1,aen3,aen4
+2026-09-07 14:02 | econovill.com | 삼성, 하반기 공채 19개사 8일 접수 시작 | https://www.econovill.com/news/articleView.html?idxno=750028 | a10,a12
+2026-09-07 14:02 | mediapen.com | "청년 일자리 약속 지킨다"… 이재용의 '동행 철학', 삼성 하반기 19개사... | https://www.mediapen.com/news/view/1121649 | a10
+2026-09-07 14:02 | tfmedia.co.kr | 삼성전자 등 삼성 관계사 19곳, 8일부터 올해 하반기 공채 돌입 | https://www.tfmedia.co.kr/news/article.html?no=207032 | a10,a12
+2026-09-07 14:02 | viva100.com | 삼성, 2026년 하반기 공채 실시⋯ 이재용 “일자리 창출 지속” | https://www.viva100.com/article/20260907500327 | a10,a12
+2026-09-07 14:02 | thebigdata.co.kr | 삼성, 하반기 공채 실시…19개사 채용 | http://www.thebigdata.co.kr/view.php?ud=2026090711030986040ecbf9426b_23 | a10,a12
+2026-09-07 14:02 | ajunews.com | 삼성, 4대 그룹 中 유일 '70년 공채' 전통 이어간다…8일부터 하반기 공... | https://www.ajunews.com/view/20260907091345897 | a10,a12
+2026-09-07 14:02 | news.einfomax.co.kr | 삼성, 하반기 공채 실시…8일부터 지원서 접수 | https://news.einfomax.co.kr/news/articleView.html?idxno=4433756 | a10,a12
 2026-09-07 14:01 | koreaherald.com | Samsung to begin second-half hiring across 19 affiliates | https://www.koreaherald.com/article/10865014?ref=naver | a11,a2,a8
-2026-09-07 14:01 | sedaily.com | 삼성, 하반기 6000명 공채 시작…‘AI·반도체·바이오’ 인재 대거 채용 | https://www.sedaily.com/article/20087883?ref=naver | a10,a12,a7
-2026-09-07 14:01 | hankookilbo.com | 삼성그룹 19개사 하반기 공채 8일부터 접수... 70년째 공채 계속 | https://www.hankookilbo.com/news/article/A2026090710040001524?did=NA | a7
-2026-09-07 14:01 | hankyung.com | "일자리 창출" 약속 지킨 이재용…삼성 '간판기업' 공채 돌입 | https://www.hankyung.com/article/202609078528g | a10,a12,a7
-2026-09-07 14:01 | mk.co.kr | 삼성, 8일부터 올 하반기 공채 실시…19개 관계사 일제히 채용 나서 | https://www.mk.co.kr/article/12145786 | a10,a12,a7
-2026-09-07 14:01 | sportsseoul.com | 삼성, 19개 계열사 하반기 공채 시작…“4대 그룹 유일 공채” | https://www.sportsseoul.com/news/read/1633323?ref=naver | a10,a12,a7
-2026-09-07 14:01 | nocutnews.co.kr | '인재 투자' 확대하는 삼성, 내일부터 하반기 공채 시작 | https://www.nocutnews.co.kr/news/6573932?utm_source=naver&utm_medium=article&utm_campaign=20260907020030 | a10,a12,a7
-2026-09-07 14:01 | zdnet.co.kr | 삼성, 하반기 공채 돌입…반도체·AI 인재 확보 | https://zdnet.co.kr/view/?no=20260907090637 | a7
-2026-09-07 14:01 | etnews.com | 삼성, 8일부터 하반기 공채 시작…70년째 '일자리 창출' 약속 이어간다 | https://www.etnews.com/20260907000146 | a7
-2026-09-07 14:01 | mydaily.co.kr | 삼성, 하반기 신입 공채 돌입…19개 관계사 채용문 활짝 | https://www.mydaily.co.kr/page/view/2026090709071597517 | a10,a12,a7
-2026-09-07 14:01 | inews24.com | 채용 한파에도 공채 지킨 삼성…하반기 19개사 신입사원 뽑는다 | http://www.inews24.com/view/2002526 | a10,a12,a7
-2026-09-07 14:00 | koreaherald.com | Samsung to begin second-half hiring across 19 affiliates - koreaherald.com | google:koreaherald.com | aen1,aen3,aen4
-2026-09-07 14:00 | newspim.com | 삼성, 8일부터 하반기 공채…이재용 '양질의 일자리' 약속 잇는다 | https://www.newspim.com/news/view/20260907000255 | a10,a12,a7
-2026-09-07 14:00 | srtimes.kr | 삼성, 하반기 공채 실시…70년 기조 이어간다 | http://www.srtimes.kr/news/articleView.html?idxno=211758 | a10,a12,a7
-2026-09-07 14:00 | newsis.com | "양질의 청년 일자리 지속 창출" 삼성 19개 관계사, 하반기 대규모 공채... | https://www.newsis.com/view/NISX20260907_0003778684 | a10,a12,a7
-2026-09-07 14:00 | huffingtonpost.kr | 이재용 삼성그룹 "양질의 일자리 창출" 약속 이어간다, 삼성전자 포함 ... | https://www.huffingtonpost.kr/article/260206 | a10,a12,a7
-2026-09-07 14:00 | kukinews.com | 삼성, 하반기 공채 시작…8일부터 19개 계열사 신입사원 뽑는다 | https://www.kukinews.com/article/view/kuk202609070050 | a10,a12,a7
-2026-09-07 14:00 | sidae.com | 삼성, 8일부터 15일까지 하반기 공채 지원서 접수 | https://www.sidae.com/article/2026090709113282811 | a10,a12,a7
-2026-09-07 14:00 | dt.co.kr | ‘청년고용 뚝심’ 이재용… 삼성, 하반기 공채 나선다 | https://www.dt.co.kr/article/12082431?ref=naver | a10,a12,a7
-2026-09-07 14:00 | newsfreezone.co.kr | 삼성, 19개 계열사 하반기 공채 돌입···4대그룹 유일 70년째 지속 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=707854 | a10,a12,a7
-2026-09-07 14:00 | inthenews.co.kr | 삼성, 70년 전통 2026년 하반기 신입 공채…19개 관계사 참여 | https://www.inthenews.co.kr/news/article.html?no=91512 | a10,a12,a7
-2026-09-07 14:00 | womentimes.co.kr | 삼성그룹, 2026년 하반기 공채...삼성전자 비롯해 19개 계열사서 채용일... | https://www.womentimes.co.kr/news/articleView.html?idxno=105990 | a10,a12,a7
-2026-09-07 14:00 | khan.co.kr | 삼성, 하반기 공채 8일부터 실시···삼성전자 등 19개 회사 | https://www.khan.co.kr/article/202609071400001 | a10,a12,a7
-2026-09-07 14:00 | webeconomy.co.kr | 삼성, 하반기 19개사 공채…8일부터 지원서 접수 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2292456 | a10,a12,a7
-2026-09-07 14:00 | moneystorm.kr | 삼성, 19개 계열사 채용 문 연다…하반기 공채 8일 시작 | https://www.moneystorm.kr/news/articleView.html?idxno=6265 | a10,a7
-2026-09-07 14:00 | newsdream.kr | 삼성 19개 계열사 하반기 공개 채용 돌입…'청년 일자리' 약속 지킨다 | http://www.newsdream.kr/news/articleView.html?idxno=117598 | a10,a12,a7
-2026-09-07 14:00 | joongang.co.kr | [포토타임] 삼성, 19개 관계사 하반기 공채…8일부터 접수 | https://www.joongang.co.kr/article/25459692 | a7
-2026-09-07 14:00 | womennews.co.kr | 삼성, 하반기 공채 시작… 15일까지 지원자 접수 | https://www.womennews.co.kr/news/articleView.html?idxno=281901 | a10,a12
-2026-09-07 14:00 | ngonews.kr | 삼성, 하반기 공채 실시···8일부터 15일까지 삼성 채용 홈페이지에서... | https://www.ngonews.kr/news/articleView.html?idxno=237417 | a10,a12,a14
-2026-09-07 14:00 | press9.kr | 삼성, 8일부터 19개사 하반기 공채...이재용 회장 "양질의 일자리 지속 ... | http://www.press9.kr/news/articleView.html?idxno=82255 | a10,a12
+2026-09-07 14:01 | inews24.com | 채용 한파에도 공채 지킨 삼성…하반기 19개사 신입사원 뽑는다 | http://www.inews24.com/view/2002526 | a10,a12
+2026-09-07 14:01 | nocutnews.co.kr | '인재 투자' 확대하는 삼성, 내일부터 하반기 공채 시작 | https://www.nocutnews.co.kr/news/6573932?utm_source=naver&utm_medium=article&utm_campaign=20260907020030 | a10,a12
+2026-09-07 14:01 | hankyung.com | "일자리 창출" 약속 지킨 이재용…삼성 '간판기업' 공채 돌입 | https://www.hankyung.com/article/202609078528g | a10,a12
+2026-09-07 14:01 | mk.co.kr | 삼성, 8일부터 올 하반기 공채 실시…19개 관계사 일제히 채용 나서 | https://www.mk.co.kr/article/12145786 | a10,a12
+2026-09-07 14:01 | sportsseoul.com | 삼성, 19개 계열사 하반기 공채 시작…“4대 그룹 유일 공채” | https://www.sportsseoul.com/news/read/1633323?ref=naver | a10,a12
+2026-09-07 14:01 | mydaily.co.kr | 삼성, 하반기 신입 공채 돌입…19개 관계사 채용문 활짝 | https://www.mydaily.co.kr/page/view/2026090709071597517 | a10,a12
+2026-09-07 14:01 | sedaily.com | 삼성, 하반기 6000명 공채 시작…‘AI·반도체·바이오’ 인재 대거 채용 | https://www.sedaily.com/article/20087883?ref=naver | a10,a12
+2026-09-07 14:00 | The Korea Herald | Samsung to begin second-half hiring across 19 affiliates - The Korea Herald | google:The Korea Herald | aen1,aen3,aen4
+2026-09-07 14:00 | worktoday.co.kr | 삼성, 8일부터 하반기 공채 시작 … 4대그룹 유일 1957년 이후 70년 연속... | http://www.worktoday.co.kr/news/articleView.html?idxno=88927 | a10,a12
+2026-09-07 14:00 | newsis.com | "올해 더 뽑을 여력"…이재용號 삼성, 호실적에 청년 채용문 더 넓히나 | https://www.newsis.com/view/NISX20260907_0003778941 | a10
+2026-09-07 14:00 | mt.co.kr | 삼성 가고 싶니? 8일부터 접수.."국내 유일, 70년째 신입 공채 유지" | https://www.mt.co.kr/industry/2026/09/08/2026090712240314589 | a10,a12
+2026-09-07 14:00 | the-pr.co.kr | 청년 일자리·국내 투자 확대…삼성, 2026년 하반기 공채 막 올랐다 | https://www.the-pr.co.kr/news/articleView.html?idxno=62544 | a10,a12
+2026-09-07 14:00 | dailian.co.kr | "삼성맨 될 기회 왔다"…19개사 하반기 공채 돌입 | https://www.dailian.co.kr/news/view/1687240/?sc=Naver | a10,a12
 2026-09-07 14:00 | asiaa.co.kr | 삼성, 하반기 공채 개시...전자·물산·바이오 등 19개사 참여 | https://www.asiaa.co.kr/news/articleView.html?idxno=261335 | a10,a12
 2026-09-07 14:00 | newscape.co.kr | 삼성, 하반기 신입 공채 실시…반도체·AI·바이오 인재 확보 | http://www.newscape.co.kr/news/articleView.html?idxno=124375 | a10,a12
-2026-09-07 14:00 | techm.kr | 삼성·LG "AI 시대, 우리와 함께 만들어요" | https://www.techm.kr/news/articleView.html?idxno=154963 | a10,a12
 2026-09-07 14:00 | etoday.co.kr | 삼성, 하반기 19개사 공채…이재용 ‘청년 일자리’ 약속 이어간다 | https://www.etoday.co.kr/news/view/2622494 | a10,a12
-2026-09-07 14:00 | mt.co.kr | 삼성 가고 싶니? 8일부터 접수.."국내 유일, 70년째 신입 공채 유지" | https://www.mt.co.kr/industry/2026/09/08/2026090712240314589 | a10,a12
-2026-09-07 14:00 | newsis.com | "올해 더 뽑을 여력"…이재용號 삼성, 호실적에 청년 채용문 더 넓히나 | https://www.newsis.com/view/NISX20260907_0003778941 | a10
-2026-09-07 14:00 | the-pr.co.kr | 청년 일자리·국내 투자 확대…삼성, 2026년 하반기 공채 막 올랐다 | https://www.the-pr.co.kr/news/articleView.html?idxno=62544 | a10,a12
-2026-09-07 14:00 | worktoday.co.kr | 삼성, 8일부터 하반기 공채 시작 … 4대그룹 유일 1957년 이후 70년 연속... | http://www.worktoday.co.kr/news/articleView.html?idxno=88927 | a10,a12
-2026-09-07 14:00 | dailian.co.kr | "삼성맨 될 기회 왔다"…19개사 하반기 공채 돌입 | https://www.dailian.co.kr/news/view/1687240/?sc=Naver | a10,a12
-2026-09-07 14:00 | biz.sbs.co.kr | '이 날만 기다렸다'…기대 부푼 취준생들 | https://biz.sbs.co.kr/article_hub/20000333061?division=NAVER | a10,a12
-2026-09-07 14:00 | sports.hankooki.com | 삼성, 하반기 신입사원 공채 돌입…19개 관계사 인재 채용 | https://sports.hankooki.com/news/articleView.html?idxno=6939210 | a10,a12
+2026-09-07 14:00 | techm.kr | 삼성·LG "AI 시대, 우리와 함께 만들어요" | https://www.techm.kr/news/articleView.html?idxno=154963 | a10,a12
+2026-09-07 14:00 | inthenews.co.kr | 삼성, 70년 전통 2026년 하반기 신입 공채…19개 관계사 참여 | https://www.inthenews.co.kr/news/article.html?no=91512 | a10,a12
+2026-09-07 14:00 | khan.co.kr | 삼성, 하반기 공채 8일부터 실시···삼성전자 등 19개 회사 | https://www.khan.co.kr/article/202609071400001 | a10,a12
+2026-09-07 14:00 | womentimes.co.kr | 삼성그룹, 2026년 하반기 공채...삼성전자 비롯해 19개 계열사서 채용일... | https://www.womentimes.co.kr/news/articleView.html?idxno=105990 | a10,a12
+2026-09-07 14:00 | newsdream.kr | 삼성 19개 계열사 하반기 공개 채용 돌입…'청년 일자리' 약속 지킨다 | http://www.newsdream.kr/news/articleView.html?idxno=117598 | a10,a12
 2026-09-07 14:00 | gokorea.kr | 삼성, 2026년 하반기 공채 실시…19개 관계사 채용 | https://www.gokorea.kr/news/articleView.html?idxno=877428 | a10,a12
-2026-09-07 14:00 | news1.kr | 삼성 하반기 공채 막 오른다…19개 관계사, 8~15일 일주일 접수 | https://www.news1.kr/industry/general-industry/6281947 | a10,a12
+2026-09-07 14:00 | sports.hankooki.com | 삼성, 하반기 신입사원 공채 돌입…19개 관계사 인재 채용 | https://sports.hankooki.com/news/articleView.html?idxno=6939210 | a10,a12
 2026-09-07 14:00 | view.asiae.co.kr | "4대 그룹 중 유일"…삼성, 19개 계열사 하반기 공채 '대문' 연다 | https://view.asiae.co.kr/article/2026090712525576714 | a10,a12
+2026-09-07 14:00 | biz.sbs.co.kr | '이 날만 기다렸다'…기대 부푼 취준생들 | https://biz.sbs.co.kr/article_hub/20000333061?division=NAVER | a10,a12
+2026-09-07 14:00 | news1.kr | 삼성 하반기 공채 막 오른다…19개 관계사, 8~15일 일주일 접수 | https://www.news1.kr/industry/general-industry/6281947 | a10,a12
+2026-09-07 14:00 | ngonews.kr | 삼성, 하반기 공채 실시···8일부터 15일까지 삼성 채용 홈페이지에서... | https://www.ngonews.kr/news/articleView.html?idxno=237417 | a10,a12,a14
+2026-09-07 14:00 | womennews.co.kr | 삼성, 하반기 공채 시작… 15일까지 지원자 접수 | https://www.womennews.co.kr/news/articleView.html?idxno=281901 | a10,a12
+2026-09-07 14:00 | dt.co.kr | ‘청년고용 뚝심’ 이재용… 삼성, 하반기 공채 나선다 | https://www.dt.co.kr/article/12082431?ref=naver | a10,a12
+2026-09-07 14:00 | sidae.com | 삼성, 8일부터 15일까지 하반기 공채 지원서 접수 | https://www.sidae.com/article/2026090709113282811 | a10,a12
+2026-09-07 14:00 | newsfreezone.co.kr | 삼성, 19개 계열사 하반기 공채 돌입···4대그룹 유일 70년째 지속 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=707854 | a10,a12
+2026-09-07 14:00 | srtimes.kr | 삼성, 하반기 공채 실시…70년 기조 이어간다 | http://www.srtimes.kr/news/articleView.html?idxno=211758 | a10,a12
+2026-09-07 14:00 | newspim.com | 삼성, 8일부터 하반기 공채…이재용 '양질의 일자리' 약속 잇는다 | https://www.newspim.com/news/view/20260907000255 | a10,a12
+2026-09-07 14:00 | kukinews.com | 삼성, 하반기 공채 시작…8일부터 19개 계열사 신입사원 뽑는다 | https://www.kukinews.com/article/view/kuk202609070050 | a10,a12
+2026-09-07 14:00 | huffingtonpost.kr | 이재용 삼성그룹 "양질의 일자리 창출" 약속 이어간다, 삼성전자 포함 ... | https://www.huffingtonpost.kr/article/260206 | a10,a12
+2026-09-07 14:00 | newsis.com | "양질의 청년 일자리 지속 창출" 삼성 19개 관계사, 하반기 대규모 공채... | https://www.newsis.com/view/NISX20260907_0003778684 | a10,a12
 2026-09-07 14:00 | 디지털투데이 | Samsung to hold second-half graduate recruitment, GSAT next month - 디지털투데이 | google:디지털투데이 | aen1,aen3
 2026-09-07 14:00 | 매일경제 | Samsung Group to Begin Second-Half Open Recruitment on the 8th, Hiring Across 19 Affiliates - 매일경제 | google:매일경제 | aen1,aen4
 2026-09-07 14:00 | Chosunbiz | Samsung launches 2026 H2 open hiring across 19 affiliates in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
 2026-09-07 14:00 | 아시아경제 | "The Only One Among the Big Four"... Samsung Opens Second Half Recruitment Doors Across 19 Affiliates - 아시아경제 | google:아시아경제 | aen1
 2026-09-07 13:56 | koreatimes.co.kr | Korea’s 1st US investment project stalled over unclear terms | https://www.koreatimes.co.kr/path/A2026090408370005224 | a2,aen1
 2026-09-07 13:54 | Sabang Merauke NEWS | 9 Orang Terluka Bentrok Pecah di Kuansing, Dipicu Perebutan Kebun Sawit - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid8,aid9
-2026-09-07 13:39 | Chosunbiz | Korean builders race to invest in Robocon to automate rebar work - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
 2026-09-07 13:24 | newswell.co.kr | "좀비 도시에서 탈출하라"… 에버랜드 가을축제 12일 오픈 | http://www.newswell.co.kr/news/articleView.html?idxno=21669 | a6
 2026-09-07 13:14 | etoday.co.kr | 세빌스코리아, 의왕 백운밸리 메디컬·시니어 콤플렉스 내 시니어 레지... | https://www.etoday.co.kr/news/view/2622620 | a3
+2026-09-07 13:04 | newspost.kr | 삼성물산 패션, 'GLXY 스튜디오' 첫선…이랜드 스파오, 성수 '스파오프렌... | https://www.newspost.kr/news/articleView.html?idxno=225480 | a10,a12,a5,a7
 2026-09-07 12:48 | sports.donga.com | 에버랜드 ‘블러드시티 제로’ 좀비 출근 시간은 오후 4시 | https://sports.donga.com/life/article/all/20260907/134617774/1 | a6
 2026-09-07 12:13 | Tribunpekanbaru.com | Konflik Lahan Sawit di Kuansing Memanas, 9 Orang Luka-Luka, Polisi Siaga Cegah Bentrok Susulan - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid9
+2026-09-07 12:06 | wsobi.com | 패션업계, 서울·부산 신규 매장 오픈...시장 공략 강화 | http://www.wsobi.com/news/articleView.html?idxno=317669 | a10,a12,a5,a7
+2026-09-07 11:48 | kdfnews.com | 판매 넘어 '경험'으로…패션업계, 오프라인 매장 역할 넓힌다 | http://www.kdfnews.com/news/articleView.html?idxno=187625 | a5
 2026-09-07 11:37 | fnnews.com | 에버랜드, '좀비 도시' 된다...'블러드시티 제로' 12일 오픈 | https://www.fnnews.com/news/202609071013076587 | a6
 2026-09-07 11:18 | TipRanks | Hanyang ENG Wins KRW 148 Billion Piping Contract from Samsung C&T - TipRanks | google:TipRanks | aen1
 2026-09-07 11:18 | shinailbo.co.kr | 남성복 名家 삼성 갤럭시, 큐레이션 공간 '탈바꿈' | https://www.shinailbo.co.kr/news/articleView.html?idxno=5059131 | a10,a12,a5
 2026-09-07 11:15 | yna.co.kr | 삼성물산 'GLXY', 신세계 센텀시티·강남점에 스튜디오 첫선 | https://www.yna.co.kr/view/AKR20260907066000030?input=1195m | a5
-2026-09-07 10:42 | ktnews.com | GLXY 글로벌 브랜드 큐레이션 강화...센텀시티·강남점에 전략매장 | http://www.ktnews.com/news/articleView.html?idxno=148269 | a5
+2026-09-07 10:46 | The Korea Times | Samsung Group to begin second-half 2026 open recruitment - The Korea Times | google:The Korea Times | aen1,aen3,aen4
 2026-09-07 10:38 | RiauNews.com | Bentrokan Konflik Lahan 80 Hektare di Kuansing, 9 Orang Luka-luka - RiauNews.com | google:RiauNews.com | aid9
 2026-09-07 10:07 | sports.khan.co.kr | 초고령사회… 주거·의료·여가 갖춘 복합단지 주목 | https://sports.khan.co.kr/article/202609071006003?pt=nv | a12
-2026-09-07 10:06 | asiatime.co.kr | 건설업계 데이터센터 사업 드라이브…기술·인력 확보 총력 | https://www.asiatime.co.kr/article/20260907500078 | a3
 2026-09-07 10:06 | fashionn.com | 삼성물산 갤럭시 라이프스타일, 브랜드 정체성과 글로벌 감각 ‘GLXY 스... | http://www.fashionn.com/board/read_new.php?table=1006&number=62305 | a5
 2026-09-07 09:56 | etnews.com | 에버랜드, '블러드시티' 10주년…이석훈 감독과 호러 콘텐츠 강화 | https://www.etnews.com/20260907000094 | a6
 2026-09-07 09:54 | 헤럴드경제 | Kospi reclaims 6,900 on semiconductor surge fueled by OpenAI's Astra launch - 헤럴드경제 | google:헤럴드경제 | aen1
@@ -172,29 +244,12 @@
 2026-09-07 09:38 | news1.kr | "좀비도시에서 탈출하라"…에버랜드, 가을 호러 테마존 '블러드시티 제... | https://www.news1.kr/industry/hotel-tourism/6281726 | a6
 2026-09-07 09:25 | finance.biggo.com | KOSPI Surges 3% at Open, Settles Above 6,900; Samsung Electronics and SK Hynix Rally 4–5% - finance.biggo.com | google:finance.biggo.com | aen1
 2026-09-07 09:24 | 디지털투데이 | KOSPI surges past 6,900 on semiconductor rally as foreigners and institutions lead buying - 디지털투데이 | google:디지털투데이 | aen1
+2026-09-07 09:15 | enewstoday.co.kr | 단독 매장서 '큐레이션'으로···매장 실험 나서는 GLXY | http://www.enewstoday.co.kr/news/articleView.html?idxno=2467247 | a10,a12,a5,a7
 2026-09-07 09:06 | idsn.co.kr | 한국해비타트, ‘2026 한국번개건축’ 성료…춘천 주택 6개 동 건축 | https://idsn.co.kr/news/view/1065588335442000 | a14
 2026-09-07 09:02 | thebilliards.kr | 한국해비타트, 춘천서 '한국번개건축' 진행…125명 봉사 참여 | https://www.thebilliards.kr/news/articleView.html?idxno=31844 | a14
 2026-09-07 09:00 | woodkorea.co.kr | 신혼부부 보금자리 위해… 한국해비타트, 16회째 '한국번개건축(KBB)' 성... | https://www.woodkorea.co.kr/news/articleView.html?idxno=91173 | a14
 2026-09-07 08:43 | 아시아경제 | ‘GLXY Studio’, a Playground for Fashion Enthusiasts, Makes Its Debut - 아시아경제 | google:아시아경제 | aen1
 2026-09-07 08:43 | view.asiae.co.kr | 패션피플 놀이터 'GLXY 스튜디오' 매장 첫 선 | https://view.asiae.co.kr/article/2026090708091946504 | a5
 2026-09-07 08:43 | biz.heraldcorp.com | “좀비 도시서 직접 탈출”…에버랜드, ‘블러드시티 제로’ 12일 개막 | https://biz.heraldcorp.com/article/10864316?ref=naver | a6
-2026-09-07 08:42 | 헤럴드경제 | Everland to open 'Blood City Zero' immersive horror experience Saturday - 헤럴드경제 | google:헤럴드경제 | aen1
 2026-09-07 08:39 | newsis.com | GLXY 대표 상품·글로벌 브랜드 한 자리에…'GLXY 스튜디오' 오픈 | https://www.newsis.com/view/NISX20260907_0003778449 | a5
 2026-09-07 08:39 | news1.kr | 에버랜드, 호러 테마존 '블러드시티 제로' 오픈 | https://www.news1.kr/photos/8091265 | a6
-2026-09-07 08:36 | news1.kr | 삼성물산, 신세계百 강남점·센텀시티점 'GLXY 스튜디오' 오픈 | https://www.news1.kr/industry/distribution/6281622 | a5
-2026-09-07 08:28 | smarttoday.co.kr | [정비사업 디코드] 삼성·롯데·GS·포스코·IPARK현산, 미아2구역 시공... | https://www.smarttoday.co.kr/ko-kr/articles/111217 | a3
-2026-09-07 08:27 | yna.co.kr | 에버랜드, 이머시브 호러 테마존 '블러드시티 제로' 12일 오픈 | https://www.yna.co.kr/view/PYH20260907023300013?input=1196m | a6
-2026-09-07 08:21 | 아시아경제 | "The Horror Capital That Drew 10 Million Visitors: Everland Teams Up with Film Director for Zombie Escape in the City" - 아시아경제 | google:아시아경제 | aen1
-2026-09-07 08:21 | view.asiae.co.kr | "1000만명 몰린 호러 성지"…에버랜드, 영화감독 손잡고 좀비 도심 탈출... | https://view.asiae.co.kr/article/2026090708212924487 | a6
-2026-09-07 08:20 | thefairnews.co.kr | "좀비 영화 주인공이 되다"…에버랜드, 몰입형 호러 '블러드시티 제로'... | https://www.thefairnews.co.kr/news/articleView.html?idxno=87226 | a10,a12,a6,a7
-2026-09-07 08:19 | news1.kr | 에버랜드 '블러드시티 제로'에서 추억 남겨요 | https://www.news1.kr/photos/8091256 | a6
-2026-09-07 08:12 | thebell.co.kr | [더벨]삼성물산 미국 파트너 된 IMM인베, '인프라 확장' 맞손 | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609021636358640101793 | a10,a2,a4,a7
-2026-09-07 08:12 | dealsite.co.kr | 나진상가-KKR 데이터센터-삼성물산까지…IMM의 변신 | https://dealsite.co.kr/articles/168331 | a4
-2026-09-07 08:12 | newstree.kr | [기후리더] 제약·바이오 부문 1위 '대웅제약'...A 이상은 3곳뿐 | https://www.newstree.kr/newsView/ntr202608250020 | a9
-2026-09-07 07:25 | Jernih.co | Apakah Perusahaan Perkebunan Asing Mengagunkan HGU? - Jernih.co | google:Jernih.co | aid11
-2026-09-07 07:01 | Seoul Economic Daily | Samsung Biologics Raises 3 Trillion Won to Enter Peptide CDMO Market - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-09-07 06:30 | mt.co.kr | 일단 때리고 보자? 과징금·기업조사 폭주…기업들만 멍든다 | https://www.mt.co.kr/living/2026/09/07/2026090618313936874 | a12
-2026-09-07 06:12 | hitnews.co.kr | "프로티나, AI·SPID로 신약개발 '공장화'… 매년 2~3개 공개" | https://www.hitnews.co.kr/news/articleView.html?idxno=78934 | a10
-2026-09-07 04:07 | Enerdata | Studsvik selects GE and Samsung for a 1.2 GW SMR project in Sweden - Enerdata | google:Enerdata | aen1
-2026-09-07 01:22 | LiputanOke.Com | Bentrokan Pecah di Kuansing, 9 Orang Luka-Luka Akibat Konflik Lahan - LiputanOke.Com | google:LiputanOke.Com | aid9
-2026-09-07 00:46 | Kilasriau.com | Kesepakatan Baru Sehari, Sengketa Kebun 80 Hektare di Muara Langsat Pecah Berdarah: 9 Orang Terluka - Kilasriau.com | google:Kilasriau.com | aid9
