@@ -1,57 +1,69 @@
-# collected: 2026-09-09 08:02 KST
-# window: 2026-09-08 00:00 ~ 2026-09-09 08:02 KST
-# part 1 of 1, lines: 52
+# collected: 2026-09-10 08:02 KST
+# window: 2026-09-09 00:00 ~ 2026-09-10 08:02 KST
+# part 1 of 1, lines: 64
 # format: date | media | title | url | tags
 
+2026-09-10 07:02 | dealsite.co.kr | 삼성전자 역대급 배당에 삼성물산 주주 ‘방긋’ | https://dealsite.co.kr/articles/168579 | a1
+2026-09-10 07:02 | investchosun.com | [Invest]10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 ... | https://www.investchosun.com/site/data/html_dir/2026/09/09/2026090980128.html | a7?
+2026-09-10 06:00 | Chosunbiz | US plan for 8 reactors lifts Korea nuclear stocks as reactor choice looms - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
+2026-09-10 02:49 | International Institute for Sustainable Development | English court sets aside in part an investment treaty award in favour of a Samsung C&T shareholder - International Institute for Sustainable Development | google:International Institute for Sustainable Development | aen1
+2026-09-09 22:52 | wartapembaruan.co.id | Kodam XIX/Tuanku Tambusai Perkuat Penanganan Karhutla, Pangdam Tinjau Langsung Lokasi di Inhu - wartapembaruan.co.id | google:wartapembaruan.co.id | aid7
+2026-09-09 22:25 | MetroTVNews.com | Kapolda-Pangdam Turun Tangani Karhutla Riau, Motivasi Personel di Lapangan - MetroTVNews.com | google:MetroTVNews.com | aid7
+2026-09-09 22:18 | detikNews | Kapolda Riau dan Pangdam Cek Karhutla di Inhu, Tegaskan Upaya Kolaboratif - detikNews | google:detikNews | aid7
+2026-09-09 21:56 | Benzinga | OpenAI Deepens Samsung Partnership to Build Next-Gen AI Chips — ‘One of the Areas Where We’ve Made the Mo - Benzinga | google:Benzinga | aen1
+2026-09-09 21:39 | Yahoo Finance Singapore | AmMax Bio Names Suneel K. Gupta, Ph.D. as Chief Scientific Officer to Advance Novel ADC Portfolio - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-09 20:56 | LiputanOke.Com | Buka Lahan dengan Cara Dibakar, 3 Warga Teluk Meranti Ditangkap Polisi - LiputanOke.Com | google:LiputanOke.Com | aid6
+2026-09-09 20:40 | BUALBUAL.com | Kapolres dan Dandim Inhu Pimpin Pemadaman Karhutla di Batang Cenaku - BUALBUAL.com | google:BUALBUAL.com | aid8
+2026-09-09 20:37 | BukaMata.Co | Lonjakan Hotspot Riau Tembus 245 Titik, Asap Pekat Selimuti Pekanbaru Hingga Jarak Pandang 3 KM - BukaMata.Co | google:BukaMata.Co | aid6
+2026-09-09 20:36 | Yahoo Finance Singapore | Montreal-Based Proteus Labs Partners with Avantis Education to Bring Immersive Virtual Science Labs to Classrooms Worldwide - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-09 20:32 | Sabang Merauke NEWS | Pembukaan Lahan Picu Kebakaran SM Kerumutan, Tiga Tersangka Ditahan - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid6
+2026-09-09 20:30 | Riau Pos | Hotspot di Inhu Masih Tertinggi di Riau, Kapolres dan Dandim Bermalam di Lokasi Karhutla - Riau Pos | google:Riau Pos | aid8
+2026-09-09 19:43 | tipikorinvestigasinews.id | 500 HEKTARE LAHAN GAMBUT DI BANGKO DISENGKETAKAN: JMGR Minta Kepastian Status Agar Digunakan Masyarakat - tipikorinvestigasinews.id | google:tipikorinvestigasinews.id | aid9
+2026-09-09 19:39 | The Next Web | Samsung chairman Lee Jae-yong will buy $1.4bn of shares from his mother in October - The Next Web | google:The Next Web | aen1
+2026-09-09 19:31 | finance.biggo.com | Lee Jae-yong to Buy Mother Hong Ra-hee's Samsung Electronics Stake for approximately $1.4 Billion, Raising His Holding to 1.58% - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-09 19:23 | JPNN.com | Terima Aduan Konflik Agraria di Sungai Bungur, BAM DPR RI Bakal Kunjungi Jambi - JPNN.com | google:JPNN.com | aid9
+2026-09-09 19:04 | Korea JoongAng Daily | Samsung chief to buy $1.45 billion in shares from mother - Korea JoongAng Daily | google:Korea JoongAng Daily | aen1
+2026-09-09 18:53 | sawitsetara.co | 75 Peserta Beasiswa SDM BPDP dari Inhu Lulus, APKASINDO Dorong Penambahan Kuota - sawitsetara.co | google:sawitsetara.co | aid8
+2026-09-09 18:46 | LiputanOke.Com | Bermalam di Lokasi, Kapolres Inhu Kebut Pemadaman Kebakaran Lahan 20 Hektare - LiputanOke.Com | google:LiputanOke.Com | aid8
+2026-09-09 18:44 | RiauPagi.com | PT TPP dan BPN Digugat karena Abai Atas Penderitaan Rakyat Selama Puluhan Tahun, Mantan Gubri: Pusat Segera Audit HGU Perusahaan - RiauPagi.com | google:RiauPagi.com | aid8,aid9
+2026-09-09 18:34 | JUVE Patent | Five biosimilar manufacturers attack Millenium’s Entyvio patents in London - JUVE Patent | google:JUVE Patent | aen4
+2026-09-09 18:26 | en.sedaily.com | Jay Y. Lee to Buy 1.9 Trillion Won Stake From Mother - en.sedaily.com | google:en.sedaily.com | aen1
+2026-09-09 17:50 | popcornnews.net | 삼성물산 패션 빈폴골프, 'BPG' 새 심볼 공개...퍼포먼스·헤리티지로 고... | http://www.popcornnews.net/news/articleView.html?idxno=132409 | a1
+2026-09-09 17:45 | Chosunbiz | Korea Lilly wins KHIDI commendation for boosting bio open innovation - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-09 17:30 | g-enews.com | 삼성바이오로직스 임단협, 1차 사후조정서 합의 불발…추석 전 타결 가... | https://www.g-enews.com/view.php?ud=202609091556198634b065b72042_1 | a7
+2026-09-09 17:29 | MetroTVNews.com | Kapolres-Dandim Bermalam di Lokasi, Pimpin Pemadaman Karhutla 20 Hektare di Inhu - MetroTVNews.com | google:MetroTVNews.com | aid8
+2026-09-09 16:57 | 매일경제 | Major domestic construction companies are making all-out efforts to improve their constitution with - 매일경제 | google:매일경제 | aen1
+2026-09-09 16:42 | businesspost.co.kr | 삼성물산 패션부문과 LF 중국 진출 20년 성과 명암, '직영' 빈폴은 더뎠... | https://www.businesspost.co.kr/BP?command=article_view&num=446789 | a1,a4,a5
+2026-09-09 16:33 | Satuju | DPRD Riau Desak Truk Galian C dan Sawit Overload Ditertibkan di Kampar - Satuju | google:Satuju | aid11
+2026-09-09 16:32 | 헤럴드경제 | Kospi finally reclaims 7,000 after monthlong wait; retail investors dump 16.8tr won - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-09 15:58 | 디지털투데이 | KOSPI reclaims 7,000 level, up 1.40 percent on institutional buying - 디지털투데이 | google:디지털투데이 | aen1
+2026-09-09 15:58 | 아시아경제 | KOSPI Surges Over 1%, Closes Above 7000 for First Time in Two Months - 아시아경제 | google:아시아경제 | aen1
+2026-09-09 15:30 | finance.biggo.com | OpenAI Says 'Stargate Korea' Delayed Beyond Expectations… Samsung, SK Coordination Ongoing - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-09 15:26 | theguru.co.kr | "사측 빈손" 주장하더니… 삼성바이오로직스 노조 '합의 파기·왜곡' 논... | https://www.theguru.co.kr/news/article.html?no=106890 | a7
+2026-09-09 15:01 | detikNews | Maksimalkan Penanganan Karhutla Inhu, Kapolres dan Dandim Bermalam di TKP - detikNews | google:detikNews | aid8
+2026-09-09 14:51 | 매일경제 | JR Global REIT has lost a UK lawsuit over the appraisal of Belgium's Finance Tower.According to JR G.. - 매일경제 | google:매일경제 | aen1,aen2
+2026-09-09 14:42 | pointdaily.co.kr | '원브랜드 26년' 래미안의 고집...조합원 눈높이 맞출 차별화 카드는 | https://www.pointdaily.co.kr/news/articleView.html?idxno=318640 | a1?,a3?
+2026-09-09 14:18 | cnbnews.com | [부고] 신권식 (전 삼성물산 부사장)씨 모친상 | https://www.cnbnews.com/news/articleView.html?idxno=1015054 | a1
+2026-09-09 13:54 | financialpost.co.kr | 현대건설·GS건설·삼성물산, 도시정비 수주 '탑 3' 차지…순위 바뀔 가... | https://www.financialpost.co.kr/news/articleView.html?idxno=274727 | a1
+2026-09-09 13:30 | inkl | Global Market: South Korean shares surge as Samsung, SK Hynix rally on AI optimism - inkl | google:inkl | aen3
+2026-09-09 13:10 | Gagasanriau.com | Pemadaman Karhutla Lahan Sawit Anak Talang, Terkendala Akses dan Sinyal, Baru 2 Hektar Berhasil Dipadamkan - Gagasanriau.com | google:Gagasanriau.com | aid8
+2026-09-09 12:12 | kompas1net | Maksimalkan Penanganan Karhutla Di Inhu, Kapolres Bersama Dandim Bermalam dan Beribadah di Lokasi - kompas1net | google:kompas1net | aid8
+2026-09-09 11:33 | finance.biggo.com | Sandoz to Expand Biosimilar Portfolio to 100 Products by 2040, Targeting Doubled Revenue by 2035 - finance.biggo.com | google:finance.biggo.com | aen4
+2026-09-09 11:09 | finance.biggo.com | South Korean Conglomerate Owner Families Hold ₩331 Trillion in Stock Value; Samsung Tops at 14.6% of Group Assets - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-09 10:51 | 아시아경제 | Is 'Settlement Before Chuseok' Out of Reach Again?... Samsung Biologics Labor-Management Talks at Another Crossroads - 아시아경제 | google:아시아경제 | aen3
+2026-09-09 10:48 | kukinews.com | 삼성바이오로직스 노사, 1차 사후조정 합의 못해…10~11일 추가 교섭 | https://www.kukinews.com/article/view/kuk202609090046 | a7
+2026-09-09 10:38 | RiauPagi.com | PT Tunggal Perkasa Plantation Padamkan Lahan Terbakar di Desa Sungai Guntung Hilir - RiauPagi.com | google:RiauPagi.com | aid8
+2026-09-09 10:01 | dailian.co.kr | 문수로 비스타 더파크, 삼성물산 특화 조경으로 주거가치 향상 | https://www.dailian.co.kr/news/view/1687739/?sc=Naver | a1
+2026-09-09 09:46 | dealsite.co.kr | 삼성바이오로직스 노사 1차 사후 조정 결렬 | https://dealsite.co.kr/articles/168689 | a7
+2026-09-09 09:18 | 디지털투데이 | KOSPI opens higher, renews bid to hold 7,000 level - 디지털투데이 | google:디지털투데이 | aen1
+2026-09-09 09:12 | BeritaRiau.com | Pemkab Kuansing Mediasi Sengketa Lahan RAPP dan Masyarakat Desa Koto Baru - BeritaRiau.com | google:BeritaRiau.com | aid9
+2026-09-09 09:02 | news.sbs.co.kr | Only One Among Top Four Groups: Why Has Samsung Kept 'Open Recruitment' for 70 Years? - news.sbs.co.kr | google:news.sbs.co.kr | aen1
+2026-09-09 08:48 | 헤럴드경제 | RESCENE's 'love attack' on Donghae: idols shout out Mukho, Mangsang on a 'field trip' - 헤럴드경제 | google:헤럴드경제 | aen1
 2026-09-09 07:00 | biz.heraldcorp.com | 삼성바이오로직스, 하반기 신입 공채 개막…‘채용 한파’ 뚫고 미래 바... | https://biz.heraldcorp.com/article/10866061?ref=naver | a7
+2026-09-09 07:00 | 헤럴드경제 | Samsung Biologics launches second-half recruitment drive amid industry hiring freeze - 헤럴드경제 | google:헤럴드경제 | aen3
 2026-09-09 05:56 | pharmnews.com | [칼럼] 삼성바이오로직스, 패스트 팔로워를 넘어 '베스트 무버'로 | https://www.pharmnews.com/news/articleView.html?idxno=306143 | a7
 2026-09-09 04:10 | mt.co.kr | 영토 넓히는 삼성물산… 여의도 '래미안 벨트' 구축 눈앞 | https://www.mt.co.kr/estate/2026/09/09/2026090819544344522 | a1
-2026-09-08 23:19 | Moomoo | Pharmaceutical CDMO Market to Reach US$ 270.3 Bn by 2031, Growing at 7.2% CAGR, New Report by Wissen Research - Moomoo | google:Moomoo | aen3
-2026-09-08 22:08 | newstomato.com | 삼성바이오로직스 사후조정 2차 회의, 1주일 후 재개 | http://www.newstomato.com/ReadNews.aspx?no=1313030&inflow=N | a7
-2026-09-08 22:00 | Riauterbit.com | Gejolak Panas RDP Komisi 1 DPRD Kampar: Jawaban Keluhan Masyarakat, Humas Elang 3 Hambalang Riau Disoraki - Riauterbit.com | google:Riauterbit.com | aid9
-2026-09-08 21:54 | RIAUTERKINI.COM | Polisi Intensifkan Imbauan Pencegahan Karhutla Lewat Halo-halo Keliling - RIAUTERKINI.COM | google:RIAUTERKINI.COM | aid5
-2026-09-08 21:26 | 아시아경제 | Samsung Biologics Wage Talks Stalled... Union Warns "All Measures on the Table" If Gridlock Persists (Comprehensive) - 아시아경제 | google:아시아경제 | aen3
-2026-09-08 20:31 | Energies Media | Studsvik and partners agree to develop 1.2 GW BWRX-300 nuclear project at one of two Swedish sites - Energies Media | google:Energies Media | aen1
-2026-09-08 20:10 | RiauPagi.com | Pengelolaan Kebun Sawit Sitaan Satgas PKH Sisakan Kegaduhan dan Konflik Sosial, Aktivis: 'Ada Terkesan Pemulihan Lahan dan Pergantian Penguasaan' - RiauPagi.com | google:RiauPagi.com | aid9
-2026-09-08 20:00 | g-enews.com | [부고] 신권식(전 삼성물산 부사장)씨 모친상 | https://www.g-enews.com/view.php?ud=20260908195250142914b1077807_1 | a1
-2026-09-08 19:32 | TipRanks | Studsvik Taps GE Vernova Hitachi and Samsung C&T for 1.2 GW Swedish SMR Project - TipRanks | google:TipRanks | aen1
-2026-09-08 19:20 | 재경일보 | Samsung Biologics Labor and Management Hold "Dramatic" Additional Negotiations Ahead of Sept. 15 Meeting…Will Months of Conflict Finally End? - 재경일보 | google:재경일보 | aen3
-2026-09-08 19:16 | ESS News | Samsung secures grid clearance for 400 MWh battery in Australia - ESS News | google:ESS News | aen1
-2026-09-08 18:24 | smartbizn.com | 삼성바이오 노사, 파업 넉달 만에 다시 교섭 돌입 | https://www.smartbizn.com/news/articleView.html?idxno=153386 | a7?
-2026-09-08 18:15 | TipRanks | Samsung Electronics Reports Minor Adjustments in Major Shareholders’ Stakes - TipRanks | google:TipRanks | aen1
-2026-09-08 17:53 | Tribunpekanbaru.com | Warga Ramai-ramai Tanam Sawit di Lahan Perusahaan,Plt Bupati Kuansing Minta Semua Pihak Menahan Diri - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid9
-2026-09-08 17:44 | inews24.com | 삼성바이오로직스 노사, 1차 사후조정 합의 불발⋯15일 2차 조정 | http://www.inews24.com/view/2003398 | a7
-2026-09-08 17:43 | Chosunbiz | Samsung Biologics labor, management clash on wages as post-mediation resumes - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-09-08 17:28 | daily.hankooki.com | 삼성바이오로직스 노사, 사후조정 계속…15일 2차 회의 | https://daily.hankooki.com/news/articleView.html?idxno=1403982 | a7
-2026-09-08 17:24 | ebn.co.kr | 삼성바이오로직스 노사 사후 조정 결렬…15일 2차 조정 회의 | https://www.ebn.co.kr/news/articleView.html?idxno=1723480 | a7
-2026-09-08 17:11 | Aju Press | Samsung Biologics, union to bargain under mediators watch - Aju Press | google:Aju Press | aen3
-2026-09-08 17:07 | mydaily.co.kr | 삼성바이오로직스, 노사 다시 협상대…10~11일 재교섭·15일 2차 조정 | https://www.mydaily.co.kr/page/view/2026090817064917900 | a7
-2026-09-08 17:00 | safetimes.co.kr | [부고종합·8일] 신권식 전 삼성물산 부사장 모친상 등 | https://www.safetimes.co.kr/news/articleView.html?idxno=245538 | a1
-2026-09-08 16:58 | sisajournal-e.com | 파업에도 최대 실적···삼성바이오로직스, 달라진 협상 셈법 | https://www.sisajournal-e.com/news/articleView.html?idxno=423586 | a7
-2026-09-08 16:50 | 아시아경제 | Samsung Biologics Labor and Management Fail to Reach Agreement in Post-Mediation... Second Session Set for the 15th - 아시아경제 | google:아시아경제 | aen3
-2026-09-08 16:48 | news.mtn.co.kr | 삼성바이오로직스 노사, 첫 사후조정 마쳐…15일 다시 만난다 | https://news.mtn.co.kr/news-detail/2026090816391284099 | a7
-2026-09-08 16:41 | Bela Rakyat | Konflik Sawit di Kuansing Memanas, Siti Aisyah Desak Negara Hadir dan Lindungi Rakyat - Bela Rakyat | google:Bela Rakyat | aid9
-2026-09-08 16:29 | Chosunbiz | Samsung Biologics labor-management deadlock prompts second Korea mediation Sept. 15 - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-09-08 16:20 | Indragirione.com | Harga TBS Sawit Riau Naik 1,51 Persen, Petani Indragiri Terima Rp3.943 per Kilogram - Indragirione.com | google:Indragirione.com | aid8
-2026-09-08 16:19 | Renewables Now | Samsung C&T wins permit to connect 400-MWh Aussie BESS - Renewables Now | google:Renewables Now | aen1
-2026-09-08 16:06 | Bagynews.com | Sengketa Tanah Ulayat Memanas, Pemkab Kuansing Desak PT RAPP dan Masyarakat Lakukan Moratorium - Bagynews.com | google:Bagynews.com | aid9
-2026-09-08 16:00 | cnbizm.com | 삼성물산 패션, 'GLXY 스튜디오' 개점… 남성 캐주얼 고객층 확대 | https://www.cnbizm.com/news/articleView.html?idxno=314344 | a1
-2026-09-08 15:56 | 아시아경제 | KOSPI Closes Lower at 6,950 on Net Selling by Individual Investors - 아시아경제 | google:아시아경제 | aen1
-2026-09-08 15:24 | ktnews.com | 부음. 신권식 前 삼성물산 패션부문 고문 모친상 | http://www.ktnews.com/news/articleView.html?idxno=148350 | a1,a5
-2026-09-08 15:20 | press9.kr | 삼성물산, UAE 2.5~2.7GW 알조라 복합화력 EPC 수주전 후보 | http://www.press9.kr/news/articleView.html?idxno=82400 | a1
-2026-09-08 14:52 | Chosunbiz | Seoul’s Mok-dong plans 4,209 homes as LH launches urban complex bid - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
-2026-09-08 14:06 | financialpost.co.kr | 삼성물산 이어 GS·호반까지…건설 현장 로봇으로 바꾸는 건설사들 | https://www.financialpost.co.kr/news/articleView.html?idxno=274508 | a1
-2026-09-08 13:22 | BioSpace | 4 CDMOs to consider when outsourcing manufacturing - BioSpace | google:BioSpace | aen3
-2026-09-08 13:06 | finance.biggo.com | OpenAI Korea Chief: "AI Must Connect to Data and Tools to Work" — Enterprise Adoption Gap Reaches 8.3x - finance.biggo.com | google:finance.biggo.com | aen13
-2026-09-08 12:24 | econonews.co.kr | 삼성물산 패션, 'GLXY 스튜디오'  신세계백화점 센텀·강남점 리뉴얼 오... | http://www.econonews.co.kr/news/articleView.html?idxno=444016 | a1
-2026-09-08 12:00 | Majalah Sawit Indonesia | PTPN IV Regional III Kerahkan 660 Personil dan Teknologi Arfina Gempur Karhutla di Tiga Kabupaten Riau - Majalah Sawit Indonesia | google:Majalah Sawit Indonesia | aid8
-2026-09-08 11:39 | Chosunbiz | Foreign and institutions lift South Korea stocks as semiconductors rally - Chosunbiz | google:Chosunbiz | aen1
-2026-09-08 10:56 | lcnews.co.kr | [부고] 신권식(前 삼성물산패션부문 홍보담당 고문)씨 모친상 | https://www.lcnews.co.kr/news/articleView.html?idxno=207916 | a1,a5
-2026-09-08 10:41 | 매일경제 | Samsung launches H2 hiring drive across 19 affiliates - 매일경제 | google:매일경제 | aen1
-2026-09-08 10:31 | 아시아경제 | KOSPI Gains Over 1% Intraday on Institutional Net Buying - 아시아경제 | google:아시아경제 | aen1
-2026-09-08 08:58 | sentv.co.kr | 삼성물산, 2.4조 목동13단지 재건축 단독 응찰…수의계약 가능성 | https://www.sentv.co.kr/article/view/sentv202609080017 | a1
-2026-09-08 08:48 | datanews.co.kr | 삼성물산, 도시정비 목표 ‘13조’ 달성 막판 승부 | http://www.datanews.co.kr/news/article.html?no=146333 | a1
-2026-09-08 07:02 | thebell.co.kr | [더벨][빅파마 장부 속 K-바이오] 삼성바이오에피스·바이오젠, 결별 후... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609041405220160101973 | a10
-2026-09-08 03:24 | 조선일보 | Samsung Begins Second-Half New Graduate Recruitment - 조선일보 | google:조선일보 | aen1,aen3,aen4
-2026-09-08 01:30 | Nuclear Engineering International | Studsvik advances four-unit Swedish SMR project - Nuclear Engineering International | google:Nuclear Engineering International | aen1
-2026-09-08 01:21 | KED Global | SPA retailers enjoy revival as Uniqlo, Zara post record consumer card spending in Korea - KED Global | google:KED Global | aen1
+2026-09-09 03:45 | Fierce Pharma | Sandoz sets sights on 100 biosimilars in new 2040 strategy, with $300M facility build - Fierce Pharma | google:Fierce Pharma | aen4
+2026-09-09 02:00 | Yahoo Finance Singapore | Gilead Opens State-of-the-Art Research Center to Advance the Next Generation of Medicines - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-09 01:57 | The Pharma Letter | Sandoz's Rebecca Guntern: Bio100 ambition rests on "selecting the right assets" and end-to-end control - The Pharma Letter | google:The Pharma Letter | aen4
+2026-09-09 00:38 | Tabloid Tirai | Gejolak Panas RDP Komisi 1 DPRD Kampar: Jawaban Keluhan Masyarakat, Humas Elang 3 Hambalang Riau Disoraki - Tabloid Tirai | google:Tabloid Tirai | aid9
