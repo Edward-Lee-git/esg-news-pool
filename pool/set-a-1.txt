@@ -1,125 +1,204 @@
-# collected: 2026-09-11 08:01 KST
-# window: 2026-09-10 00:00 ~ 2026-09-11 08:01 KST
-# part 1 of 1, lines: 120
+# collected: 2026-09-14 08:02 KST
+# window: 2026-09-11 00:00 ~ 2026-09-14 08:02 KST
+# part 1 of 1, lines: 199
 # format: date | media | title | url | tags
 
-2026-09-11 07:50 | Billionaires.Africa | Lee Jae-yong buys $1.4 billion of Samsung from his mother - Billionaires.Africa | google:Billionaires.Africa | aen1
-2026-09-11 06:30 | 아시아경제 | [Changing Landscape of Overseas Construction⑧] "No Specialized Workforce...Need to Foster Versatile Talent with International Permitting and Networking Skills" - 아시아경제 | google:아시아경제 | aen1
+2026-09-14 07:56 | thebigdata.co.kr | 삼성바이오로직스, 제약 상장기업 브랜드평판 9월 빅데이터 1위...셀트리... | https://www.thebigdata.co.kr/view.php?ud=202609140735203519d0a8833aad_23 | a7
+2026-09-14 07:16 | daily.hankooki.com | 여의도 목화아파트, 삼성물산 '래미안 와이니티'로 탈바꿈 | https://daily.hankooki.com/news/articleView.html?idxno=1405535 | a1,a10
+2026-09-14 07:02 | sedaily.com | 中 ADC 91%·RNA 62% 수출 독식…韓 차세대 먹거리에 경고등 | https://www.sedaily.com/article/20090240?ref=naver | a10?
+2026-09-14 06:58 | pinpointnews.co.kr | 제약株 브랜드평판 1위 삼성바이오로직스…셀트리온·한미약품 추격 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=486563 | a7
+2026-09-14 06:48 | tfmedia.co.kr | 삼성물산, 5천122억원 규모 여의도 목화아파트 재건축 수주 | https://www.tfmedia.co.kr/news/article.html?no=207197 | a1
+2026-09-14 06:16 | enetnews.co.kr | [브랜드평판] 삼성바이오로직스, 제약 상장기업 9월 1위... 셀트리온, 한... | https://www.enetnews.co.kr/news/articleView.html?idxno=54348 | a7
+2026-09-14 06:00 | Seoul Economic Daily | Builders Snap Up Yeouido, Mokdong Rebuilding Projects Without Rivals - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-14 04:20 | biz.sbs.co.kr | '한강 조망' 여의도 목화, 삼성물산 수주…공사비 5천122억 | https://biz.sbs.co.kr/article_hub/20000334321?division=NAVER | a1
+2026-09-14 02:51 | sphericalinsights.com | The CDMO Revolution: How Contract Drug Manufacturers Are Reshaping Global Pharma- Expert View by Spherical Insights - sphericalinsights.com | google:sphericalinsights.com | aen3
+2026-09-14 00:42 | koreareport.co.kr | 삼성물산, 여의도 목화아파트 재건축 수주 | https://www.koreareport.co.kr/news/articleView.html?idxno=52877 | a1
+2026-09-14 00:10 | inthenews.co.kr | 삼성물산, 여의도 목화아파트 재건축 수주…공사비 5122억원 | https://www.inthenews.co.kr/news/article.html?no=91805 | a1
+2026-09-13 23:10 | thedailypost.kr | 삼성물산, 여의도 재건축 또 품었다…5122억 목화아파트 수주 | https://www.thedailypost.kr/news/articleView.html?idxno=115580 | a1
+2026-09-13 20:54 | MarketScale | Samsung Biologics signs $262M manufacturing deal through 2033, pushing longer CDMO bookings - MarketScale | google:MarketScale | aen3
+2026-09-13 19:49 | londoninsider.co.uk | Samsung Biologics (KRX: 207940) Secures $262M Manufacturing Deal With European Pharma As Peptide Push Advances - londoninsider.co.uk | google:londoninsider.co.uk | aen3
+2026-09-13 19:40 | HaiSawit | Wamen Investasi Minta Kolaborasi Bioenergi Agrinas Palma dan Pertamina Segera Jadi Proyek Konkret - HaiSawit | google:HaiSawit | aid8
+2026-09-13 19:12 | kwnews.co.kr | 불법대출 중국인 투자자가 제기한 2,600억대 소송서 정부 승소⋯비용도... | https://www.kwnews.co.kr/article/20260913501338 | a1?
+2026-09-13 18:58 | the-today.com | 삼성물산, 여의도 목화 재건축 수주…5122억원 '한강 조망' 승부수 | https://www.the-today.com/news/articleView.html?idxno=90040 | a1
+2026-09-13 18:46 | koreaittimes.com | 삼성물산, 여의도 목화아파트 재건축 수주…'래미안' 입지 넓힌다 | https://www.koreaittimes.com/news/articleView.html?idxno=157066 | a1
+2026-09-13 18:46 | abcn.kr | '순살 아파트' 오명 3년 지났는데… 대형 건설사 아파트 하자 '줄줄이' | https://www.abcn.kr/news/articleView.html?idxno=91757 | a1?
+2026-09-13 17:55 | sedaily.com | “출혈 경쟁 피하자” 잇단 단독 응찰…수익성 위주 선별 수주 뚜렷 | https://www.sedaily.com/article/20090306?ref=naver | a1?
+2026-09-13 17:54 | Seoul Economic Daily | Builders Avoid Bidding Wars as Solo Bids Sweep Yeouido, Mokdong - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-13 17:51 | Seoul Economic Daily | Samsung Biologics Clears Regulator Review of $2.2 Billion Rights Offering - Seoul Economic Daily | google:Seoul Economic Daily | aen1,aen3
+2026-09-13 17:38 | financialpost.co.kr | 여의도 'Y' 품은 래미안 와이니티…삼성물산, 목화아파트 재건축 시공사 | https://www.financialpost.co.kr/news/articleView.html?idxno=275309 | a1
+2026-09-13 17:34 | segye.com | [단독] 시공 30위 건설사 ‘아파트 하자’ 심각 | https://www.segye.com/newsView/20260913509622?OutUrl=naver | a1?
+2026-09-13 17:14 | news1.kr | 엘리엇 환송 중재 계속, 다야니 가문 2차 소송도…남은 ISDS는 | https://www.news1.kr/society/court-prosecution/6288897 | a1?
+2026-09-13 17:07 | MetroTVNews.com | Polres Pelalawan Tangkap Tersangka Karhutla 1,5 Hektare di Langgam - MetroTVNews.com | google:MetroTVNews.com | aid6
+2026-09-13 17:06 | viva100.com | 삼성바이오에피스, 2026 가족초청행사 진행 | https://www.viva100.com/article/20260913500671 | a10
+2026-09-13 17:02 | s-journal.co.kr | 삼성물산, 서울 여의도 목화아파트 재건축 시공사에 선정… 공사비 5122... | https://www.s-journal.co.kr/news/articleView.html?idxno=43706 | a1
+2026-09-13 16:30 | 매일경제 | Samsung C&T's construction division was finally selected as a contractor for the cotton apartmen.. - 매일경제 | google:매일경제 | aen1
+2026-09-13 16:06 | mk.co.kr | ‘Y’ 형상 외관 설계 적용…삼성물산, 5122억 규모 여의도 목화아파트... | https://www.mk.co.kr/article/12151391 | a1
+2026-09-13 16:05 | 매일경제 | Samsung C&T's construction division (Samsung C&T) succeeded in winning an order for the reco.. - 매일경제 | google:매일경제 | aen1
+2026-09-13 16:02 | dt.co.kr | 삼성바이오에피스, 5년째 임직원 가족 초청행사 개최 | https://www.dt.co.kr/article/12083644?ref=naver | a10
+2026-09-13 15:54 | g-enews.com | 삼성물산, 5100억 목화아파트 재건축 수주...여의도 재건축 2번째 | https://www.g-enews.com/view.php?ud=2026091315490324132aa6f4cdad_1 | a1
+2026-09-13 15:24 | yna.co.kr | 정부, 불법대출 中투자자 제기 2천600억대 국제투자소송 승소확정(종합... | https://www.yna.co.kr/view/AKR20260913031951004?input=1195m | a1?
+2026-09-13 15:21 | newsis.com | 정부, 中투자자 상대 2600억대 ISDS 승소…소송비 환수 추진(종합) | https://www.newsis.com/view/NISX20260913_0003787339 | a1?
+2026-09-13 14:58 | insight.co.kr | 420가구 모두 한강 보인다... 삼성물산, 5122억 여의도 목화아파트 재건... | https://www.insight.co.kr/news/573247 | a1
+2026-09-13 14:22 | biz.heraldcorp.com | 중국인 투자자 ISDS 취소신청 기각…정부 2641억원 배상책임 벗어 | https://biz.heraldcorp.com/article/10871630?ref=naver | a1?
+2026-09-13 14:02 | dailypharm.com | 엄마·아빠 일터로 소풍…삼성바이오에피스 2800명 북적 | https://www.dailypharm.com/user/news/342436?REFERER=NP | a10
+2026-09-13 13:36 | mbnmoney.mbn.co.kr | 임직원 가족 2,800명 참석…삼성바이오에피스, 송도 사옥서 가족초청행... | http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005921028 | a10
+2026-09-13 13:20 | bloter.net | 여의도 목화 품은 삼성물산, 정비사업 영토 확장 | https://www.bloter.net/news/articleView.html?idxno=673488 | a1
+2026-09-13 12:49 | Selidik Kasus | Kodam XIX/Tuanku Tambusai Terus Tangani Karhutla Inhu, Pendinginan Difokuskan di Titik Asap - Selidik Kasus | google:Selidik Kasus | aid7
+2026-09-13 12:30 | realty.chosun.com | 삼성물산, 공사비 5122억 여의도 목화아파트 재건축 수주 | https://realty.chosun.com/site/data/html_dir/2026/09/13/2026091300904.html | a1
+2026-09-13 12:20 | public25.com | 삼성물산, 여의도 목화아파트 재건축 시공사 선정 | https://www.public25.com/news/articleView.html?idxno=54624 | a1
+2026-09-13 12:20 | kihoilbo.co.kr | 삼성바이오에피스, 12일 '2026 가족 초청 행사' 개최 | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034504 | a10
+2026-09-13 12:08 | ziksir.com | 삼성바이오에피스, 임직원 가족 초청행사 개최…"소통 강화" | https://www.ziksir.com/news/articleView.html?idxno=146211 | a10
+2026-09-13 12:00 | ikld.kr | 삼성물산, 5122억 '여의도 목화아파트 재건축' 수주… 한강공원 연결보... | http://www.ikld.kr/news/articleView.html?idxno=340534 | a1
+2026-09-13 11:48 | kdfnews.com | 삼성물산, 대교 이어 목화까지…여의도 재건축 입지 강화 | http://www.kdfnews.com/news/articleView.html?idxno=187918 | a1
+2026-09-13 11:28 | newsprime.co.kr | [카드] 삼성물산 '여의도 입지 확장' 목화아파트 재건축 수주 | http://www.newsprime.co.kr/news/article.html?no=747484 | a1
+2026-09-13 11:24 | 4th.kr | 삼성물산, 대교 이어 목화까지…여의도 래미안 확대 | http://www.4th.kr/news/articleView.html?idxno=2117939 | a1,a10
+2026-09-13 10:56 | etnews.com | 삼성바이오에피스, 송도 사옥서 가족초청행사…2800여명 참여 | https://www.etnews.com/20260913000046 | a10
+2026-09-13 10:48 | segyebiz.com | 삼성물산, 여의도 목화아파트 재건축 수주... 단지명 ‘래미안 와이니티... | http://www.segyebiz.com/newsView/20260913504572?OutUrl=naver | a1
+2026-09-13 10:46 | Smartkarma | APAC Healthcare Weekly (Sept 13) – Hansoh, InSilico, Shionogi, Kyowa Kirin, Samsung Bio, SK Biopharm - Smartkarma | google:Smartkarma | aen3
+2026-09-13 10:30 | livebiz.today | 여의도 목화아파트, '래미안 와이니티'로…삼성물산, 공사비 5122억원에... | https://www.livebiz.today/news/articleView.html?idxno=204843 | a1
+2026-09-13 10:28 | biz.heraldcorp.com | 삼성물산, 5122억원 여의도 목화아파트 재건축 수주…‘래미안 와이니티... | https://biz.heraldcorp.com/article/10871506?ref=naver | a1
+2026-09-13 10:28 | kizmom.com | 삼성물산, 여의도 목화아파트 재건축 수주…420가구 모두 '한강뷰' | https://www.kizmom.com/news/articleView.html?idxno=112695 | a1
+2026-09-13 10:27 | 헤럴드경제 | Samsung C&T wins W512.2b Yeouido Mokhwa apartment reconstruction contract, proposes 'Raemian Y'nity' - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-13 10:22 | asiatime.co.kr | 삼성물산, 여의도 재건축 보폭 넓힌다…목화아파트 5122억원 수주 | https://www.asiatime.co.kr/article/20260913500004 | a1
+2026-09-13 10:20 | dnews.co.kr | 삼성바이오에피스, 가족초청행사 진행…5년째 임직원 가족들과 ‘소통... | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131013506860751 | a10
+2026-09-13 10:18 | metroseoul.co.kr | 삼성바이오에피스, 2800명 가족이 한자리에..5년째 가족초청행사 가져 | http://www.metroseoul.co.kr/article/20260913500105 | a10
+2026-09-13 10:12 | shinailbo.co.kr | '전 가구 한강 조망' 앞세운 삼성물산…5122억원 규모 목화아파트 재건... | https://www.shinailbo.co.kr/news/articleView.html?idxno=5061513 | a1,a10,a7?
+2026-09-13 10:10 | megaeconomy.co.kr | 삼성물산, 여의도 목화 재건축 품었다…‘래미안 와이니티’ 제안 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574549651044 | a1,a10
+2026-09-13 10:07 | seoultimes.news | 삼성물산, 여의도 목화 재건축 수주…5122억원 규모 | https://www.seoultimes.news/news/article.html?no=2000099802 | a1
+2026-09-13 10:04 | 아시아경제 | Samsung C&T Wins Mokhwa Apartment Redevelopment in Yeouido, Marking Second Project After Daegyo [Real Estate AtoZ] - 아시아경제 | google:아시아경제 | aen1
+2026-09-13 10:04 | view.asiae.co.kr | 삼성물산, 여의도 목화 재건축 시공 따내…대교 이어 두 번째[부동산Ato... | https://view.asiae.co.kr/article/2026091310042381750 | a1
+2026-09-13 10:04 | ajunews.com | 삼성바이오에피스, 송도 사옥서 가족초청행사… 5년째 '소통' 이어가 | https://www.ajunews.com/view/20260913095528667 | a10
+2026-09-13 09:50 | Chosunbiz | Samsung C&T secures 512.2b-won Yeouido Mokhwa rebuild in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
+2026-09-13 09:46 | ebn.co.kr | 삼성물산, 여의도 '래미안 벨트' 넓힌다…대교 이어 목화도 품었다 | https://www.ebn.co.kr/news/articleView.html?idxno=1724024 | a1,a7?
+2026-09-13 09:46 | mydaily.co.kr | 삼성바이오에피스, 가족초청행사 개최…임직원·가족 2800명 참석 | https://www.mydaily.co.kr/page/view/2026091309445907338 | a10
+2026-09-13 09:44 | news1.kr | "가족이 더 자랑스러워하는 회사"…삼성바이오에피스, 가족초청행사 | https://www.news1.kr/bio/pharmaceutical-bio/6288630 | a10
+2026-09-13 09:36 | viva100.com | 삼성물산, ‘5122억 규모’ 여의도 목화 수주… 올해 정비사업 5.5조 돌... | https://www.viva100.com/article/20260913500209 | a1
+2026-09-13 09:34 | businesskorea.co.kr | 삼성바이오에피스, 2800여 명 가족 초청 비전 공유 | https://www.businesskorea.co.kr/news/articleView.html?idxno=276794 | a10
+2026-09-13 09:20 | viva100.com | 삼성바이오로직스 노사 사후조정 다시 ‘빨간불’⋯사측, 2차 일정 연기... | https://www.viva100.com/article/20260910501223 | a7
+2026-09-13 08:26 | thelec.net | Samsung Bioepis Named Top Job-Creating Company - thelec.net | google:thelec.net | aen4
+2026-09-13 08:02 | theguru.co.kr | [대한민국 건설 리더십 해부] ① 삼성물산 차기 리더십 '3金 시대' | https://www.theguru.co.kr/news/article.html?no=106831 | a1
+2026-09-13 08:00 | inews24.com | 삼성바이오로직스 '수주 가뭄'에도 추가 수주 기대 여전한 이유 | http://www.inews24.com/view/2004677 | a7
+2026-09-13 07:00 | huffingtonpost.kr | 오세철 삼성물산 SMR 시장 주력 무대로 유럽 택하며 현대건설과 다른 길... | https://www.huffingtonpost.kr/article/260420 | a1
+2026-09-13 01:57 | ca.finance.yahoo.com | Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain - ca.finance.yahoo.com | google:ca.finance.yahoo.com | aen4
+2026-09-12 21:13 | deteksi.co | Karhutla Inhu Membara, Kapolres dan Dandim Bermalam di Lokasi - deteksi.co | google:deteksi.co | aid8
+2026-09-12 19:09 | TipRanks | Hanyang ENG Wins KRW 148 Billion Piping Contract from Samsung C&T - TipRanks | google:TipRanks | aen1
+2026-09-12 19:00 | Riau Satu | HGU Belum Ada, Kebun Sawit Warga Diekskavator: Membongkar Jejak PT ANS di Rokan IV Koto - Riau Satu - Riau Satu | google:Riau Satu | aid9
+2026-09-12 15:36 | Tribunbatam.id | Realisasi TKD Pelalawan 2026 Rp 766,47 Miliar, Dana Alokasi Umum - Tribunbatam.id | google:Tribunbatam.id | aid6
+2026-09-12 14:32 | teras.id | Tantangan Menghadapi Konflik Manusia dengan Satwa Liar di Riau - teras.id | google:teras.id | aid9
+2026-09-12 14:15 | Tribunbatam.id | Realisasi TKD Indragiri Hulu 2026 Rp 724,49 Miliar, Dana Alokasi Umum - Tribunbatam.id | google:Tribunbatam.id | aid8
+2026-09-12 14:02 | teras.id | Akademisi Urai Akar Masalah Konflik Manusia dengan Satwa Liar di Riau / Riauterkini.com - teras.id | google:teras.id | aid6
+2026-09-12 12:21 | Kabar Melayu | Pemerintah Harus Turun Tangan Selesaikan Kasus Petani Kelapa Inhil dengan PT. IGJA - Kabar Melayu | google:Kabar Melayu | aid9
+2026-09-12 10:16 | GoRiau.com | Sengketa Lahan Sembilan Tahun di Inhil, Mafirion Desak Audit Independen Kasus Hama Kumbang - GoRiau.com | google:GoRiau.com | aid9
+2026-09-12 09:02 | HALLORIAU.COM | PT SLS Kerahkan 10 Personel Bantu Penanganan Karhutla 1.109 Hektare di Kerumutan - HALLORIAU.COM | google:HALLORIAU.COM | aid6
+2026-09-12 08:54 | Harianmemokepri.com | Persoalan Lahan Warga di Lingga Tak Kunjung Tuntas, Aliansi Soroti Sikap Pemkab dan DPRD / Halaman 3 dari 4 - Harianmemokepri.com | google:Harianmemokepri.com | aid9
+2026-09-12 08:33 | 동아일보 | Everland names youngest panda cub 'Shu Bao' - 동아일보 | google:동아일보 | aen1
+2026-09-12 08:11 | Bela Rakyat | Bubarkan Satgas PKH, Masyarakat Adat Jangan Dijadikan Korban Penertiban Kawasan Hutan - Bela Rakyat | google:Bela Rakyat | aid9
+2026-09-12 07:51 | GoRiau.com | Sembilan Tahun Terluka, Petani Kelapa Inhil Terpaksa Tinggalkan Kampung Halaman - GoRiau.com | google:GoRiau.com | aid9
+2026-09-12 03:51 | BioPharm International | Samsung Biologics Signs $262M Biologics Manufacturing Deal With Undisclosed European Pharma Company - BioPharm International | google:BioPharm International | aen3
+2026-09-12 01:37 | 조선일보 | Everland Names Baby Panda Shubao in Public Contest - 조선일보 | google:조선일보 | aen1
+2026-09-12 01:07 | LiputanOke.Com | 9 Tahun Tak Kunjung Selesai, Anggota DPR Mafirion Desak Pemerintah Selesaikan Konflik Petani Kelapa Inhil - LiputanOke.Com | google:LiputanOke.Com | aid9
+2026-09-12 00:37 | Riau Satu | 300.000 Batang Kelapa Rusak, Kasus Petani Inhil Terkatung-katung Selama 9 Tahun - Riau Satu - Riau Satu | google:Riau Satu | aid9
+2026-09-12 00:34 | TVRI News | Karhutla 70 Hektare di Inhu Ditangani, Polda Riau Siapkan Restorasi Lahan Bekas Terbakar - TVRI News | google:TVRI News | aid7
+2026-09-12 00:22 | endpoints.news | Lack of biosimilar development could cost billions in lost savings, report warns - endpoints.news | google:endpoints.news | aen4
+2026-09-12 00:10 | Genetic Engineering and Biotechnology News | Transcenta Therapeutics and WuXi Biologics Team Up to Accelerate Commercialization of HiCB Technology - Genetic Engineering and Biotechnology News | google:Genetic Engineering and Biotechnology News | aen3
+2026-09-11 23:59 | Genetic Engineering and Biotechnology News | Samsung Biologics Signs $262 Million Manufacturing Agreement with European Pharma Firm - Genetic Engineering and Biotechnology News | google:Genetic Engineering and Biotechnology News | aen3
+2026-09-11 23:12 | ekn.kr | [똑똑한패션] 29CM, 신성통상 탑텐, 이랜드 뉴발란스, 삼성물산 패션 랙... | https://www.ekn.kr/web/view.php?key=20260911027033805 | a1
+2026-09-11 22:50 | koranperdjoeangan.com | Deadlock, Perselisihan Antara Perusahaan Dan Pekerja PT. RSS Pelalawan Masuki Tahap Tripartit - koranperdjoeangan.com | google:koranperdjoeangan.com | aid6
+2026-09-11 22:21 | BioSpace | Samsung Biologics inks $262M manufacturing deal with European pharma company - BioSpace | google:BioSpace | aen3
+2026-09-11 22:21 | donga.com | ‘직원 51% 여성’ 삼성바이오에피스, 고용노동부 우수 일자리 기업 선... | https://www.donga.com/news/Health/article/all/20260911/134653961/1 | a10
+2026-09-11 22:16 | Contract Pharma | Samsung Biologics Signs $262M Manufacturing Deal With European Pharma Company - Contract Pharma | google:Contract Pharma | aen3
+2026-09-11 22:15 | Fierce Pharma | Fierce Pharma Asia—Takeda’s R&D leadership change; Daiichi’s $1.3B court win; New Samsung Bio contract - Fierce Pharma | google:Fierce Pharma | aen3
+2026-09-11 20:17 | MEED | Consortiums submit bids for Sadara cogeneration plant - MEED | google:MEED | aen1
+2026-09-11 19:51 | METRORIAU.COM | Perkuat Respons Bersama di Inhu PT TPP Bantu Tangani Karhutla di Luar Area Operasional - METRORIAU.COM | google:METRORIAU.COM | aid8
+2026-09-11 19:45 | METRORIAU.COM | PT SLS Kerahkan Tim dan Peralatan Bantu Penanganan Karhutla di Kerumutan - METRORIAU.COM | google:METRORIAU.COM | aid6
+2026-09-11 18:57 | Sabang Merauke NEWS | Kapolda dan Pangdam Turun ke Paya Rumbai, Bara di Dalam Gambut Jadi Musuh Utama - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid7
+2026-09-11 18:54 | megaproject.com | Samsung Biologics inks $262M manufacturing deal with European drugmaker - megaproject.com | google:megaproject.com | aen3
+2026-09-11 18:06 | Sabang Merauke NEWS | Penrad Siagian Desak Operasional PT BSS Dihentikan, Soroti Dugaan Penguasaan 1.800 Hektare Lahan Masyarakat - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid9
+2026-09-11 18:06 | Sabang Merauke NEWS | Polisi Tetapkan Warga Bengkalis Tersangka Penguasaan 2,5 Hektare Hutan Produksi - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid9
+2026-09-11 18:03 | DerakPost.com | Anggota DPR Mafrion Minta Pemerintah Tuntaskan Konflik Petani Kelapa di Inhil dengan PT Indogreen - DerakPost.com | google:DerakPost.com | aid9
+2026-09-11 17:41 | hankyung.com | 삼성바이오 3조 유상증자…금감원 심사 문턱 넘었다 | https://www.hankyung.com/article/2026091196041 | a7?
+2026-09-11 17:41 | GoRiau.com | Aktivis Mahasiswa Gelar Aksi di Kejati Riau, Desak Usut Dugaan Penyelewengan Aset Sawit Negara - GoRiau.com | google:GoRiau.com | aid9
+2026-09-11 17:26 | hitnews.co.kr | [주식] SK바이오팜, 5000억 투자 '오파칼림' 제동에 주가 5% ↓ | https://www.hitnews.co.kr/news/articleView.html?idxno=79081 | a7?
+2026-09-11 17:14 | primetimes.id | 3 Orang Jadi Tersangka dalam Kasus Karhutla di Kawasan Suaka Margasatwa Pelalawan - primetimes.id | google:primetimes.id | aid6
+2026-09-11 17:07 | newspim.com | 성수3지구, 시공사 선정 총회 지연되나…삼성물산 제안서에 조합원 '불... | https://www.newspim.com/news/view/20260911001011 | a1
+2026-09-11 17:05 | Aju Press | KOSPI closes below 7,000 as foreign selloff outweighs chip exports - Aju Press | google:Aju Press | aen1
+2026-09-11 16:56 | 매일경제 | The baby panda born at Everland's Panda World has been named "曙." Everland, run by Samsung C&T's.. - 매일경제 | google:매일경제 | aen1,aen2
+2026-09-11 16:46 | Evrim Ağacı | Hyundai Steel Signs Historic Labor Accord After Law Change - Evrim Ağacı | google:Evrim Ağacı | aen3
+2026-09-11 16:36 | insightkorea.co.kr | 건설 현장에도 반도체 '바람'…삼성물산 3.8조·SK에코 9.4조 벌었다 | https://www.insightkorea.co.kr/news/articleView.html?idxno=254412 | a1
+2026-09-11 16:34 | intn.co.kr | 삼성바이오에피스, 고용부 선정 '2026 일자리 으뜸기업' 영예 | http://www.intn.co.kr/news/articleView.html?idxno=2053286 | a10
+2026-09-11 16:29 | Seoul Economic Daily | KOSPI Falls 1.8% on Mideast Conflict, Oil Surge; Samsung Drops 3.5% - Seoul Economic Daily | google:Seoul Economic Daily | aen3
+2026-09-11 16:28 | sisaweek.com | 삼성바이오로직스, 3,500억원 규모 신규 CMO 계약 체결 | https://www.sisaweek.com/news/articleView.html?idxno=237839 | a7
+2026-09-11 16:17 | Jejak Kasus TV | Kapolda Riau dan Pangdam XIX/Tuanku Tambusai Cek Karhutla di Inhu, Tegaskan Penanganan Kolaboratif - Jejak Kasus TV | google:Jejak Kasus TV | aid7
+2026-09-11 16:02 | Chosunbiz | Bae Kim & Lee wins Asia Legal Awards dispute resolution firm of year - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen4
+2026-09-11 16:00 | businesspost.co.kr | 삼성바이오에피스, 고용노동부 주관 '대한민구 일자리 으뜸기업'에 뽑혀 | https://www.businesspost.co.kr/BP?command=article_view&num=447024 | a10
+2026-09-11 15:56 | greentechlead.com | Top 10 Green Hydrogen Projects in 2026: $40 Billion AMAN, $10 Billion Hyphen and $8.4 Billion NEOM Lead Global Race - greentechlead.com | google:greentechlead.com | aen1
+2026-09-11 15:54 | 디지털투데이 | KOSPI falls below 7,000 on foreign and institutional selling - 디지털투데이 | google:디지털투데이 | aen3
+2026-09-11 15:45 | 매일경제 | The KOSPI fell more than 1.7% on the 11th, giving up 7,000 points based on the closing price for the.. - 매일경제 | google:매일경제 | aen1
+2026-09-11 15:22 | niceeconomy.co.kr | [유통 브리핑] 삼성물산·무신사·패션그룹형지 | http://www.niceeconomy.co.kr/news/articleView.html?idxno=90945 | a1
+2026-09-11 15:09 | donga.com | “뉴욕 소호 감성 성수로 들여온다”…삼성물산 랙앤본, 국내 첫 단독 팝... | https://www.donga.com/news/Economy/article/all/20260911/134650781/1 | a1
+2026-09-11 15:06 | newsway.co.kr | 삼성바이오로직스, 하반기 첫 신규 계약…연간 수주 1조원 '눈앞' | https://www.newsway.co.kr/news/view?ud=2026091114282419440 | a7
+2026-09-11 15:05 | teras.id | Sebab Musabab Teror Monyet di Riau / Riauterkini.com - teras.id | google:teras.id | aid6
+2026-09-11 15:00 | teras.id | Data dan Pemicu Konflik Manusia dengan Satwa Liar di Riau / Riauterkini.com - teras.id | google:teras.id | aid6,aid8,aid9
+2026-09-11 14:22 | 매일경제 | Everland Names Youngest Baby Panda ‘Shubao’ - 매일경제 | google:매일경제 | aen1
+2026-09-11 14:11 | 조선일보 | Fourth Panda Named Shubao, 'Dawn Treasure' - 조선일보 | google:조선일보 | aen1
+2026-09-11 14:00 | gesuri.id | Konflik Agraria di Kuansing, Siti Aisyah Desak Negara Hadir Tuntaskan - gesuri.id | google:gesuri.id | aid9
+2026-09-11 13:58 | thelec.kr | 삼성바이오에피스, 우수 일자리 창출 기업 선정 | https://www.thelec.kr/news/articleView.html?idxno=62169 | a10
+2026-09-11 13:57 | Caliber.Az | Samsung chief boosts direct stake with billion-dollar family deal - Caliber.Az | google:Caliber.Az | aen1
+2026-09-11 13:34 | news2day.co.kr | 동국제약·삼성바이오에피스, 일자리·건강 분야 사회적 가치 확대 | https://www.news2day.co.kr/article/20260911500132 | a10
+2026-09-11 13:23 | agrofarm.co.id | Melihat Lebih Dekat Praktik Benih Sawit melalui Kunjungan Pembibitan Dami Mas - agrofarm.co.id | google:agrofarm.co.id | aid8
+2026-09-11 13:22 | lawissue.co.kr | 삼성물산 패션부문 랙앤본, 성수동서 국내 첫 단독 팝업 운영 | http://www.lawissue.co.kr/view.php?ud=202609111320269100204ead0791_12 | a1,a10,a5
+2026-09-11 13:12 | econovill.com | 삼성바이오로직스, 사상 첫 연매출 5조원 돌파 '정조준'…올해만 6건 계... | https://www.econovill.com/news/articleView.html?idxno=750573 | a10,a7
+2026-09-11 12:53 | kontan.co.id | Agrinas Palma-Pertamina Pacu Pengembangan Bioenergi Terintegrasi - kontan.co.id | google:kontan.co.id | aid8
+2026-09-11 12:36 | insight.co.kr | "상반기 매출 27% 껑충"...삼성물산 랙앤본, 성수동 첫 대형 팝업스토어 | https://www.insight.co.kr/news/573027 | a1
+2026-09-11 12:18 | weekly.hankooki.com | 삼성바이오에피스, 대한민국 일자리 으뜸기업 선정 | https://weekly.hankooki.com/news/articleView.html?idxno=7183752 | a10
+2026-09-11 12:04 | techm.kr | 삼성전자, 고객 접점 차별화...'히트펌프·친환경' 전문성 강화 | https://www.techm.kr/news/articleView.html?idxno=155140 | a1?
+2026-09-11 11:59 | The Korea Times | Fu Bao's youngest sibling named Shu Bao, grows from 171g to 5.5kg - The Korea Times | google:The Korea Times | aen1
+2026-09-11 11:43 | deteksi.co | Konflik Petani Kelapa Inhil Berlarut, DPR Desak Pemerintah Turun Tangan - deteksi.co | google:deteksi.co | aid9
+2026-09-11 11:20 | hbnpress.com | 삼성물산, 스웨덴 1.2GW SMR 사업 참여 | https://hbnpress.com/news/view/1065579303387657 | a1
+2026-09-11 11:03 | Aju Press | Seoul and Tokyo retreat nearly 3% on oil price and Treasury jitters - Aju Press | google:Aju Press | aen3
+2026-09-11 11:01 | starnewskorea.com | Everland Names New Baby Panda 'Shu Bao' on Its 100th Day - starnewskorea.com | google:starnewskorea.com | aen1
+2026-09-11 10:46 | news1.kr | [단독]삼성물산 패션 품에 안긴 '마가렛 호웰'…신세계 본점에 첫 매장 | https://www.news1.kr/industry/distribution/6287361 | a1
+2026-09-11 10:40 | 매일경제 | The fourth giant panda born at Everland Panda World in Yongin has been named "曙."Everland, run by Sa.. - 매일경제 | google:매일경제 | aen1
+2026-09-11 10:40 | ajunews.com | 삼성물산 랙앤본, 성수에 첫 단독 팝업…뉴욕 소호 감성 담았다 | https://www.ajunews.com/view/20260911095428638 | a1
+2026-09-11 10:33 | 매일경제 | A temporary store (pop-up store) has been opened in Seongsu-dong, Seoul, under the concept of SoHo - 매일경제 | google:매일경제 | aen1
+2026-09-11 10:18 | mdtoday.co.kr | 삼성바이오에피스, '일자리 으뜸기업' 선정…여성 관리자 47% | https://www.mdtoday.co.kr/news/articleView.html?idxno=611707 | a10
+2026-09-11 10:16 | smartbizn.com | 삼성물산 패션부문, 성수동서 '랙앤본' 팝업···성수서 '미라마' 한정... | https://www.smartbizn.com/news/articleView.html?idxno=153639 | a1,a5
+2026-09-11 10:12 | bizwnews.com | [헬스 HOT 뉴스] 삼성바이오로직스, 유럽 제약사와 3508억원 규모 CMO 계... | http://www.bizwnews.com/news/articleView.html?idxno=145922 | a7
+2026-09-11 10:08 | fashionn.com | 삼성물산 랙앤본, 성수동에 뉴욕 소호 감성을! 국내 첫 단독 팝업스토어... | http://www.fashionn.com/board/read_new.php?table=1006&number=62371 | a1
+2026-09-11 10:08 | biotimes.co.kr | 삼성바이오에피스, 2026 일자리 으뜸기업 선정 | https://www.biotimes.co.kr/news/articleView.html?idxno=34401 | a10
+2026-09-11 10:00 | 헤럴드경제 | Everland names newest panda cub 'Shubao,' third sister of Fubao - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-11 10:00 | 아시아경제 | Everland Confirms Fourth Baby Panda's Name as "Shubao" on Her 100th Day - 아시아경제 | google:아시아경제 | aen1
+2026-09-11 10:00 | 헤럴드경제 | Everland's newest panda cub named Shubao after 220,000 votes - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-11 09:54 | whitepaper.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억원 계약…누적 수주 219억달러 | http://www.whitepaper.co.kr/news/articleView.html?idxno=266685 | a7
+2026-09-11 09:46 | insight.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억원 CMO 계약 | https://www.insight.co.kr/news/572989 | a7
+2026-09-11 09:42 | 매일경제 | On the 11th, the KOSPI started to fall by 3%, giving up the 7,000 mark.As of 9:13 a.m., the KOSPI wa.. - 매일경제 | google:매일경제 | aen1
+2026-09-11 09:38 | newsian.co.kr | [단독] 수치 모순에 고무줄 발주?…삼성전자 최승호 '장인 특혜 의혹' 증... | http://www.newsian.co.kr/news/articleView.html?idxno=95184 | a10,a7?
+2026-09-11 09:38 | smarttoday.co.kr | 여성 관리자 비율만 47%…삼성바이오에피스의 '일할 맛 나는 일터' 비결 | https://www.smarttoday.co.kr/ko-kr/articles/111471 | a10
+2026-09-11 09:36 | hansbiz.co.kr | 삼성바이오에피스, 女 인재 키웠다…'일자리 으뜸기업' | http://www.hansbiz.co.kr/news/articleView.html?idxno=864291 | a10
+2026-09-11 09:30 | Seoul Economic Daily | Samsung Electronics Falls 3.7% as War, Oil and Rates Squeeze Stocks - Seoul Economic Daily | google:Seoul Economic Daily | aen3
+2026-09-11 09:28 | 아시아경제 | KOSPI Plummets to 6,800 at the Open... KOSDAQ Also Drops - 아시아경제 | google:아시아경제 | aen1,aen3
+2026-09-11 09:22 | 디지털투데이 | KOSPI slides below 6,800 early as foreigners, institutions sell - 디지털투데이 | google:디지털투데이 | aen3
+2026-09-11 09:21 | yna.co.kr | 삼성물산 패션부문, 20일까지 성수동서 '랙앤본' 팝업 | https://www.yna.co.kr/view/AKR20260911033200030?input=1195m | a1,a5
+2026-09-11 09:14 | Chosunbiz | Oil and US yields surge, foreigners dump as Korea stocks plunge - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-11 09:06 | popcornnews.net | 삼성바이오에피스, 고용노동부 주관 '2026 일자리 으뜸기업' 선정 | http://www.popcornnews.net/news/articleView.html?idxno=132588 | a10
+2026-09-11 09:04 | asiatime.co.kr | 삼성바이오에피스, '일자리 으뜸기업' 선정…여성 재직자 51% | https://www.asiatime.co.kr/article/20260911500028 | a10
+2026-09-11 08:48 | Seoul Economic Daily | Samsung Bioepis Named Top Job-Creating Company by Labor Ministry - Seoul Economic Daily | google:Seoul Economic Daily | aen4
+2026-09-11 08:46 | etoday.co.kr | 삼성물산 랙앤본, 상반기 매출 27% 증가…성수에 첫 단독 팝업 열고 남성... | https://www.etoday.co.kr/news/view/2624325 | a1
+2026-09-11 08:46 | taxtimes.co.kr | 국세·관세 세무조사 안받는 일자리 으뜸기업…오뚜기, 에스케이하이닉... | https://www.taxtimes.co.kr/news/article.html?no=276807 | a10?
+2026-09-11 08:36 | press9.kr | 삼성바이오에피스, 여성 재직자 51%…'일자리 으뜸기업' 선정 | http://www.press9.kr/news/articleView.html?idxno=82570 | a10
+2026-09-11 08:36 | hankyung.com | 여성 직원 절반·관리자 47%…삼성바이오에피스, ‘일자리 으뜸기업’ ... | https://www.hankyung.com/article/202609118039i | a10
+2026-09-11 08:31 | 아시아경제 | Samsung Bioepis Selected as a "2026 Korea's Best Employment Company" - 아시아경제 | google:아시아경제 | aen4
+2026-09-11 08:31 | biz.sbs.co.kr | ​​​​​​​삼성바이오에피스, 노동부 주관 '우수 일자리 창출 기업... | https://biz.sbs.co.kr/article_hub/20000334051?division=NAVER | a10
+2026-09-11 08:29 | Seoul Economic Daily | Samsung Electronics, SK hynix Drop 3% on Wall Street Slide - Seoul Economic Daily | google:Seoul Economic Daily | aen3
+2026-09-11 08:26 | medical-tribune.co.kr | 삼성바이오에피스 일자리 으뜸기업 | http://www.medical-tribune.co.kr/news/articleView.html?idxno=215121 | a10
+2026-09-11 08:22 | thepublic.kr | 삼성바이오로직스, 유럽 제약사와 CMO 계약…누적 수주 219억달러 | https://www.thepublic.kr/news/articleView.html?idxno=318367 | a7
+2026-09-11 08:16 | dailypharm.com | 삼성바이오에피스 '일자리 으뜸기업'…여성 재직자 절반 이상 | https://www.dailypharm.com/user/news/342386?REFERER=NP | a10
+2026-09-11 07:50 | Billionaires.Africa | Billionaire Lee Jae-yong is buying $1.4 billion of Samsung stock from his own mother - Billionaires.Africa | google:Billionaires.Africa | aen1
 2026-09-11 06:22 | dailymedi.com | 노바티스 '루센티스' 타깃…종근당·삼바에피스 '부상' | https://www.dailymedi.com/news/news_view.php?wr_id=940409 | a10?
-2026-09-11 03:57 | BioProcess International | Samsung Biologics wins $262m contract, expands Songdo site - BioProcess International | google:BioProcess International | aen3
+2026-09-11 05:17 | DetakIndonesia.co.id | Pengakuan Direktur Operasional PT ANS Buka Tabir Kapal Ponton Galian C, PBT, HGU dan Penghentian Akses Agrinas - DetakIndonesia.co.id | google:DetakIndonesia.co.id | aid9
+2026-09-11 03:57 | BioProcess International | Samsung Biologics secures $262m manufacturing contract amid Songdo expansion - BioProcess International | google:BioProcess International | aen3
 2026-09-11 02:09 | Fierce Pharma | Samsung Biologics - Fierce Pharma | google:Fierce Pharma | aen3
 2026-09-11 01:26 | GlobeNewswire | Biologics and Biosimilars Market - GlobeNewswire | google:GlobeNewswire | aen4
-2026-09-11 00:34 | WWD | Margaret Howell Makes Retail Push in South Korea With Samsung - WWD | google:WWD | aen1
-2026-09-11 00:30 | Yahoo Finance | OpenAI Deepens Samsung Partnership to Build Next-Gen AI Chips — ‘One of the Areas Where We’ve Made the Most Progress’ - Yahoo Finance | google:Yahoo Finance | aen1
-2026-09-11 00:01 | Endpoints News | Lonza to build new US factory; Samsung Bio signs $262M contract - Endpoints News | google:Endpoints News | aen3
-2026-09-10 23:12 | donga.com | 삼성바이오로직스, 유럽 제약사와 장기 위탁생산 계약…누적 수주 30조... | https://www.donga.com/news/Health/article/all/20260910/134647817/1 | a7
-2026-09-10 23:04 | kdpress.co.kr | [주요공시] S-Oi, 삼성바이오로직스, HD현대중공업, 피델릭스, 다우기술... | https://www.kdpress.co.kr/news/articleView.html?idxno=208518 | a7
-2026-09-10 22:52 | biz.newdaily.co.kr | 삼성바이오로직스, 2차 사후조정 연기 요청 … 임단협 협상 다시 제동 | https://biz.newdaily.co.kr/site/data/html/2026/09/10/2026091000299.html | a7
-2026-09-10 22:49 | jurnas.com | / Mafirion Desak Pemerintah Selesaikan Kasus Petani Kelapa Inhil - jurnas.com | google:jurnas.com | aid9
-2026-09-10 22:40 | persadariau.co.id | Polemik HGU PT MUP: Masyarakat Menolak, Tanda Tangan 5 Kades dan 1 Lurah Dukung Perusahaan - persadariau.co.id | google:persadariau.co.id | aid6
-2026-09-10 22:32 | Manufacturing Chemist | Samsung Biologics signs USD 262 million manufacturing agreement with European pharmaceutical company - Manufacturing Chemist | google:Manufacturing Chemist | aen3,aen4
-2026-09-10 21:55 | openPR.com | Osteoporosis Treatment Market is Projected to Grow at a Significant CAGR by 2036 / DelveInsight - openPR.com | google:openPR.com | aen4
-2026-09-10 21:54 | news2day.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억 위탁생산 계약...2033년까지 공... | https://www.news2day.co.kr/article/20260910500268 | a7
-2026-09-10 21:30 | econonews.co.kr | 코스피, 약보합에도 7000선 지켜내...삼성생명, 삼성물산 상승 VS 삼성바... | http://www.econonews.co.kr/news/articleView.html?idxno=444170 | a1
-2026-09-10 21:00 | Yahoo Finance Singapore | Ginkgo Bioworks Joins ARPA-H GIVE Program to Build Autonomous Manufacturing System for Individualized RNA Medicines - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-10 21:00 | Yahoo Finance Singapore | Fluence Selected by Compass Pathways to Develop Post-Approval COMP360 Provider Training - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-10 20:36 | Fierce Pharma | Samsung Bio, waiting to break into peptides, nets $262M manufacturing deal with unnamed EU pharma - Fierce Pharma | google:Fierce Pharma | aen3
-2026-09-10 20:32 | kitakininews.co.id | Kebakaran Lahan Meluas ke Indragiri Hulu, Kapolda Riau Pantau Operasi Pemadaman - kitakininews.co.id | google:kitakininews.co.id | aid8
-2026-09-10 20:28 | Riau Pos | Bakar Lahan untuk Kebun Sawit di SM Kerumutan, 3 Warga Teluk Meranti Ditangkap Polisi - Riau Pos | google:Riau Pos | aid6
-2026-09-10 20:09 | RRI.co.id | Sengketa Lahan Manusela, DPRD Siapkan Tiga Solusi - RRI.co.id | google:RRI.co.id | aid9
-2026-09-10 19:52 | persadariau.co.id | Kasus Pupuk Subsidi Pelalawan: Saksi Mencabut Keterangan BAP, Armaita Korban Ketidakcermatan Penyidik - persadariau.co.id | google:persadariau.co.id | aid6
-2026-09-10 19:52 | ebn.co.kr | [1% 초고수의 선택] '대한전선' 사고 '산일전기' 팔았다 | https://www.ebn.co.kr/news/articleView.html?idxno=1723833 | a7,a7?
-2026-09-10 19:31 | persadariau.co.id | Tim 9 Plasma Aliansi Masyarakat Adat Langgam Nilai Surat Rekomendasi Bupati Zukri Terkait HGU PT MUP Cacat Administrasi dan Langgar Aturan - persadariau.co.id | google:persadariau.co.id | aid6
-2026-09-10 19:14 | s-journal.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억원 규모 위탁생산 계약 체결 | https://www.s-journal.co.kr/news/articleView.html?idxno=43669 | a7
-2026-09-10 19:10 | newsworks.co.kr | 삼성웰스토리, 급식업계 첫 '유튜브 실버'…구독자 10만 조회수 1000만 | https://www.newsworks.co.kr/news/articleView.html?idxno=853368 | a12
-2026-09-10 19:06 | hitnews.co.kr | [HIT알공] SK바이오팜, '오파칼림' 임상 제동에 11일 기업설명회 | https://www.hitnews.co.kr/news/articleView.html?idxno=79052 | a7,a7?
-2026-09-10 18:56 | RiauPagi.com | Konflik Lahan Warga dengan PT Tunggal Perkasa Plantation Berlarut-larut, Mantan Gubri Edy Natar Nasution: 'Kita Minta Segera Audit HGU Perusahaan' - RiauPagi.com | google:RiauPagi.com | aid8,aid9
-2026-09-10 18:46 | Businesskorea | Samsung Biologics Lands 350.8 Billion Won CMO Deal - Businesskorea | google:Businesskorea | aen3
-2026-09-10 18:46 | businesskorea.co.kr | Samsung Biologics Lands 350.8 Billion Won CMO Deal | https://www.businesskorea.co.kr/news/articleView.html?idxno=276674 | a8
-2026-09-10 18:38 | dailysmart.co.kr | "원전 본고장 유럽 뚫었다"… 삼성물산 건설부문, 스웨덴 1.2GW SMR 사업 ... | http://www.dailysmart.co.kr/news/articleView.html?idxno=129581 | a1,a3
-2026-09-10 18:30 | fnnews.com | '알파남 파브리' 흥행… 삼성웰스토리 구독자 10만 | https://www.fnnews.com/news/202609101829386638 | a12
-2026-09-10 18:24 | thelec.net | Samsung Electronics Expands Heat Pump Installation Training - thelec.net | google:thelec.net | aen1
-2026-09-10 18:20 | Yahoo Finance Singapore | EPIK Biosciences Advances Combination Medicines Across Ketamine-Based and DXM-Based Programs, Supported by 34 Provisional Drug Patent Applications - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-10 18:14 | biztribune.co.kr | 삼성바이오로직스, 유럽 제약사와 CMO 계약 체결…3508억원 규모 | http://www.biztribune.co.kr/news/articleView.html?idxno=358794 | a7
-2026-09-10 18:06 | kukinews.com | 삼성바이오로직스, 유럽 제약사와 3508억원 CMO 계약…2033년까지 공급 | https://www.kukinews.com/article/view/kuk202609100213 | a7
-2026-09-10 18:00 | the-today.com | 삼성바이오로직스, 노사 갈등 해법 가물가물…반년째 협상 '평행선' | https://www.the-today.com/news/articleView.html?idxno=89914 | a7
-2026-09-10 17:55 | finance.biggo.com | Samsung Biologics Signs ₩350.8 Billion Long-Term CMO Deal with European Pharmaceutical Company - finance.biggo.com | google:finance.biggo.com | aen3
-2026-09-10 17:40 | koreabiomed.com | Samsung Biologics discloses $261 mil. contract manufacturing agreement | https://www.koreabiomed.com/news/articleView.html?idxno=33132 | a8
-2026-09-10 17:38 | Korea Biomedical Review | Samsung Biologics discloses $261 mil. contract manufacturing agreement - Korea Biomedical Review | google:Korea Biomedical Review | aen3
-2026-09-10 17:32 | paxetv.com | 삼성바이오로직스, 유럽 소재 제약사와 3508억원 규모 계약 체결...누적... | http://www.paxetv.com/news/articleView.html?idxno=281551 | a7
-2026-09-10 17:30 | etoday.co.kr | [오늘의 주요공시] GS건설·삼성바이오로직스·대우건설 등 | https://www.etoday.co.kr/news/view/2624204 | a7
-2026-09-10 17:30 | consumernews.co.kr | 삼성바이오로직스, 유럽 소재 제약사와 3500억 규모 CMO 계약...올해 신... | http://www.consumernews.co.kr/news/articleView.html?idxno=763578 | a7
-2026-09-10 17:28 | newsprime.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억 CMO 계약 | http://www.newsprime.co.kr/news/article.html?no=747294 | a7
-2026-09-10 17:24 | popcornnews.net | 삼성바이오로직스, 유럽 제약사와 3500억 원대 CMO 계약...누적 수주 219... | http://www.popcornnews.net/news/articleView.html?idxno=132532 | a7
-2026-09-10 17:21 | 조선일보 | Samsung Biologics Secures $262M European Biologics Contract - 조선일보 | google:조선일보 | aen3
-2026-09-10 17:14 | financialpost.co.kr | 삼성바이오로직스, 유럽 제약사와 3500억원 수주…2033년까지 장기 계약 | https://www.financialpost.co.kr/news/articleView.html?idxno=274970 | a7
-2026-09-10 17:14 | businesspost.co.kr | 삼성바이오로직스 임단협 사후조정 연기, 회사 "노조가 회의 내용 일부... | https://www.businesspost.co.kr/BP?command=article_view&num=446929 | a7
-2026-09-10 17:09 | etnews.com | 삼성바이오로직스, 유럽 제약사와 3508억원 규모 CMO 장기계약 체결 | https://www.etnews.com/20260910000392 | a7
-2026-09-10 17:01 | TipRanks | Samsung Biologics Secures KRW 350.8 Billion Long-Term Manufacturing Deal With European Pharma Client - TipRanks | google:TipRanks | aen3
-2026-09-10 16:58 | thefirstmedia.net | 삼성웰스토리, 급식업계 첫 '실버버튼'... 파브리 콘텐츠 통했다 | http://www.thefirstmedia.net/news/articleView.html?idxno=208256 | a12
-2026-09-10 16:54 | Seoul Economic Daily | Samsung Biologics Wins 350.8 Billion Won CMO Deal With European Drugmaker - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-09-10 16:54 | mydaily.co.kr | 삼성바이오로직스 노사, 사후조정 중에도 공방…회의록 공개 놓고 다시... | https://www.mydaily.co.kr/page/view/2026091016530703313 | a7
-2026-09-10 16:50 | 디지털투데이 | Foreign selling of 2.5 trillion won pulls KOSPI down 0.25%, but it holds 7,000 - 디지털투데이 | google:디지털투데이 | aen1
-2026-09-10 16:50 | sentv.co.kr | 삼성바이오로직스, 유럽 제약사와 장기계약…3508억원 규모 | https://www.sentv.co.kr/article/view/sentv202609100204 | a7
-2026-09-10 16:50 | e-science.co.kr | 삼성바이오로직스, 3508억 규모 CMO 수주...2033년까지 공급 | https://www.e-science.co.kr/news/articleView.html?idxno=135244 | a7
-2026-09-10 16:49 | hankookilbo.com | 삼성웰스토리, 급식업계 최초 유튜브 실버버튼… "파브리가 성장 이끌어... | https://www.hankookilbo.com/news/article/A2026091015450004748?did=NA | a12
-2026-09-10 16:47 | biz.chosun.com | 삼성바이오로직스, 유럽 제약사와 3500억 수주 계약 | https://biz.chosun.com/science-chosun/bio/2026/09/10/DZVRYXVZQNBYXHJZ3PX73JFVN4/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
-2026-09-10 16:47 | moneystorm.kr | 삼성바이오로직스, 유럽 제약사와 3508억원 규모 신규 위탁생산 수주 | https://www.moneystorm.kr/news/articleView.html?idxno=6403 | a7
-2026-09-10 16:46 | Chosunbiz | Samsung Biologics secures 350.8 billion won CMO deal with European pharma - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-09-10 16:45 | Chosunbiz | Samsung Biologics delays Korea labor talks amid dispute over minutes - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-09-10 16:41 | biz.heraldcorp.com | 삼성바이오로직스, 유럽 제약사와 3508억 CMO 수주…하반기 물꼬 | https://biz.heraldcorp.com/article/10869521?ref=naver | a7
-2026-09-10 16:39 | 헤럴드경제 | Samsung Biologics inks $262m CMO deal with European drugmaker, sparking H2 order rebound - 헤럴드경제 | google:헤럴드경제 | aen3
-2026-09-10 16:38 | news.mtn.co.kr | 삼성바이오로직스, 3508억원 바이오의약품 위탁생산 계약…올해 6번째 | https://news.mtn.co.kr/news-detail/2026091016292370763 | a7
-2026-09-10 16:36 | 아시아경제 | Samsung BioLogics Signs 350.8 Billion Won Contract with European Pharma Firm, Cumulative Orders Reach $21.9 Billion - 아시아경제 | google:아시아경제 | aen3
-2026-09-10 16:36 | view.asiae.co.kr | 삼성바이오로직스, 유럽 제약사와 3508억 계약…누적 219억달러 | https://view.asiae.co.kr/article/2026091016360157389 | a7
-2026-09-10 16:33 | TipRanks | Samsung Affiliates Maintain 20.83% Stake in Samsung Heavy Industries - TipRanks | google:TipRanks | aen1
-2026-09-10 16:32 | 매일경제 | On the 10th, the KOSPI, which had fluctuated on the occasion of the so-called "Four Witch's Day," th.. - 매일경제 | google:매일경제 | aen1
-2026-09-10 16:32 | news.sbs.co.kr | KOSPI Defends 7,000 Level Supported by Treasury Stock Purchases - news.sbs.co.kr | google:news.sbs.co.kr | aen1
-2026-09-10 16:30 | daily.hankooki.com | 삼성바이오로직스, 유럽 제약사와 3508억원 CMO 계약…장기계약 확대 | https://daily.hankooki.com/news/articleView.html?idxno=1404963 | a7
-2026-09-10 16:19 | newspim.com | 삼성바이오, '회의록 논란'에 2차 사후조정 연기 요청…임단협 안갯속 | https://www.newspim.com/news/view/20260910001050 | a7?
-2026-09-10 16:18 | news.einfomax.co.kr | 국민연금, 제일모직·물산 합병 손배소송 "합병비율 재감정해야" | https://news.einfomax.co.kr/news/articleView.html?idxno=4434320 | a1?
-2026-09-10 16:11 | wowtv.co.kr | 중동발 악재에 롤러코스터…개인은 사고 외국인은 팔고 이틀째 지켰다 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609100495&t=NN | a1?,a7,a7?
-2026-09-10 16:07 | mt.co.kr | 삼성바이오로직스 노사, 사후조정 돌입…'회의록 공방'에 시작부터 삐걱 | https://www.mt.co.kr/thebio/2026/09/10/2026091015361066163 | a7
-2026-09-10 15:42 | weekly.hankooki.com | 삼성웰스토리, 공식 유튜브 조회수 1000만회 기록 | https://weekly.hankooki.com/news/articleView.html?idxno=7183413 | a12
-2026-09-10 15:38 | The Economic Times | Global Market: South Korean stocks fall over 1% as Middle East tensions weigh on risk sentiment - The Economic Times | google:The Economic Times | aen3
-2026-09-10 15:24 | biz.heraldcorp.com | “촐싹대더니 판 다 엎었다”…삼성바이오로직스 노조 ‘2차 파업 협박... | https://biz.heraldcorp.com/article/10869379?ref=naver | a7
-2026-09-10 15:23 | 헤럴드경제 | Samsung Biologics union's renewed strike threat sparks internal backlash - 헤럴드경제 | google:헤럴드경제 | aen3
-2026-09-10 15:18 | greened.kr | "9만 9천원 후드 집업도 싸다"...삼성물산 에잇세컨즈, MZ세대 원픽 '민... | https://www.greened.kr/news/articleView.html?idxno=349787 | a1
-2026-09-10 15:00 | sisacast.kr | 삼성웰스토리, 공식 유튜브 구독자 10만 달성 '실버버튼' 받아 | http://www.sisacast.kr/news/articleView.html?idxno=99889 | a12
-2026-09-10 14:59 | 아시아경제 | Samsung BioLogics Requests Postponement of Second Post-Mediation Session... Pre-Chuseok Agreement at Risk - 아시아경제 | google:아시아경제 | aen3
-2026-09-10 14:47 | liputanoke.com | Tinjau Karhutla Inhu, Kapolda Riau Tekankan Kolaborasi hingga Restorasi - liputanoke.com | google:liputanoke.com | aid7
-2026-09-10 14:36 | Teras.id | Mengapa Konflik Beruang dengan Manusia di Riau Meningkat - Teras.id | google:Teras.id | aid6
-2026-09-10 14:04 | dealsite.co.kr | 삼성바이오로직스, 노사 2차 사후조정 연기 요청 | https://dealsite.co.kr/articles/168794 | a7
-2026-09-10 13:44 | detikNews | Kapolda Riau: Penanganan Karhutla Tak Henti di Pemadaman, Harus Ada Restorasi - detikNews | google:detikNews | aid7
-2026-09-10 13:33 | Pelalawanpos | Warga Kuala Terusan dan Rantau Baru Desak PT PHI: Kemitraan 20 Persen dan Anak Sungai Jadi Sorotan - Pelalawanpos | google:Pelalawanpos | aid6
-2026-09-10 13:33 | Pelalawanpos | Peringati Maulid Nabi Muhammad 1448 H, Wabup Ajak Masyarakat Perbanyak Doa - Pelalawanpos | google:Pelalawanpos | aid9
-2026-09-10 13:11 | sedaily.com | 파브리 효과 통했다…삼성웰스토리, 급식업계 첫 ‘실버버튼’ | https://www.sedaily.com/article/20089352?ref=naver | a12
-2026-09-10 12:43 | riaulapor.com | LSM Perisai Minta Polisi Evaluasi Legalitas PT DSI Sebelum Pengamanan Pembuatan Parit - riaulapor.com | google:riaulapor.com | aid9
-2026-09-10 12:40 | mdtoday.co.kr | 속도 내던 삼성바이오 노사 협상 제동…사측, 사후조정 연기 요청 | https://www.mdtoday.co.kr/news/articleView.html?idxno=611583 | a7?
-2026-09-10 12:30 | NST Online | Construction sector poised for re-rating on public infra revival, active data centre pipeline – MBSB Research - NST Online | google:NST Online | aen1
-2026-09-10 11:26 | foodnews.co.kr | 삼성웰스토리, 공식 유튜브 구독자 10만 돌파 '실버버튼' 받는다 | http://www.foodnews.co.kr/news/articleView.html?idxno=120114 | a12
-2026-09-10 11:03 | Aju Press | Oil surge, rate fears pull KOSPI below 7,000 - Aju Press | google:Aju Press | aen1
-2026-09-10 10:55 | finance.biggo.com | Samsung Electronics Opens Dedicated Heat Pump Training Center, Targeting South Korea's 3.5 Million Unit Market - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-10 10:38 | HALLORIAU.COM | Bantuan Pemadaman PBPH Perkuat Perlindungan Desa di Pelalawan - HALLORIAU.COM | google:HALLORIAU.COM | aid5
-2026-09-10 10:07 | bloter.net | [단독] 삼성바이오, 2차 사후조정 연기 요청…오늘 집중교섭도 취소 | https://www.bloter.net/news/articleView.html?idxno=673247 | a7?
-2026-09-10 10:03 | hankyung.com | 삼성웰스토리, 업계 최초 유튜브 '실버버튼' 품었다 | https://www.hankyung.com/article/202609105551g | a12
-2026-09-10 09:55 | mt.co.kr | 급식업계 최초 유튜브 '실버버튼' 삼성웰스토리..."누적 1000만 조회수" | https://www.mt.co.kr/living/2026/09/10/2026091009503859118 | a12
-2026-09-10 09:44 | ekn.kr | 이재용은 1.9조에 사고, 최태원은 7000억에 지켰다…삼성·SK ‘지분의 값... | https://www.ekn.kr/web/view.php?key=20260910027022815 | a12,a1?
-2026-09-10 09:42 | newsquest.co.kr | 급식 메뉴가 유튜브 콘텐츠로…삼성웰스토리 구독자 10만명 | https://www.newsquest.co.kr/news/articleView.html?idxno=300631 | a12
-2026-09-10 09:34 | econovill.com | "더 높은 공간에서, 더 깊은 삶으로"… 삼성물산 래미안, 5년 만에 브랜... | https://www.econovill.com/news/articleView.html?idxno=750395 | a1,a12
-2026-09-10 09:34 | youthdaily.co.kr | "구독자 10만명 달성"...삼성웰스토리, 급식업계 최초 유튜브 실버버튼 | https://www.youthdaily.co.kr/news/article.html?no=226812 | a12
-2026-09-10 09:22 | megaeconomy.co.kr | 삼성웰스토리 유튜브, 급식업계 최초 구독자 10만명 돌파 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572334194901 | a12
-2026-09-10 09:19 | newsis.com | "파브리 콘텐츠 통했다" 삼성웰스토리, 급식업계 첫 유튜브 실버버튼 | https://www.newsis.com/view/NISX20260910_0003783684 | a12
-2026-09-10 09:12 | viva100.com | 삼성웰스토리, 급식업계 첫 유튜브 실버버튼 받아 | https://www.viva100.com/article/20260910500189 | a12
-2026-09-10 09:11 | 디지털투데이 | Samsung Electronics opens dedicated EHS heat pump training center in Suwon - 디지털투데이 | google:디지털투데이 | aen1
-2026-09-10 08:45 | news1.kr | 삼성웰스토리, 급식업계 첫 유튜브 실버버튼…구독자 10만 돌파 | https://www.news1.kr/industry/distribution/6285768 | a12
-2026-09-10 08:27 | view.asiae.co.kr | 삼성웰스토리, 급식업계 최초 유튜브 '실버버튼' 획득 | https://view.asiae.co.kr/article/2026091008224365921 | a12
-2026-09-10 08:26 | fnnews.com | 삼성웰스토리, 유튜브 구독자 10만명 달성.. 급식업계 최초 '실버버튼' | https://www.fnnews.com/news/202609100823065231 | a12
-2026-09-10 07:02 | dealsite.co.kr | 삼성전자 역대급 배당에 삼성물산 주주 ‘방긋’ | https://dealsite.co.kr/articles/168579 | a1
-2026-09-10 07:02 | investchosun.com | [Invest]10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 ... | https://www.investchosun.com/site/data/html_dir/2026/09/09/2026090980128.html | a7?
-2026-09-10 06:00 | Chosunbiz | US plan for 8 reactors lifts Korea nuclear stocks as reactor choice looms - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
-2026-09-10 03:37 | finance.biggo.com | South Korea's Seongsu District 2 Redevelopment Effectively Down to DL E&C as Sole Contractor; Negotiated Contract Likely - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-10 02:49 | International Institute for Sustainable Development | English court sets aside in part an investment treaty award in favour of a Samsung C&T shareholder - International Institute for Sustainable Development | google:International Institute for Sustainable Development | aen1
-2026-09-10 02:49 | International Institute for Sustainable Development | Climate accountability in the fossil fuel industry: ICSID tribunal orders Niko to compensate BAPEX for the 2005 Chattak blowouts, including carbon sequestration costs – Investment Treaty News - International Institute for Sustainable Development | google:International Institute for Sustainable Development | aen1
-2026-09-10 01:45 | Suara.com | 25 Tahun Konflik Agraria di Jambi Tak Selesai! BAM DPR Bakal Turun dan Investigasi - Suara.com | google:Suara.com | aid9
-2026-09-10 00:06 | Android Headlines | Samsung to Produce Custom AI Chips for OpenAI as Hardware Partnership Deepens - Android Headlines | google:Android Headlines | aen1
+2026-09-11 01:06 | markets.com | KOSPI and Nikkei Fall as Chip Stocks Slide - markets.com | google:markets.com | aen3
+2026-09-11 00:32 | PelalawanPos | Warga Kuala Terusan dan Rantau Baru Desak PT PHI: Kemitraan 20 Persen dan Anak Sungai Jadi Sorotan - PelalawanPos | google:PelalawanPos | aid6
+2026-09-11 00:01 | endpoints.news | Lonza to build new US factory; Samsung Bio signs $262M contract - endpoints.news | google:endpoints.news | aen3
