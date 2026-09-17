@@ -1,95 +1,136 @@
-# collected: 2026-09-17 08:02 KST
-# window: 2026-09-16 00:00 ~ 2026-09-17 08:02 KST
-# part 1 of 1, lines: 90
+# collected: 2026-09-18 08:01 KST
+# window: 2026-09-17 00:00 ~ 2026-09-18 08:01 KST
+# part 1 of 1, lines: 131
 # format: date | media | title | url | tags
 
-2026-09-17 07:40 | slist.kr | 삼성물산 여성복 '앙개', 더현대서울 팝업...'오피스룩' 테마 | https://www.slist.kr/news/articleView.html?idxno=766740 | a1
+2026-09-18 08:00 | newsroad.co.kr | 삼성물산 패션, 가을 신상품 10% 할인 '브랜드데이'…온·오프라인 동시... | http://www.newsroad.co.kr/news/articleView.html?idxno=64547 | a1
+2026-09-18 07:44 | SBS Star | Where Are They Now? The Rise and Fall of Korea's Dot-Com Boom on 'Tails of Tales' - SBS Star | google:SBS Star | aen1
+2026-09-18 07:40 | slist.kr | 삼성물산 패션, 온·오프라인 통합 프로모션...할인 및 페이백 | https://www.slist.kr/news/articleView.html?idxno=767036 | a1
+2026-09-18 07:16 | Yahoo Finance Singapore | What Charles River Laboratories International (CRL)'s Accelerated, NGS-Enabled Cell Banking Platform Means For Shareholders - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-18 07:04 | dealsite.co.kr | [압·여·목·성 신지형도] 여의도 대교, 2500억 이주비 조달…삼성물산... | https://dealsite.co.kr/articles/169262 | a1
+2026-09-18 06:10 | yakup.com | [BMK2026]삼성바이오로직스, ADC 상업화 앞당긴다…제형·공정 최적화 전... | https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332729 | a7
+2026-09-18 06:00 | Chosunbiz | KOSHA stalls Samsung-funded safety center as Korea mulls direct operation - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen13
+2026-09-18 05:30 | mt.co.kr | 무리한 과징금, 법원서 '제동'..."혈세 줄줄 새는데" 일단 때리고 보자? | https://www.mt.co.kr/industry/2026/09/18/2026091718443351824 | a12?
+2026-09-18 03:12 | thedailystar.net | Some RMG buyers shifting work orders for strategic reasons - thedailystar.net | google:thedailystar.net | aen1
+2026-09-18 03:04 | thedailystar.net | Menzies eyes third terminal ground handling - thedailystar.net | google:thedailystar.net | aen1
+2026-09-18 02:30 | SilverTrade | SILVER SHOCK ON THE HORIZON? Samsung Set to Begin Silver Solid State Battery Mass Production in 2027 - SilverTrade | google:SilverTrade | aen1
+2026-09-18 01:58 | hansbiz.co.kr | 현대글로비스·삼성물산, 빌딩 물류 자동화 '맞손' | http://www.hansbiz.co.kr/news/articleView.html?idxno=866401 | a1
+2026-09-18 01:31 | lancangkuning.com | 58 Perkara Karhutla Ditangani Polda Riau, 61 Orang Jadi Tersangka - lancangkuning.com | google:lancangkuning.com | aid8
+2026-09-18 01:05 | finance.biggo.com | South Korea Proposes 'Resilient Power Grid' at G20; Expands Transformer, SMR Cooperation with U.S. - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-18 00:58 | Yahoo Finance Singapore | RGMBS 2026 Life Sciences Innovation Forum Draws More Than USD 120 Million in Investor Interest as 23 Global Biotech Innovators Pitch in Riyadh - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-18 00:04 | katakabar.com | Ungkap 58 Perkara Karhutla Selama 2026, Polda Riau Tangkap 61 Pelaku - katakabar.com | google:katakabar.com | aid8
+2026-09-18 00:03 | chosun.com | Gangnam Apartments' Discount Sale for the Wealthy - chosun.com | google:chosun.com | aen1
+2026-09-17 23:40 | FashionNetwork - The World's Fashion Business News | Margaret Howell announces retail expansion in South Korea - FashionNetwork - The World's Fashion Business News | google:FashionNetwork - The World's Fashion Business News | aen1
+2026-09-17 23:32 | ekn.kr | [똑똑한패션] 무신사, K2, 노스페이스, 아이더, 삼성물산 패션 앙개 | https://www.ekn.kr/web/view.php?key=20260917029426304 | a1,a12
+2026-09-17 22:57 | Kompas.com | Tersangka Karhutla Ditangkap di Riau, Hutan Dibakar Lalu Ditanam Sawit - Kompas.com | google:Kompas.com | aid6
+2026-09-17 22:46 | Haluan Riau | Bukan Sekadar Cari Pelaku Pembakar, Polda Riau Bongkar Motif di Balik Karhutla 3.387 Hektare - Haluan Riau - Haluan Riau | google:Haluan Riau | aid8
+2026-09-17 21:27 | GoRiau.com | Ribuan Hektare Lahan Hangus Terbakar, Polda Riau Tetapkan 61 Tersangka Karhutla - GoRiau.com | google:GoRiau.com | aid6,aid8
+2026-09-17 21:20 | Yahoo Finance Singapore | Lantern Pharma to Present Open-Medicine AI — a Multi-Agentic Platform for End-to-End Therapeutic Development — Business Model, Roadmap, and Value Proposition on September 23 - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-17 20:45 | ingatlah.com | Karhutla Makin Meluas, Polisi di Riau Sudah Ungkap 58 Kasus dan Tangkap 61 Tersangka - ingatlah.com | google:ingatlah.com | aid8
+2026-09-17 20:14 | riaulapor.com | Polda Riau Usut 58 Perkara Karhutla dan Tahan 61 Tersangka - riaulapor.com | google:riaulapor.com | aid8
+2026-09-17 20:10 | LiputanOke.Com | Kejar Aktor Utama Karhutla, Polda Riau Bidik Pihak yang Diuntungkan - LiputanOke.Com | google:LiputanOke.Com | aid8
+2026-09-17 20:10 | timesca.com | South Korea’s YPP Considers $2 Billion Green Ammonia Project in Kazakhstan - timesca.com | google:timesca.com | aen1
+2026-09-17 20:09 | marketscreener.com | KCC to Sell Platinum, Rhodium to Affiliate for KRW56.4 Billion - marketscreener.com | google:marketscreener.com | aen1
+2026-09-17 20:05 | Riauin.com | Polda Riau Tetapkan 61 Tersangka Karhutla, Pola Alih Fungsi Lahan Konsesi Jadi Sawit Terbongkar - Riauin.com | google:Riauin.com | aid6
+2026-09-17 20:02 | Riau Pos | Sudah 61 Orang Ditetapkan Tersangka Karhutla, Polda Riau Minta Stop Bakar Lahan - Riau Pos | google:Riau Pos | aid8
+2026-09-17 19:04 | Singgalang Riau | Polda Riau Tangani 58 Kasus Karhutla, 61 Tersangka dan 3.387 Hektare Terdampak - Singgalang Riau | google:Singgalang Riau | aid6
+2026-09-17 19:00 | asiatoday.co.kr | 30조 목동 재건축 ‘홍보전’ 치열…삼성물산은 왜 느긋할까 | https://www.asiatoday.co.kr/kn/view.php?key=20260916010006237 | a1
+2026-09-17 18:56 | lawissue.co.kr | 삼성물산 앙개, 더현대 서울에서 FW 팝업스토어 운영 | http://www.lawissue.co.kr/view.php?ud=202609171854333523204ead0791_12 | a1,a1?
+2026-09-17 18:48 | Businesskorea | South Korea Proposes Resilient Power Grid Partnership to G20 - Businesskorea | google:Businesskorea | aen1
+2026-09-17 18:37 | Riau Pos | Realisasi PSR di Riau Lampaui Target, Sudah Capai 7.244 Hektare - Riau Pos | google:Riau Pos | aid6
+2026-09-17 18:30 | Nadariau.com | Bukan Hanya Pembakar, Polda Riau Telusuri Dalang dan Pihak yang Diuntungkan dari Karhutla - Nadariau.com | google:Nadariau.com | aid8
+2026-09-17 18:22 | Chosunbiz | Worker dies at Naepo new town site in South Korea; cause under review - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen13
+2026-09-17 18:20 | newsworks.co.kr | [삼성바이오 파업㊥] 존림 대표, 3년간 212억 받는 동안…불붙은 '성과급... | https://www.newsworks.co.kr/news/articleView.html?idxno=854125 | a7?
+2026-09-17 17:40 | todayeconomic.com | 현대글로비스·삼성물산, 스마트빌딩 로봇배송 개발…내년 실증 착수 | https://www.todayeconomic.com/news/article.html?no=32176 | a1
+2026-09-17 17:38 | irobotnews.com | 현대글로비스, 삼성물산과 스마트빌딩 물류자동화 협력 | https://www.irobotnews.com/news/articleView.html?idxno=48565 | a1
+2026-09-17 17:18 | dailysmart.co.kr | "아파트·현장서 AI로 건강 관리한다"… 삼성물산 건설부문, AI 웰니스 솔... | http://www.dailysmart.co.kr/news/articleView.html?idxno=129951 | a1,a3
+2026-09-17 17:18 | kfenews.co.kr | [김영권 편집대표 칼럼] 삼성물산, 하이테크 넘어 원전으로…다음 30년 | https://www.kfenews.co.kr/news/articleView.html?idxno=664826 | a1
+2026-09-17 17:18 | topstarnews.net | 삼성물산 주가, 9월 17일 애프터마켓 354,500원 0.28% 상승 | https://www.topstarnews.net/news/articleView.html?idxno=16197131 | a1
+2026-09-17 17:09 | Yahoo Finance Singapore | WuXi XDC Out-Licenses WuXiTecan-2 Payload-Linker Technology Platform to Ona Therapeutics to Advance Novel ADC Research and Development - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-17 16:58 | insight.co.kr | 삼성물산 페미닌 컨템포러리 브랜드 '앙개', 더현대 서울서 첫 백화점 ... | https://www.insight.co.kr/news/574034 | a1
+2026-09-17 16:56 | sisacast.kr | 현대글로비스, 삼성물산과 스마트빌딩 물류자동화 및 로봇배송 서비스... | http://www.sisacast.kr/news/articleView.html?idxno=100205 | a1
+2026-09-17 16:56 | thefirstmedia.net | 삼성웰스토리, CJ제일제당과 '제일 방앗간' 선봬…13만명 만난다 | http://www.thefirstmedia.net/news/articleView.html?idxno=208925 | a12
+2026-09-17 16:51 | streamlinefeed.co.ke | Kazakhstan courts Korea's YPP for $2bn green hydrogen complex - streamlinefeed.co.ke | google:streamlinefeed.co.ke | aen1
+2026-09-17 16:47 | inews24.com | 삼성웰스토리, 구내식당에 '방앗간'⋯추석 메뉴 5종 선봬 | http://www.inews24.com/view/2006823 | a12
+2026-09-17 16:42 | ftoday.co.kr | 삼성물산 신예 여성복 '앙개', 더현대 서울서 팝업스토어 운영 | http://www.ftoday.co.kr/news/articleView.html?idxno=365658 | a1
+2026-09-17 16:35 | finance.biggo.com | KOSPI Ends Slightly Lower Despite Fed Rate Hike; Foreigners Net Sellers for 7th Straight Session - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-17 16:32 | koreastocknews.com | 삼성물산, 신반포4차 11개 동 1833가구로 심의 통과 | http://www.koreastocknews.com/news/articleView.html?idxno=121319 | a1
+2026-09-17 16:22 | startuptoday.co.kr | [포커스] 삼성물산 패션, 화려함 내려놓고 품격 올렸다 | https://www.startuptoday.co.kr/news/articleView.html?idxno=813502 | a1
+2026-09-17 16:16 | Middle East Construction News | Sokoyo completes the installation of lighting units for QatarEnergy - Middle East Construction News | google:Middle East Construction News | aen1
+2026-09-17 16:08 | kdfnews.com | 현대글로비스·삼성물산, 스마트빌딩 물류 협력..."우편물이 로봇 타고... | http://www.kdfnews.com/news/articleView.html?idxno=188188 | a1
+2026-09-17 16:07 | 디지털투데이 | KOSPI ends near flat despite hawkish FOMC as foreigners net sell 2.3 trillion won - 디지털투데이 | google:디지털투데이 | aen1,aen3
+2026-09-17 16:05 | Yahoo Finance Singapore | Clarivate Reveals Citation Laureates 2026 Recognizing Transformative Scientific Breakthroughs - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-17 15:52 | pinpointnews.co.kr | 현대글로비스·삼성물산, 스마트빌딩용 물류자동화·로봇배송 공동사업... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=488100 | a1
+2026-09-17 15:44 | brecorder.com | South Korea shares rise as Fed rate hike eases uncertainty - brecorder.com | google:brecorder.com | aen3
+2026-09-17 15:30 | g-enews.com | 삼성물산 여성복 ‘앙개’, 더현대 서울서 첫 백화점 팝업 | https://www.g-enews.com/view.php?ud=2026091715262090441d2373fc0f_1 | a1
+2026-09-17 15:14 | sisajournal.com | 10대 건설사 하자심사 5279건…대우건설 '최다' | https://www.sisajournal.com/news/articleView.html?idxno=387603 | a1?
+2026-09-17 15:00 | shinailbo.co.kr | 현대글로비스·삼성물산, '로봇이 우편물 배송'…스마트빌딩 물류 개발 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5063557 | a1
+2026-09-17 14:58 | newsian.co.kr | [단독] 노동부, 삼성전자 초기업 최승호 'DX 배제 총회 규약' 조사 본격... | http://www.newsian.co.kr/news/articleView.html?idxno=95577 | a7?
+2026-09-17 14:44 | lawtv.kr | 상위 10대 건설사 하자 판정, 대우건설 최다·SK에코플랜트 최고 비율 | https://www.lawtv.kr/news/articleView.html?idxno=60971 | a1?,a3?
+2026-09-17 14:22 | inews24.com | 10대 건설사도 못 피한 하자…3년반 새 321건 | http://www.inews24.com/view/2006736 | a1?
+2026-09-17 13:54 | edaily.co.kr | “세련됐다”…한화포레나, 주요 브랜드 조사서 잇따라 상위권 | https://www.edaily.co.kr/News/Read?newsId=03896646645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1,a1?,a3?
+2026-09-17 13:50 | newslock.co.kr | 삼성물산 패션 '앙개', 더현대 서울 첫 백화점 팝업…매출 129% 성장 | http://www.newslock.co.kr/news/articleView.html?idxno=136472 | a1
+2026-09-17 13:49 | Seoul Economic Daily | Hyundai Glovis, Samsung C&T Team Up on Smart Building Robot Delivery - Seoul Economic Daily | google:Seoul Economic Daily | aen1,aen2
+2026-09-17 13:03 | LiputanOke.Com | Patroli Subuh, Dishub Pekanbaru Tangkap 2 Pencuri Panel PJU di Jalan Bambu Kuning - LiputanOke.Com | google:LiputanOke.Com | aid1
+2026-09-17 12:20 | PotretNews.com | Penjaga Kebun Sawit di Pelalawan Riau Bersiaga 24 Jam Nonstop untuk Amankan Lahan dari Kobaran Api Karhutla - PotretNews.com | google:PotretNews.com | aid6
+2026-09-17 12:19 | The Korea Times | From safari to zombies: Everland's day-to-night adventure - The Korea Times | google:The Korea Times | aen1
+2026-09-17 12:18 | MetroTVNews.com | Ancaman Karhutla di Pelalawan, Penjaga Kebun Sawit Bersiaga 24 Jam Nonstop - MetroTVNews.com | google:MetroTVNews.com | aid6
+2026-09-17 12:01 | munhwa.com | “로봇이 사무실 내 자리까지 택배 배송”… 현대글로비스-삼성물산 협... | https://www.munhwa.com/article/11617791?ref=naver | a1
+2026-09-17 11:54 | news.einfomax.co.kr | 현대글로비스, 삼성물산과 스마트빌딩 물류 자동화 개발 맞손 | https://news.einfomax.co.kr/news/articleView.html?idxno=4435411 | a1
+2026-09-17 11:48 | Chosunbiz | Individuals prop up Korea stocks as foreigners, institutions sell - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen3
+2026-09-17 11:36 | joongangenews.com | 현대글로비스·삼성물산, 스마트빌딩 물류자동화 맞손...로봇이 우편물... | https://www.joongangenews.com/news/articleView.html?idxno=548729 | a1
+2026-09-17 11:26 | newsis.com | 10대 건설사 하자심사 5천건 넘어…321건 실제 하자로 판정 | https://www.newsis.com/view/NISX20260917_0003793593 | a1?
+2026-09-17 11:19 | dt.co.kr | 오피스 택배도 로봇이…현대글로비스·삼성물산 맞손 | https://www.dt.co.kr/article/12084504?ref=naver | a1
+2026-09-17 11:06 | dailylog.co.kr | 현대글로비스·삼성물산, 스마트빌딩 로봇배송 공동 개발 | http://www.dailylog.co.kr/news/articleView.html?idxno=26765 | a1
+2026-09-17 11:06 | finance.biggo.com | KOSPI Opens Higher, Shaking Off Hawkish FOMC Shock; AI and Falling Oil Prices Provide Lift - finance.biggo.com | google:finance.biggo.com | aen1,aen3
+2026-09-17 10:48 | etnews.com | 구내식당서 추석 한식 즐긴다…삼성웰스토리, '제일 방앗간' 프로모션 ... | https://www.etnews.com/20260917000222 | a12
+2026-09-17 10:46 | whitepaper.co.kr | 현대글로비스, 삼성물산과 '로봇배송' 맞손…스마트빌딩 물류시장 공략 | http://www.whitepaper.co.kr/news/articleView.html?idxno=266924 | a1
+2026-09-17 10:37 | moneystorm.kr | 삼성물산 패션부문 '앙개', 온라인 성장 넘어 백화점 팝업으로 | https://www.moneystorm.kr/news/articleView.html?idxno=6568 | a1,a5
+2026-09-17 10:34 | cbci.co.kr | HLB 3만원대 공방 속 바이오주 차별화…큐리언트 5%대·올릭스 3%대 강세 | https://www.cbci.co.kr/news/articleView.html?idxno=607629 | a7?,a9
+2026-09-17 10:31 | 매일경제 | While the reconstruction project of Mok-dong's new city in Yangcheon-gu, Seoul, which is worth a tot.. - 매일경제 | google:매일경제 | aen1
+2026-09-17 10:25 | news1.kr | "로봇이 우편물 배송"…현대글로비스·삼성물산, 물류자동화 협력 | https://www.news1.kr/industry/general-industry/6293618 | a1
+2026-09-17 10:20 | apparelnews.co.kr | 삼성물산 패션 '앙개', 더현대 서울서 팝업 오픈 | http://www.apparelnews.co.kr/news/news_view/?idx=227712 | a1
+2026-09-17 10:08 | m-i.kr | 삼성물산 앙개, 매출 129% 성장…더현대 서울 첫 백화점 팝업으로 고객... | https://www.m-i.kr/news/articleView.html?idxno=1415184 | a1
+2026-09-17 10:07 | asiae.co.kr | KOSPI Posts Early Gains Despite Fed Rate Hike...Individuals Lead Net Buying - asiae.co.kr | google:asiae.co.kr | aen3
+2026-09-17 10:05 | finance.biggo.com | Hyundai Glovis, Samsung C&T Team Up on Robot Mail Delivery for Smart Buildings in South Korea - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-17 10:01 | sedaily.com | 시마크로, AI 디지털트윈으로 글로벌 공략…CJ·삼성물산도 ‘찜’ | https://www.sedaily.com/article/20091948?ref=naver | a1
+2026-09-17 10:00 | Seoul Economic Daily | Simacro Targets Global Market With AI Digital Twin, Wins CJ and Samsung C&T - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-17 09:58 | dailian.co.kr | 현대글로비스·삼성물산, ‘좌석 배송’ 로봇 만든다…물류 자동화 맞손 | https://www.dailian.co.kr/news/view/1691511/?sc=Naver | a1
+2026-09-17 09:52 | businesspost.co.kr | 현대글로비스, 삼성물산과 건물 내 '로봇배송' 서비스 공동 개발 나서 | https://www.businesspost.co.kr/BP?command=article_view&num=447406 | a1
+2026-09-17 09:52 | fashionn.com | 삼성물산 신규 앙개, 일상•업무 경계 허문 오피스룩! 더현대 서울에 팝... | http://www.fashionn.com/board/read_new.php?table=1006&number=62459 | a1
+2026-09-17 09:51 | Seoul Economic Daily | KOSPI, KOSDAQ Open Higher Despite Hawkish Fed Signals - Seoul Economic Daily | google:Seoul Economic Daily | aen1,aen3
+2026-09-17 09:47 | inews24.com | "택배가 좌석까지 온다"…현대글로비스·삼성물산 맞손 | http://www.inews24.com/view/2006564 | a1
+2026-09-17 09:34 | widedaily.com | 사무실 책상까지 우편물 배달…현대글로비스·삼성물산, 빌딩 내 로봇배... | https://www.widedaily.com/news/articleView.html?idxno=301192 | a1
+2026-09-17 09:32 | newsway.co.kr | 현대글로비스, 삼성물산과 로봇 물류서비스 가속화 | https://www.newsway.co.kr/news/view?ud=2026091709274565113 | a1
+2026-09-17 09:31 | fnnews.com | 한화포레나, 아파트 브랜드 조사서 잇따라 상위권...브랜드 경쟁력 입증 | https://www.fnnews.com/news/202609170911282082 | a1?,a3?
+2026-09-17 09:30 | busan.com | “로봇, 택배 들고 사무실로”…글로비스·삼성물산, 오피스 물류 자동... | https://www.busan.com/view/busan/view.php?code=2026091709294362876 | a1,a12
+2026-09-17 09:28 | biz.chosun.com | “자율주행 로봇이 우편물을 내 자리로”… 현대글로비스, 삼성물산과 ... | https://biz.chosun.com/industry/company/2026/09/17/47C3MO33CZFKHAFC6EBM23KWLU/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
+2026-09-17 09:28 | Chosunbiz | Hyundai Glovis, Samsung C&T team up to deploy AMR smart building delivery in Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
+2026-09-17 09:24 | sentv.co.kr | 현대글로비스, 삼성물산과 손잡고 ‘오피스 로봇배송’ 사업화 | https://www.sentv.co.kr/article/view/sentv202609170036 | a1
+2026-09-17 09:24 | newsquest.co.kr | 방앗간으로 변신한 구내식당…삼성웰스토리, 추석 메뉴 선봬 | https://www.newsquest.co.kr/news/articleView.html?idxno=301100 | a12
+2026-09-17 09:20 | 매일경제 | Despite the U.S. Federal Reserve's (Fed) rate hike last night, the KOSPI started higher on the 17th. - 매일경제 | google:매일경제 | aen1,aen3
+2026-09-17 09:20 | daily.hankooki.com | 삼성웰스토리, CJ제일제당과 추석 급식 프로모션…160곳서 진행 | https://daily.hankooki.com/news/articleView.html?idxno=1407130 | a12
+2026-09-17 09:16 | megaeconomy.co.kr | 삼성웰스토리, 추석 맞아 ‘제일 방앗간’ 연다…전국 160여 구내식당서... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572074163332 | a12
+2026-09-17 09:14 | yna.co.kr | "로봇이 택배 배송"…현대글로비스·삼성물산, 스마트빌딩 공략 | https://www.yna.co.kr/view/AKR20260917046500003?input=1195m | a1
+2026-09-17 09:10 | popcornnews.net | 삼성물산 패션 앙개, 첫 백화점 팝업...더현대 서울서 FW 컬렉션 공개 | http://www.popcornnews.net/news/articleView.html?idxno=133229 | a1
+2026-09-17 09:10 | Chosunbiz | Korea stocks rise after Fed rate hike despite Wall Street slump - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen3
+2026-09-17 09:06 | newsis.com | "구내식당에 방앗간 감성 담았다" 삼성웰스토리, 추석 맞이 가을 메뉴 | https://www.newsis.com/view/NISX20260917_0003793154 | a12
+2026-09-17 09:02 | dnews.co.kr | 현대글로비스, 삼성물산과 ‘빌딩 로봇배송’ 사업 추진 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609170858532290416 | a1
+2026-09-17 08:56 | klnews.co.kr | 현대글로비스·삼성물산, 스마트빌딩 물류자동화 사업 공동 추진 | https://www.klnews.co.kr/news/articleView.html?idxno=322778 | a1
+2026-09-17 08:55 | newsis.com | "로봇집배원이 우편물 배송" 현대글로비스·삼성물산, 로봇배송 개발 M... | https://www.newsis.com/view/NISX20260917_0003793119 | a1
+2026-09-17 08:49 | mt.co.kr | 로봇이 알아서 배달…현대글로비스, 삼성물산과 '물류자동화' 모델 개발... | https://www.mt.co.kr/industry/2026/09/17/2026091708402670278 | a1
+2026-09-17 08:37 | news1.kr | 삼성웰스토리, CJ제일제당과 협업…'제일 방앗간' 프로모션 전개 | https://www.news1.kr/industry/distribution/6293278 | a12
+2026-09-17 08:34 | biz.heraldcorp.com | 현대글로비스·삼성물산, ‘로봇 집배원’ 만든다…우편물 받아 내 책상... | https://biz.heraldcorp.com/article/10876319?ref=naver | a1
+2026-09-17 08:33 | 헤럴드경제 | Hyundai Glovis, Samsung C&T to develop robot mail carriers for office buildings - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-17 08:30 | asiae.co.kr | Hyundai Glovis Partners with Samsung C&T for Smart Building Logistics Automation - asiae.co.kr | google:asiae.co.kr | aen1
+2026-09-17 08:28 | newspim.com | 삼성웰스토리, 13만명 대상 추석 한식 프로모션 실시 | https://www.newspim.com/news/view/20260917000118 | a12
+2026-09-17 08:24 | mdtoday.co.kr | 삼성바이오에피스, 화이자와 9년 특허전 승소…호주 법원 "12개 청구항 ... | https://www.mdtoday.co.kr/news/articleView.html?idxno=612913 | a10
+2026-09-17 08:19 | 매일경제 | The shocking situation of Freechall founder Jeon Jeon-wan, who made a mark in the Korean IT industry.. - 매일경제 | google:매일경제 | aen1
+2026-09-17 07:02 | thebell.co.kr | [더벨][삼성바이오로직스 유상증자] 우리사주, 평균 1억씩 베팅할까…노... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609151141490880106420 | a7
 2026-09-17 06:12 | hitnews.co.kr | '진정성의 늪'... 다시 마주 앉기도 힘든 삼성바이오로직스 노사 | https://www.hitnews.co.kr/news/articleView.html?idxno=79199 | a7
 2026-09-17 06:04 | news.mtn.co.kr | [단독]대치 ‘우쌍’, 조합설립인가…10월 시공사 공고에 삼성물산도 채... | https://news.mtn.co.kr/news-detail/2026091615025075679 | a1
-2026-09-17 06:00 | 아시아경제 | Lotte Outlet Offers Up to 80% Off for Chuseok Holiday - 아시아경제 | google:아시아경제 | aen1
+2026-09-17 06:00 | asiae.co.kr | Lotte Outlet Offers Up to 80% Off for Chuseok Holiday - asiae.co.kr | google:asiae.co.kr | aen1
 2026-09-17 04:30 | mt.co.kr | 무리한 과징금 때리기, 소송 줄패소?...혈세 줄줄 샌다 | https://www.mt.co.kr/living/2026/09/17/2026091609582221295 | a12?
 2026-09-17 01:34 | Yahoo Finance Singapore | Government of Canada invests up to $1.98 million to develop sustainable fertilizer technology to reduce emissions and microplastics - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
 2026-09-17 01:03 | Yahoo Finance Singapore | Thirty Inspiring Middle School Scientists and Engineers Named Finalists in the 2026 Thermo Fisher Scientific Junior Innovators Challenge - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
 2026-09-17 00:11 | Media Transparancy | Penyaluran Bansos Bapanas di Pelalawan Diduga Salah Sasaran, Dinas Sosial Belum Berikan Tanggapan - Media Transparancy | google:Media Transparancy | aid6
-2026-09-16 23:48 | koranperdjoeangan.com | PUK SPPK FSPMI PT. Safari Riau Ajukan Bipartit, Enam Persoalan Ketenagakerjaan Diminta Segera Dibahas - koranperdjoeangan.com | google:koranperdjoeangan.com | aid6
-2026-09-16 22:40 | HaiSawit | Baleg DPR Dorong Aturan Batas Kepemilikan Lahan Sawit dalam RUU Reforma Agraria - HaiSawit | google:HaiSawit | aid9
-2026-09-16 22:40 | Time Magazine | Arabia's Top Companies of 2026 - Time Magazine | google:Time Magazine | aen1
-2026-09-16 22:24 | openPR.com | Biologics Contract Manufacturing Market to Reach US$ 83.47 - openPR.com | google:openPR.com | aen3
-2026-09-16 22:24 | Contract Pharma | Shilpa Biologicals, SPIMACO Bio Ink MENA Biosimilars Deal - Contract Pharma | google:Contract Pharma | aen3
-2026-09-16 21:55 | Contract Pharma | Sanofi, UCB, Opella Join Clean Heat Program - Contract Pharma | google:Contract Pharma | aen3
-2026-09-16 21:52 | bloter.net | 소액주주 설득 나선 카카오…김도영 "인적분할, 주주가치 제고의 열쇠" | https://www.bloter.net/news/articleView.html?idxno=673819 | a7?
-2026-09-16 21:40 | 재경일보 | A New Era of Economic Cooperation: South Korea and Central Asia Ink \$14 Million in Deals, Promising \"Immediate Results\" - 재경일보 | google:재경일보 | aen1
-2026-09-16 21:32 | wemakenews.co.kr | ‘7개동·한강뷰’ 내건 삼성물산…신반포4차 심의가니 11개동 | https://wemakenews.co.kr/news/view.php?no=26326 | a1
-2026-09-16 21:05 | Yahoo Finance Singapore | VivoSim Labs Unveils New NAMkind™ Drug Toxicity Data at EUROTOX 2026, Demonstrating Predictive Superiority in Liver and Gastrointestinal Safety Across Small Molecules and ADCs - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-16 20:29 | Riau Pos | Produksi CPO di Riau Tembus 9,4 Juta Ton per Tahun - Riau Pos | google:Riau Pos | aid8
-2026-09-16 20:08 | The Pharma Letter | Shilpa Bio inks deal for PD-1 biosimilar for MENA market - The Pharma Letter | google:The Pharma Letter | aen4
-2026-09-16 19:47 | sedaily.com | 소액주주 설득 나선 카카오…“인적분할로 기업 가치 높일 것” | https://www.sedaily.com/article/20091861?ref=naver | a7?
-2026-09-16 19:08 | AmiraRiau | Gebrakan Riset Unilak! Temukan Jurus 'Pialang Budaya', Konflik Lahan Perkebunan Tuntas Hitungan Minggu - AmiraRiau | google:AmiraRiau | aid9
-2026-09-16 18:56 | g-enews.com | 소액주주 달래기 나선 카카오…“인적분할 후 기업가치 오를 것” | https://www.g-enews.com/view.php?ud=2026091618243723683d7a510102_1 | a7?
-2026-09-16 18:48 | sentv.co.kr | 현대건설 선두 굳히나…삼성물산 성수3 잡으면 2위 | https://www.sentv.co.kr/article/view/sentv202609160132 | a1
-2026-09-16 18:26 | newsway.co.kr | 카카오, 인적분할 앞두고 소액주주 달래기…"기업가치 높이겠다" | https://www.newsway.co.kr/news/view?ud=2026091618161481915 | a7?
-2026-09-16 17:44 | newsian.co.kr | 한국·중앙아시아 5개국 '경제동맹' 가동…'핵심광물·인프라' 등 맞손 | http://www.newsian.co.kr/news/articleView.html?idxno=95500 | a1?
-2026-09-16 17:36 | edaily.co.kr | "회사 분할해도 지분 안 줄어요"…소액주주 달래기 나선 카카오 | https://www.edaily.co.kr/News/Read?newsId=04687126645580776&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a7?
-2026-09-16 17:33 | Aju Press | KOSPI recovers from four-session slide as chip stocks rally - Aju Press | google:Aju Press | aen3
-2026-09-16 17:15 | Bisnis.com | Konflik Kemitraan Sawit, Peneliti USU: Perlu Pendekatan Sosiologi-Antropologi - Bisnis.com | google:Bisnis.com | aid9
-2026-09-16 17:14 | ceoscoredaily.com | 삼성물산, 패션·식자재 반등 성공…리조트는 역성장 지속 | https://www.ceoscoredaily.com/page/view/2026091516461137648 | a1
-2026-09-16 17:05 | Seeking Alpha | Harbor Osmosis Emerging Markets Resource Efficient ETF Q2 2026 Commentary (EFFE) - Seeking Alpha | google:Seeking Alpha | aen1
-2026-09-16 17:00 | Majalah Sawit Indonesia | Baleg DPR Dorong RUU Reforma Agraria Tuntaskan Konflik Lahan Berlarut-larut - Majalah Sawit Indonesia | google:Majalah Sawit Indonesia | aid9
-2026-09-16 16:58 | LiputanOke.Com | Plt Gubri Curhat di DPR Soal 1.075 Sertifikat di Tesso Nilo dan Konflik Lahan Tol Pekanbaru-Dumai - LiputanOke.Com | google:LiputanOke.Com | aid9
-2026-09-16 16:48 | sawitsetara.co | Riau Dorong Kesamaan Persepsi FPKMS untuk Perkuat Kemitraan Sawit dan Petani - sawitsetara.co | google:sawitsetara.co | aid9
-2026-09-16 16:42 | fieldnews.kr | 삼성웰스토리, 영업이익 감소에도 배당은 3배 '껑충'… 삼성물산에 300억... | http://www.fieldnews.kr/news/articleView.html?idxno=31579 | a1,a12,a7
-2026-09-16 16:27 | 헤럴드경제 | Kospi rebounds after 5-session losing streak, reclaims 6,700 mark - 헤럴드경제 | google:헤럴드경제 | aen3
-2026-09-16 16:16 | 아시아경제 | Both Markets Rebound... KOSPI Closes Up 1.4% - 아시아경제 | google:아시아경제 | aen1
-2026-09-16 16:05 | 매일경제 | The KOSPI, which has been on a downward trend in recent days, started falling on the 16th, but close.. - 매일경제 | google:매일경제 | aen1,aen3
-2026-09-16 16:05 | 디지털투데이 | Semiconductor rebound lifts KOSPI 1.37 percent, back above 6,700 - 디지털투데이 | google:디지털투데이 | aen1,aen3
-2026-09-16 16:00 | wsobi.com | 삼성물산 구호·이랜드 로엠, FW 시즌 컬렉션 출시·웨딩 데이 스타일 캠... | http://www.wsobi.com/news/articleView.html?idxno=318324 | a1
-2026-09-16 15:55 | hankyung.com | 삼성물산, 남성복 '갤럭시' 감각이 스튜디오로…부산·서울 신세계百 입... | https://www.hankyung.com/article/2026091677501 | a1
-2026-09-16 15:40 | goodkyung.com | [K제약바이오, 제네릭 넘어라 ㊦] 삼성바이오에피스·셀트리온, '700억 달... | https://www.goodkyung.com/news/articleView.html?idxno=291473 | a10
-2026-09-16 15:20 | riaupagi.com | PT TPP Siapkan Sarana Lengkap dan Fire Brigade Hadapi Musim Kemarau dan Karhutla - riaupagi.com | google:riaupagi.com | aid8
-2026-09-16 15:16 | weekly.hankooki.com | 삼성물산 패션 르베이지, FW시즌 캠페인 '본연' 공개 | https://weekly.hankooki.com/news/articleView.html?idxno=7184467 | a1
-2026-09-16 15:14 | job-post.co.kr | 삼성물산 35만1500원, 1.30% 상승…삼성전자 강세에 지주가치 부각 | https://www.job-post.co.kr/news/articleView.html?idxno=227865 | a1
-2026-09-16 15:12 | kdfnews.com | 이랜드 로엠 '웨딩 데이 스타일' 및 삼성물산 르베이지 '본연' 공개 [KDF... | http://www.kdfnews.com/news/articleView.html?idxno=188131 | a1
-2026-09-16 15:00 | kitakininews.co.id | Sebanyak 10 Orang Pelaku Pembakar Lahan sudah Ditangkap Polres Inhil Riau - kitakininews.co.id | google:kitakininews.co.id | aid6,aid8
-2026-09-16 14:56 | pinpointnews.co.kr | 하자 건수만으론 못 잰다…30대 건설사 품질관리 '성적표' | https://www.pinpointnews.co.kr/news/articleView.html?idxno=487587 | a1,a1?
-2026-09-16 14:53 | Kompasiana.com | Europe Biosimilar Market Size and Outlook Report 2034 Halaman 1 - Kompasiana.com | google:Kompasiana.com | aen4
-2026-09-16 14:33 | 아시아경제 | Walk the Safari Grassland by Day, Escape Zombies by Night... Everland Hosts Fall Festival - 아시아경제 | google:아시아경제 | aen1,aen2
-2026-09-16 14:33 | Business Recorder | South Korean shares rise as chipmakers gain ahead of Fed outcome - Business Recorder | google:Business Recorder | aen3
-2026-09-16 14:30 | etoday.co.kr | 삼성물산 르베이지, 장식 빼고 소재 중심으로 가을 옷장에 '본연' 꺼냈다 | https://www.etoday.co.kr/news/view/2626286 | a1
-2026-09-16 13:58 | PelalawanPos | Warga Dua Desa di Siak Berjuang Pertahankan Tanah Leluhur yang Dikuasai PTPN IV, Komisi II DPRD Siak Turun ke Lokasi - PelalawanPos | google:PelalawanPos | aid6
-2026-09-16 13:49 | The Korea Herald | Walk with giraffes by day and outrun zombies by night at Everland - The Korea Herald | google:The Korea Herald | aen1
-2026-09-16 13:47 | koreatimes.co.kr | Korea to launch 'Korea Premium Weeks' to promote capital market - koreatimes.co.kr | google:koreatimes.co.kr | aen3
-2026-09-16 13:42 | 4th.kr | 르베이지·히스, 가을 프리미엄 강화…소재로 차별화 | http://www.4th.kr/news/articleView.html?idxno=2118170 | a1?,a5?
-2026-09-16 13:40 | ibabynews.com | [건강뉴스] '공간이 건강을 관리하는 시대' 연다, 삼성물산, AI 웰니스 솔... | https://www.ibabynews.com/news/articleView.html?idxno=154573 | a1
-2026-09-16 13:18 | Газета.uz | Uzbekistan, South Korea launch joint projects, sign new agreements – News from Uzbekistan - Газета.uz | google:Газета.uz | aen1
-2026-09-16 12:06 | finance.biggo.com | Samsung, LG Race to Electrify Apartment Heating in South Korea — Jeju Pilot Confirms Hot Water While Cooling - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-16 11:20 | fnnews.com | 삼성바이오로직스, 폴리펩타이드 공개매수 돌입…인수 작업 속도 | https://www.fnnews.com/news/202609161107549868 | a7
-2026-09-16 11:16 | apparelnews.co.kr | 삼성물산 르베이지, 2026 FW '조용한 럭셔리' 담았다 | http://www.apparelnews.co.kr/news/news_view/?idx=227688 | a1
-2026-09-16 11:04 | smartbizn.com | '고품질 캐시미어·실크'···삼성물산 르베이지, 가을·겨울 컬렉션 선... | https://www.smartbizn.com/news/articleView.html?idxno=154012 | a1
-2026-09-16 11:00 | view.asiae.co.kr | "100원 벌고 2원 뱉었다"…경실련 "21년간 580조 부당매출에 과징금 11조... | https://view.asiae.co.kr/article/2026091609290708461 | a1?
-2026-09-16 10:56 | 아시아경제 | Gumi Commences Construction of Samsung AI Center... Connecting to the Local Economy - 아시아경제 | google:아시아경제 | aen1,aen2
-2026-09-16 10:55 | Businesskorea | 55 Listed Companies Join Korea Premium Weeks 2026 Starting Sept. 28 - Businesskorea | google:Businesskorea | aen3
-2026-09-16 10:52 | thebell.co.kr | [더벨][영상 / thebell's view] 삼성물산, 반년 새 현금 1조…삼바 출자 ... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609151027346880101948 | a1,a1?,a7
-2026-09-16 10:46 | insight.co.kr | 커뮤니티로 내려가면 37가지 건강 체크... 래미안에 들어오는 삼성물산... | https://www.insight.co.kr/news/573761 | a1
-2026-09-16 10:38 | the-biz.co.kr | [Biz&Law] 삼성에피스, 호주 '브렌시스' 특허소송서 비침해 판단 | http://www.the-biz.co.kr/news/articleView.html?idxno=727937 | a10?,a11?
-2026-09-16 10:28 | fetv.co.kr | 삼성물산, 아파트가 건강 챙긴다…AI 웰니스 '웰피' 출시 | https://www.fetv.co.kr/news/articleView.html?idxno=310281 | a1
-2026-09-16 09:56 | yna.co.kr | 삼성물산 르베이지, 캐시미어·실크 기반 가을·겨울 제품 출시 | https://www.yna.co.kr/view/AKR20260916044400030?input=1195m | a1
-2026-09-16 09:31 | 아시아경제 | KOSPI Opens at 6,611... Slightly Bullish in Early Trading - 아시아경제 | google:아시아경제 | aen1,aen3
-2026-09-16 09:28 | en.bloomingbit.io | Kospi Opens Lower as Treasury Yields, Oil Jump; Foreigners and Institutions Sell - en.bloomingbit.io | google:en.bloomingbit.io | aen1
-2026-09-16 09:14 | ezyeconomy.com | 현대건설 독주 속 GS건설·삼성물산 2위 쟁탈전…하반기 수주전 격화 예... | https://www.ezyeconomy.com/news/articleView.html?idxno=239818 | a1
-2026-09-16 09:06 | theguru.co.kr | [단독] 삼성바이오에피스, '엔브렐' 특허소송 완승…호주법원 삼성 손 ... | https://www.theguru.co.kr/news/article.html?no=107143 | a10
-2026-09-16 09:04 | popcornnews.net | 삼성물산 패션 르베이지, '조용한 럭셔리' 정수 담았다...2026 FW 캠페인 ... | http://www.popcornnews.net/news/articleView.html?idxno=133090 | a1
-2026-09-16 09:01 | Chosunbiz | Lotte E&C targets Mok-dong rebuild with LEEL lounges and Sorbonne project - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
-2026-09-16 08:49 | 더바이오 | BIX 2026 Names Canada as Country of Honor, Showcasing Bioindustry Trends from BCI to Biotech Foods - 더바이오 | google:더바이오 | aen4
-2026-09-16 08:46 | ftoday.co.kr | 삼성물산 패션부문 '브랜드 공식' 바꾼다…"빈폴부터 준지까지 성장축 ... | http://www.ftoday.co.kr/news/articleView.html?idxno=365500 | a1,a5
-2026-09-16 08:40 | pointdaily.co.kr | GS건설 '연제갤러리자이', 지방시장 옥석 가리기 속 차별화 나서 | https://www.pointdaily.co.kr/news/articleView.html?idxno=319432 | a1?
-2026-09-16 08:15 | Yahoo Finance Singapore | American Council of Learned Societies Announces Winners of 2026 ACLS Open Access Book Prizes and Arcadia Open Access Publishing Awards - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-16 07:12 | mdtoday.co.kr | 삼성바이오로직스 임단협 2차 사후조정 연기…추석 전 타결 가능할까 | https://www.mdtoday.co.kr/news/articleView.html?idxno=612200 | a7
-2026-09-16 06:30 | 아시아경제 | “Old Men’s Clothes”?... The “Comeback” of Ralph Lauren, Beanpole, and Hazzys - 아시아경제 | google:아시아경제 | aen1
-2026-09-16 03:58 | Contract Pharma | Ori Biotech Lands 10-Year, $120M Commercial Cell Therapy Manufacturing Deal - Contract Pharma | google:Contract Pharma | aen3
-2026-09-16 03:03 | Contract Pharma | CDMO Capacity: Stainless by Volume, Single-Use by Number - Contract Pharma | google:Contract Pharma | aen3
-2026-09-16 01:57 | Zamin.uz | Shavkat Mirziyoyev and the Prime Minister of South Korea gathered representatives of 300 business giants - Zamin.uz | google:Zamin.uz | aen1
-2026-09-16 01:46 | Contract Pharma | Axiom, GeneFab Partner to Advance Therapeutic Pipeline - Contract Pharma | google:Contract Pharma | aen3
-2026-09-16 00:56 | Bermadah.co.id | Disbun Riau-GAPKI Dorong Kemitraan 20 Persen untuk Kesejahteraan Masyarakat - Bermadah.co.id | google:Bermadah.co.id | aid9
-2026-09-16 00:28 | Hydrogen Central | Covestro, Fertiglobe and MB Energy Sign MoU to Explore Ammonia Supply Chain - Hydrogen Central | google:Hydrogen Central | aen1
-2026-09-16 00:12 | TradeArabia | Saudi Contractors expands global partnerships with official visit to Korea - TradeArabia | google:TradeArabia | aen1
-2026-09-16 00:08 | Hydrogen Central | Amogy and LOTTE Fine Chemical Sign MOU to Advance Green Ammonia-to-Hydrogen and Ammonia-to-Power Solutions in South Korea - Hydrogen Central | google:Hydrogen Central | aen1,aen2
