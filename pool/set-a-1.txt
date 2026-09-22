@@ -1,169 +1,182 @@
-# collected: 2026-09-22 08:02 KST
-# window: 2026-09-21 00:00 ~ 2026-09-22 08:02 KST
-# part 1 of 1, lines: 164
+# collected: 2026-09-23 08:02 KST
+# window: 2026-09-22 00:00 ~ 2026-09-23 08:02 KST
+# part 1 of 1, lines: 177
 # format: date | media | title | url | tags
 
-2026-09-22 07:56 | fnnews.com | "삼성물산 지분 활용에 주목"…KCC 주주환원 기대감에 목표가↑ | https://www.fnnews.com/news/202609220753442285 | a1
+2026-09-23 07:00 | ceoscoredaily.com | [CEO워치] 존 림 사장 리더십 통했다…삼성바이오로직스, 누적 수주 219억... | https://www.ceoscoredaily.com/page/view/2026092214373509905 | a7
+2026-09-23 06:55 | marketscreener.com | GE Vernova : SGE, GE Vernova, Hitachi and Samsung C&T sign MoU to advance BWRX-300 fleet deployment in Europe - marketscreener.com | google:marketscreener.com | aen1
+2026-09-23 06:32 | news2day.co.kr | [투데이 Pick] 유럽 다지고 美 차세대 원전까지…삼성물산, SMR 글로벌 보... | https://www.news2day.co.kr/article/20260922500258 | a1
+2026-09-23 06:10 | consumernews.co.kr | 현대·롯데건설 도시정비 '순항' vs. 삼성물산·포스코이앤씨 '막판 스퍼... | http://www.consumernews.co.kr/news/articleView.html?idxno=764419 | a1
+2026-09-23 05:56 | dailymedi.com | ﻿삼성바이오로직스 노사, 두번째 사후조정도 '불발' | https://www.dailymedi.com/news/news_view.php?wr_id=940800 | a7
+2026-09-23 05:04 | seoul.co.kr | 삼성물산, 美기업과 차세대 SMR 협력 | https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923031005?wlog_tag3=naver | a1
+2026-09-23 04:04 | tomorrowsworldtoday.com | Samsung Commits to $100 Million Towards Advanced Reactors - tomorrowsworldtoday.com | google:tomorrowsworldtoday.com | aen1
+2026-09-23 02:47 | The Business Journals | Samsung C&T invests $100M in Kairos Power's nuclear reactor technology - The Business Journals | google:The Business Journals | aen1
+2026-09-23 01:12 | dailytechnewsshow.com | Major Banks Warn of Risks From AI E-Commerce Agents and Propose Safeguards – DTH - dailytechnewsshow.com | google:dailytechnewsshow.com | aen2
+2026-09-23 00:33 | riaueksis.com | Dari Sekolah untuk Masa Depan Sawit Berkelanjutan, Asian Agri Cetak SDM Muda - riaueksis.com | google:riaueksis.com | aid6
+2026-09-23 00:31 | donga.com | 삼성물산, 美 차세대 SMR 시장 공략 나선다 | https://www.donga.com/news/Economy/article/all/20260922/134722346/2 | a1
+2026-09-23 00:19 | eandt.theiet.org | Samsung invests $100m in nuclear reactors to power Google’s AI data centres - eandt.theiet.org | google:eandt.theiet.org | aen1
+2026-09-23 00:09 | World Nuclear News | Samsung C&T invests in Kairos Power - World Nuclear News | google:World Nuclear News | aen1
+2026-09-22 23:02 | newsworks.co.kr | 삼성물산 패션 비이커, 영국 '마가렛 호웰' 국내 사업 본격화 | https://www.newsworks.co.kr/news/articleView.html?idxno=854693 | a1
+2026-09-22 22:53 | Data Center Dynamics | Kairos Power selects Samsung C&T to help build 50MW SMR for Google in Tennessee - Data Center Dynamics | google:Data Center Dynamics | aen1
+2026-09-22 22:50 | koreareport.co.kr | 삼성물산, 카이로스파워와 차세대 SMR 협력…7천만달러 투자 추진 | https://www.koreareport.co.kr/news/articleView.html?idxno=53186 | a1
+2026-09-22 22:48 | Interesting Engineering | 50 MW nuclear plant for Google gets Samsung's backing on path to 2030 - Interesting Engineering | google:Interesting Engineering | aen1
+2026-09-22 22:16 | Goodreturns | AI Bubble Bursting? South Korea's Kospi Crashes 7% Amid AI Stocks Valuation Concerns - Goodreturns | google:Goodreturns | aen3
+2026-09-22 22:00 | sg.finance.yahoo.com | Bio-Techne Opens New Customer Experience Center in Düsseldorf to Accelerate Scientific Discovery and Customer Collaboration - sg.finance.yahoo.com | google:sg.finance.yahoo.com | aen4
+2026-09-22 21:39 | PelalawanPos | Lahan Eks PT LIH di Kemang Dipertanyakan, Muncul 58 Hektare di Luar Kebun 100 Hektare Koperasi - PelalawanPos | google:PelalawanPos | aid9
+2026-09-22 21:36 | constructionreviewonline.com | Hermes 2 Nuclear Reactor: Samsung C&T Joins Google-backed Oak Ridge Construction with $100M Loan - constructionreviewonline.com | google:constructionreviewonline.com | aen1
+2026-09-22 21:01 | mk.co.kr | 10대 건설사 하자 판정, 대우건설 ‘최다’ [국회 방청석] | https://www.mk.co.kr/article/12156578 | a1?
+2026-09-22 20:30 | Business Wire | Cartography Biosciences to Participate in Upcoming Investor Conferences - Business Wire | google:Business Wire | aen3,aen4
+2026-09-22 20:16 | sateconomy.co.kr | [건설업계동향] 삼성물산 美 SMR 투자 확대·우미건설 서울 도심복합 첫... | https://sateconomy.co.kr/news/view/1065611254011112 | a1
+2026-09-22 19:06 | Sawit Indonesia | Riau Kucurkan Rp1,9 Triliun untuk Replanting 55 Ribu Hektare Sawit Tua, Dana Bantuan Naik Jadi Rp60 Juta per Hektare - Sawit Indonesia | google:Sawit Indonesia | aid8
+2026-09-22 19:02 | busan.com | 삼성바이오로직스 노사 2차 사후조정 또 ‘빈손’…평행선 여전 | https://www.busan.com/view/busan/view.php?code=2026092219005847091 | a7
+2026-09-22 18:58 | m-i.kr | 삼성바이오로직스 노사, 2차 사후조정 결렬…노조, 단체 행동 준비 | https://www.m-i.kr/news/articleView.html?idxno=1417645 | a7
+2026-09-22 18:48 | newsquest.co.kr | "원전·SMR·신재생 날개 단 삼성물산…건설 영업이익률 5.3% 돌파 눈앞" | https://www.newsquest.co.kr/news/articleView.html?idxno=301500 | a1
+2026-09-22 18:44 | segyebiz.com | 삼성바이오로직스 노사 ‘2차조정’도 소득없이 … 노조 “단체행동 준... | http://www.segyebiz.com/newsView/20260922518098?OutUrl=naver | a7
+2026-09-22 18:24 | fnnews.com | 삼성물산, 美서 두번째 'SMR 동맹' | https://www.fnnews.com/news/202609221823013050 | a1
+2026-09-22 18:12 | koreastocknews.com | 삼성물산, 美 카이로스 파워와 차세대 SMR시장 공략 | http://www.koreastocknews.com/news/articleView.html?idxno=121410 | a1
+2026-09-22 18:06 | viva100.com | 삼성바이오로직스 노조, 단체행동 준비 돌입⋯ 내달 1일 3차 조정 | https://www.viva100.com/article/20260922501350 | a7
+2026-09-22 18:06 | Knoxville News Sentinel | Samsung will invest up to $100M in an Oak Ridge nuclear reactor - Knoxville News Sentinel | google:Knoxville News Sentinel | aen1
+2026-09-22 18:04 | mydaily.co.kr | 삼성바이오로직스 노사 협상 또 결렬…노조 “단체행동 준비” | https://www.mydaily.co.kr/page/view/2026092218035097380 | a7
+2026-09-22 17:49 | Chosunbiz | Samsung Biologics union readies strike as talks with management stall in Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-22 17:45 | etnews.com | 삼성바이오로직스 노사, 내달 1일 재협상…노조 “결렬 시 단체행동” | https://www.etnews.com/20260922000491 | a7
+2026-09-22 17:45 | mt.co.kr | 삼성바이오로직스 노조 "단체행동 준비…3차 사후조정 후 일시 결정" | https://www.mt.co.kr/thebio/2026/09/22/2026092217331058419 | a7
+2026-09-22 17:36 | ANTARA News Riau | Realisasi Program Peremajaan Sawit Rakyat di Riau baru capai 55.140 hektare sejak 2017 - ANTARA News Riau | google:ANTARA News Riau | aid8
+2026-09-22 17:32 | biz.sbs.co.kr | 삼성바이오 2차 사후조정도 '빈손'…노조, 파업 준비 | https://biz.sbs.co.kr/article_hub/20000336319?division=NAVER | a7?
+2026-09-22 17:29 | greened.kr | 삼성물산, 美 카이로스 파워와 차세대 SMR 협력…"차세대 원전 선도...70... | https://www.greened.kr/news/articleView.html?idxno=350652 | a1
+2026-09-22 17:27 | hankyung.com | 삼성물산, 美기업과 차세대 SMR 진출 | https://www.hankyung.com/article/2026092216891 | a1
+2026-09-22 17:22 | 삼성물산 뉴스룸 | ‘anggae’ Opens First Department Store Pop-Up at The Hyundai Seoul - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
+2026-09-22 17:22 | mk.co.kr | 삼성물산, 美 차세대 SMR에 1천억 '베팅' | https://www.mk.co.kr/article/12159562 | a1
+2026-09-22 17:21 | mk.co.kr | Samsung C&T's construction division is targeting the U.S. next-generation small module reactor - mk.co.kr | google:mk.co.kr | aen1
+2026-09-22 17:19 | 아시아경제 | Samsung BioLogics Union: "Third Post-Mediation Next Month... Strike to Begin if No Progress" - 아시아경제 | google:아시아경제 | aen3
+2026-09-22 17:19 | view.asiae.co.kr | 삼성바이오 노조 "내달 3차 사후조정…진전 없을 시 파업 시작" | https://view.asiae.co.kr/article/2026092217194790038 | a7?
+2026-09-22 17:10 | Korea JoongAng Daily | AI drug race moves from finding candidates to proving they work - Korea JoongAng Daily | google:Korea JoongAng Daily | aen4
+2026-09-22 17:05 | finance.biggo.com | South Korea's KOSPI Briefly Tops 7,170 Before Giving Back Gains to Barely Hold 7,000 - finance.biggo.com | google:finance.biggo.com | aen3
+2026-09-22 17:04 | s-journal.co.kr | 삼성물산, 하이테크 수주 기반 실적 성장 기대… 원전·신재생 사업도 ... | https://www.s-journal.co.kr/news/articleView.html?idxno=43980 | a1
+2026-09-22 17:00 | sentv.co.kr | 삼성물산, 美 카이로스와 SMR 협력…7000만달러 투자 | https://www.sentv.co.kr/article/view/sentv202609220235 | a1
+2026-09-22 17:00 | lkp.news | 삼성물산, 삼성전자 덕에 기업가치 견고...상반기에만 하이테크 수주 가... | http://www.lkp.news/news/articleView.html?idxno=84319 | a1
+2026-09-22 17:00 | newscj.com | 삼성물산, 차세대 SMR에 7000만 달러 투자… 美 카이로스와 협력 | https://www.newscj.com/news/articleView.html?idxno=3434864 | a1
+2026-09-22 16:56 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·SM그룹·IPARK현대산업개발·대보건설·... | https://sports.hankooki.com/news/articleView.html?idxno=6940215 | a1,a3
+2026-09-22 16:56 | knnews.co.kr | 삼성물산, 용호1구역 재건축 단독 입찰 | https://www.knnews.co.kr/news/articleView.php?idxno=1551515 | a1
+2026-09-22 16:50 | shinailbo.co.kr | 삼성물산 패션, '셔츠 맛집' 마가렛 호웰 국내 사업 본격화 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5065328 | a1,a12
+2026-09-22 16:44 | businesspost.co.kr | [오늘Who] 삼성물산 SMR 동맹 늘려 현대건설에 맞불, 오세철 불확실성 커... | https://www.businesspost.co.kr/BP?command=article_view&num=447828 | a1
+2026-09-22 16:42 | news.tvchosun.com | 삼성물산, 美 차세대 SMR 시장 공략…카이로스 파워와 맞손 | https://news.tvchosun.com/site/data/html_dir/2026/09/22/2026092290204.html | a1
+2026-09-22 16:40 | smarttoday.co.kr | 삼성물산, 8개월만 새울3·4호기 372억 증액…올해만 2번째 | https://www.smarttoday.co.kr/ko-kr/articles/111922 | a1
+2026-09-22 16:33 | Korea Biomedical Review | Gilead eyes bigger Korea role as country joins 60% of global oncology trials - Korea Biomedical Review | google:Korea Biomedical Review | aen3
+2026-09-22 16:32 | goodkyung.com | [굿모닝! 22일 건설업계 소식] 삼성물산·현대건설·GS건설·SK에코플랜... | https://www.goodkyung.com/news/articleView.html?idxno=291702 | a1
+2026-09-22 16:18 | hbnpress.com | 삼성물산, 미국 카이로스파워와 차세대 SMR 협력 | https://hbnpress.com/news/view/1065597255410092 | a1
+2026-09-22 16:13 | 디지털투데이 | KOSPI gives up 2% early gain, ends just above 7,000 - 디지털투데이 | google:디지털투데이 | aen3
+2026-09-22 16:12 | e-science.co.kr | 삼성물산, 물 대신 용융염으로 식히는 美 SMR 진출…7000만 달러 투자 추... | https://www.e-science.co.kr/news/articleView.html?idxno=135999 | a1
+2026-09-22 16:07 | 아시아경제 | Samsung C&T Invests $70 Million in U.S. SMR, Secures Priority for Commercial Reactor EPC - 아시아경제 | google:아시아경제 | aen1
+2026-09-22 16:07 | view.asiae.co.kr | 삼성물산, 美 SMR에 7000만달러 투자…상용로 EPC 우선권 확보 | https://view.asiae.co.kr/article/2026092215542937674 | a1
+2026-09-22 16:04 | kdfnews.com | '헤리티지·스트리트·빈티지' 3색 매력… 삼성물산·키르시·이랜드, 2... | http://www.kdfnews.com/news/articleView.html?idxno=188384 | a1
+2026-09-22 16:00 | news1.kr | 삼성에피스홀딩스, PPA 상각에 가린 본업…HSBC "성장 지속" | https://www.news1.kr/bio/pharmaceutical-bio/6299202 | a9
+2026-09-22 15:56 | pinpointnews.co.kr | [거래소 외국인] 조선주도 엇갈렸다… 외국인 HD현대중공업 사고 삼성중... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=489703 | a1,a1?,a7?
+2026-09-22 15:50 | getnews.co.kr | 삼성물산 차세대 SMR시장 공략... 미국 카이로스 파워와 업무협약 | https://www.getnews.co.kr/news/articleView.html?idxno=881568 | a1
+2026-09-22 15:44 | 아시아경제 | KOSPI Closes Slightly Higher at 7010 After Giving Up Early Gains - 아시아경제 | google:아시아경제 | aen3
+2026-09-22 15:40 | job-post.co.kr | 삼성물산 36만7000원으로 마감…2분기 영업이익 1조원 돌파 | https://www.job-post.co.kr/news/articleView.html?idxno=228884 | a1
+2026-09-22 15:36 | newsway.co.kr | 양천구 목동9·13단지 재건축 통합심의 통과…삼성물산·GS건설 관심 | https://www.newsway.co.kr/news/view?ud=2026092214030470137 | a1
+2026-09-22 15:36 | joongangenews.com | 삼성물산, 美 차세대 SMR 시장 진출...카이로스와 실증·상용화 협력 | https://www.joongangenews.com/news/articleView.html?idxno=550030 | a1
+2026-09-22 15:32 | techholic.co.kr | 삼성물산, 美 카이로스 파워와 '차세대 SMR' 사업 나선다 | http://www.techholic.co.kr/news/articleView.html?idxno=223010 | a1
+2026-09-22 15:29 | Business Recorder | South Korean shares climb nearly 2% as Wall Street rally boosts sentiment - Business Recorder | google:Business Recorder | aen3
+2026-09-22 15:28 | mediafine.co.kr | 삼성물산, 美 카이로스 파워와 차세대 SMR 협력…상용로 EPC 우선권 확보 | https://www.mediafine.co.kr/news/articleView.html?idxno=90561 | a1
+2026-09-22 15:22 | dt.co.kr | 삼성물산, 美 카이로스 파워와 차세대 SMR 사업 협력…7000만달러 투자 ... | https://www.dt.co.kr/article/12085463?ref=naver | a1
+2026-09-22 15:07 | Tech in Asia | Samsung backs Kairos with up to $100m for Google reactor - Tech in Asia | google:Tech in Asia | aen1
+2026-09-22 15:02 | sisaon.co.kr | 삼성물산, 美 '카이로스 파워'와 차세대 SMR 협력 [건설·분양오늘] | https://www.sisaon.co.kr/news/articleView.html?idxno=204661 | a1
+2026-09-22 15:00 | datasom.co.kr | 삼성물산, 美 용융염 SMR에 7000만달러 투자 | https://www.datasom.co.kr/news/articleView.html?idxno=210072 | a1
+2026-09-22 14:54 | weekly.hankooki.com | 삼성물산 패션 비이커, 英 마가렛 호웰과 유통 파트너십 MOU | https://weekly.hankooki.com/news/articleView.html?idxno=7185506 | a1
+2026-09-22 14:53 | economist.co.kr | 삼성물산 패션, 英 ‘마가렛 호웰’ 들여온다…신세계 본점 첫 매장 | https://economist.co.kr/article/view/ecn202609220039 | a1
+2026-09-22 14:52 | megaeconomy.co.kr | 삼성물산 패션, 영국 ‘마가렛 호웰’ 국내 독점 유통…비이커 통해 사... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592129642952 | a1
+2026-09-22 14:46 | socialvalue.kr | 삼성물산, SMR 보폭 넓힌다…비경수로식 美 카이로스와 제휴 | https://www.socialvalue.kr/news/view/1065590327277955 | a1
+2026-09-22 14:42 | fashionn.com | 삼성물산 편집숍 비이커, 영국 브랜드 ‘마가렛 호웰’ 국내 전개… 시... | http://www.fashionn.com/board/read_new.php?table=1006&number=62524 | a1
+2026-09-22 14:40 | mdtoday.co.kr | 아파트 하자판정 대우건설 최다…SK에코플랜트 비율 1위 | https://www.mdtoday.co.kr/news/articleView.html?idxno=615946 | a1?,a7
+2026-09-22 14:22 | housingherald.co.kr | 성수3지구 재개발, 시공자로 삼성물산 선정 | https://www.housingherald.co.kr/news/articleView.html?idxno=63008 | a1
+2026-09-22 14:18 | ngetnews.com | 삼성바이오로직스 노사 2차 사후조정…파업 재개 예고 | https://www.ngetnews.com/news/articleView.html?idxno=553590 | a7
+2026-09-22 14:06 | datanews.co.kr | 삼성물산, 미국 차세대 SMR 시장 진출…카이로스파워와 협력 | http://www.datanews.co.kr/news/article.html?no=146626 | a1
+2026-09-22 14:06 | g-enews.com | 삼성물산, 美 차세대 SMR로 보폭 넓힌다…카이로스파워와 맞손 | https://www.g-enews.com/view.php?ud=20260922093555770314b1077807_1 | a1
+2026-09-22 13:52 | inews24.com | 삼성물산, 美 차세대 SMR 선점 나섰다 | http://www.inews24.com/view/2008320 | a1
+2026-09-22 13:50 | ytn.co.kr | [기업] 삼성물산, 미 SMR 개발 기업 카이로스 파워와 업무협약 | https://www.ytn.co.kr/_ln/0102_202609221350513285 | a1
+2026-09-22 13:46 | koscaj.com | 최근 5년간 10대 건설사 실제 하자 323건···세부 하자 유형 '결로' 최... | https://www.koscaj.com/news/articleView.html?idxno=326654 | a1?
+2026-09-22 13:32 | daily.hankooki.com | [신상브리핑] 이디야커피, 오뚜기, CU, 애경산업 랩신, 쿠쿠, 삼성물산 ... | https://daily.hankooki.com/news/articleView.html?idxno=1408748 | a1
+2026-09-22 13:30 | lcnews.co.kr | [건설 Pick] 삼성물산·GS건설·현대건설, 차세대 SMR·건설로봇·호주 주... | https://www.lcnews.co.kr/news/articleView.html?idxno=208695 | a1
+2026-09-22 13:27 | NewsBytes | Samsung C&T, Kairos Power to build Google 50MW nuclear reactor - NewsBytes | google:NewsBytes | aen1
+2026-09-22 13:25 | koreaherald.com | Samsung C&T to invest up to $100m in Kairos Power partnership for next-ge... | https://www.koreaherald.com/article/10882087?ref=naver | a2
+2026-09-22 13:24 | The Korea Herald | Samsung C&T to invest up to $100m in Kairos Power partnership for next-gen SMRs - The Korea Herald | google:The Korea Herald | aen1
+2026-09-22 13:13 | The Economic Times | Global Market: KOSPI surges as Samsung, SK Hynix gain on tech rally - The Economic Times | google:The Economic Times | aen3
+2026-09-22 13:06 | dizzotv.com | 삼성물산, 美 카이로스 파워와 손잡고 차세대 SMR 시장 진출 | https://www.dizzotv.com/site/data/html_dir/2026/09/22/2026092280089.html | a1
+2026-09-22 12:52 | wowtv.co.kr | 삼성물산, 美 카이로스와 손잡고 차세대 SMR 사업 진출 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220077&t=NN | a1
+2026-09-22 12:28 | Asia Business Outlook | Samsung Backs Kairos Power With $100M for Google Nuclear Reactors - Asia Business Outlook | google:Asia Business Outlook | aen1
+2026-09-22 11:58 | Chosunbiz | Foreign and institutional buying lift KOSPI despite heavy individual selling - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-22 11:50 | financialpost.co.kr | 삼성물산, '4세대 원전' 기술 확보 속도 낸다… 美 카이로스 파워와 '맞... | https://www.financialpost.co.kr/news/articleView.html?idxno=277008 | a1
+2026-09-22 11:36 | finance.biggo.com | Samsung C&T Forms Next-Gen SMR Alliance with Kairos Power, Investing $70 Million - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-22 11:28 | widedaily.com | 삼성물산, 美 카이로스 파워에 950억 베팅…차세대 SMR 시장 맹추격 | https://www.widedaily.com/news/articleView.html?idxno=301379 | a1
+2026-09-22 11:22 | thepowernews.co.kr | 7000만달러 투자·상용로 EPC 우선권…삼성물산, 美 차세대 SMR 베팅 | https://www.thepowernews.co.kr/view.php?ud=202609221020176723de3f0aa1be_7 | a1
+2026-09-22 11:22 | ilovepc.co.kr | KCC, 6조 삼성물산 지분 '현금화' 시동… 주주에 2200억 푼다 | https://www.ilovepc.co.kr/news/articleView.html?idxno=60768 | a1
+2026-09-22 11:20 | onews.tv | "차세대 SMR로 승부수"… 삼성물산, 美 카이로스 파워와 전략적 파트너... | https://www.onews.tv/news/articleView.html?idxno=287726 | a1
+2026-09-22 11:14 | metroseoul.co.kr | 삼성물산, 미국 카이로스 파워와 손잡고 SMR 시장 공략 | http://www.metroseoul.co.kr/article/20260922500175 | a1
+2026-09-22 11:13 | Aju Press | KOSPI rises nearly 2% on chip gains as yields, oil ease - Aju Press | google:Aju Press | aen3
+2026-09-22 11:09 | mt.co.kr | 삼성바이오로직스, 사후조정에도 갈등 지속…노조 '후속 파업' 예고 | https://www.mt.co.kr/thebio/2026/09/22/2026092209011862567 | a7
+2026-09-22 11:08 | kukinews.com | 삼성바이오로직스 노사, 2차 사후조정…노조 “진전 없으면 단체행동” | https://www.kukinews.com/article/view/kuk202609220050 | a7
+2026-09-22 10:56 | huffingtonpost.kr | 오세철 삼성물산 유럽 이어 미국 SMR 시장 파고든다, 사업 영토·기술 다... | https://www.huffingtonpost.kr/article/260711 | a1
+2026-09-22 10:56 | lawissue.co.kr | 삼성물산, 차세대 원전 ‘게임체인저’와 손잡다…美 SMR 시장 정조준 | http://www.lawissue.co.kr/view.php?ud=20260922105358319967191f6c6e_12 | a1
+2026-09-22 10:55 | finance.biggo.com | Bitcoin Surges Past $85,000, KOSPI Tops 7,100 as Risk Appetite Returns - finance.biggo.com | google:finance.biggo.com | aen3
+2026-09-22 10:54 | mk.co.kr | Samsung C&T partners with Kairos Power to tap next-gen SMR market | https://www.mk.co.kr/article/12159049 | a2,aen1
+2026-09-22 10:53 | topdaily.kr | [TOP's Pick] [건설] 반도건설, '중대재해 제로 8년' 달성 위한 상생 경영... | https://www.topdaily.kr/articles/112057 | a1?,a3?
+2026-09-22 10:52 | sedaily.com | 삼성물산, 美카이로스파워에 7000만달러 투자…차세대 SMR 시장 공략 박... | https://www.sedaily.com/article/20093856?ref=naver | a1
+2026-09-22 10:51 | Seoul Economic Daily | Samsung C&T Invests $70 Million in U.S. Reactor Developer Kairos Power - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-22 10:51 | moneystorm.kr | 삼성물산, 차세대 SMR 사업 진출...美 카이로스 파워와 '맞손' | https://www.moneystorm.kr/news/articleView.html?idxno=6704 | a1
+2026-09-22 10:44 | newspim.com | 삼성물산, 美 카이로스 파워와 SMR 동맹...950억 규모 투자 추진 | https://www.newspim.com/news/view/20260922000348 | a1
+2026-09-22 10:44 | newslock.co.kr | 삼성물산, 美 카이로스 파워와 차세대 SMR 맞손…7000만달러 투자 추진 | http://www.newslock.co.kr/news/articleView.html?idxno=136770 | a1
+2026-09-22 10:44 | inthenews.co.kr | 50년 영국 클래식 국내 상륙…삼성물산 패션, ‘마가렛 호웰’ 독점 전... | https://www.inthenews.co.kr/news/article.html?no=92248 | a1
+2026-09-22 10:40 | hbnpress.com | ‘알테오젠 2위 도약 속 삼성바이오로직스 5위 하락...K-브랜드지수 제... | https://hbnpress.com/news/view/1065573218922814 | a7
+2026-09-22 10:38 | newswell.co.kr | '미국 SMR 승부수' 삼성물산 "7000만달러 투자" | http://www.newswell.co.kr/news/articleView.html?idxno=22149 | a1
+2026-09-22 10:36 | dailypop.kr | 도시정비사업 수주전, 현대건설 '10조 클럽' 2년 연속 안착…삼성물산 ... | http://www.dailypop.kr/news/articleView.html?idxno=102790 | a1
+2026-09-22 10:36 | insight.co.kr | 삼성물산, 美 차세대 원전 실증부터 상용화까지... 1000억원 투자 나선다 | https://www.insight.co.kr/news/574737 | a1
+2026-09-22 10:34 | 1conomynews.co.kr | 삼성물산, 美 카이로스 파워와 맞손…차세대 SMR 사업 확대 | https://www.1conomynews.co.kr/news/articleView.html?idxno=50520 | a1
+2026-09-22 10:34 | fnnews.com | 구글이 찜한 美 차세대원전…삼성물산, 7000만달러 베팅 시공권 선점 | https://www.fnnews.com/news/202609220951520513 | a1
+2026-09-22 10:32 | betanews.net | 삼성물산, 美 카이로스 파워와 차세대 SMR 실증·상용화 협력… 약 7000만... | https://www.betanews.net/article/view/beta202609220019 | a1
+2026-09-22 10:28 | edaily.co.kr | 삼성물산, 美 차세대 SMR 진출…7000만달러 투자 | https://www.edaily.co.kr/News/Read?newsId=03158646645582744&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
+2026-09-22 10:27 | kizmom.com | 삼성물산 차세대 원전 사업 확대…미국 SMR 실증로 참여 | https://www.kizmom.com/news/articleView.html?idxno=112883 | a1
+2026-09-22 10:23 | catchnews.kr | "물 대신 용융염·소듐 활용" 삼성물산, 美카이로스파워와 차세대 SMR사... | https://www.catchnews.kr/news/articleView.html?idxno=128724 | a1
+2026-09-22 10:22 | public25.com | 삼성물산, 미국으로 차세대 SMR 사업 길 넓힌다 | https://www.public25.com/news/articleView.html?idxno=55192 | a1
+2026-09-22 10:20 | koreaittimes.com | 삼성물산, 미국 카이로스 파워에 7000만달러 투자… 차세대 SMR 사업 본격... | https://www.koreaittimes.com/news/articleView.html?idxno=157408 | a1,a2
+2026-09-22 10:20 | cnbnews.com | 삼성물산, 美 카이로스 파워와 SMR 협력 | https://www.cnbnews.com/news/articleView.html?idxno=1016871 | a1
+2026-09-22 10:18 | popcornnews.net | 삼성물산, 美 카이로스파워와 맞손...차세대 SMR 본격 공략 | http://www.popcornnews.net/news/articleView.html?idxno=133820 | a1
+2026-09-22 10:18 | businesskorea.co.kr | Samsung C&T Partners with Kairos Power for SMR Business | https://www.businesskorea.co.kr/news/articleView.html?idxno=277501 | a2
+2026-09-22 10:17 | Korea IT Times | Samsung C&T Expands SMR Push Into Advanced Reactor Technologies - Korea IT Times | google:Korea IT Times | aen1
+2026-09-22 10:17 | Businesskorea | Samsung C&T Partners with Kairos Power for SMR Business - Businesskorea | google:Businesskorea | aen1
+2026-09-22 10:16 | smartbizn.com | "유행보다 오래 입는 옷"···삼성물산 패션 '비이커', 마가렛 호웰 국... | https://www.smartbizn.com/news/articleView.html?idxno=154589 | a1
+2026-09-22 10:14 | news.sbs.co.kr | Kospi Opens Over 2% Higher in the 7,100 Range Boosted by Wall Street Rally - news.sbs.co.kr | google:news.sbs.co.kr | aen3
+2026-09-22 10:14 | 헤럴드경제 | Samsung C&T partners with US firm Kairos Power to lead next-generation SMR market - 헤럴드경제 | google:헤럴드경제 | aen1
+2026-09-22 10:14 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍ현대건설ㆍGS건설 (9.22) | http://www.weeklytoday.com/news/articleView.html?idxno=795535 | a1
+2026-09-22 10:12 | viva100.com | 삼성물산, 미국 카이로스파워와 ‘차세대 SMR’ 상용화 업무협약 | https://www.viva100.com/article/20260922500437 | a1
+2026-09-22 10:00 | TradingView | Price to earnings forward of Samsung Epis Holdings Co., Ltd. – KRX:0126Z0 - TradingView | google:TradingView | aen5
+2026-09-22 10:00 | Riau Makmur | DPR-Pemerintah Sepakati Solusi Konflik Agraria dalam Rapat Dipimpin Dasco - Riau Makmur - Riau Makmur | google:Riau Makmur | aid9
+2026-09-22 10:00 | pointdaily.co.kr | 삼성물산, 美 차세대 SMR 시장 진출…카이로스에 7000만달러 투자 추진 | https://www.pointdaily.co.kr/news/articleView.html?idxno=320169 | a1
+2026-09-22 10:00 | hankyung.com | '이름표' 대신 상품성… 목동 재건축, 차별화 설계·커뮤니티가 프리미... | https://www.hankyung.com/article/202609220200i | a1?
+2026-09-22 09:51 | newsis.com | 삼성물산, 美카이로스 파워에 950억 투자…차세대 SMR 사업 확대 | https://www.newsis.com/view/NISX20260922_0003799646 | a1
+2026-09-22 09:40 | socialvalue.kr | 알테오젠, 삼성바이오로직스 제치고 K-브랜드지수 제약·바이오 부문 2위 | https://www.socialvalue.kr/news/view/1065573147622886 | a7
+2026-09-22 09:32 | mk.co.kr | The KOSPI also started higher at the 7,100 level on the 22nd, with the New York Stock Exchange closi.. - mk.co.kr | google:mk.co.kr | aen3
+2026-09-22 09:31 | katakabar.com | PMII Riau Soroti Sepuluh Persoalan Strategis Tentukan Arah Pembangunan Daerah - katakabar.com | google:katakabar.com | aid9
+2026-09-22 09:24 | fashionbiz.co.kr | 삼성물산패션부문, 영국 컨템 패션 '마가렛호웰' 국내 독점 유통 | https://www.fashionbiz.co.kr/article/229714 | a5
+2026-09-22 09:23 | 디지털투데이 | KOSPI jumps more than 2 percent early on U.S. AI, semiconductor rally - 디지털투데이 | google:디지털투데이 | aen3
+2026-09-22 09:20 | breaknews.com | 10대 건설사, 최근 5년간 하자 4983건 접수..SK에코플랜트 판정률 최고 | http://www.breaknews.com/1238416 | a2?
+2026-09-22 09:17 | mk.co.kr | Samsung C&T's construction division (Samsung C&T) is speeding up its efforts to target the g.. - mk.co.kr | google:mk.co.kr | aen1
+2026-09-22 09:14 | Chosunbiz | Nasdaq record lifts Korea stocks as KOSPI tops 7,100; chipmakers surge - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-22 08:59 | Chosunbiz | Samsung C&T partners with US Kairos Power on next-gen SMR, invests $70M - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
+2026-09-22 08:33 | 아시아경제 | Samsung C&T Fashion Secures Margaret Howell; Three Stores to Open This Year - 아시아경제 | google:아시아경제 | aen1
+2026-09-22 08:30 | 아시아경제 | "Walk Eye-to-Eye with Giraffes and Lions"... Everland's 'Wasaik' Walking Expedition Draws Huge Crowds - 아시아경제 | google:아시아경제 | aen1
+2026-09-22 07:52 | ebn.co.kr | 삼성바이오로직스 노사, 오늘 2차 사후조정…노조 "타결 가능성 없어" | https://www.ebn.co.kr/news/articleView.html?idxno=1725214 | a7
 2026-09-22 07:30 | gokorea.kr | 삼성바이오로직스 노사 갈등 심화, 2차 사후 조정 앞둔 위기 상황 | https://www.gokorea.kr/news/articleView.html?idxno=879330 | a7
 2026-09-22 07:00 | Seoul Economic Daily | G2Gbio CEO Sees Monthly Obesity Shots Becoming Industry Standard - Seoul Economic Daily | google:Seoul Economic Daily | aen4
-2026-09-22 07:00 | theguru.co.kr | [단독] 삼성물산, '구글 전력 공급업체' 美 SMR 기업 카이로스파워 1억 ... | https://www.theguru.co.kr/news/article.html?no=107395 | a1
-2026-09-22 06:40 | the-today.com | [단독] 삼성물산, 구글 전력망 짓는다…美 차세대 원전에 1억弗 투자 | https://www.the-today.com/news/articleView.html?idxno=90543 | a1
-2026-09-22 06:39 | thetracker.co.kr | 삼성물산은 美 카이로스파워에 7000만달러 지분 투자 | https://thetracker.co.kr/View.aspx?No=4237469 | a1
-2026-09-22 06:02 | asiatime.co.kr | [K-건설 리더를 만나다] 나무 한 그루도 1년…삼성물산, 래미안 조경에... | https://www.asiatime.co.kr/article/20260921500348 | a1
-2026-09-22 04:59 | Axios | Rainmaker's $100M for cloud-seeding, Paymob collects $35M, Blackline buys NetNow - Axios | google:Axios | aen1
 2026-09-22 04:41 | Traders Union | Kairos Power taps Samsung C&T for Google reactor project - Traders Union | google:Traders Union | aen1
-2026-09-22 04:04 | Межа. Новини України. | Amazon Blocks Meta’s Muse AI Assistant From Completing Purchases - Межа. Новини України. | google:Межа. Новини України. | aen1
 2026-09-22 04:04 | Межа. Новини України. | Samsung C&T Invests Up to $100 Million in Kairos Power’s Google Reactor Project - Межа. Новини України. | google:Межа. Новини України. | aen1
 2026-09-22 04:03 | Pharmacy Times | Eight Names, One Drug: Why Adalimumab Biosimilars Are Creating Real Confusion at the Counter - Pharmacy Times | google:Pharmacy Times | aen4
 2026-09-22 03:47 | Crypto Briefing | Kairos Power secures up to $100M from Samsung C&T for nuclear reactor project - Crypto Briefing | google:Crypto Briefing | aen1
-2026-09-22 03:45 | Crypto Briefing | Philadelphia Semiconductor Index gains 4% as chip stocks rally on AI optimism and geopolitical thaw - Crypto Briefing | google:Crypto Briefing | aen1
 2026-09-22 03:42 | UA.NEWS | Samsung C&T to provide Kairos with up to $100 million — TechCrunch - UA.NEWS | google:UA.NEWS | aen1
 2026-09-22 03:33 | Pluang | Kairos Power partners with Samsung C&T to build 50MW nuclear reactor demo for Google by 2030. - Pluang | google:Pluang | aen1
-2026-09-22 03:23 | zamin.uz | Samsung and Kairos Power to Build Nuclear Reactor for Google - zamin.uz | google:zamin.uz | aen1,aen2
-2026-09-22 03:23 | techcrunch.com | Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google - techcrunch.com | google:techcrunch.com | aen1
+2026-09-22 03:23 | Zamin.uz | Samsung and Kairos Power to Build Nuclear Reactor for Google - Zamin.uz | google:Zamin.uz | aen1,aen2
+2026-09-22 03:23 | TechCrunch | Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google - TechCrunch | google:TechCrunch | aen1
+2026-09-22 02:57 | WATE 6 On Your Side | Company to invest up to $100 million in Oak Ridge nuclear plant - WATE 6 On Your Side | google:WATE 6 On Your Side | aen1,aen2
 2026-09-22 02:52 | Dealroom | Samsung C&T backs Kairos Power with up to $100M for advanced nuclear push - Dealroom | google:Dealroom | aen1
 2026-09-22 01:10 | 재경일보 | Samsung Biologics Union Warns of 'Collective Action' Ahead of Second Mediation, Citing Impasse - 재경일보 | google:재경일보 | aen3
 2026-09-22 00:14 | HaiSawit | Penyaluran Dana PSR di Riau Capai Rp1,9 Triliun untuk 235 Kelembagaan Petani - HaiSawit | google:HaiSawit | aid8
-2026-09-21 23:58 | kdpress.co.kr | [주요공시] 삼성물산, 에스엠벡셀, 제이스로보틱스, 셀트리온, 에코프로... | https://www.kdpress.co.kr/news/articleView.html?idxno=208796 | a1
-2026-09-21 23:38 | ttlnews.com | 삼성물산, 1조8275억원 성수3지구 재개발 시공권 확보... 최고 72층 래미... | http://www.ttlnews.com/news/articleView.html?idxno=3145625 | a1
-2026-09-21 23:24 | tvOneNews | KNPI Riau Dukung Realisasi Asta Cita Era Prabowo - tvOneNews | google:tvOneNews | aid9
-2026-09-21 22:57 | WATE 6 On Your Side | Company to invest up to $100 million in Oak Ridge nuclear plant - WATE 6 On Your Side | google:WATE 6 On Your Side | aen1
-2026-09-21 22:40 | mydaily.co.kr | 삼성바이오로직스 노사 협상 난항…노조 “추가 진전 없으면 단체행동... | https://www.mydaily.co.kr/page/view/2026092122392118979 | a7
-2026-09-21 22:29 | Business Upturn | Biopharmaceutical Fermentation Market Expands as Single-Use Bioreactors and Process Automation Scale Biologics Output - Business Upturn | google:Business Upturn | aen3
-2026-09-21 22:28 | Sabang Merauke NEWS | Agrinas di Tengah Bara Konflik Sawit Riau - Sabang Merauke NEWS | google:Sabang Merauke NEWS | aid9
-2026-09-21 22:26 | dailyt.co.kr | 10대 건설사 하자심사 판정 323건…대우건설 87건·현대건설 59건·현대엔... | https://www.dailyt.co.kr/newsView/dlt202609210026 | a1?
-2026-09-21 22:20 | koreareport.co.kr | 삼성물산, 1.8조 서울 성수3지구 재개발 수주 | https://www.koreareport.co.kr/news/articleView.html?idxno=53131 | a1
-2026-09-21 21:45 | sg.finance.yahoo.com | Anixa Biosciences Granted First Australian Patent for its Breast Cancer Vaccine, Broadening Global Protection Through 2040 - sg.finance.yahoo.com | google:sg.finance.yahoo.com | aen4
-2026-09-21 21:24 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·대우건설·호반그룹·현대건설·GS건설·... | https://sports.hankooki.com/news/articleView.html?idxno=6940109 | a1,a3
-2026-09-21 21:20 | newsroad.co.kr | 10대 건설사 하자판정률 최대 29배 격차… 보수 이행 실적도 공개해야 | http://www.newsroad.co.kr/news/articleView.html?idxno=64713 | a1?
-2026-09-21 20:44 | cnbizm.com | 삼성물산, 성수3지구 시공사 선정… 초고층 '래미안 레비르 성수' 짓는... | https://www.cnbizm.com/news/articleView.html?idxno=315857 | a1
-2026-09-21 20:32 | moneystorm.kr | [공시분석] 삼성물산, 성수재개발정비사업 1.83조에 수주...역대 재개발... | https://www.moneystorm.kr/news/articleView.html?idxno=6693 | a1
-2026-09-21 19:54 | economytalk.kr | 삼성물산, 성수3지구 따냈다…한강변에 250m 초고층 '래미안' 세운다 | http://www.economytalk.kr/news/articleView.html?idxno=424254 | a1
-2026-09-21 19:43 | Reformasi Bangsa | CV Maju Jaya Dipercaya Kelola 583,93 Hektare Lahan Eks PT SSS, Siapkan Pola KKPA untuk Masyarakat - Reformasi Bangsa | google:Reformasi Bangsa | aid6
-2026-09-21 19:31 | GoRiau.com | Kucurkan Rp1,9 Triliun, Program Peremajaan Sawit Riau Sasar 23 Ribu Petani Lokal - GoRiau.com | google:GoRiau.com | aid8
-2026-09-21 19:30 | s-journal.co.kr | 삼성물산, 서울 성수3지구 재개발 시공사로 선정… 72층 '래미안 레비르... | https://www.s-journal.co.kr/news/articleView.html?idxno=43939 | a1
-2026-09-21 19:08 | Qoo Media | Petani Sawit Polman Ditemukan Meninggal di Rumah Kebun Karossa - Qoo Media | google:Qoo Media | aid12
-2026-09-21 19:03 | CAKAPLAH.com | Warga Rupat Adukan Sengketa Lahan dengan WNA ke Pemkab Bengkalis, Minta Tim Khusus Turun Lapangan - CAKAPLAH.com | google:CAKAPLAH.com | aid9
-2026-09-21 19:02 | hellot.net | [헬로스톡] 9/21 주목할 종목 : 삼성SDI·삼성물산·GS건설·카카오 | https://www.hellot.net/news/article.html?no=115059 | a1
-2026-09-21 19:00 | asiatoday.co.kr | 초고령 사회 핵심 주거 서비스 AI 헬스케어…삼성물산·현대건설, 사업... | https://www.asiatoday.co.kr/kn/view.php?key=20260921010007959 | a1
-2026-09-21 18:50 | Tribunpekanbaru.com | Modus Lansia di Inhu Bakar Lahan: Semak yang Ditumpuk, Api Akhirnya Membesar Hingga 1,8 Hektare - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid7
-2026-09-21 18:40 | straightnews.co.kr | [2026국감] 같은 10대 건설사인데…하자판정률 1.05~30.48% '29배 격차' | https://www.straightnews.co.kr/news/articleView.html?idxno=311717 | a1?
-2026-09-21 18:34 | elaeis.co | Saatnya Pabrik Sawit Rendah Emisi, Petrus Tjandra Dorong Revolusi Pengolahan TBS dan Kemandirian Petani - elaeis.co | google:elaeis.co | aid9
-2026-09-21 18:30 | 매일경제 | Samsung Electronics-related stocks surged all at once, and the KOSPI regained the 7,000-point mark i.. - 매일경제 | google:매일경제 | aen1
-2026-09-21 18:27 | Chosunbiz | Samsung Biologics union warns of group action as talks stall in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-09-21 18:24 | biz.sbs.co.kr | 삼성바이오 노사 내일 2차 조정…노조, 파업 가능성 시사 | https://biz.sbs.co.kr/article_hub/20000336045?division=NAVER | a7?
-2026-09-21 18:09 | riau.harianhaluan.com | 583,93 Hektare Eks PT SSS Kini Dikelola CV Maju Jaya, KKPA Disiapkan untuk Masyarakat - Haluan Riau - riau.harianhaluan.com | google:riau.harianhaluan.com | aid6
-2026-09-21 18:06 | kdfnews.com | 삼성물산·두산건설 정비·공공사업 수주…현대건설은 AI 데이터센터 착... | http://www.kdfnews.com/news/articleView.html?idxno=188326 | a1
-2026-09-21 18:05 | hankyung.com | 삼성바이오 노조 "후속 파업 돌입할 수도" | https://www.hankyung.com/article/202609219064i | a7?
-2026-09-21 18:01 | 아시아경제 | Samsung Biologics Management and Union to Hold Second Post-Mediation Session Tomorrow - 아시아경제 | google:아시아경제 | aen3
-2026-09-21 17:44 | bizhankook.com | 현대건설·삼성물산 정비사업, 서울·강남·압구정으로 쏠렸다 | https://bizhankook.com/articles/hyundai-samsung-gangnam-apgujeong-projects.html | a1
-2026-09-21 17:40 | biopharminternational.com | A Flexible Manufacturing and Workforce Modernization Q&A With Sebastián Arana - biopharminternational.com | google:biopharminternational.com | aen3
-2026-09-21 17:31 | 매일경제 | Samsung C&T has won an order for the redevelopment project of Seongsu Strategic Maintenance Dist.. - 매일경제 | google:매일경제 | aen1
-2026-09-21 17:26 | tournews21.com | 삼성물산, 성수3지구 재개발 수주… '래미안 레비르 성수'로 한강변 새... | https://www.tournews21.com/news/articleView.html?idxno=144078 | a1
-2026-09-21 17:24 | webeconomy.co.kr | 삼성물산, 1조8275억원 성수3지구 재개발 수주…72층 랜드마크 짓는다 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2314124 | a1
-2026-09-21 17:20 | RRI.co.id | KNPI Riau Minta Warga Tak Terprovokasi Isu Pengambilalihan Lahan oleh Agrinas - RRI.co.id | google:RRI.co.id | aid9
-2026-09-21 17:12 | marketnews.co.kr | 삼성물산 '성수3지구', 두산건설 '부천 원미' 정비·복합사업 시공사 선... | http://www.marketnews.co.kr/news/articleView.html?idxno=74256 | a1
-2026-09-21 16:52 | smartbizn.com | 성수 한강변 72층 시대 열린다···삼성물산, 성수3지구 수주 | https://www.smartbizn.com/news/articleView.html?idxno=154530 | a1,a12
-2026-09-21 16:47 | HALLORIAU.COM | PSR Riau Capai 55 Ribu Hektare, Rp1,9 Triliun Sudah Disalurkan - HALLORIAU.COM | google:HALLORIAU.COM | aid6
-2026-09-21 16:44 | ziksir.com | 삼성물산, 성수3지구 재개발 시공사 선정…공사비 1조8275억원 | https://www.ziksir.com/news/articleView.html?idxno=147153 | a1
-2026-09-21 16:32 | newsquest.co.kr | 새울원전 3·4호기 공기 연장에 간접비 1231억 증가…삼성물산, 추가 연... | https://www.newsquest.co.kr/news/articleView.html?idxno=301387 | a1,a12
-2026-09-21 16:30 | businesspost.co.kr | GS건설 '현대건설·삼성물산 양강' 비집고 여의도 도시정비 수주 눈앞, ... | https://www.businesspost.co.kr/BP?command=article_view&num=447708 | a1,a7
-2026-09-21 16:28 | RRI.co.id | Polres Indragiri Hulu Tangkap Pembakar Hutan dan Lahan Seluas 1,8 Hektare - RRI.co.id | google:RRI.co.id | aid7
-2026-09-21 16:28 | RRI.co.id | Agrinas Gandeng KNPI Riau, Perkuat Sosialisasi dan Komunikasi ke Masyarakat - RRI.co.id | google:RRI.co.id | aid9
-2026-09-21 16:22 | kpinews.kr | '8년 왕좌' 현대건설 흔드는 삼성물산…마지막 승부처는 목동 | https://www.kpinews.kr/newsView/1065594473595462 | a1
-2026-09-21 16:16 | oananews.org | Special Chuseok event - oananews.org | google:oananews.org | aen1
-2026-09-21 16:13 | Chosunbiz | Semiconductor rally lifts KOSPI above 7000 as institutions buy in Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
-2026-09-21 15:52 | Media Center Riau | Rp1,9 Triliun Dana PSR Disalurkan untuk 23.789 Petani Sawit di Riau - Media Center Riau | google:Media Center Riau | aid8
-2026-09-21 15:51 | 디지털투데이 | KOSPI reclaims 7,000 on institutional buying; Samsung Electronics jumps 5 percent - 디지털투데이 | google:디지털투데이 | aen1,aen3
-2026-09-21 15:50 | 아시아경제 | KOSPI Closes Above 7,000 After Seven Sessions... KOSDAQ Rises 1.1% - 아시아경제 | google:아시아경제 | aen1
-2026-09-21 15:50 | job-post.co.kr | 삼성물산 4.70% 상승…2분기 영업이익 1조원 넘어 | https://www.job-post.co.kr/news/articleView.html?idxno=228597 | a1
-2026-09-21 15:40 | pointdaily.co.kr | 삼성웰스토리, '올더베러'로 구내식당 건강 간편식 라인업 확대 | https://www.pointdaily.co.kr/news/articleView.html?idxno=320079 | a12
-2026-09-21 15:38 | consumernews.co.kr | 삼성웰스토리, 구내식당서 '올더베러' 선봬…간편식에도 건강·영양 담... | http://www.consumernews.co.kr/news/articleView.html?idxno=764406 | a12
-2026-09-21 15:30 | dt.co.kr | 삼성물산, 1.8조원 ‘성수3지구 재개발’ 시공사 선정 | https://www.dt.co.kr/article/12085184?ref=naver | a1
-2026-09-21 15:28 | biztribune.co.kr | 삼성물산, 성수3지구 시공사 선정…250m 랜드마크로 한강변 주거 새 기준... | http://www.biztribune.co.kr/news/articleView.html?idxno=359380 | a1
-2026-09-21 15:22 | goodkyung.com | [굿모닝! 20일 건설업계 소식] 삼성물산·현대건설·호반건설·두산건설 | https://www.goodkyung.com/news/articleView.html?idxno=291623 | a1
-2026-09-21 15:20 | BeritaRiau.com | Rp1,9 Triliun Dana PSR Mengalir ke 23.789 Pekebun Sawit Riau - BeritaRiau.com | google:BeritaRiau.com | aid8
-2026-09-21 15:18 | Business Recorder | South Korean shares start week higher as chipmakers rise on upbeat data - Business Recorder | google:Business Recorder | aen3
-2026-09-21 15:18 | thefirstmedia.net | 삼성웰스토리, 구내식당서 건강 간편식 확대…'올더베러' 선봬 | http://www.thefirstmedia.net/news/articleView.html?idxno=209177 | a12
-2026-09-21 15:02 | news1.kr | 부동산114 조사서 대우건설 푸르지오, 브랜드 인지도·신뢰도 1위 | https://www.news1.kr/realestate/general/6297498 | a1?
-2026-09-21 14:54 | financialpost.co.kr | 삼성물산 '래미안 레비르 성수', 성수3지구 재개발 따냈다 | https://www.financialpost.co.kr/news/articleView.html?idxno=276776 | a1
-2026-09-21 14:41 | seoultimes.news | 삼성물산, 성수3지구 시공사 선정…1조8275억원 규모 | https://www.seoultimes.news/news/article.html?no=2000100127 | a1
-2026-09-21 14:31 | edaily.co.kr | 시민단체 “국민연금 CIO, 부동산투자실 '갑질' 쇄신·외압 거부해야” | https://www.edaily.co.kr/News/Read?newsId=03276726645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1?
-2026-09-21 14:30 | mediafine.co.kr | 삼성물산, 성수3지구 재개발 수주-최고 72층 '래미안 레비르 성수' 제안 | https://www.mediafine.co.kr/news/articleView.html?idxno=90433 | a1
-2026-09-21 14:24 | news2day.co.kr | [공시 Pick] 삼성물산, 성수3지구 1.8조 수주…4%대 주가 강세 | https://www.news2day.co.kr/article/20260921500173 | a1
-2026-09-21 14:21 | seoulfn.com | [건설브리핑] 삼성물산, 성수3지구 재개발 시공사 선정 외 | https://www.seoulfn.com/news/articleView.html?idxno=638435 | a1
-2026-09-21 14:18 | joongangenews.com | 삼성물산 주가, 9월 21일 장중 365,000원 3.99% 상승 | https://www.joongangenews.com/news/articleView.html?idxno=549683 | a1,a12,a7
-2026-09-21 14:12 | theviewers.co.kr | [건설 Pick] 삼성물산, 성수3지구 재개발 시공사 선정 外 | https://theviewers.co.kr/View.aspx?No=4236327 | a1
-2026-09-21 14:02 | niceeconomy.co.kr | [건설 브리핑] GS건설·삼성물산·현대건설·우미건설 | http://www.niceeconomy.co.kr/news/articleView.html?idxno=91069 | a1
-2026-09-21 13:46 | newswell.co.kr | 성수3지구 재개발 삼성물산, 1.8조 '래미안 레비르 성수' 올린다 | http://www.newswell.co.kr/news/articleView.html?idxno=22118 | a1
-2026-09-21 13:44 | newswatch.kr | [핫이슈] 삼성물산, 성수3지구 재개발 수주…올해 목표치 절반 달성 | http://www.newswatch.kr/news/articleView.html?idxno=81255 | a1
-2026-09-21 13:30 | bloter.net | '성수3지구' 따낸 삼성물산, 올해 도시정비사업 수주액 7조 돌파 | https://www.bloter.net/news/articleView.html?idxno=674099 | a1
-2026-09-21 13:28 | mk.co.kr | 성수 한강변에 72층 ‘래미안’…삼성물산, 성수3지구 수주 | https://www.mk.co.kr/article/12158088 | a1
-2026-09-21 13:20 | ppss.kr | 삼성물산, 1.8조 성수3지구 재개발 수주...한강변 '72층 랜드마크' | https://www.ppss.kr/news/articleView.html?idxno=311732 | a1
-2026-09-21 13:16 | newspost.kr | 삼성물산 건설부문, 성수3지구 재개발 시공사 선정 | https://www.newspost.kr/news/articleView.html?idxno=225802 | a1,a3
-2026-09-21 13:10 | inews24.com | 삼성물산, '1.8조' 성수3지구에 '래미안 깃발' 꽂았다 | http://www.inews24.com/view/2007610 | a1
-2026-09-21 13:00 | thevaluenews.co.kr | [건설 레이더] 현대건설·금호건설·삼성물산, 포항 AI센터·구미 발전소... | http://www.thevaluenews.co.kr/news/view.php?idx=201754 | a1
-2026-09-21 12:58 | newsprime.co.kr | [카드] "성수3지구 품었다" 삼성물산, 1.8조 규모 래미안 레비르 성수 추... | http://www.newsprime.co.kr/news/article.html?no=748525 | a1
-2026-09-21 12:51 | Riau Pos | 55 Ribu Ha Kebun Sawit di Riau Dapat Program PSR - Riau Pos | google:Riau Pos | aid6,aid8
-2026-09-21 12:50 | huffingtonpost.kr | 삼성물산 서울 성수3지구 재개발 따내 도시정비 수주 2위로 올라서, 현... | https://www.huffingtonpost.kr/article/260677 | a1
-2026-09-21 12:36 | startuptoday.co.kr | [이슈] 삼성물산, 1.8조 성수3지구 수주 공시… 도시정비 7조 넘기며 2위... | https://www.startuptoday.co.kr/news/articleView.html?idxno=813761 | a1
-2026-09-21 11:53 | marketscreener.com | Samsung C&T Selected as Builder for Seongsu Housing Redevelopment Project - marketscreener.com | google:marketscreener.com | aen1
-2026-09-21 11:50 | globalepic.co.kr | 삼성물산, 성수3지구 재개발 시공사 선정… "250m 초고층 타워로 한강변... | http://www.globalepic.co.kr/view.php?ud=20260921114534657648439a4874_29 | a1
-2026-09-21 11:48 | mediawatch.kr | [26.9.21 증시 인싸잇] 오늘의 종목 - 삼성물산, 성수3지구 수주… 사업... | https://www.mediawatch.kr/news/article.html?no=261125 | a1
-2026-09-21 11:46 | e-science.co.kr | 삼성물산, 성수3지구 재개발 시공사 선정…250m 초고층 '래미안 레비르... | https://www.e-science.co.kr/news/articleView.html?idxno=135841 | a1
-2026-09-21 11:40 | biz.newdaily.co.kr | 삼성물산, 1.8조 성수3지구 재개발 수주 … '래미안 레비르 성수' | https://biz.newdaily.co.kr/site/data/html/2026/09/21/2026092100159.html | a1
-2026-09-21 11:38 | news.einfomax.co.kr | 시민단체 "이규홍 CIO, 큰 힘에는 큰 책임…부동산실 의혹 재발 막아야... | https://news.einfomax.co.kr/news/articleView.html?idxno=4435907 | a1?
-2026-09-21 11:26 | megaeconomy.co.kr | 삼성웰스토리, 구내식당에 웰니스 간편식 도입…건강식 라인업 확대 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579842980303 | a12
-2026-09-21 11:24 | etnews.com | 삼성웰스토리, 구내식당서 '올더베러' 건강 간편식 선봬 | https://www.etnews.com/20260921000191 | a12
-2026-09-21 11:23 | sisajournal.com | 삼성물산, 1.8조 규모 성수3지구 수주…'래미안 레비르' 짓는다 | https://www.sisajournal.com/news/articleView.html?idxno=387887 | a1
-2026-09-21 11:20 | hankyung.com | 삼성물산, 1.8조 성수3지구 품었다…'래미안 레비르 성수' | https://www.hankyung.com/article/202609217781i | a1
-2026-09-21 11:18 | weekly.hankooki.com | 삼성물산, 성수3지구 재개발 사업 수주…1조8275억원 규모 | https://weekly.hankooki.com/news/articleView.html?idxno=7185300 | a1
-2026-09-21 11:18 | smedaily.co.kr | 삼성물산, 1조8275억원 성수3지구 재개발 수주 | http://www.smedaily.co.kr/news/articleView.html?idxno=363553 | a1
-2026-09-21 11:08 | newsmap.co.kr | 반도체 공장 짓고 원전서 미래 찾는다...삼성물산 건설의 진격 | https://www.newsmap.co.kr/news/articleView.html?idxno=3445 | a1
-2026-09-21 11:06 | ekn.kr | 삼성물산, 1.8조 성수3지구 재개발 수주…72층 ‘래미안’ 들어선다 | https://www.ekn.kr/web/view.php?key=20260921020297324 | a1,a12
-2026-09-21 11:06 | foodnews.co.kr | 구내식당 간편식도 건강하게…삼성웰스토리, '올더베러' 상품 선봬 | http://www.foodnews.co.kr/news/articleView.html?idxno=120249 | a12
-2026-09-21 11:03 | news.tvchosun.com | 삼성물산, 성수3지구 수주…최고 72층 '한강 랜드마크' 짓는다 | https://news.tvchosun.com/site/data/html_dir/2026/09/21/2026092190105.html | a1
-2026-09-21 11:02 | thepowernews.co.kr | 1조8275억원 성수3지구 품었다…삼성물산, 72층 ‘래미안 레비르’ 짓는... | https://www.thepowernews.co.kr/view.php?ud=202609211059572790de3f0aa1be_7 | a1
-2026-09-21 11:00 | sateconomy.co.kr | [건설업계동향] 현대건설·삼성물산 주말 3.6조 정비사업 확보…대우건... | https://sateconomy.co.kr/news/view/1065575486875415 | a1
-2026-09-21 11:00 | bizwork.co.kr | 삼성물산, 1.8兆 성수3지구 재개발 시공권 확보 | https://www.bizwork.co.kr/news/articleView.html?idxno=419332 | a1
-2026-09-21 11:00 | lcnews.co.kr | [건설 Pick] 대우건설·삼성물산·현대건설, 첨단 기술과 친환경 인프라... | https://www.lcnews.co.kr/news/articleView.html?idxno=208598 | a1
-2026-09-21 10:58 | techholic.co.kr | 삼성물산, 공사비 1조8275억원 규모 서울 '성수3지구 재개발' 시공사 선... | http://www.techholic.co.kr/news/articleView.html?idxno=222985 | a1
-2026-09-21 10:48 | shinailbo.co.kr | 삼성물산, 1조8275억원 규모 '성수3지구 재개발' 시공권 확보 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5064539 | a1
-2026-09-21 10:46 | Aju Press | Chip rally lifts KOSPI above 7,000 - Aju Press | google:Aju Press | aen1
-2026-09-21 10:46 | ebn.co.kr | 삼성물산, 1.8조 성수3지구 품었다 | https://www.ebn.co.kr/news/articleView.html?idxno=1725071 | a1,a7
-2026-09-21 10:41 | kpinews.kr | 삼성물산, '성수3지구' 시공사 선정…한강변 최고 72층 마천루 조성 | https://www.kpinews.kr/newsView/1065577197308013 | a1
-2026-09-21 10:35 | finance.biggo.com | Samsung C&T Wins 1.8275 Trillion Won Seongsu District 3 Redevelopment Contract in South Korea, to Build 72-Story Landmark - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-21 10:32 | viva100.com | 삼성물산, 1조8275억 규모 성수3지구 재개발 사업 시공사 선정 | https://www.viva100.com/article/20260921500421 | a1
-2026-09-21 10:32 | popcornnews.net | 삼성물산 '1.8조' 성수3지구 시공자 선정...단지명 '래미안 레비르 성수... | http://www.popcornnews.net/news/articleView.html?idxno=133629 | a1
-2026-09-21 10:25 | finance.biggo.com | South Korea's KOSPI Reclaims 7,000 Mark Intraday After 8 Sessions; Samsung Electronics Surges Nearly 5% at Close - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-21 10:22 | metroseoul.co.kr | 삼성물산, 성수3지구 재개발 수주…공사비 1.8조원 | http://www.metroseoul.co.kr/article/20260921500101 | a1
-2026-09-21 10:14 | catchnews.kr | "한강 맞닿은 55m 파노라마 브리지" 삼성물산, 1.8조 성수3지구 재개발 ... | https://www.catchnews.kr/news/articleView.html?idxno=128655 | a1
-2026-09-21 10:14 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍ현대건설ㆍ대우건설 (9.21) | http://www.weeklytoday.com/news/articleView.html?idxno=795319 | a1
-2026-09-21 10:10 | fnnews.com | 삼성물산, 2203가구 '성수3지구' 시공사로...공사비 1.8조원 | https://www.fnnews.com/news/202609210959045033 | a1
-2026-09-21 10:07 | biz.sbs.co.kr | 삼성물산, 성수3지구 품었다…한강 조망 '래미안 레비르' 조성 | https://biz.sbs.co.kr/article_hub/20000335829?division=NAVER | a1
-2026-09-21 10:06 | choicenews.co.kr | KCC, 창호재 고객 감사 이벤트...실리콘 실적 개선세도 '주목' | http://www.choicenews.co.kr/news/articleView.html?idxno=171548 | a1?
-2026-09-21 10:03 | biz.heraldcorp.com | 삼성물산, 1.8조 규모 성수3지구 시공사 선정 | https://biz.heraldcorp.com/article/10880197?ref=naver | a1
-2026-09-21 10:02 | newspim.com | 삼성물산, '1.8조원 규모' 성수3지구 재개발 수주 | https://www.newspim.com/news/view/20260921000315 | a1
-2026-09-21 10:02 | betanews.net | 삼성물산, 성수3지구 재개발 시공사 선정…최고 72층·2203세대 건립 | https://www.betanews.net/article/view/beta202609210016 | a1
-2026-09-21 10:01 | 헤럴드경제 | Samsung C&T wins W1.83tr contract for Seongsu District 3 redevelopment - 헤럴드경제 | google:헤럴드경제 | aen1
-2026-09-21 10:00 | daily.hankooki.com | 서울 성수3지구, 삼성물산 '래미안 레비르 성수'로 탈바꿈 | https://daily.hankooki.com/news/articleView.html?idxno=1408263 | a1
-2026-09-21 09:59 | wowtv.co.kr | 삼성물산, 성수3지구 재개발 시공사 선정…공사비 1.8조 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210044&t=NN | a1
-2026-09-21 09:51 | Seoul Economic Daily | Samsung C&T Wins $1.3 Billion Deal for 72-Story Seongsu Complex - Seoul Economic Daily | google:Seoul Economic Daily | aen1,aen2
-2026-09-21 09:50 | socialvalue.kr | 삼성물산, 공사비 1.8조 성수3지구 품었다…"한강변 랜드마크로 조성" | https://www.socialvalue.kr/news/view/1065572918853795 | a1
-2026-09-21 09:46 | fetv.co.kr | 삼성물산, 성수3지구 시공권 확보…공사비 1조8275억 | https://www.fetv.co.kr/news/articleView.html?idxno=310530 | a1
-2026-09-21 09:44 | delighti.co.kr | 삼성물산, 성수3지구 재개발 시공사 선정…1.8조원 규모 | https://www.delighti.co.kr/news/articleView.html?idxno=122192 | a1
-2026-09-21 09:42 | dnews.co.kr | 삼성물산, 서울 성수3지구 재개발 시공사 선정 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609210921556270869 | a1
-2026-09-21 09:40 | insight.co.kr | 최고 72층·2203가구로 짓는다... 삼성물산, 1.8조 성수3지구 수주 | https://www.insight.co.kr/news/574470 | a1
-2026-09-21 09:40 | news.sbs.co.kr | KOSPI Opens Higher Over 1%... Briefly Recovers "7,000-pi" Mark During Intraday Trading - news.sbs.co.kr | google:news.sbs.co.kr | aen3
-2026-09-21 09:30 | 아시아경제 | KOSPI Rises 0.96% Early to Hold 6,900 Mark... KOSDAQ Slightly Lower - 아시아경제 | google:아시아경제 | aen1
-2026-09-21 09:12 | 아시아경제 | Samsung C&T Wins 1.8 Trillion Won Seongsu District 3 Redevelopment Project [Real Estate AtoZ] - 아시아경제 | google:아시아경제 | aen1
-2026-09-21 09:03 | Chosunbiz | Samsung C&T wins Seongsu 3 rebuild, to build Raemian Revir Seongsu in Seoul - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
-2026-09-21 09:00 | 매일경제 | Samsung C&T's construction division (Samsung C&T) succeeded in winning an order for the rede.. - 매일경제 | google:매일경제 | aen1,aen2
-2026-09-21 08:59 | news.tf.co.kr | 삼성웰스토리, 구내식당에 웰니스 간편식 확대…'올더베러' 선봬 | https://news.tf.co.kr/read/economy/2368150.htm | a12
-2026-09-21 08:55 | news1.kr | 삼성웰스토리, 구내식당 건강 간편식 브랜드 '올더베러' 선봬 | https://www.news1.kr/industry/distribution/6296923 | a12
-2026-09-21 08:35 | 아시아경제 | "Enjoy Yutnori with Twin Pandas"... Everland Unveils Special Chuseok Programs - 아시아경제 | google:아시아경제 | aen1
-2026-09-21 08:28 | lawissue.co.kr | 삼성웰스토리, 구내식당에 웰니스 간편식 브랜드 선보여 | http://www.lawissue.co.kr/view.php?ud=202609210827233545204ead0791_12 | a12
-2026-09-21 08:07 | 조선일보 | Exclusive: Labor Loss Days Surpass Last Year's Total Amid Strikes - 조선일보 | google:조선일보 | aen3
-2026-09-21 05:52 | 헤럴드경제 | Lee Jae-yong takes helm of Daegu Urban Development Corp., vows innovation in operations and organization - 헤럴드경제 | google:헤럴드경제 | aen3
-2026-09-21 05:21 | Seoul Economic Daily | Hyundai E&C Tops 10 Trillion Won in Redevelopment Orders for Second Year - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-09-21 05:01 | chosun.com | [단독] 파업 근로손실 44만일, 이미 작년 기록 넘어 | https://www.chosun.com/national/labor/2026/09/21/PBN24IZ4KZFPZF2DJH2NUE2OLQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a7?
