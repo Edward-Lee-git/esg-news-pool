@@ -1,192 +1,84 @@
-# collected: 2026-09-29 08:02 KST
-# window: 2026-09-28 00:00 ~ 2026-09-29 08:02 KST
-# part 1 of 1, lines: 187
+# collected: 2026-09-30 08:02 KST
+# window: 2026-09-29 00:00 ~ 2026-09-30 08:02 KST
+# part 1 of 1, lines: 79
 # format: date | media | title | url | tags
 
-2026-09-29 07:25 | finance.biggo.com | South Korea Insurance Premiums Set to Rise Up to 10% Next Year as Average Credited Rate Hits 4-Year Low of 2.25% - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-29 07:06 | cbci.co.kr | 삼성물산·GE버노바·히타치·SGE, 유럽 BWRX-300 확산 손잡아…중동부 ... | https://www.cbci.co.kr/news/articleView.html?idxno=610529 | a1
-2026-09-29 06:45 | dailian.co.kr | 10조 넘긴 현대건설·7조 삼성물산…정비사업 수주잔치 속 경쟁은 ‘미... | https://www.dailian.co.kr/news/view/1695193/?sc=Naver | a1
-2026-09-29 06:34 | labortoday.co.kr | 삼성바이오로직스 우리사주조합장에 박재성 노조위원장 당선 | https://www.labortoday.co.kr/news/articleView.html?idxno=236970 | a7
+2026-09-30 07:00 | 매일경제 | 1. Six Samsung affiliates, including Samsung Electronics, will invest a total of $1 billion in Helix.. - 매일경제 | google:매일경제 | aen2
+2026-09-30 06:00 | greened.kr | [현장+] 삼성바이오로직스, 美 생물보안법 규제 CDMO 수혜주 노린다 | https://www.greened.kr/news/articleView.html?idxno=351021 | a7,a9
+2026-09-30 05:40 | JDSupra | PM(NOC) Regulations: ninth-year anniversary of major amendments - JDSupra | google:JDSupra | aen4
+2026-09-30 04:01 | Agricom.id | UU Reforma Agraria dan Masa Depan Investasi Sawit - Agricom.id | google:Agricom.id | aid9
+2026-09-30 01:57 | Bermadah.co.id | Panen Liar di Blok 28 PT SLS Terbongkar! 23 Tandan Sawit Diamankan - Bermadah.co.id | google:Bermadah.co.id | aid6
+2026-09-30 01:09 | 조선일보 | Samsung Affiliates Invest $1B in Helix, Expanding AI Data Centers - 조선일보 | google:조선일보 | aen1
+2026-09-30 01:04 | GoRiau.com | Harga CPO Lesu, Nilai Jual TBS Sawit Swadaya Riau Turun Jadi Rp3.866 per Kg - GoRiau.com | google:GoRiau.com | aid2
+2026-09-30 00:41 | GoRiau.com | Walhi Riau Soroti Pembentukan BPGMN: Jangan Sekadar Gimik Birokrasi Atasi Karhutla - GoRiau.com | google:GoRiau.com | aid9
+2026-09-30 00:37 | The Korea Times | Kazakh worker killed as concrete ceiling collapses at Seoul construction site - The Korea Times | google:The Korea Times | aen13
+2026-09-30 00:30 | BUALBUAL.com | Panen Liar 23 Tandan Sawit di Pelalawan, Pria 31 Tahun Diamankan Security - BUALBUAL.com | google:BUALBUAL.com | aid6
+2026-09-30 00:00 | 매일경제 | Samsung C&T's construction division recently re-established Raemian's brand identity system (BIS.. - 매일경제 | google:매일경제 | aen1,aen2
+2026-09-29 23:48 | venturesquare.net | Pharos I-Bio Makes Australia an AI Drug Development R&D Hub… Expanding Joint Research and Business Development - venturesquare.net | google:venturesquare.net | aen4
+2026-09-29 23:39 | Riau Pos | Warga Desa Petala Bumi Minta Pemkab Inhu Batalkan MoU Tentang Jalan dengan PT Inecda - Riau Pos | google:Riau Pos | aid2
+2026-09-29 23:32 | thedailypost.kr | 삼성물산, 국내 첫 PC 건식접합 '특수모멘트' 인증 | https://www.thedailypost.kr/news/articleView.html?idxno=115921 | a1
+2026-09-29 22:21 | infosumsel.id | Warga PALI Serahkan Diri ke Polisi Setelah Tembak Korban di Dada, Diserahkan Keluarga, Gara gara Kelapa Sawit - Info Sumsel - infosumsel.id | google:infosumsel.id | aid12
+2026-09-29 22:18 | Chosunbiz | Ceiling collapse at Seoul site kills Kazakh worker; Korea probes Hyundai E&C - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen13
+2026-09-29 22:06 | Riauin.com | Harga TBS Sawit Mitra Swadaya Riau Turun Tipis 0,47 Persen - Riauin.com | google:Riauin.com | aid2
+2026-09-29 21:58 | 매일경제 | Six Samsung Affiliates Join Forces to Invest $1 Billion in U.S. Helix, Advancing into AI Infrastructure - 매일경제 | google:매일경제 | aen2
+2026-09-29 21:54 | technode.global | Samsung affiliates commit $1B to Helix AI infrastructure - technode.global | google:technode.global | aen1
+2026-09-29 21:47 | Seoul Economic Daily | Worker Dies as Concrete Ceiling Collapses at Seocho Construction Site - Seoul Economic Daily | google:Seoul Economic Daily | aen13
+2026-09-29 21:35 | qz.com | Samsung is investing $1 billion in KKR and Nvidia-backed AI infrastructure firm Helix - qz.com | google:qz.com | aen1,aen2
+2026-09-29 20:13 | NewsGhana | Samsung group bets US$1bn on AI data centre firm Helix - NewsGhana | google:NewsGhana | aen1
+2026-09-29 20:10 | HALLORIAU.COM | PT Inti Indosawit Subur Terima Penghargaan atas Kontribusi Penanganan Karhutla di Pelalawan - HALLORIAU.COM | google:HALLORIAU.COM | aid6
+2026-09-29 20:04 | biztribune.co.kr | 삼성전자 하이테크 공정 본격화… SK증권 "삼성물산 건설 실적 개선세 ... | http://www.biztribune.co.kr/news/articleView.html?idxno=359766 | a1
+2026-09-29 19:16 | kompas1.net | Panen Liar di Blok 28! Security PT SLS Bekuk Pencuri 23 Tandan Sawit, Rugi Rp720 Ribu - kompas1.net | google:kompas1.net | aid6
+2026-09-29 19:15 | Media Center Riau | Turun Rp18 per Kg, Harga TBS Sawit Swadaya Riau Jadi Rp3.866 - Media Center Riau | google:Media Center Riau | aid2
+2026-09-29 19:07 | Tribunpekanbaru.com | Ikut Kolaborasi Tangani Bencana Karhutla, PT Musim Mas Sabet Penghargaan dari Polres Pelalawan - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid6
+2026-09-29 19:03 | thelec.net | Samsung Invests $1 Billion in US AI Infrastructure Firm Helix - thelec.net | google:thelec.net | aen1
+2026-09-29 18:38 | analyticsindiamag.com | Samsung to Invest $1 Bn in NVIDIA-Backed AI Infrastructure Firm Helix - analyticsindiamag.com | google:analyticsindiamag.com | aen1
+2026-09-29 18:11 | Nadariau.com | Dukung Upaya Pencegahan Karhutla, PT Musim Mas Raih Apresiasi Polres Pelalawan - Nadariau.com | google:Nadariau.com | aid6
+2026-09-29 18:07 | RiauAktual.com | Harga CPO Sejumlah Perusahaan di Riau Turun, PT Adei Anjlok Rp375 per Kg - RiauAktual.com | google:RiauAktual.com | aid2
+2026-09-29 17:40 | 매일경제 | Leading power and cooling beyond semiconductors... Samsung's 'AI Ecosystem' Build-Up - 매일경제 | google:매일경제 | aen1,aen2
+2026-09-29 17:35 | The Tech Buzz | Samsung Invests $1B in AI Infrastructure Giant Helix - The Tech Buzz | google:The Tech Buzz | aen1
+2026-09-29 17:10 | sateconomy.co.kr | [패션업계소식] LF·무신사·삼성물산, 가을 패션 수요 공략 | https://sateconomy.co.kr/news/view/1065597864012130 | a1
+2026-09-29 16:53 | 삼성물산 뉴스룸 | The Shoring Trilogy / What Is Nearshoring: Reshaping Supply Chains Through Proximity - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
+2026-09-29 16:35 | RiauOnline | DPRD Riau Harap UU Pengaturan Reforma Agraria Jadi Solusi Konflik Lahan - RiauOnline | google:RiauOnline | aid9
+2026-09-29 16:35 | tekno.kompas.com | Update Harga HP Samsung di Indonesia 29 September 2026, mulai Rp 2 Jutaan - tekno.kompas.com | google:tekno.kompas.com | aid12
+2026-09-29 16:34 | ngetnews.com | [단독] 삼성바이오에피스 '아필리부' 주사기 제형 늘린다…유리 PFS 임상 | https://www.ngetnews.com/news/articleView.html?idxno=553816 | a10
+2026-09-29 16:00 | Yahoo Finance Singapore | ARTHEx Biotech Announces Appointment of Glenn P. Sblendorio as Chairman of the Board - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
+2026-09-29 15:47 | news1.kr | Samsung Biologics Redefines Biopharmaceuticals: 3.5-Month Development Tim... | https://www.news1.kr/bio/pharmaceutical-bio/6304829 | a8
+2026-09-29 15:28 | CAKAPLAH.com | DPRD Riau: UU Reforma Agraria Diharapkan Beri Kepastian Hukum bagi Masyarakat - CAKAPLAH.com | google:CAKAPLAH.com | aid9
+2026-09-29 15:12 | GoRiau.com | UU Reforma Agraria Terbaru, Budiman Lubis: Plasma 20 Persen Kini Jelas di Dalam HGU - GoRiau.com | google:GoRiau.com | aid9
+2026-09-29 15:01 | 조선일보 | Samsung Affiliates Invest $1 Billion in Helix - 조선일보 | google:조선일보 | aen1
+2026-09-29 15:00 | theguru.co.kr | 삼성물산, 호주 국가 전력망 접속 관문 '통과'…사우스 코리 BESS 필수 기... | https://www.theguru.co.kr/news/article.html?no=107665 | a1
+2026-09-29 14:48 | newsworks.co.kr | 삼성바이오로직스 우리사주조합장에 박재성 노조위원장 당선 | https://www.newsworks.co.kr/news/articleView.html?idxno=855058 | a7
+2026-09-29 14:44 | mk.co.kr | Samsung Biologics cuts antibody drug development time to 9.5 months | https://www.mk.co.kr/article/12163637 | a8,aen3
+2026-09-29 14:11 | sawitsetara.co | Riau dan Sawit: Dari Perkebunan Rakyat hingga Menjadi Episentrum Industri Sawit Nasional - sawitsetara.co | google:sawitsetara.co | aid8
+2026-09-29 13:52 | sisajournal-e.com | 김병주 '불기소 검토' 보도에 반발···홈플 사태 1년 반 무슨 일이 | https://www.sisajournal-e.com/news/articleView.html?idxno=423999 | a1?
+2026-09-29 13:40 | businesspost.co.kr | '삼성물산 협력사' GE버노바히타치 테네시주 SMR 건설 승인 임박, "미국... | https://www.businesspost.co.kr/BP?command=article_view&num=448158 | a1,a4
+2026-09-29 13:28 | The Korea Herald | Samsung commits $1b to KKR-led AI infrastructure push - The Korea Herald | google:The Korea Herald | aen1
+2026-09-29 13:28 | peoplewatch.co.kr | 전자·물산·생명·화재 동시에…삼성 6社 연합투자, KKR이 주목받는 이... | https://www.peoplewatch.co.kr/article/view/ppw202609290010 | a1?,a3?
+2026-09-29 12:26 | joongangenews.com | 삼성바이오로직스 주가, 9월 29일 장중 1,365,000원 2.50% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=551242 | a7
+2026-09-29 11:36 | The Tech Buzz | Samsung Invests $1B in KKR's AI Infrastructure Play - The Tech Buzz | google:The Tech Buzz | aen1
+2026-09-29 11:20 | Tribunpekanbaru.com | UU Reforma Agraria Terbaru Disahkan, DPRD Riau Nilai Jadi Solusi Konflik Lahan di Riau - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid9
+2026-09-29 11:16 | sports.donga.com | “론칭 11주년 기념” 삼성물산 패션 SSF샵, ‘11번째 파티’ | https://sports.donga.com/economy/article/all/20260929/134746348/1 | a1
+2026-09-29 11:03 | The Korea Times | Samsung group invests $1 bil. in KKR-founded AI infrastructure firm - The Korea Times | google:The Korea Times | aen1,aen13
+2026-09-29 11:00 | lcnews.co.kr | 삼성물산, 국내 최초 PC 특수모멘트 건식 접합 공법 개발 | https://www.lcnews.co.kr/news/articleView.html?idxno=208933 | a1
+2026-09-29 10:50 | 매일경제 | Samsung affiliates to invest $1bn in AI infrastructure firm Helix - 매일경제 | google:매일경제 | aen1
+2026-09-29 10:38 | newspim.com | 청년 산업재해 신청 '우아한 청년들' 4년 연속 1위…쿠팡 계열사 2~4위 | https://www.newspim.com/news/view/20260929000395 | a1?
+2026-09-29 10:31 | Fort Worth Star-Telegram | Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout - Fort Worth Star-Telegram | google:Fort Worth Star-Telegram | aen1
+2026-09-29 10:26 | Sammy Fans | Samsung pouring $1 billion into ex-AWS CEO’s AI infra company Helix - Sammy Fans | google:Sammy Fans | aen1
+2026-09-29 10:20 | RRI.co.id | Mengapa Riau Begitu Identik dengan Kelapa Sawit? - RRI.co.id | google:RRI.co.id | aid8
+2026-09-29 09:50 | Aju Press | Samsung joins AI data center gold rush with $1 billion Helix bet - Aju Press | google:Aju Press | aen1
+2026-09-29 09:43 | Chosunbiz | Samsung affiliates invest $1B in Helix to build AI data centers and power - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
+2026-09-29 09:30 | The Straits Times | Samsung to invest US$1 billion in KKR’s AI infrastructure company - The Straits Times | google:The Straits Times | aen1
+2026-09-29 09:25 | finance.biggo.com | Samsung Invests $1 Billion in Helix, AI Infrastructure Firm Founded by KKR - finance.biggo.com | google:finance.biggo.com | aen1
+2026-09-29 09:22 | kdfnews.com | 삼성바이오로직스, BPI서 제조공정 혁신 공개…개발기간 13→9.5개월 | http://www.kdfnews.com/news/articleView.html?idxno=188566 | a7
+2026-09-29 09:19 | Chosunbiz | Fda panel backs Grail cancer test as Samsung drives Korea-Asia expansion - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
+2026-09-29 09:16 | financialreview.co.kr | 대기업 과징금 8개월 만에 1.8조, 현대제철·쿠팡은 반복 제재 | http://www.financialreview.co.kr/news/articleView.html?idxno=45127 | a12?
+2026-09-29 09:15 | The Korea Times | Samsung Group to invest $1 bil. in AI infrastructure company Helix - The Korea Times | google:The Korea Times | aen1
+2026-09-29 09:01 | Yonhap News Agency | Samsung Group to invest US$1 billion in AI infrastructure company Helix - Yonhap News Agency | google:Yonhap News Agency | aen1
+2026-09-29 09:00 | Seoul Economic Daily | Six Samsung Affiliates Invest $1 Billion in U.S. AI Infrastructure Firm Helix - Seoul Economic Daily | google:Seoul Economic Daily | aen1
+2026-09-29 09:00 | CNBC | Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm - CNBC | google:CNBC | aen1
+2026-09-29 08:30 | 아시아경제 | "A Chilling Horror Universe for Your Senses"... Everland Expands Unique Experiences at 'Blood City Zero' - 아시아경제 | google:아시아경제 | aen2
+2026-09-29 08:23 | 매일경제 | Samsung to Invest $1 Billion in U.S. AI Infrastructure Firm Helix, Expanding Beyond Semiconductors into Data Centers - 매일경제 | google:매일경제 | aen1,aen2
+2026-09-29 08:00 | Samsung Global Newsroom | Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix - Samsung Global Newsroom | google:Samsung Global Newsroom | aen1
+2026-09-29 07:58 | bizwnews.com | 삼성바이오로직스, 美 BPI서 바이오의약품 공정 혁신 기술 소개 | http://www.bizwnews.com/news/articleView.html?idxno=147472 | a7
 2026-09-29 06:32 | news2day.co.kr | 쪼그라드는 유럽 제약산업 경쟁력...아시아, 바이오 거점 부상하나 | https://www.news2day.co.kr/article/20260928500266 | a10?
-2026-09-28 23:21 | Energies Media | SGE, GE Vernova, Hitachi, and Samsung C&T sign MoU to deploy BWRX-300 small modular reactors across Europe and the UK - Energies Media | google:Energies Media | aen1
-2026-09-28 22:49 | Harian Singgalang | Reva Triana Putri: Ketika Hukum Negara dan Hukum Adat Bertemu di Atas Tanah yang Sama - Harian Singgalang | google:Harian Singgalang | aid9
-2026-09-28 22:39 | ChatNews.id | 25 Petani Pasangkayu Jadi Tersangka Konflik Lahan Sawit - ChatNews.id | google:ChatNews.id | aid9
-2026-09-28 20:37 | PelalawanPos | Maulid Nabi KABARAS Pelalawan Jadi Momentum Pererat Silaturahmi dan Pembauran - PelalawanPos | google:PelalawanPos | aid9
-2026-09-28 20:26 | kyeongin.com | 피지컬·데이터 접목… 스타트업 성장동력 급부상 [인천 산업계에 부는... | https://www.kyeongin.com/article/1771640 | a7?
-2026-09-28 20:22 | riau.indozone.id | Daftar Perusahaan Multinasional yang Beroperasi di Provinsi Riau - riau.indozone.id | google:riau.indozone.id | aid8
-2026-09-28 19:58 | Riauin.com | Tuntut Transparansi Lahan PT THIP, APDK Desak BPN Riau Buka Data Identifikasi - Riauin.com | google:Riauin.com | aid9
-2026-09-28 19:53 | Sammy Fans | Samsung Biologics presents faster medicine development methods - Sammy Fans | google:Sammy Fans | aen3
-2026-09-28 19:36 | todayeconomic.com | 삼성물산, PC 건식 접합공법 내진성능 인증…“국내 최초 특수 모멘트 ... | https://www.todayeconomic.com/news/article.html?no=32259 | a1
-2026-09-28 18:52 | Businesskorea | U.S. Becomes South Korean Builders’ Top Overseas Market - Businesskorea | google:Businesskorea | aen1
-2026-09-28 18:42 | biztribune.co.kr | 삼성물산 패션부문 SSF샵, 11주년 기념 프로모션 진행 | http://www.biztribune.co.kr/news/articleView.html?idxno=359643 | a1,a5
-2026-09-28 18:26 | futurechosun.com | [더나은미래 경제브리핑] 공정위, ‘가맹점주 고리대출’ 혐의 명륜당 ... | https://futurechosun.com/?p=161363 | a1?,a7?
-2026-09-28 18:23 | open.kg | Kyrgyzstan and Uzbekistan to Strengthen Cooperation on Investment Projects - open.kg | google:open.kg | aen1
-2026-09-28 18:22 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·호반그룹 | https://sports.hankooki.com/news/articleView.html?idxno=6940695 | a1,a3
-2026-09-28 18:18 | 4th.kr | 삼성물산, PC 건식접합 내진성능 고도화..'특수모멘트' 국내 첫 인증 | http://www.4th.kr/news/articleView.html?idxno=2118786 | a1,a7
-2026-09-28 18:15 | hankyung.com | 삼성물산 '넥스트 홈'에 최고 내진성능 | https://www.hankyung.com/article/2026092800391 | a1
-2026-09-28 18:12 | persadariau.co.id | Dugaan Korupsi Lahan 58 Hektare, Kades Kemang Dilaporkan Warga ke Kejari Pelalawan - persadariau.co.id | google:persadariau.co.id | aid6,aid9
-2026-09-28 18:11 | 아시아경제 | [Click eStock] "Daishin Securities Expected to Reflect Investment Losses in Q3... Target Price Lowered" - 아시아경제 | google:아시아경제 | aen1
-2026-09-28 18:00 | enewstoday.co.kr | 국내 최초 'PC 특수모멘트 건식 접합 공법' 개발···삼성물산, '넥스트... | http://www.enewstoday.co.kr/news/articleView.html?idxno=2474796 | a1,a7
-2026-09-28 17:58 | finomy.com | 삼성바이오로직스, BPI서 공정 혁신 공개···전주기 역량 강화 | http://www.finomy.com/news/articleView.html?idxno=262399 | a7
-2026-09-28 17:56 | daily.hankooki.com | [건설업계 브리핑] 삼성물산·호반그룹·LH·부영그룹 | https://daily.hankooki.com/news/articleView.html?idxno=1410158 | a1,a7
-2026-09-28 17:42 | thepublic.kr | 삼성물산, PC 건식 접합 내진성능 높였다…국내 최초 기술인증 | https://www.thepublic.kr/news/articleView.html?idxno=320326 | a1
-2026-09-28 17:39 | Businesskorea | Medytox Gains NMPA Approval for NEURAMIS Filler - Businesskorea | google:Businesskorea | aen1
-2026-09-28 17:26 | s-journal.co.kr | 삼성물산, 국내 최고 수준 내진성능 갖춘 PC 건식 접합 공법 인증 획득 | https://www.s-journal.co.kr/news/articleView.html?idxno=44041 | a1,a7
-2026-09-28 17:24 | sisacast.kr | 삼성물산, '넥스트 홈(Next Home)' 기술 혁신 잇는 PC 건식 접합 공법 개... | http://www.sisacast.kr/news/articleView.html?idxno=100471 | a1
-2026-09-28 17:18 | biz.chosun.com | 삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 | https://biz.chosun.com/real_estate/real_estate_general/2026/09/28/66DIY3XVWNCZ5J722ACO4ZMXKY/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
-2026-09-28 17:17 | biz.chosun.com | Samsung C&T wins Korea’s first certification for top-tier seismic PC joints - CHOSUNBIZ - biz.chosun.com | google:biz.chosun.com | aen1,aen13
-2026-09-28 17:10 | joongangenews.com | 삼성물산 주가, 9월 28일 애프터마켓 346,000원 5.72% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=551009 | a1,a7
-2026-09-28 17:10 | ngetnews.com | 삼성바이오로직스, BPI서 공정 혁신 기술 공개…전 주기 경쟁력 강화 | https://www.ngetnews.com/news/articleView.html?idxno=553769 | a7
-2026-09-28 16:56 | niceeconomy.co.kr | [건설 브리핑] 삼성물산·현대엔지니어링·LH | http://www.niceeconomy.co.kr/news/articleView.html?idxno=91138 | a1
-2026-09-28 16:53 | biz.heraldcorp.com | 또 무너진 ‘칠천피’…외국인이 ‘삼전닉스’ 3조 폭풍 매도하자 5% 급... | https://biz.heraldcorp.com/article/10886579?ref=naver | a7?
-2026-09-28 16:46 | baraNews | Pemberdayaan Perempuan Tim Penggerak PKK Desa Padang Luas Melalui Pelatihan Budidaya Jamur Merang Skala Rumah Tangga Berbasis Tandan Kosong Kelapa Sawit Menggunakan Keranjang Sampah - baraNews | google:baraNews | aid6
-2026-09-28 16:44 | newslock.co.kr | 삼성물산, PC 보-기둥 건식 접합 공법 기술인증 획득 | http://www.newslock.co.kr/news/articleView.html?idxno=137019 | a1
-2026-09-28 16:44 | lkp.news | 삼성바이오로직스, 미국 BPI서 배양공정 강화 플랫폼 '에스텐시파이' 등... | http://www.lkp.news/news/articleView.html?idxno=84440 | a7
-2026-09-28 16:38 | smedaily.co.kr | 카카오뱅크, 삼성물산 쇼핑 플랫폼 혜택 '한달적금' 출시 | http://www.smedaily.co.kr/news/articleView.html?idxno=363835 | a1
-2026-09-28 16:36 | smarttoday.co.kr | 집 안 기둥 없애고 볼트로 조립해 지진까지 버틴다…삼성물산, 신공법 ... | https://www.smarttoday.co.kr/ko-kr/articles/112036 | a1
-2026-09-28 16:32 | popcornnews.net | 삼성물산, 국내 최초 '특수내진 PC 건식 접합' 인증...차세대 주거 '넥스... | http://www.popcornnews.net/news/articleView.html?idxno=134218 | a1
-2026-09-28 16:30 | theguru.co.kr | 대치 은마, 분양신청·이주비 조사 시작...관리처분 속도 | https://www.theguru.co.kr/news/article.html?no=107617 | a1,a1?
-2026-09-28 16:30 | dailypop.kr | 삼성물산·현대엔지니어링, OSC·AI 데이터센터로 기술 경쟁력 확대 | http://www.dailypop.kr/news/articleView.html?idxno=102913 | a1
-2026-09-28 16:30 | catchnews.kr | "웬만한 지진에도 끄떡없게 기둥과 보 연결" 삼성물산, PC접합기술 국내... | https://www.catchnews.kr/news/articleView.html?idxno=128869 | a1,a7
-2026-09-28 16:26 | huffingtonpost.kr | 삼성물산 내진 성능 갖춘 접합기술로 국내 첫 한국콘크리트학회 기술인... | https://www.huffingtonpost.kr/article/260807 | a1
-2026-09-28 16:19 | Mugglehead Investment Magazine | Power Metal Resources PLC agrees to £1.9M Fermi funding - Mugglehead Investment Magazine | google:Mugglehead Investment Magazine | aen1
-2026-09-28 16:13 | biz.chosun.com | Korea builders pivot to nuclear and data centers, ramp up entry-level hiring - CHOSUNBIZ - biz.chosun.com | google:biz.chosun.com | aen1
-2026-09-28 16:11 | hankyung.com | 외인·기관 4조 매도 폭탄…삼전닉스 5% 폭락에 6900선 붕괴 | https://www.hankyung.com/article/2026092898206 | a1?
-2026-09-28 16:08 | TipRanks | UDMTEK Appoints Cho Sang-gu as Co-CEO Alongside Founder Wang Ji-nam - TipRanks | google:TipRanks | aen1
-2026-09-28 16:07 | mt.co.kr | "추석 끝나자 무섭게 던졌다" 4조 매도폭탄...7천피 또 붕괴 | https://www.mt.co.kr/stock/2026/09/29/2026092815210356890 | a1?,a7?
-2026-09-28 16:06 | lawissue.co.kr | 삼성물산 패션부문 SSF샵, 11주년 기념 할인 및 포인트 환급 행사 운영 | http://www.lawissue.co.kr/view.php?ud=202609281604321032204ead0791_12 | a1,a5,a7
-2026-09-28 16:00 | koreabiomed.com | Samsung Biologics cuts complex antibody development timeline to 9.5 month... | https://www.koreabiomed.com/news/articleView.html?idxno=33312 | a8
-2026-09-28 15:59 | PelalawanPos | Heboh Lahan 100 Hektare dan 58 Hektare, Kades Kemang Dilaporkan Masyarakat ke Kejari Pelalawan - PelalawanPos | google:PelalawanPos | aid6
-2026-09-28 15:58 | HaiSawit | Kemenag Barsel Siapkan Tanah Wakaf Produktif untuk Perkebunan Sawit di Gunung Bintang Awai - HaiSawit | google:HaiSawit | aid8
-2026-09-28 15:58 | 매일경제 | The KOSPI index fell below the 6,900-point level on the 28th, with soaring interest rates on U.S. bo.. - 매일경제 | google:매일경제 | aen1
-2026-09-28 15:58 | Korea Biomedical Review | Samsung Biologics cuts complex antibody development timeline to 9.5 months - Korea Biomedical Review | google:Korea Biomedical Review | aen3
-2026-09-28 15:50 | wsobi.com | 삼성물산·현대엔지니어링, PC 건식 접합 기술 내진성능 강화·군산 AI 데... | http://www.wsobi.com/news/articleView.html?idxno=318840 | a1,a5
-2026-09-28 15:48 | kihoilbo.co.kr | 삼성바이오로직스 다양한 제조공정 혁신 전략 공개 | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035973 | a7
-2026-09-28 15:46 | mt.co.kr | 삼성물산, 건식접합공법으로 내진 최고 등급 획득…넥스트홈 혁신 가속... | https://www.mt.co.kr/estate/2026/09/28/2026092814371735049 | a1
-2026-09-28 15:45 | INIRIAU.COM | Kades Kemang Dilaporkan ke Kejari, Dugaan Terima Lahan Sawit 58 Hektare - INIRIAU.COM | google:INIRIAU.COM | aid6
-2026-09-28 15:44 | donga.com | 삼성바이오로직스, 美 보스턴 BPI서 바이오의약품 제조 혁신 전략 제시 | https://www.donga.com/news/Health/article/all/20260928/134744470/1 | a7
-2026-09-28 15:42 | mediapen.com | 삼성바이오로직스, 바이오 공정 혁신…개발기간 3.5개월 단축 | https://www.mediapen.com/news/view/1126344 | a7
-2026-09-28 15:27 | Businesskorea | Samsung Biologics Cuts Biopharma Development Time - Businesskorea | google:Businesskorea | aen3
-2026-09-28 15:24 | pointdaily.co.kr | 성수 72층·여의도 49층 꿰찼다…삼성물산, 한강변 스카이라인 재편 | https://www.pointdaily.co.kr/news/articleView.html?idxno=320569 | a1,a7
-2026-09-28 15:22 | koreareport.co.kr | 삼성물산, PC 건식 접합 공법으로 특수모멘트 골조 기술인증 | https://www.koreareport.co.kr/news/articleView.html?idxno=53254 | a1
-2026-09-28 15:22 | newscj.com | 삼성물산, 국내 최초 특수모멘트급 PC 건식 접합 인증 | https://www.newscj.com/news/articleView.html?idxno=3436104 | a1,a12?
-2026-09-28 15:12 | newstomato.com | 삼성바이오로직스, 보스턴서 위탁 연구·생산 전략 공개 | http://www.newstomato.com/ReadNews.aspx?no=1314937&inflow=N | a7
-2026-09-28 15:06 | finance.biggo.com | Samsung Biologics Cuts Antibody Drug Development Time to 9.5 Months, Doubles Culture Productivity - finance.biggo.com | google:finance.biggo.com | aen3
-2026-09-28 14:58 | biz.chosun.com | 삼성바이오로직스, 美서 제조 공정 전략 공개 | https://biz.chosun.com/science-chosun/bio/2026/09/28/N7YC445DYBHPTICZOM4VG3PUDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7
-2026-09-28 14:57 | biz.chosun.com | Samsung Biologics showcases U.S. process strategy, accelerates drug development - CHOSUNBIZ - biz.chosun.com | google:biz.chosun.com | aen3
-2026-09-28 14:48 | goodkyung.com | [굿모닝! 28일 건설업계 소식] 삼성물산·현대엔지니어링·LH·HUG | https://www.goodkyung.com/news/articleView.html?idxno=291781 | a1
-2026-09-28 14:35 | finance.biggo.com | KOSPI Falls Below 6,900 After Holiday Break as Samsung Electronics, SK Hynix Plunge Over 5% - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-28 14:32 | metroseoul.co.kr | 삼성물산, 내진성능 PC 건식 접합 기술 인증 | http://www.metroseoul.co.kr/article/20260928500313 | a1
-2026-09-28 14:30 | job-post.co.kr | 삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정 | https://www.job-post.co.kr/news/articleView.html?idxno=229426 | a1
-2026-09-28 14:26 | dt.co.kr | 삼성물산, PC 건식 접합공법 기술 내진성능 인증… 넥스트홈 기술 강화 | https://www.dt.co.kr/article/12086134?ref=naver | a1
-2026-09-28 14:06 | news2day.co.kr | 삼성바이오로직스·온코닉, 글로벌 학회서 신약개발 경쟁력 알린다 | https://www.news2day.co.kr/article/20260928500062 | a7
-2026-09-28 14:05 | koreaherald.com | Samsung Biologics showcases faster drug development at Boston conference | https://www.koreaherald.com/article/10886287?ref=naver | a8,aen3
-2026-09-28 13:58 | mk.co.kr | 삼성바이오로직스 “항체의약품 개발기간 13개월→9.5개월 단축” | https://www.mk.co.kr/article/12162603 | a7
-2026-09-28 13:57 | 매일경제 | Samsung Biologics unveiled a process development case in which the development period of antibody dr.. - 매일경제 | google:매일경제 | aen3
-2026-09-28 13:54 | mediapen.com | 삼성물산, 국내 최고 내진성능 PC 건식접합 공법 개발 | https://www.mediapen.com/news/view/1126349 | a1
-2026-09-28 13:35 | Renewables Now | Samsung C&T cleared to connect 320-MWh battery in Australia - Renewables Now | google:Renewables Now | aen1
-2026-09-28 13:32 | news2day.co.kr | 삼성물산, 내진성능 높인 'PC 건식 접합' 콘크리트학회 인증 획득 | https://www.news2day.co.kr/article/20260928500109 | a1
-2026-09-28 13:31 | kpinews.kr | 삼성바이오로직스, 美 BPI서 공정 혁신 공개 | https://www.kpinews.kr/newsView/1065586587687021 | a7
-2026-09-28 13:30 | thepowernews.co.kr | 3.5% 변형에도 버틴다…삼성물산, PC 건식 접합 내진성능 ‘국내 최초’... | https://www.thepowernews.co.kr/view.php?ud=202609281328467756de3f0aa1be_7 | a1
-2026-09-28 13:30 | businesspost.co.kr | 삼성물산, 국내 최고 내진 성능 갖춘 조립식 건물 접합기술 외부 인증 ... | https://www.businesspost.co.kr/BP?command=article_view&num=448052 | a1,a5,a7
-2026-09-28 13:28 | newsinside.kr | 삼성물산, 국내 최초 '최상급 내진성능' 기술 인증 | https://www.newsinside.kr/news/articleView.html?idxno=5011145 | a1
-2026-09-28 13:26 | socialvalue.kr | 삼성물산, 내진성 갖춘 PC 접합 기술 국내 첫 인증…‘넥스트 홈’ 고도... | https://www.socialvalue.kr/news/view/1065576245514819 | a1
-2026-09-28 12:56 | ziksir.com | 삼성바이오로직스, 'BPI 2026'서 공정 단축 기술력 공개 | https://www.ziksir.com/news/articleView.html?idxno=147574 | a7
-2026-09-28 12:28 | The Korea Times | Samsung Biologics highlights faster drug manufacturing timelines at BPI Boston - The Korea Times | google:The Korea Times | aen3
-2026-09-28 12:28 | koreatimes.co.kr | Samsung Biologics highlights faster drug manufacturing timelines at BPI B... | https://www.koreatimes.co.kr/path/A2026092810230005415 | a8
-2026-09-28 11:54 | datanews.co.kr | 삼성물산, PC 보·기둥 건식 접합 공법 내진성능 인증 획득 | http://www.datanews.co.kr/news/article.html?no=146661 | a1
-2026-09-28 11:52 | insight.co.kr | "13개월 걸리던 개발 9.5개월로"... 삼성바이오로직스, 공정 혁신 성과 ... | https://www.insight.co.kr/news/575503 | a7
-2026-09-28 11:52 | newsway.co.kr | 삼성바이오로직스, 2026 BPI서 바이오의약품 제조 공정 혁신 공개 | https://www.newsway.co.kr/news/view?ud=2026092811320063997 | a7
-2026-09-28 11:46 | gukjenews.com | HL로보틱스·삼성물산, 미래 주거 솔루션 개발 협약 체결 | https://www.gukjenews.com/news/articleView.html?idxno=3706976 | a1
-2026-09-28 11:28 | biz.heraldcorp.com | 삼성물산, 국내 첫 ‘내진성능 최상급’ 기술 인증 | https://biz.heraldcorp.com/article/10886024?ref=naver | a1
-2026-09-28 11:24 | delighti.co.kr | 삼성바이오로직스, 미국 보스턴 BPI서 바이오의약품 전주기 기술력 소개 | https://www.delighti.co.kr/news/articleView.html?idxno=122449 | a7
-2026-09-28 11:22 | 아시아경제 | Samsung C&T Becomes First to Receive Top Seismic Certification for Prefabricated Column and Beam Connection Method - 아시아경제 | google:아시아경제 | aen1
-2026-09-28 11:22 | view.asiae.co.kr | 삼성물산, 조립식 기둥·보 접합 공법 최고 내진등급 첫 인증 | https://view.asiae.co.kr/article/2026092810491708026 | a1
-2026-09-28 11:22 | globalepic.co.kr | 삼성물산, PC 건식 접합 기술 혁신…국내 최초 특수모멘트 골조 인증 획... | http://www.globalepic.co.kr/view.php?ud=20260928111908795948439a4874_29 | a1
-2026-09-28 11:22 | sedaily.com | 삼성물산, ‘특수모멘트 PC 건식 접합’ 국내 첫 인증…‘넥스트 홈’ ... | https://www.sedaily.com/article/20095493?ref=naver | a1
-2026-09-28 11:22 | kfenews.co.kr | 삼성물산, PC 건식 접합 기술 내진성능 강화 | https://www.kfenews.co.kr/news/articleView.html?idxno=665321 | a1
-2026-09-28 11:21 | Seoul Economic Daily | Samsung C&T Wins First Korean Certification for Special-Moment Dry-Joint Precast Method - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-09-28 11:19 | 아시아경제 | Samsung BioLogics Union Broadens Scope of 'Ongoing Management Involvement' - 아시아경제 | google:아시아경제 | aen3
-2026-09-28 11:18 | donga.com | 벽이 사라진다… 삼성물산 ‘넥스트 홈’ 핵심 기술 확보 | https://www.donga.com/news/Economy/article/all/20260928/134742180/2 | a1
-2026-09-28 11:16 | insight.co.kr | 공사 빠른 PC 구조에 내진성능 더했다... 삼성물산, 초고층 적용 길 열어 | https://www.insight.co.kr/news/575528 | a1
-2026-09-28 11:12 | etoday.co.kr | 삼성물산, 국내 최초 ‘특수모멘트 PC 건식 접합’ 기술 개발 | https://www.etoday.co.kr/news/view/2629827 | a1
-2026-09-28 11:10 | industrynews.co.kr | 삼성물산패션 SSF샵, 론칭 11주년 '11TH PARTY'…쿠폰·페이백 혜택 확대 | https://www.industrynews.co.kr/news/articleView.html?idxno=86605 | a1
-2026-09-28 11:10 | cwn.kr | 삼성바이오로직스, 'BPI'에서 바이오의약품 제조 혁신 사례 주목 | https://www.cwn.kr/news/articleView.html?idxno=57546 | a7
-2026-09-28 11:06 | etnews.com | “개발기간 13→9.5개월”…삼성바이오로직스, BPI서 공정 혁신 공개 | https://www.etnews.com/20260928000173 | a7
-2026-09-28 11:06 | kr.aving.net | 마케톤, '보이는 AI 에이전트'로 B2C 시장 출사표… 삼성바이오로직스 ... | https://kr.aving.net/news/articleView.html?idxno=1814798 | a7
-2026-09-28 11:04 | e-science.co.kr | 삼성물산, 콘크리트 기둥·보도 '볼트 조립'…내진성능은 특수모멘트급 | https://www.e-science.co.kr/news/articleView.html?idxno=136154 | a1,a7
-2026-09-28 11:02 | koreaittimes.com | 삼성물산, PC 접합 기술 고도화… '넥스트 홈' 상용화 기반 다진다 | https://www.koreaittimes.com/news/articleView.html?idxno=157541 | a1
-2026-09-28 10:58 | kdfnews.com | 회원 800만명 확보한 삼성물산 SSF샵…론칭 11주년 기념 프로모션 | http://www.kdfnews.com/news/articleView.html?idxno=188530 | a1
-2026-09-28 10:57 | 디지털투데이 | KakaoBank launches 'One-month Savings with SSF SHOP' in first tie-up with fashion platform - 디지털투데이 | google:디지털투데이 | aen1
-2026-09-28 10:57 | kpinews.kr | 삼성물산, PC 특수모멘트 건식 접합 인증…'넥스트 홈' 실현 속도 | https://www.kpinews.kr/newsView/1065578143495393 | a1
-2026-09-28 10:55 | news.tf.co.kr | 삼성물산 "최고 내진 성능 'PC 건식 접합기술' 개발" | https://news.tf.co.kr/read/economy/2370079.htm | a1
-2026-09-28 10:53 | hankyung.com | 삼성물산, PC 건식 접합 내진성능 '특수모멘트'까지 끌어올려 | https://www.hankyung.com/article/202609288934i | a1
-2026-09-28 10:52 | asiatime.co.kr | 삼성물산, '넥스트 홈' 기술 확대…PC 접합부 내진성능 강화 | https://www.asiatime.co.kr/article/20260928500044 | a1
-2026-09-28 10:52 | sisaweek.com | 삼성바이오로직스, BPI 9년 연속 참가… CRO·CDO·CMO 노하우 선봬 | https://www.sisaweek.com/news/articleView.html?idxno=238085 | a7
-2026-09-28 10:48 | techholic.co.kr | 삼성바이오로직스, 글로벌 바이오 산업 콘퍼런스서 바이오의약품 제조... | http://www.techholic.co.kr/news/articleView.html?idxno=223055 | a7
-2026-09-28 10:44 | thevaluenews.co.kr | [제약·바이오 레이더] 삼성바이오로직스·자생한방병원, 바이오·한의학... | http://www.thevaluenews.co.kr/news/view.php?idx=201891 | a7
-2026-09-28 10:41 | TradingView | South Korean Shares Fall Amid Middle East Uncertainty - TradingView | google:TradingView | aen1
-2026-09-28 10:38 | fntimes.com | 작년과 분위기 다르다…건설사 CEO '국감' 소환 핵심 중대재해 살펴보니 | https://www.fntimes.com/html/view.php?ud=202609280958345150b372994c95_18 | a1,a1?,a3?
-2026-09-28 10:38 | kpenews.com | 삼성물산 건설부문, PC 건식 접합 내진성능 높였다..국내 최초 특수모멘... | https://kpenews.com/View.aspx?No=4242850 | a1,a3,a7
-2026-09-28 10:38 | fetv.co.kr | 삼성물산, 초고층 PC 아파트 길 열었다…건식 접합 기술 인증 | https://www.fetv.co.kr/news/articleView.html?idxno=310845 | a1,a7
-2026-09-28 10:34 | biz.newdaily.co.kr | 삼성물산, 국내 최초 PC 접합공법 내진성능 인증 … "초고층도 안전하게... | https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800092.html | a1
-2026-09-28 10:30 | econovill.com | 삼성물산, 국내 최초 PC 특수모멘트 건식 접합 공법 개발…"미래 주거 기... | https://www.econovill.com/news/articleView.html?idxno=751998 | a1
-2026-09-28 10:30 | public25.com | 삼성물산, '국내 최고 내진성능' PC 접합공법 인증 땄다 | https://www.public25.com/news/articleView.html?idxno=55424 | a1
-2026-09-28 10:28 | pinpointnews.co.kr | 삼성물산, PC 건식접합 특수내진 기술 인증 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=490693 | a1,a7
-2026-09-28 10:28 | dealsite.co.kr | [제약+] 삼성바이오로직스, 2026 BPI서 제조공정 혁신전략 공개 外 | https://dealsite.co.kr/articles/169683 | a7
-2026-09-28 10:24 | womentimes.co.kr | 삼성물산, 내진 PC 건식 접합기술 인증 획득...'넥스트 홈'으로 혁신 가... | https://www.womentimes.co.kr/news/articleView.html?idxno=106519 | a1
-2026-09-28 10:22 | newswell.co.kr | 삼성물산, '기둥 없는 집' 내진기술 국내 최초 인증 | http://www.newswell.co.kr/news/articleView.html?idxno=22226 | a1
-2026-09-28 10:22 | g-enews.com | 현대건설 8년 연속 1위 도전…삼성물산, 성수3구역 품고 2위 도약 | https://www.g-enews.com/view.php?ud=20260928081338494714b1077807_1 | a1
-2026-09-28 10:20 | srtimes.kr | 삼성물산 패션 SSF샵, '11주년 생일파티' 가을 쇼핑 프로모션 전개 | http://www.srtimes.kr/news/articleView.html?idxno=213336 | a1
-2026-09-28 10:20 | cstimes.com | 삼성물산, 초고층 PC 구조 내진성능 최고 등급 달성…국내 첫 인증 | https://www.cstimes.com/news/articleView.html?idxno=722034 | a1
-2026-09-28 10:18 | moneystorm.kr | 삼성물산, PC 접합부 내진 성능 강화…'특수모멘트 골조 인증' 획득 | https://www.moneystorm.kr/news/articleView.html?idxno=6792 | a1,a7
-2026-09-28 10:14 | smartbizn.com | 삼성바이오로직스, BPI서 복합의약품 공정 기술 소개 | https://www.smartbizn.com/news/articleView.html?idxno=154918 | a7
-2026-09-28 10:14 | lcnews.co.kr | 삼성바이오로직스, BPI서 바이오의약품 공정 기술 공개 | https://www.lcnews.co.kr/news/articleView.html?idxno=208877 | a7
-2026-09-28 10:10 | newspim.com | 삼성물산, 국내 첫 PC 건식 접합 기술 인증...초고층 내진 성능 확보 | https://www.newspim.com/news/view/20260928000241 | a1
-2026-09-28 10:08 | ttlnews.com | 삼성물산, 'PC 특수모멘트 접합 공법' 콘크리트학회 기술인증 | http://www.ttlnews.com/news/articleView.html?idxno=3147180 | a1
-2026-09-28 10:08 | dizzotv.com | 삼성물산, 최고 내진성능 PC 건식 접합 공법 개발…‘넥스트 홈’ 혁신... | https://www.dizzotv.com/site/data/html_dir/2026/09/28/2026092880040.html | a1
-2026-09-28 10:08 | cnbnews.com | 삼성물산, 내진 강화한 PC 건식 접합공법 인증 | https://www.cnbnews.com/news/articleView.html?idxno=1017182 | a1
-2026-09-28 10:08 | wowtv.co.kr | 삼성바이오로직스, 바이오의약품 제조 공정 혁신 전략 공개 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280036&t=NN | a7
-2026-09-28 10:06 | news1.kr | 삼성물산, 강진에도 견디는 '조립식 아파트' 접합 기술 인증 | https://www.news1.kr/realestate/general/6302911 | a1
-2026-09-28 10:05 | SigapNews | Pembangunan Jembatan Beton Tahap 7 Desa Kuala Mulia Terus Dikebut, Masuk Tahap Pengecoran Balok Teng - SigapNews | google:SigapNews | aid8
-2026-09-28 10:05 | biz.heraldcorp.com | 삼성물산 패션부문, SSF샵 11주년 프로모션…반값 쿠폰 쏜다 | https://biz.heraldcorp.com/article/10885807?ref=naver | a1,a5
-2026-09-28 10:02 | fnnews.com | 삼성물산, PC 건식 접합 기술 인증..."국내 최고 내진성능" | https://www.fnnews.com/news/202609280943457756 | a1
-2026-09-28 10:02 | 1conomynews.co.kr | 삼성바이오로직스, BPI서 공정 혁신 기술 공개…CDO 역량 선봬 | https://www.1conomynews.co.kr/news/articleView.html?idxno=50582 | a7
-2026-09-28 09:56 | newsworks.co.kr | 삼성바이오로직스, 글로벌 콘퍼런스서 제조공정 혁신 전략 소개 | https://www.newsworks.co.kr/news/articleView.html?idxno=854882 | a7
-2026-09-28 09:54 | press9.kr | 삼성바이오로직스, 이중항체 개발사에 투자·CDO 병행…바이오텍 육성 ... | http://www.press9.kr/news/articleView.html?idxno=83317 | a7
-2026-09-28 09:50 | shinailbo.co.kr | 성수 대어 품은 삼성물산…목동 재건축 '정조준' | https://www.shinailbo.co.kr/news/articleView.html?idxno=5066152 | a1
-2026-09-28 09:50 | weekly.hankooki.com | 삼성바이오로직스, BPI서 바이오의약품 공정혁신 전략 발표 | https://weekly.hankooki.com/news/articleView.html?idxno=7186091 | a7
-2026-09-28 09:48 | financialpost.co.kr | "지진에도 끄떡없다"… 삼성물산, '무주 주택' 핵심 PC 특수모멘트 접합... | https://www.financialpost.co.kr/news/articleView.html?idxno=277498 | a1,a7
-2026-09-28 09:48 | onews.tv | 삼성물산, PC 건식 접합 기술 특수모멘트 인증…'넥스트 홈' 기술력 강화 | https://www.onews.tv/news/articleView.html?idxno=287944 | a1
-2026-09-28 09:46 | arunews.com | 삼성물산, 美 카이로스 파워와 손잡고 차세대 SMR 사업 나선다 | https://www.arunews.com/news/articleView.html?idxno=67512 | a1
-2026-09-28 09:46 | viva100.com | 삼성물산, ‘넥스트 홈’ PC 기술 고도화…내진성능 기술인증 획득 | https://www.viva100.com/article/20260928500254 | a1
-2026-09-28 09:46 | m-i.kr | 삼성물산 패션부문 SSF샵, 11주년 프로모션…최대 50% 할인·11% 페이백 | https://www.m-i.kr/news/articleView.html?idxno=1418289 | a1,a5,a7
-2026-09-28 09:44 | DetakIndonesia.co.id | Mediasi di Kantor Camat Rokan IV Koto, Warga Desak Bubarkan Koperasi Produsen Pakis Mandiri - DetakIndonesia.co.id | google:DetakIndonesia.co.id | aid9
-2026-09-28 09:42 | cnbizm.com | 삼성물산 SSF샵, 론칭 11주년 기념 '11번째 파티' 열어 | https://www.cnbizm.com/news/articleView.html?idxno=316285 | a1
-2026-09-28 09:42 | kukinews.com | 삼성바이오로직스, 바이오의약품 개발기간 3.5개월 단축 | https://www.kukinews.com/article/view/kuk202609280022 | a7
-2026-09-28 09:41 | etnews.com | 카카오뱅크, 삼성물산 SSF샵 손잡고 '한달적금' 출시 | https://www.etnews.com/20260928000089 | a1
-2026-09-28 09:40 | thetracker.co.kr | 삼성물산, 국내 첫 ‘PC 특수모멘트 건식 접합’ 인증…넥스트 홈 기술... | https://thetracker.co.kr/View.aspx?No=4242743 | a1
-2026-09-28 09:36 | livebiz.today | 삼성물산, 사전 제작 콘크리트(PC) 건식 접합 공법 개발...'국내 최고 내... | https://www.livebiz.today/news/articleView.html?idxno=205135 | a1
-2026-09-28 09:34 | bizwork.co.kr | 삼성물산, 초고층 적용 가능한 PC 건식 접합 기술 개발 | https://www.bizwork.co.kr/news/articleView.html?idxno=419449 | a1
-2026-09-28 09:34 | businesskorea.co.kr | 삼성바이오로직스, 보스턴 BPI서 초격차 제조 공정 혁신 기술 공개 | https://www.businesskorea.co.kr/news/articleView.html?idxno=277694 | a7,a8
-2026-09-28 09:33 | newsis.com | 삼성물산, PC 건식 접합 기술 내진성능 강화…국내 첫 특수모멘트 인증 | https://www.newsis.com/view/NISX20260928_0003804803 | a1
-2026-09-28 09:30 | businessplus.kr | 삼성물산, 국내 최고 수준 'PC 건식 접합' 신기술 개발…초고층 내진설... | https://www.businessplus.kr/news/articleView.html?idxno=117352 | a1,a5
-2026-09-28 09:29 | hankyung.com | 위탁연구부터 생산까지…삼성바이오로직스, 바이오의약품 제조 공정 혁... | https://www.hankyung.com/article/202609288543i | a7
-2026-09-28 09:26 | kpanews.co.kr | 삼성바이오로직스, BPI서 공정 혁신 공개…개발기간 13개월→9.5개월 | https://www.kpanews.co.kr/news/articleView.html?idxno=544881 | a7
-2026-09-28 09:15 | mk.co.kr | “초고층도 안전하게”…삼성물산, 최고 내진성능 갖춘 PC 건식 접합 공... | https://www.mk.co.kr/article/12162327 | a1
-2026-09-28 09:14 | seoultimes.news | 삼성물산, PC 건식 접합 내진성능 높였다…‘넥스트 홈’ 기술 강화 | https://www.seoultimes.news/news/article.html?no=2000100273 | a1
-2026-09-28 09:14 | paxetv.com | 삼성바이오로직스, '바이오프로세스 인터내셔널' 9년 연속 참가...전주기... | http://www.paxetv.com/news/articleView.html?idxno=282774 | a7
-2026-09-28 09:13 | 매일경제 | Samsung C&T is developing a PC (Precast Concrete) dry bonding method that secures the highest le.. - 매일경제 | google:매일경제 | aen1
-2026-09-28 09:13 | sedaily.com | 삼성바이오로직스, 美 BPI서 공정 혁신 성과 공개…신약 개발 기간 27% 단... | https://www.sedaily.com/article/20095386?ref=naver | a7
-2026-09-28 09:12 | Seoul Economic Daily | Samsung Biologics Cuts Drug Development Time 27% With New Process - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-09-28 09:01 | yna.co.kr | 삼성물산 패션부문, SSF샵 11주년 행사…50% 할인 쿠폰 지급 | https://www.yna.co.kr/view/AKR20260928026500030?input=1195m | a1,a5
-2026-09-28 09:00 | mediapen.com | [미르의 글로벌 레이더]삼성물산 vs 한전·두산, 사우디 5억달러 발전사... | https://www.mediapen.com/news/view/1126220 | a1
-2026-09-28 08:56 | megaeconomy.co.kr | 삼성물산, PC 건식 접합 내진기술 국내 첫 인증…초고층 적용 확대 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570567855690 | a1
-2026-09-28 08:53 | kizmom.com | 삼성바이오로직스 "바이오의약품 개발 기간 13개월→9.5개월"…어떻게 ... | https://www.kizmom.com/news/articleView.html?idxno=112964 | a7
-2026-09-28 08:50 | hitnews.co.kr | 삼성바이오로직스, 통합 CMC 공정 공개…개발기간 3.5개월 단축 | https://www.hitnews.co.kr/news/articleView.html?idxno=79424 | a7
-2026-09-28 08:46 | 아시아경제 | Samsung Biologics Unveils Biopharmaceutical Manufacturing Innovation Strategies at '2026 BPI' - 아시아경제 | google:아시아경제 | aen3
-2026-09-28 08:44 | ebn.co.kr | 삼성물산, 국내 첫 'PC 특수모멘트 접합' 인증…초고층 내진·품질 잡았... | https://www.ebn.co.kr/news/articleView.html?idxno=1725733 | a1,a7
-2026-09-28 08:38 | hbnpress.com | 삼성물산, PC 건식 접합 공법 내진성능 인증...초고층 적용 확대 | https://hbnpress.com/news/view/1065569779443446 | a1
-2026-09-28 08:38 | pharmnews.com | 삼성바이오로직스, 美 '2026 BPI' 참가... 바이오 공정 플랫폼 혁신 소개 | https://www.pharmnews.com/news/articleView.html?idxno=306524 | a7
-2026-09-28 08:30 | upi.com | South Korea's U.S. nuclear push advances, but contracts unclear - upi.com | google:upi.com | aen1
-2026-09-28 05:30 | dailymedi.com | 삼성바이오로직스 '성과급·격려금' 등 평행선 | https://www.dailymedi.com/news/news_view.php?wr_id=940847 | a7
+2026-09-29 02:04 | 삼성물산 뉴스룸 | Photos - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
