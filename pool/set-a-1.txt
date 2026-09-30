@@ -1,84 +1,66 @@
-# collected: 2026-09-30 08:02 KST
-# window: 2026-09-29 00:00 ~ 2026-09-30 08:02 KST
-# part 1 of 1, lines: 79
+# collected: 2026-10-01 08:02 KST
+# window: 2026-09-30 00:00 ~ 2026-10-01 08:02 KST
+# part 1 of 1, lines: 61
 # format: date | media | title | url | tags
 
+2026-10-01 08:02 | etnews.com | 랍스터·파히타까지 구내식당에…삼성웰스토리, 외식 브랜드 협업 확대 | https://www.etnews.com/20260930000438 | a12
+2026-10-01 08:01 | biz.heraldcorp.com | 바이킹스워프·베어스타코를 급식으로…삼성웰스토리 협업 강화 | https://biz.heraldcorp.com/article/10889364?ref=naver | a12
+2026-10-01 08:00 | view.asiae.co.kr | 랍스터가 급식에…삼성웰스토리, 식자재 고객사와 외식 메뉴 선보여 | https://view.asiae.co.kr/article/2026093016000980773 | a12
+2026-10-01 06:01 | magazine.hankyung.com | 김경아 삼성에피스홀딩스 대표, 이사회 중심 거버넌스 구축 '눈길'[2026 ... | https://magazine.hankyung.com/business/article/202609304557b | a9
+2026-10-01 05:56 | pharmnews.com | [사설] 삼성바이오로직스, 파업의 봄 지나 타결의 가을로 | https://www.pharmnews.com/news/articleView.html?idxno=306603 | a7
+2026-10-01 03:48 | kompas1net | Geger! 4 Pekerja Sawit Ibu Susi di Siambul Batang Gansal Inhu Diduga Diculik Rombongan 20 Orang, 2 Warga Asli Siambul – 1 Patah Tangan Dirawat di Belilas, Kades Rodang Akan Lapor ke Polres Inhu - kompas1net | google:kompas1net | aid8
+2026-10-01 03:19 | 조선일보 | Eight Private, Public Entities Honored in 'A Child is Happiness' Awards - 조선일보 | google:조선일보 | aen4
+2026-10-01 01:16 | Indovizka.com | Dua Pria Pengedar Sabu Dibekuk Satresnarkoba Polres Pelalawan, 27 Paket Disita dari Kebun Sawit Ukui - Indovizka.com | google:Indovizka.com | aid6
+2026-10-01 00:49 | catatanriau.com | Polres Pelalawan Bongkar Transaksi Sabu di Kebun Sawit Ukui, Dua Tersangka Diamankan - catatanriau.com | google:catatanriau.com | aid6
+2026-10-01 00:34 | Bermadah.co.id | Jejak Sabu 9,79 Gram di Ukui Terendus Polisi, Dua Tersangka Dibekuk dari Hasil Pengembangan - Bermadah.co.id | google:Bermadah.co.id | aid8
+2026-09-30 23:18 | Bermadah.co.id | Dari Limbah Sawit Jadi Bernilai Ekonomi, ITP2I Berdayakan Perempuan Padang Luas Lewat Jamur Merang - Bermadah.co.id | google:Bermadah.co.id | aid6
+2026-09-30 20:06 | mk.co.kr | [단독] 한화오션 153억 과징금, 결국 ‘7억’ 됐다…공정위 뻥튀기 제재... | https://www.mk.co.kr/article/12165289 | a12?
+2026-09-30 19:15 | International Business Times | Samsung Is Pouring Another Billion Into AI Infrastructure. Nvidia And KKR Are Also Backing The Venture. - International Business Times | google:International Business Times | aen1,aen2
+2026-09-30 19:00 | asiatoday.co.kr | 하루 3분의 1은 직장서…업무공간으로 '주거 서비스' 확장하는 삼성물산 | https://www.asiatoday.co.kr/kn/view.php?key=20260930010010695 | a1
+2026-09-30 18:35 | finance.biggo.com | South Korea's Seongsu Renewal Zone Finalizes Builders for All 4 Districts; 9,400 Riverside Units Move Forward - finance.biggo.com | google:finance.biggo.com | aen13
+2026-09-30 18:07 | Seoul Economic Daily | No Korean Stocks Qualify for MSCI Index Addition as Market Slumps - Seoul Economic Daily | google:Seoul Economic Daily | aen5
+2026-09-30 17:44 | mk.co.kr | [단독] 한화오션 153억 과징금, 결국 '7억' 됐다 | https://www.mk.co.kr/article/12165211 | a12?
+2026-09-30 17:34 | Seoul Economic Daily | Worker Killed as H-Beam Topples at Yongin Building Site - Seoul Economic Daily | google:Seoul Economic Daily | aen13
+2026-09-30 17:26 | Alice Blue | Reliance Industries shares move up after securing long-term green ammonia offtake agreement with Samsung C&T, details here - Alice Blue | google:Alice Blue | aen1
+2026-09-30 17:12 | PelalawanPos | Replanting PT Serikat Putra Disorot, Pemuda Muhammadiyah Pelalawan Desak Pemda Tuntaskan Konflik Lahan - PelalawanPos | google:PelalawanPos | aid9
+2026-09-30 17:08 | Kabar Melayu | Antara 21-27 September, Jikalahari Temukan Hotspot di Dalam Areal Korporasi - Kabar Melayu | google:Kabar Melayu | aid8
+2026-09-30 16:44 | insightkorea.co.kr | 삼성물산 패션부문, 통합몰 다음 단계는 '라이프스타일 플랫폼' 도약 | https://www.insightkorea.co.kr/news/articleView.html?idxno=255603 | a1,a5
+2026-09-30 16:08 | wsobi.com | [건설업계 8월 동향] 삼성물산 '홈닉' 신규서비스 4종 출시·AI 시니어 리... | http://www.wsobi.com/news/articleView.html?idxno=319004 | a1
+2026-09-30 15:52 | Chosunbiz | Samsung Biologics union, management resume talks as strike prep escalates in Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
+2026-09-30 15:30 | newspim.com | '또 너냐' 삼성물산 vs 포스코이앤씨…송파 오금현대 재건축서 맞붙나 | https://www.newspim.com/news/view/20260930001001 | a1
+2026-09-30 15:26 | daily.hankooki.com | '1.7조' 오금현대 재건축 수주전 윤곽...현설에 삼성물산 등 3곳 참여 | https://daily.hankooki.com/news/articleView.html?idxno=1410913 | a1
+2026-09-30 15:22 | wikileaks-kr.org | 포스코이앤씨, 오금현대서 삼성물산 설욕전 나설까 | http://www.wikileaks-kr.org/news/articleView.html?idxno=192635 | a1
+2026-09-30 15:22 | theguru.co.kr | 1.6조 규모 송파 오금현대 재건축, 삼성물산·포스코이앤씨 2파전 될 듯 | https://www.theguru.co.kr/news/article.html?no=107722 | a1
+2026-09-30 15:18 | 매일경제 | The creation of K-Bio LabHub, a Korean version of LabCentral model, has begun in earnest.Incheon Cit.. - 매일경제 | google:매일경제 | aen4
+2026-09-30 15:12 | 아시아경제 | Construction Begins on 'K-Bio Lab Hub' in Songdo, Incheon...Support for Bio Startup Growth - 아시아경제 | google:아시아경제 | aen4
+2026-09-30 14:20 | DerakPost.com | Pengesahan UU Reforma Agraria, Waka DPRD Riau Budiman Lubis: Harapan Baru, 20 Persen Plasma Kini di Dalam HGU - DerakPost.com | google:DerakPost.com | aid9
+2026-09-30 14:18 | news.mtn.co.kr | '1.7조' 오금현대 현설에 삼성물산 등 3개사 참석… DL ‘불참’ | https://news.mtn.co.kr/news-detail/2026093012313720267 | a1
+2026-09-30 14:18 | asiatime.co.kr | [AT 현장] 1.66조원 오금현대 현설, 삼성물산·포스코·제일건설 참석 | https://www.asiatime.co.kr/article/20260930500293 | a1
+2026-09-30 13:15 | tekno.kompas.com | Tabel dan Spesifikasi Samsung Galaxy A08 di Indonesia, Mulai Rp 3 Jutaan - tekno.kompas.com | google:tekno.kompas.com | aid12
+2026-09-30 13:02 | sidae.com | 전영순 삼성물산 그룹장 "AI DC, 전력 확보·공기 단축이 승부처" | https://www.sidae.com/article/2026093010021714702 | a1
+2026-09-30 12:37 | Technobezz | Samsung Affiliates Put USD 1 Billion Into KKR-Backed Helix - Technobezz | google:Technobezz | aen1
+2026-09-30 12:29 | Sawit Indonesia | Dinamika Harga CPO PKS Riau Pekan Ini: PTPN IV Regional 3 Tertinggi, PT Adei Anjlok Rp375/Kg - Sawit Indonesia | google:Sawit Indonesia | aid2
+2026-09-30 12:14 | Opung News | HMTN-MP Soroti Dugaan Tumpang Tindih Lahan Eukaliptus RAPP di Kampar, Minta Pemerintah Segera Verifikasi - Opung News | google:Opung News | aid9
+2026-09-30 12:00 | 아시아경제 | KOSPI Turns Lower... Falls into the 6,800 Range - 아시아경제 | google:아시아경제 | aen3
+2026-09-30 11:49 | Fierce Pharma | Integrated Development and Manufacturing for Complex Bioconjugation - Fierce Pharma | google:Fierce Pharma | aen3
+2026-09-30 11:18 | press9.kr | 삼성바이오로직스 노조, 요구안 낮췄다지만…'영업이익 15%·인사 참여'는... | http://www.press9.kr/news/articleView.html?idxno=83475 | a10,a7
+2026-09-30 10:42 | startuptoday.co.kr | [Weekly 패션] 신성통상 탑텐·무신사·이랜드·삼성물산 패션부문 | https://www.startuptoday.co.kr/news/articleView.html?idxno=814515 | a1,a5
+2026-09-30 10:35 | fnnews.com | 삼성바이오 노사, 사후조정회의 지지부진...'재파업 명분 쌓기' 지적도 | https://www.fnnews.com/news/202609291408449957 | a7?
+2026-09-30 10:32 | cnbizm.com | 삼성화재 건강DB 분석…"만성콩팥병, 조기 발견부터 투석 이후까지 관리... | https://www.cnbizm.com/news/articleView.html?idxno=316583 | a1?
+2026-09-30 10:05 | SigapNews | Pembangunan Jembatan Gantung Talang Pring Jaya Terus Dikebut - SigapNews | google:SigapNews | aid8
+2026-09-30 09:54 | koreajoongangdaily.com | Kazakh worker killed after concrete ceiling collapses at construction site in Seoul - koreajoongangdaily.com | google:koreajoongangdaily.com | aen13
+2026-09-30 08:28 | 동아일보 | Samsung affiliates invest $1 billion in Helix - 동아일보 | google:동아일보 | aen1
+2026-09-30 08:08 | thebell.co.kr | [더벨][Board Match up / 삼성생명 vs 삼성화재] 삼성생명 의결안건 절반... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609191622532640105217 | a12?,a1?
+2026-09-30 08:02 | ekn.kr | 삼성바이오로직스, 공정 혁신 고도화…글로벌 경쟁력 키운다 | https://www.ekn.kr/web/view.php?key=20260930025039447 | a7
 2026-09-30 07:00 | 매일경제 | 1. Six Samsung affiliates, including Samsung Electronics, will invest a total of $1 billion in Helix.. - 매일경제 | google:매일경제 | aen2
 2026-09-30 06:00 | greened.kr | [현장+] 삼성바이오로직스, 美 생물보안법 규제 CDMO 수혜주 노린다 | https://www.greened.kr/news/articleView.html?idxno=351021 | a7,a9
 2026-09-30 05:40 | JDSupra | PM(NOC) Regulations: ninth-year anniversary of major amendments - JDSupra | google:JDSupra | aen4
 2026-09-30 04:01 | Agricom.id | UU Reforma Agraria dan Masa Depan Investasi Sawit - Agricom.id | google:Agricom.id | aid9
 2026-09-30 01:57 | Bermadah.co.id | Panen Liar di Blok 28 PT SLS Terbongkar! 23 Tandan Sawit Diamankan - Bermadah.co.id | google:Bermadah.co.id | aid6
+2026-09-30 01:42 | InSulteng | PT SJA 1 Diduga Abaikan Rekomendasi Satgas PKA, Konflik Lahan Tontowea Kembali Memanas - InSulteng - InSulteng | google:InSulteng | aid9
 2026-09-30 01:09 | 조선일보 | Samsung Affiliates Invest $1B in Helix, Expanding AI Data Centers - 조선일보 | google:조선일보 | aen1
-2026-09-30 01:04 | GoRiau.com | Harga CPO Lesu, Nilai Jual TBS Sawit Swadaya Riau Turun Jadi Rp3.866 per Kg - GoRiau.com | google:GoRiau.com | aid2
-2026-09-30 00:41 | GoRiau.com | Walhi Riau Soroti Pembentukan BPGMN: Jangan Sekadar Gimik Birokrasi Atasi Karhutla - GoRiau.com | google:GoRiau.com | aid9
-2026-09-30 00:37 | The Korea Times | Kazakh worker killed as concrete ceiling collapses at Seoul construction site - The Korea Times | google:The Korea Times | aen13
+2026-09-30 01:04 | goriau.com | Harga CPO Lesu, Nilai Jual TBS Sawit Swadaya Riau Turun Jadi Rp3.866 per Kg - goriau.com | google:goriau.com | aid2
+2026-09-30 00:41 | goriau.com | Walhi Riau Soroti Pembentukan BPGMN: Jangan Sekadar Gimik Birokrasi Atasi Karhutla - goriau.com | google:goriau.com | aid9
+2026-09-30 00:33 | 조선일보 | Samsung's Free AI/SW Education Trains 10,000+ - 조선일보 | google:조선일보 | aen3
 2026-09-30 00:30 | BUALBUAL.com | Panen Liar 23 Tandan Sawit di Pelalawan, Pria 31 Tahun Diamankan Security - BUALBUAL.com | google:BUALBUAL.com | aid6
 2026-09-30 00:00 | 매일경제 | Samsung C&T's construction division recently re-established Raemian's brand identity system (BIS.. - 매일경제 | google:매일경제 | aen1,aen2
-2026-09-29 23:48 | venturesquare.net | Pharos I-Bio Makes Australia an AI Drug Development R&D Hub… Expanding Joint Research and Business Development - venturesquare.net | google:venturesquare.net | aen4
-2026-09-29 23:39 | Riau Pos | Warga Desa Petala Bumi Minta Pemkab Inhu Batalkan MoU Tentang Jalan dengan PT Inecda - Riau Pos | google:Riau Pos | aid2
-2026-09-29 23:32 | thedailypost.kr | 삼성물산, 국내 첫 PC 건식접합 '특수모멘트' 인증 | https://www.thedailypost.kr/news/articleView.html?idxno=115921 | a1
-2026-09-29 22:21 | infosumsel.id | Warga PALI Serahkan Diri ke Polisi Setelah Tembak Korban di Dada, Diserahkan Keluarga, Gara gara Kelapa Sawit - Info Sumsel - infosumsel.id | google:infosumsel.id | aid12
-2026-09-29 22:18 | Chosunbiz | Ceiling collapse at Seoul site kills Kazakh worker; Korea probes Hyundai E&C - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen13
-2026-09-29 22:06 | Riauin.com | Harga TBS Sawit Mitra Swadaya Riau Turun Tipis 0,47 Persen - Riauin.com | google:Riauin.com | aid2
-2026-09-29 21:58 | 매일경제 | Six Samsung Affiliates Join Forces to Invest $1 Billion in U.S. Helix, Advancing into AI Infrastructure - 매일경제 | google:매일경제 | aen2
-2026-09-29 21:54 | technode.global | Samsung affiliates commit $1B to Helix AI infrastructure - technode.global | google:technode.global | aen1
-2026-09-29 21:47 | Seoul Economic Daily | Worker Dies as Concrete Ceiling Collapses at Seocho Construction Site - Seoul Economic Daily | google:Seoul Economic Daily | aen13
-2026-09-29 21:35 | qz.com | Samsung is investing $1 billion in KKR and Nvidia-backed AI infrastructure firm Helix - qz.com | google:qz.com | aen1,aen2
-2026-09-29 20:13 | NewsGhana | Samsung group bets US$1bn on AI data centre firm Helix - NewsGhana | google:NewsGhana | aen1
-2026-09-29 20:10 | HALLORIAU.COM | PT Inti Indosawit Subur Terima Penghargaan atas Kontribusi Penanganan Karhutla di Pelalawan - HALLORIAU.COM | google:HALLORIAU.COM | aid6
-2026-09-29 20:04 | biztribune.co.kr | 삼성전자 하이테크 공정 본격화… SK증권 "삼성물산 건설 실적 개선세 ... | http://www.biztribune.co.kr/news/articleView.html?idxno=359766 | a1
-2026-09-29 19:16 | kompas1.net | Panen Liar di Blok 28! Security PT SLS Bekuk Pencuri 23 Tandan Sawit, Rugi Rp720 Ribu - kompas1.net | google:kompas1.net | aid6
-2026-09-29 19:15 | Media Center Riau | Turun Rp18 per Kg, Harga TBS Sawit Swadaya Riau Jadi Rp3.866 - Media Center Riau | google:Media Center Riau | aid2
-2026-09-29 19:07 | Tribunpekanbaru.com | Ikut Kolaborasi Tangani Bencana Karhutla, PT Musim Mas Sabet Penghargaan dari Polres Pelalawan - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid6
-2026-09-29 19:03 | thelec.net | Samsung Invests $1 Billion in US AI Infrastructure Firm Helix - thelec.net | google:thelec.net | aen1
-2026-09-29 18:38 | analyticsindiamag.com | Samsung to Invest $1 Bn in NVIDIA-Backed AI Infrastructure Firm Helix - analyticsindiamag.com | google:analyticsindiamag.com | aen1
-2026-09-29 18:11 | Nadariau.com | Dukung Upaya Pencegahan Karhutla, PT Musim Mas Raih Apresiasi Polres Pelalawan - Nadariau.com | google:Nadariau.com | aid6
-2026-09-29 18:07 | RiauAktual.com | Harga CPO Sejumlah Perusahaan di Riau Turun, PT Adei Anjlok Rp375 per Kg - RiauAktual.com | google:RiauAktual.com | aid2
-2026-09-29 17:40 | 매일경제 | Leading power and cooling beyond semiconductors... Samsung's 'AI Ecosystem' Build-Up - 매일경제 | google:매일경제 | aen1,aen2
-2026-09-29 17:35 | The Tech Buzz | Samsung Invests $1B in AI Infrastructure Giant Helix - The Tech Buzz | google:The Tech Buzz | aen1
-2026-09-29 17:10 | sateconomy.co.kr | [패션업계소식] LF·무신사·삼성물산, 가을 패션 수요 공략 | https://sateconomy.co.kr/news/view/1065597864012130 | a1
-2026-09-29 16:53 | 삼성물산 뉴스룸 | The Shoring Trilogy / What Is Nearshoring: Reshaping Supply Chains Through Proximity - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
-2026-09-29 16:35 | RiauOnline | DPRD Riau Harap UU Pengaturan Reforma Agraria Jadi Solusi Konflik Lahan - RiauOnline | google:RiauOnline | aid9
-2026-09-29 16:35 | tekno.kompas.com | Update Harga HP Samsung di Indonesia 29 September 2026, mulai Rp 2 Jutaan - tekno.kompas.com | google:tekno.kompas.com | aid12
-2026-09-29 16:34 | ngetnews.com | [단독] 삼성바이오에피스 '아필리부' 주사기 제형 늘린다…유리 PFS 임상 | https://www.ngetnews.com/news/articleView.html?idxno=553816 | a10
-2026-09-29 16:00 | Yahoo Finance Singapore | ARTHEx Biotech Announces Appointment of Glenn P. Sblendorio as Chairman of the Board - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen4
-2026-09-29 15:47 | news1.kr | Samsung Biologics Redefines Biopharmaceuticals: 3.5-Month Development Tim... | https://www.news1.kr/bio/pharmaceutical-bio/6304829 | a8
-2026-09-29 15:28 | CAKAPLAH.com | DPRD Riau: UU Reforma Agraria Diharapkan Beri Kepastian Hukum bagi Masyarakat - CAKAPLAH.com | google:CAKAPLAH.com | aid9
-2026-09-29 15:12 | GoRiau.com | UU Reforma Agraria Terbaru, Budiman Lubis: Plasma 20 Persen Kini Jelas di Dalam HGU - GoRiau.com | google:GoRiau.com | aid9
-2026-09-29 15:01 | 조선일보 | Samsung Affiliates Invest $1 Billion in Helix - 조선일보 | google:조선일보 | aen1
-2026-09-29 15:00 | theguru.co.kr | 삼성물산, 호주 국가 전력망 접속 관문 '통과'…사우스 코리 BESS 필수 기... | https://www.theguru.co.kr/news/article.html?no=107665 | a1
-2026-09-29 14:48 | newsworks.co.kr | 삼성바이오로직스 우리사주조합장에 박재성 노조위원장 당선 | https://www.newsworks.co.kr/news/articleView.html?idxno=855058 | a7
-2026-09-29 14:44 | mk.co.kr | Samsung Biologics cuts antibody drug development time to 9.5 months | https://www.mk.co.kr/article/12163637 | a8,aen3
-2026-09-29 14:11 | sawitsetara.co | Riau dan Sawit: Dari Perkebunan Rakyat hingga Menjadi Episentrum Industri Sawit Nasional - sawitsetara.co | google:sawitsetara.co | aid8
-2026-09-29 13:52 | sisajournal-e.com | 김병주 '불기소 검토' 보도에 반발···홈플 사태 1년 반 무슨 일이 | https://www.sisajournal-e.com/news/articleView.html?idxno=423999 | a1?
-2026-09-29 13:40 | businesspost.co.kr | '삼성물산 협력사' GE버노바히타치 테네시주 SMR 건설 승인 임박, "미국... | https://www.businesspost.co.kr/BP?command=article_view&num=448158 | a1,a4
-2026-09-29 13:28 | The Korea Herald | Samsung commits $1b to KKR-led AI infrastructure push - The Korea Herald | google:The Korea Herald | aen1
-2026-09-29 13:28 | peoplewatch.co.kr | 전자·물산·생명·화재 동시에…삼성 6社 연합투자, KKR이 주목받는 이... | https://www.peoplewatch.co.kr/article/view/ppw202609290010 | a1?,a3?
-2026-09-29 12:26 | joongangenews.com | 삼성바이오로직스 주가, 9월 29일 장중 1,365,000원 2.50% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=551242 | a7
-2026-09-29 11:36 | The Tech Buzz | Samsung Invests $1B in KKR's AI Infrastructure Play - The Tech Buzz | google:The Tech Buzz | aen1
-2026-09-29 11:20 | Tribunpekanbaru.com | UU Reforma Agraria Terbaru Disahkan, DPRD Riau Nilai Jadi Solusi Konflik Lahan di Riau - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid9
-2026-09-29 11:16 | sports.donga.com | “론칭 11주년 기념” 삼성물산 패션 SSF샵, ‘11번째 파티’ | https://sports.donga.com/economy/article/all/20260929/134746348/1 | a1
-2026-09-29 11:03 | The Korea Times | Samsung group invests $1 bil. in KKR-founded AI infrastructure firm - The Korea Times | google:The Korea Times | aen1,aen13
-2026-09-29 11:00 | lcnews.co.kr | 삼성물산, 국내 최초 PC 특수모멘트 건식 접합 공법 개발 | https://www.lcnews.co.kr/news/articleView.html?idxno=208933 | a1
-2026-09-29 10:50 | 매일경제 | Samsung affiliates to invest $1bn in AI infrastructure firm Helix - 매일경제 | google:매일경제 | aen1
-2026-09-29 10:38 | newspim.com | 청년 산업재해 신청 '우아한 청년들' 4년 연속 1위…쿠팡 계열사 2~4위 | https://www.newspim.com/news/view/20260929000395 | a1?
-2026-09-29 10:31 | Fort Worth Star-Telegram | Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout - Fort Worth Star-Telegram | google:Fort Worth Star-Telegram | aen1
-2026-09-29 10:26 | Sammy Fans | Samsung pouring $1 billion into ex-AWS CEO’s AI infra company Helix - Sammy Fans | google:Sammy Fans | aen1
-2026-09-29 10:20 | RRI.co.id | Mengapa Riau Begitu Identik dengan Kelapa Sawit? - RRI.co.id | google:RRI.co.id | aid8
-2026-09-29 09:50 | Aju Press | Samsung joins AI data center gold rush with $1 billion Helix bet - Aju Press | google:Aju Press | aen1
-2026-09-29 09:43 | Chosunbiz | Samsung affiliates invest $1B in Helix to build AI data centers and power - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
-2026-09-29 09:30 | The Straits Times | Samsung to invest US$1 billion in KKR’s AI infrastructure company - The Straits Times | google:The Straits Times | aen1
-2026-09-29 09:25 | finance.biggo.com | Samsung Invests $1 Billion in Helix, AI Infrastructure Firm Founded by KKR - finance.biggo.com | google:finance.biggo.com | aen1
-2026-09-29 09:22 | kdfnews.com | 삼성바이오로직스, BPI서 제조공정 혁신 공개…개발기간 13→9.5개월 | http://www.kdfnews.com/news/articleView.html?idxno=188566 | a7
-2026-09-29 09:19 | Chosunbiz | Fda panel backs Grail cancer test as Samsung drives Korea-Asia expansion - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
-2026-09-29 09:16 | financialreview.co.kr | 대기업 과징금 8개월 만에 1.8조, 현대제철·쿠팡은 반복 제재 | http://www.financialreview.co.kr/news/articleView.html?idxno=45127 | a12?
-2026-09-29 09:15 | The Korea Times | Samsung Group to invest $1 bil. in AI infrastructure company Helix - The Korea Times | google:The Korea Times | aen1
-2026-09-29 09:01 | Yonhap News Agency | Samsung Group to invest US$1 billion in AI infrastructure company Helix - Yonhap News Agency | google:Yonhap News Agency | aen1
-2026-09-29 09:00 | Seoul Economic Daily | Six Samsung Affiliates Invest $1 Billion in U.S. AI Infrastructure Firm Helix - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-09-29 09:00 | CNBC | Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm - CNBC | google:CNBC | aen1
-2026-09-29 08:30 | 아시아경제 | "A Chilling Horror Universe for Your Senses"... Everland Expands Unique Experiences at 'Blood City Zero' - 아시아경제 | google:아시아경제 | aen2
-2026-09-29 08:23 | 매일경제 | Samsung to Invest $1 Billion in U.S. AI Infrastructure Firm Helix, Expanding Beyond Semiconductors into Data Centers - 매일경제 | google:매일경제 | aen1,aen2
-2026-09-29 08:00 | Samsung Global Newsroom | Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix - Samsung Global Newsroom | google:Samsung Global Newsroom | aen1
-2026-09-29 07:58 | bizwnews.com | 삼성바이오로직스, 美 BPI서 바이오의약품 공정 혁신 기술 소개 | http://www.bizwnews.com/news/articleView.html?idxno=147472 | a7
-2026-09-29 06:32 | news2day.co.kr | 쪼그라드는 유럽 제약산업 경쟁력...아시아, 바이오 거점 부상하나 | https://www.news2day.co.kr/article/20260928500266 | a10?
-2026-09-29 02:04 | 삼성물산 뉴스룸 | Photos - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
