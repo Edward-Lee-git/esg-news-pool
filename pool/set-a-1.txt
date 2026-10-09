@@ -1,156 +1,89 @@
-# collected: 2026-10-08 08:02 KST
-# window: 2026-10-07 00:00 ~ 2026-10-08 08:02 KST
-# part 1 of 1, lines: 151
+# collected: 2026-10-09 11:38 KST
+# window: 2026-10-08 00:00 ~ 2026-10-09 11:38 KST
+# part 1 of 1, lines: 84
 # format: date | media | title | url | tags
 
+2026-10-09 11:28 | megaeconomy.co.kr | IPARK현대산업개발, 삼성물산과 맞손…숙대입구역세권 재개발 조경 특화 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579795180298 | a1,a12
+2026-10-09 10:49 | ppss.kr | IPARK현대산업개발, 삼성물산 리조트와 '자연+도심' 조경 전략…용산 랜... | https://www.ppss.kr/news/articleView.html?idxno=314723 | a1
+2026-10-09 10:48 | news.bbsi.co.kr | IPARK현대산업개발, 삼성물산과 용산 재개발 조경 협약 | https://news.bbsi.co.kr/news/articleView.html?idxno=4111229 | a1
+2026-10-09 10:38 | getnews.co.kr | IPARK현대산업개발, 삼성물산 리조트 부문과 용산 숙대입구역세권 재개... | https://www.getnews.co.kr/news/articleView.html?idxno=883097 | a1,a6
+2026-10-09 10:38 | pinpointnews.co.kr | 교보증권 "삼성바이오로직스, 환율 하락에도 3분기 성장세…수주 재개 ... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=493987 | a7
+2026-10-09 10:35 | seoul.co.kr | IPARK현산, 삼성물산과 손잡고 용산 숙대입구역세권 재개발 ‘조경 특화... | https://www.seoul.co.kr/news/economy/estate/2026/10/09/20261009500048?wlog_tag3=naver | a1
+2026-10-09 10:10 | mt.co.kr | IPARK현산-삼성물산 리조트 부문, 숙대입구역세권 조경 MOU | https://www.mt.co.kr/estate/2026/10/09/2026100910011550896 | a1,a6
+2026-10-09 07:07 | 매일경제 | With the third-quarter earnings announcement season in full swing, the stock prices of large-cap sto.. - 매일경제 | google:매일경제 | aen1,aen3
+2026-10-09 07:05 | news1.kr | 삼성물산·현대건설 선점한 여의도…DL이앤씨도 첫 입성 도전 | https://www.news1.kr/realestate/general/6314678 | a1
+2026-10-09 07:01 | news1.kr | 구미시, 15일 삼성물산과 '지역건설업체 상생협력 매칭데이' 개최 | https://www.news1.kr/local/daegu-gyeongbuk/6313346 | a1
+2026-10-09 04:50 | https://news.brgbuildingsolutions.com/ | Samsung Plans Nationwide Rollout of Integrated Heat Pump in Korea - https://news.brgbuildingsolutions.com/ | google:https://news.brgbuildingsolutions.com/ | aen1
+2026-10-09 02:46 | BeritaOne.id | LBH Soroti Kewajiban Eks PT SAL atas 469 Hektare Kawasan Hutan - BeritaOne.id | google:BeritaOne.id | aid8
+2026-10-09 01:17 | riaupos.co | Persidangan Korupsi Kuansing Ungkap Mantan Kabag Umum Punya Rekening Rp2,9 Miliar - riaupos.co | google:riaupos.co | aid8
+2026-10-09 00:57 | 조선일보 | Samsung Bioepis, Service Ace Honored for Childcare Support - 조선일보 | google:조선일보 | aen4
+2026-10-09 00:54 | chosun.com | 서비스에이스, 아빠 직원 62% 육아휴직… 삼성바이오에피스, 400억 들여... | https://www.chosun.com/national/welfare-medical/2026/10/09/I52I2ESCUFA6VOLFOKGUIDTF2Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a10
+2026-10-09 00:13 | Kabar Reskrim | Polsek Bandar Sei Kijang Amankan 3 Pelaku Curat 21 Karung Berondolan Sawit di Areal PT. PMBN - Kabar Reskrim | google:Kabar Reskrim | aid6
+2026-10-08 23:40 | Oketimes.com | Tujuh Kali Berkas Dikembalikan, Kasus PT Musim Mas Masih Tertahan di Meja Jaksa - Oketimes.com | google:Oketimes.com | aid6
+2026-10-08 23:11 | kompas1net | Lebih dari 150 Hektare Kebun Sawit Warga di Sungai Raya Dirusak Ando, Polisi Diminta Segera Tangkap Pelaku - kompas1net | google:kompas1net | aid8
+2026-10-08 22:01 | Seoul Economic Daily | Worker in 70s Falls to Death at Incheon Snack Factory - Seoul Economic Daily | google:Seoul Economic Daily | aen13
+2026-10-08 21:42 | METRORIAU.COM | Pemkab Inhu Rumuskan Arah Pembangunan Kelapa Sawit Melalui RAD-KSB - METRORIAU.COM | google:METRORIAU.COM | aid8
+2026-10-08 20:54 | Free Press Journal | Maharashtras $3 Billion Green Ammonia Project Faces Cancellation As IPO-Bound INOX Air Products Cites - Free Press Journal | google:Free Press Journal | aen1
+2026-10-08 19:45 | 아시아경제 | Gyeonggi Province Connects Local Firms with 30 Major General Contractors to Expand Contract Opportunities - 아시아경제 | google:아시아경제 | aen1
+2026-10-08 19:37 | Riauin.com | Pemprov Riau dan BPN Targetkan Percepatan Sertifikasi Tanah Masyarakat - Riauin.com | google:Riauin.com | aid9
+2026-10-08 18:26 | BigGo Finance | Samsung and SK Hynix Performance Bonuses Hit ₩62 Trillion—80 Times NPS Quarterly Dividends; Shareholder Approval Looms as Biggest Hurdle - BigGo Finance | google:BigGo Finance | aen1
+2026-10-08 18:19 | fnnews.com | 삼성웰스토리, 구내식당에 지중해식 메뉴 선보여 | https://www.fnnews.com/news/202610081817342867 | a12
+2026-10-08 18:16 | joongangenews.com | 삼성바이오로직스 주가, 10월 8일 애프터마켓 1,223,000원 4.23% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=553711 | a12,a7,a9
+2026-10-08 17:58 | pointdaily.co.kr | 삼성웰스토리, 업계 최초 '이야이야앤프렌즈'와 협업…지중해 식문화 담... | https://www.pointdaily.co.kr/news/articleView.html?idxno=321779 | a12
+2026-10-08 17:50 | consumernews.co.kr | 삼성물산 패션, 에잇세컨즈·빈폴·구호플러스 경량 패딩 라인업 확대.... | http://www.consumernews.co.kr/news/articleView.html?idxno=765571 | a1,a1?,a3?
+2026-10-08 17:47 | KED Global | Alteogen chairman says Dutch Keytruda SC ruling to affect only 3% of global market - KED Global | google:KED Global | aen4
+2026-10-08 17:43 | 삼성물산 뉴스룸 | Lightweight, Layered: Samsung C&T’s FW26 Puffer Approach - 삼성물산 뉴스룸 | google:삼성물산 뉴스룸 | aen1
+2026-10-08 17:20 | biztribune.co.kr | 삼성바이오로직스, "고객 만족 위한 엔드 투 엔드 서비스로 APAC 시장 공... | http://www.biztribune.co.kr/news/articleView.html?idxno=360308 | a7
+2026-10-08 16:55 | BigGo Finance | KOSPI Plunges 2.62% as Foreign and Institutional Investors Dump ₩4 Trillion in Shares; 6,600 Level Breaks - BigGo Finance | google:BigGo Finance | aen1
+2026-10-08 16:40 | topstarnews.net | 삼성물산 주가, 10월 8일 애프터마켓 319,500원 4.91% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16241901 | a1
+2026-10-08 16:34 | lkp.news | 삼성바이오 노조, 삼성전자에 교섭 요구하더니 금감원에 유증 제동 요청... | http://www.lkp.news/news/articleView.html?idxno=84792 | a1?,a7?
+2026-10-08 16:15 | 아시아경제 | KOSPI Plunges Late, Sinks Into 6,600 Range - 아시아경제 | google:아시아경제 | aen1
+2026-10-08 15:50 | 매일경제 | The KOSPI, which started higher, increased its decline during the day on the 8th and closed at the 6.. - 매일경제 | google:매일경제 | aen1
+2026-10-08 15:42 | thefirstmedia.net | 삼성웰스토리, 구내식당에 지중해식 한 상…그리스 브랜드와 협업 | http://www.thefirstmedia.net/news/articleView.html?idxno=210424 | a12
+2026-10-08 15:28 | dailian.co.kr | 삼성물산, 목동13단지에 ‘래미안 모브 13’ 제안…수주 굳히기 | https://www.dailian.co.kr/news/view/1699506/?sc=Naver | a1
+2026-10-08 15:28 | weekly.hankooki.com | 삼성웰스토리, 구내식당서 이야이야앤프렌과 협업 메뉴 선봬 | https://weekly.hankooki.com/news/articleView.html?idxno=7188053 | a12
+2026-10-08 15:25 | BigGo Finance | South Korean Biopharmaceutical Exports Hit Record $6.6 Billion in Q3 as Center of Gravity Shifts to Europe - BigGo Finance | google:BigGo Finance | aen3
+2026-10-08 15:24 | news.mtn.co.kr | [단독]삼성물산, 목동13 재건축 단지명 ‘래미안 모브13’ 제안 | https://news.mtn.co.kr/news-detail/2026100815164898125 | a1
+2026-10-08 15:15 | Seoul Economic Daily | Worker Dies at KCC Engineering & Construction Subcontractor Site; Labor Ministry Opens Probe - Seoul Economic Daily | google:Seoul Economic Daily | aen13
+2026-10-08 14:58 | smarttoday.co.kr | [정비사업 디코드] 삼성·대우·롯데, 홍제동 문화타운 재개발 눈독 | https://www.smarttoday.co.kr/ko-kr/articles/112438 | a1?,a3?
+2026-10-08 14:40 | mydaily.co.kr | 파업 앞둔 삼성바이오 노조, 인사제도까지 요구…사측 ‘경영권 침해’... | https://www.mydaily.co.kr/page/view/2026100814393760999 | a7?
+2026-10-08 14:34 | job-post.co.kr | 삼성바이오로직스 122만1000원…CDMO 확장 투자 부담 점검 | https://www.job-post.co.kr/news/articleView.html?idxno=231357 | a7
+2026-10-08 14:26 | 아시아경제 | KOSPI Falls More Than 1%, Slumps into 6,700 Range - 아시아경제 | google:아시아경제 | aen1
+2026-10-08 14:00 | Chosunbiz | Korea shifts K-bio exports to Europe as record $6.6B fuels momentum - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3,aen4
+2026-10-08 13:40 | sateconomy.co.kr | [패션업계동향] LF·삼성물산 경량패딩 확대…무신사 오프라인 방문 2.8... | https://sateconomy.co.kr/news/view/1065587071918188 | a1
+2026-10-08 12:26 | RiauNews.com | Kades Lubuk Besar Tolak Lahan Warga Diambil Alih Agrinas, Konflik Sempat Memanas - RiauNews.com | google:RiauNews.com | aid9
+2026-10-08 12:00 | Sumbarkita.id | Deforestasi oleh Sawit di Sumbar Tembus 354 Ribu Hektare, Tak Sebanding dengan Perolehan Pajak - Sumbarkita.id | google:Sumbarkita.id | aid10
+2026-10-08 11:52 | mk.co.kr | 삼성웰스토리, 구내식당서 ‘지중해식 건강식’ 선보인다 | https://www.mk.co.kr/article/12171359 | a12
+2026-10-08 11:31 | RiauAktual.com | Kades Lubuk Besar Tolak Lahan Warga Disita, Tantang Agrinas Tunjukkan SK Kawasan Hutan yang Diklaim - RiauAktual.com | google:RiauAktual.com | aid8,aid9
+2026-10-08 11:10 | wsobi.com | 삼성물산·현대건설, 글로벌 원자력 에너지 시장 공략 박차 | http://www.wsobi.com/news/articleView.html?idxno=319396 | a1
+2026-10-08 10:28 | businesspost.co.kr | 삼성물산 대표 오세철 불가리아 에너지부 장관 만나, 에너지 협력 가능... | https://www.businesspost.co.kr/BP?command=article_view&num=448890 | a1
+2026-10-08 10:14 | foodnews.co.kr | 구내식당에서 만나는 그리스…삼성웰스토리, '이야이야앤프렌즈'와 협업 | http://www.foodnews.co.kr/news/articleView.html?idxno=120453 | a12
+2026-10-08 10:00 | meconomynews.com | 유상증자에 딴지 건 삼성바이오 노조위원장... 전문가 "법적 근거 없다... | https://www.meconomynews.com/news/articleView.html?idxno=202332 | a7?
+2026-10-08 09:58 | fnnews.com | 삼성웰스토리, 급식업계 최초 지중해 식문화 도입 | https://www.fnnews.com/news/202610080955185913 | a12
+2026-10-08 09:57 | munhwa.com | “삼전 나오라”는 삼바 노조… 내부선 “적당히 하자”[소소한 복도통... | https://www.munhwa.com/article/11622136?ref=naver | a7?
+2026-10-08 09:53 | 아시아경제 | Early-Session Volatility Amid Foreign and Institutional Net Selling - 아시아경제 | google:아시아경제 | aen1
+2026-10-08 09:32 | thepublic.kr | 삼성바이오로직스, 바이오 재팬서 통합 CDMO·ADC 기술 소개 | https://www.thepublic.kr/news/articleView.html?idxno=321428 | a7
+2026-10-08 09:30 | ekn.kr | [똑똑한한끼] CJ제일제당, 오뚜기, 서울장수, 삼성웰스토리, 동원F&B, 남... | https://www.ekn.kr/web/view.php?key=20261008022373645 | a12
+2026-10-08 09:22 | mk.co.kr | Samsung Biologics draws crowds at BioJapan | https://www.mk.co.kr/article/12171140 | a8,aen3
+2026-10-08 09:18 | 아시아경제 | "Protina Revalued as an AI Antibody Validation Infrastructure Provider" - 아시아경제 | google:아시아경제 | aen4
+2026-10-08 09:16 | news.einfomax.co.kr | 삼성바이오 노사 줄다리기…협상력 향방 가를 '가처분' | https://news.einfomax.co.kr/news/articleView.html?idxno=4438264 | a7?
+2026-10-08 09:13 | newsis.com | 삼성웰스토리, '이야이야앤프렌즈' 손잡고 지중해 건강식 선봬 | https://www.newsis.com/view/NISX20261008_0003818494 | a12
+2026-10-08 08:50 | theguru.co.kr | 오세철 삼성물산 사장, 불가리아 에너지부 장관 만나 에너지 인프라 협... | https://www.theguru.co.kr/news/article.html?no=108006 | a1,a7
+2026-10-08 08:28 | news1.kr | 삼성웰스토리, '이야이야앤프렌즈'와 맞손…구내식당서 지중해 건강식 ... | https://www.news1.kr/industry/distribution/6313750 | a12
 2026-10-08 08:01 | etnews.com | 피타 샌드위치부터 올리브주스까지…삼성웰스토리, 지중해식 메뉴 출시 | https://www.etnews.com/20261007000422 | a12
-2026-10-08 07:01 | sedaily.com | 3조 유상증자 보류 요청까지…경영 발목잡는 삼성바이오 노조 | https://www.sedaily.com/article/20099138?ref=naver | a7?
 2026-10-08 07:01 | sedaily.com | [기자의눈] 삼성바이오로직스, 노사갈등에 멍드는 기업가치 | https://www.sedaily.com/article/20099128?ref=naver | a7
 2026-10-08 07:00 | Seoul Economic Daily | Samsung Biologics' Labor Dispute Erodes Shareholder Value - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-10-08 07:00 | Seoul Economic Daily | Samsung Biologics Union Asks Regulators to Halt $2.1 Billion Share Sale - Seoul Economic Daily | google:Seoul Economic Daily | aen3
+2026-10-08 07:00 | Seoul Economic Daily | Samsung Biologics Union Pushes Regulators to Review Merger Plan - Seoul Economic Daily | google:Seoul Economic Daily | aen3
 2026-10-08 06:31 | hankyung.com | 중국 혁신신약의 부상, 한국은 준비돼 있나 [더 머니이스트-조평규의 중... | https://www.hankyung.com/article/202609244604Q | a7?
 2026-10-08 06:30 | Seoul Economic Daily | Lee Seo-hyun, Suh Kyung-bae Named Among World's Top 200 Art Collectors - Seoul Economic Daily | google:Seoul Economic Daily | aen1
 2026-10-08 06:20 | TechRadar | Who else can match Samsung's end-to-end $1bn AI infrastructure bet? - TechRadar | google:TechRadar | aen1
-2026-10-08 06:10 | consumernews.co.kr | 현대건설, 안전보건 투자 3000억 '톱'...잇따른 사망 사고로 '안전 경영... | http://www.consumernews.co.kr/news/articleView.html?idxno=765225 | a1?,a3?
 2026-10-08 06:08 | news.mtn.co.kr | 대치쌍용1차·개포우성4차, 삼성물산과 도급계약…인허가 ‘속도’ | https://news.mtn.co.kr/news-detail/2026100716341111961 | a1
+2026-10-08 06:02 | American Nuclear Society -- ANS | NRC to review Radiant R-50 Part 70 license application - American Nuclear Society -- ANS | google:American Nuclear Society -- ANS | aen1
 2026-10-08 06:00 | etoday.co.kr | [노트북 너머] 삼성바이오로직스 2차 파업, 글로벌 수주 신뢰 흔든다 | https://www.etoday.co.kr/news/view/2633407 | a7
-2026-10-08 00:40 | 조선일보 | Seoul Ceremony Honors NSCI Top-Ranked Companies - 조선일보 | google:조선일보 | aen1
-2026-10-08 00:30 | BeritaOne.id | LBH Soroti Kewajiban Eks PT SAL atas 469 Hektare Kawasan Hutan - BeritaOne.id | google:BeritaOne.id | aid8,aid9
-2026-10-07 23:46 | Riau Pos | PT Inecda Gelar Pelatihan Membatik dan Cek Kesehatan bagi Masyarakat Adat Desa Talang Sungai Parit - Riau Pos | google:Riau Pos | aid2
-2026-10-07 22:30 | vegannews.co.kr | 삼성바이오로직스, 바이오재팬서 ADC 공정 발표 | https://www.vegannews.co.kr/news/article.html?no=391678 | a7
-2026-10-07 22:28 | Incomod Media | Primăria Târgoviște deschide la 1 noiembrie 2026 centrul de colectare gratuită a deșeurilor construit în zona Oțelinox - Incomod Media | google:Incomod Media | aro1,aro2
-2026-10-07 22:00 | Yahoo Finance Australia | UBS says PolyPeptide returns now hinge on Samsung deal despite strong half - Yahoo Finance Australia | google:Yahoo Finance Australia | aen3
-2026-10-07 21:54 | Simply Wall Street | Teva Pharmaceutical Industries (TEVA) Is Back In Focus, What Has Investors Looking Closer? - Simply Wall Street | google:Simply Wall Street | aen4
-2026-10-07 21:42 | 아시아경제 | Lee Seohyun, Kim Woongki and Suh Kyungbae Named Among World's Top 200 Collectors; Korea's "Three Distinct Collecting Styles" Draw Attention - 아시아경제 | google:아시아경제 | aen1
-2026-10-07 21:02 | Yahoo Finance Australia | Teva Pharmaceutical Industries Limited (TEVA) stock price, news, quote and history - Yahoo Finance Australia | google:Yahoo Finance Australia | aen4
-2026-10-07 19:56 | donga.com | 삼성바이오로직스, ‘엔드투엔드’ 위탁 서비스로 일본·APAC 공략 박차 | https://www.donga.com/news/Health/article/all/20261007/134805464/1 | a7
-2026-10-07 19:06 | NucNet | Constellation To Invest $4.3 Billion In New Nuclear Capacity After Deal With Google - NucNet | google:NucNet | aen1
-2026-10-07 18:43 | DataRiau.com | Tesso Nilo Tergerus, Ketika Rumah Satwa Berubah Menjadi Kebun dan Permukiman - DataRiau.com | google:DataRiau.com | aid6
-2026-10-07 18:34 | mdtoday.co.kr | 삼성바이오 노조 "유상증자 보류해야" | https://www.mdtoday.co.kr/news/articleView.html?idxno=617706 | a7,a7?
-2026-10-07 18:27 | edaily.co.kr | [단독]국민연금 부동산실장 ‘갑질·성희롱’ 혐의…국감 이후 징계 | https://www.edaily.co.kr/News/Read?newsId=05234886645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1?,a7,a7?
-2026-10-07 18:02 | newsquest.co.kr | "11월 유증 완료 후 6공장 착공·폴리펩타이드 인수…삼성바이오로직스... | https://www.newsquest.co.kr/news/articleView.html?idxno=302240 | a7
-2026-10-07 17:56 | finomy.com | 삼성바이오로직스, 일본서 '통합 CDMO' 강조···신규 모달리티 넓힌다 | http://www.finomy.com/news/articleView.html?idxno=263128 | a7
-2026-10-07 17:50 | RiauPagi.com | Gajah Sumatra Terbunuh dengan Luka Tembak di Kawasan Lindung Blok Ukui, BBKSDA Riau: Ada yang Membusuk Sampai Aksi Perburuan Ilegal - RiauPagi.com | google:RiauPagi.com | aid10,aid6
-2026-10-07 17:22 | 매일경제 | [Yokohama = Reporter Kim Hyo-hye] Pacifico Convention Center in Yokohama, Japan, on the 7th, when As.. - 매일경제 | google:매일경제 | aen3
-2026-10-07 17:18 | delighti.co.kr | 삼성바이오로직스, 일본 바이오 재팬 참가…아태 CDMO 시장 공략 | https://www.delighti.co.kr/news/articleView.html?idxno=122971 | a7
-2026-10-07 17:14 | businesspost.co.kr | 삼성바이오로직스 노조, 노사갈등 이유로 금감원·거래소에 유상증자 청... | https://www.businesspost.co.kr/BP?command=article_view&num=448848 | a7
-2026-10-07 17:11 | 매일경제 | The Pacifico Convention Center in Yokohama, Japan, on the 7th, when Asia's largest bio and pharmaceu.. - 매일경제 | google:매일경제 | aen3
-2026-10-07 17:05 | BigGo Finance | Samsung Electronics to Roll Out Heat Pumps Nationwide in South Korea by 2028, Kicking Off Apartment Heating Electrification - BigGo Finance | google:BigGo Finance | aen1
-2026-10-07 17:02 | viva100.com | 삼성바이오로직스, 바이오 재팬 참가⋯“APAC 시장 리더십 강화” | https://www.viva100.com/article/20261007501330 | a7
-2026-10-07 16:59 | kizmom.com | 삼성바이오로직스, 바이오 재팬 2026 참가…통합 CDMO로 일본 시장 공략 | https://www.kizmom.com/news/articleView.html?idxno=113167 | a7
-2026-10-07 16:56 | 4th.kr | 삼성바이오로직스, 통합 CDMO 앞세워 일본·APAC 공략 확대 | http://www.4th.kr/news/articleView.html?idxno=2119360 | a7
-2026-10-07 16:43 | StreetInsider | Osteoporosis Market to Witness Significant Growth Through 2036 Driven by Emerging Therapies, Expanding Treatment Landscape, and Rising Disease Burden / DelveInsight - StreetInsider | google:StreetInsider | aen4
-2026-10-07 16:42 | SuaraLira.com | LSM Perisai Riau: Pemkab Siak Mengapresiasi Fasilitasi Soal Seketa Lahan PT.DSI dengan Masyarakat - SuaraLira.com | google:SuaraLira.com | aid9
-2026-10-07 16:37 | CEO Insights Asia | LS Electric Partners Formosa Plastics for Taiwan Expansion - CEO Insights Asia | google:CEO Insights Asia | aen4
-2026-10-07 16:34 | koreabiomed.com | Samsung Biologics pitches end-to-end CDMO services as Japan demand surges | https://www.koreabiomed.com/news/articleView.html?idxno=33423 | a8
-2026-10-07 16:32 | Korea Biomedical Review | Samsung Biologics pitches end-to-end CDMO services as Japan demand surges - Korea Biomedical Review | google:Korea Biomedical Review | aen3
-2026-10-07 16:26 | 스포츠조선 | Samsung Electronics targets apartment heat pump market, plans to expand global business from 2030 - 스포츠조선 | google:스포츠조선 | aen1
-2026-10-07 16:18 | inthenews.co.kr | ADC·펩타이드로 영역 넓힌다…삼성바이오로직스, 日 CDMO 공략 | https://www.inthenews.co.kr/news/article.html?no=92812 | a7
-2026-10-07 16:18 | etoday.co.kr | 삼성바이오로직스, 日 공략 속도…엔드 투 엔드 서비스로 APAC 시장 확대 | https://www.etoday.co.kr/news/view/2633488 | a7
-2026-10-07 16:16 | joongangenews.com | 삼성바이오로직스, 日 CDMO 시장 공략 속도…ADC·펩타이드 역량 전면에 | https://www.joongangenews.com/news/articleView.html?idxno=553284 | a7
-2026-10-07 16:14 | seoul.co.kr | 삼성바이오 노조 “유상증자 계획 보류해야”…노사 갈등 심화 | https://www.seoul.co.kr/news/economy/2026/10/07/20261007500234?wlog_tag3=naver | a7?
-2026-10-07 16:10 | newsworker.co.kr | 삼성바이오로직스 노사 3차 조정 결렬·2차 총파업 예고…생산 차질 우... | https://www.newsworker.co.kr/news/articleView.html?idxno=507604 | a7
-2026-10-07 16:02 | 디지털투데이 | Samsung Electronics joins apartment heating and cooling electrification push, seeks nationwide rollout from 2028 - 디지털투데이 | google:디지털투데이 | aen1
-2026-10-07 16:00 | lcnews.co.kr | 삼성바이오로직스, 아태지역 CDMO 사업 확대…바이오 재팬서 생산기술 ... | https://www.lcnews.co.kr/news/articleView.html?idxno=209357 | a7
-2026-10-07 15:58 | pinpointnews.co.kr | 삼성바이오로직스, 바이오 재팬서 '통합 CDMO' 알린다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=493416 | a7
-2026-10-07 15:57 | 매일경제 | Samsung Electronics moves to electrify heating and cooling in apartments, plans nationwide heat pump rollout in 2028 - 매일경제 | google:매일경제 | aen1
-2026-10-07 15:56 | open.kg | Azerbaijani Company Interested in Developing the Eco-City "Asman" - open.kg | google:open.kg | aen1
-2026-10-07 15:48 | daily.hankooki.com | 노사 갈등 고조…삼성바이오로직스 "명예훼손 등 불법·위법 행위 엄정... | https://daily.hankooki.com/news/articleView.html?idxno=1412817 | a7
-2026-10-07 15:40 | pointdaily.co.kr | 삼성바이오로직스 "확고한 사업 경쟁력…APAC 시장 리더십 강화할 것" | https://www.pointdaily.co.kr/news/articleView.html?idxno=321553 | a7
-2026-10-07 15:36 | smartbizn.com | 삼성바이오로직스, 일본서 통합 CDMO 전략 공개 | https://www.smartbizn.com/news/articleView.html?idxno=155807 | a7
-2026-10-07 15:32 | 1conomynews.co.kr | 삼성바이오로직스 노사 갈등, 임금 넘어 유증으로…2차 파업 '초읽기' | https://www.1conomynews.co.kr/news/articleView.html?idxno=50725 | a7
-2026-10-07 15:26 | mediapen.com | 삼성바이오로직스, 바이오재팬서 통합 CDMO·ADC 기술 공개…APAC 공략 강... | https://www.mediapen.com/news/view/1128416 | a7
-2026-10-07 15:24 | zdnet.co.kr | 심시스글로벌 "디지털 트윈 만난 건물관리 AI, 화재 대피 안내도 척척" | https://zdnet.co.kr/view/?no=20261007142722 | a1?
-2026-10-07 15:24 | getnews.co.kr | 삼성바이오로직스, APAC 시장 고객 만족 전략으로 공략 가속화 | https://www.getnews.co.kr/news/articleView.html?idxno=882881 | a7
-2026-10-07 15:17 | Indian Infrastructure Magazine | Reliance announces Rs 1 trillion investment for CBG projects in Andhra Pradesh - Indian Infrastructure Magazine | google:Indian Infrastructure Magazine | aen1
-2026-10-07 15:17 | inews24.com | 삼성바이오로직스 "아시아·태평양 시장 공략 가속화" | http://www.inews24.com/view/2012731 | a7
-2026-10-07 15:15 | inews24.com | 삼성바이오 노조, 당국에 유상증자 보류 요청⋯사측 "불법 행위시 엄정... | http://www.inews24.com/view/2012715 | a7?
-2026-10-07 15:14 | newsian.co.kr | 삼성바이오 노조, 2대 주주 삼성전자까지 교섭 호출…'멱살잡이' 논란 | http://www.newsian.co.kr/news/articleView.html?idxno=96660 | a1?,a7?
-2026-10-07 15:14 | newsworks.co.kr | 삼성바이오로직스 "명예훼손·인신공격 등 불법 행위 엄정대응" | https://www.newsworks.co.kr/news/articleView.html?idxno=855841 | a7,a7?
-2026-10-07 15:12 | docdocdoc.co.kr | 삼성바이오로직스, CRO·CDO·CMO 통합 서비스로 일본·아태 공략 | http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043404 | a7
-2026-10-07 15:12 | ajunews.com | 총파업 앞두고 '유증 제동'·'삼성전자 교섭'까지… 벼랑 끝 삼성바이오... | https://www.ajunews.com/view/20261007141509779 | a7?
-2026-10-07 15:10 | moneystorm.kr | 삼성바이오로직스, 통합 CDMO기반 아태시장 공략…"ADC 기술로 승부수" | https://www.moneystorm.kr/news/articleView.html?idxno=7099 | a7
-2026-10-07 15:08 | kpenews.com | 삼성바이오로직스, 엔드투엔드 서비스 고객만족..APAC 시장 적극 공략 | https://kpenews.com/View.aspx?No=4255120 | a7
-2026-10-07 15:07 | hankookilbo.com | 삼성바이오 노사 갈등 격화… 노조, 파업 예고 이어 유상증자도 제동 | https://www.hankookilbo.com/news/article/A2026100713520004721?did=NA | a7?
-2026-10-07 15:04 | sedaily.com | 삼성바이오로직스 “노조 불법·위법 행위 엄정 대응” | https://www.sedaily.com/article/20099078?ref=naver | a7
-2026-10-07 15:00 | ebn.co.kr | 삼성바이오로직스, 일본 공략 본격화…'엔드 투 엔드 CDMO'로 APAC 수주 확... | https://www.ebn.co.kr/news/articleView.html?idxno=1727019 | a7
-2026-10-07 15:00 | kdfnews.com | 삼성바이오로직스, CRO부터 생산까지…日서 '엔드 투 엔드' 전략 공개 | http://www.kdfnews.com/news/articleView.html?idxno=188985 | a7
-2026-10-07 14:56 | s-journal.co.kr | 삼성바이오로직스, 바이오 재팬 2026서 CDMO 역량 알려… APAC 시장 공략... | https://www.s-journal.co.kr/news/articleView.html?idxno=44269 | a7
-2026-10-07 14:55 | BigGo Finance | South Korea's Mok-dong Redevelopment: Major Builders Face 'Carve-Up' Criticism as Complexes 4 and 7 Draw Competitive Bidding Interest - BigGo Finance | google:BigGo Finance | aen1
-2026-10-07 14:54 | mediaus.co.kr | 삼성바이오 노사갈등 격화…3주 파업에 유상증자도 변수 | https://www.mediaus.co.kr/news/articleView.html?idxno=318362 | a7?
-2026-10-07 14:45 | mydaily.co.kr | 총파업 앞둔 삼성바이오로직스, 노조에 경고…“무노동 무임금 적용” | https://www.mydaily.co.kr/page/view/2026100714435635594 | a7
-2026-10-07 14:43 | magazine.hankyung.com | "3주 파업"vs"불법행위 엄정 대응"···삼성바이오 노사 갈등 고조 | https://magazine.hankyung.com/business/article/202610078390b | a7?
-2026-10-07 14:42 | ftoday.co.kr | 삼성바이오로직스 '바이오 재팬 2026' 참가…엔드 투 엔드 서비스로 APA... | http://www.ftoday.co.kr/news/articleView.html?idxno=366790 | a7
-2026-10-07 14:40 | etnews.com | 삼성바이오로직스, 통합 CDMO 서비스로 日 공략…ADC 제조기술도 공개 | https://www.etnews.com/20261007000325 | a7
-2026-10-07 14:33 | Gagasanriau.com | Warisan Konflik Agraria Rohul, Warga Tanjung Medan Minta PT Agrinas Kembalikan Lahan Transmigrasi - Gagasanriau.com | google:Gagasanriau.com | aid9
-2026-10-07 14:32 | etoday.co.kr | 노사 갈등 격화…삼성바이오로직스 “불법·위법 행위에 엄정 대응” | https://www.etoday.co.kr/news/view/2633385 | a7
-2026-10-07 14:28 | newsroad.co.kr | 건설·플랜트사 해외 하도급, 협력사 책임 없는 지연도 비용 전가 논란... | http://www.newsroad.co.kr/news/articleView.html?idxno=65397 | a1?,a3?,a4?
-2026-10-07 14:28 | paxetv.com | 삼성바이오로직스, '엔드 투 엔드 서비스'로 'APAC시장' 공략 박차...바... | http://www.paxetv.com/news/articleView.html?idxno=283553 | a7
-2026-10-07 14:26 | econovill.com | 삼성바이오로직스, 노사 갈등·환율 하락 이중고에도 연간 목표 달성 '이... | https://www.econovill.com/news/articleView.html?idxno=752959 | a7
-2026-10-07 14:20 | pelalawanpos.co | 1.500 Warga Geruduk Tiga Titik Operasional PT Serikat Putra, Tuntut Kemitraan 20 Persen Segera Direalisasikan - pelalawanpos.co | google:pelalawanpos.co | aid6
-2026-10-07 14:18 | job-post.co.kr | 삼성바이오로직스 127만9000원…폴리펩타이드 인수 절차 촉각 | https://www.job-post.co.kr/news/articleView.html?idxno=231086 | a7
-2026-10-07 14:18 | e-science.co.kr | 삼성바이오로직스, 일본 공략 강화...ADC·펩타이드로 CDMO 영역 확대 | https://www.e-science.co.kr/news/articleView.html?idxno=136892 | a7
-2026-10-07 14:16 | thepublic.kr | 삼성바이오 노조, 2대주주 삼성전자까지 교섭 요구…'사용자 범위' 논란 | https://www.thepublic.kr/news/articleView.html?idxno=321419 | a1?,a7?
-2026-10-07 14:16 | ngetnews.com | 삼성바이오 노사 갈등 격화…노조, 3조원 유상증자에 제동 | https://www.ngetnews.com/news/articleView.html?idxno=554186 | a7?
-2026-10-07 14:14 | newspim.com | 삼성바이오로직스 노조, 금융당국에 유상증자 보류 요청 | https://www.newspim.com/news/view/20261007000948 | a7
-2026-10-07 14:12 | news.tf.co.kr | 삼성바이오로직스, 바이오 재팬서 '통합 CDMO' 강조…"아시아태평양 시... | https://news.tf.co.kr/read/economy/2373856.htm | a7
-2026-10-07 14:06 | pharmnews.com | 삼성바이오로직스, '바이오 재팬'서 통합 CDMO 및 ADC 공정 기술 공개 | https://www.pharmnews.com/news/articleView.html?idxno=306735 | a7
-2026-10-07 13:57 | news.sbs.co.kr | Samsung Biologics Labor-Management Tensions Rise; Management Vows Strict Response to Illegal Acts - news.sbs.co.kr | google:news.sbs.co.kr | aen3
-2026-10-07 13:57 | news.sbs.co.kr | Samsung Biologics Union Asks Exchange and FSS to Suspend Paid-in Capital Increase - news.sbs.co.kr | google:news.sbs.co.kr | aen3
-2026-10-07 13:55 | news.sbs.co.kr | 삼성바이오 노조, 거래소·금감원에 유상증자 보류 요청 | https://news.sbs.co.kr/news/endPage.do?news_id=N1008786979&plink=ORI&cooper=NAVER | a7?
-2026-10-07 13:55 | Chosunbiz | Samsung Biologics expands Asia-Pacific push at Bio Japan 2026 - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-10-07 13:52 | businesskorea.co.kr | 삼성바이오로직스, 바이오 재팬 2026 참가 | https://www.businesskorea.co.kr/news/articleView.html?idxno=278380 | a7
-2026-10-07 13:50 | digitalchosun.dizzo.com | 삼성바이오로직스, 일본 CDMO 시장 공략…상위 제약사와 프로젝트 진행 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/07/2026100780114.html | a7
-2026-10-07 13:44 | etoday.co.kr | 해외서 수주전 뛰는 삼성바이오…노조는 2차 파업으로 ‘발목’ | https://www.etoday.co.kr/news/view/2633338 | a7?
-2026-10-07 13:40 | fetv.co.kr | 삼성바이오로직스, 바이오재팬서 '통합 CDMO' 역량 강조 | https://www.fetv.co.kr/news/articleView.html?idxno=311363 | a7
-2026-10-07 13:36 | mydaily.co.kr | 삼성바이오로직스, 일본 CDMO 시장 공략…ADC·펩타이드 역량 강조 | https://www.mydaily.co.kr/page/view/2026100713352406750 | a7
-2026-10-07 13:36 | medipana.com | 삼성바이오로직스, 바이오재팬서 '통합 CDMO' 전략 제시 | https://www.medipana.com/news/articleView.html?idxno=418910 | a7
-2026-10-07 13:36 | m-i.kr | 삼성바이오로직스, '엔드투엔드 CDMO' 앞세운 APAC 공략 비전 소개 | https://www.m-i.kr/news/articleView.html?idxno=2003499 | a7
-2026-10-07 13:20 | press9.kr | 삼성바이오로직스, 일본서 '통합 CDMO' 선봬…아태 수요 공략 | http://www.press9.kr/news/articleView.html?idxno=83837 | a7
-2026-10-07 13:16 | biz.heraldcorp.com | 삼성바이오로직스 “신규 모달리티 맞춰 연구부터 생산까지”…APAC 시장... | https://biz.heraldcorp.com/article/10895606?ref=naver | a7
-2026-10-07 13:15 | news1.kr | 삼성바이오로직스 "통합 CDMO 서비스로 고객 수요 대응"…APAC 시장 공략 | https://www.news1.kr/bio/pharmaceutical-bio/6312856 | a7
-2026-10-07 13:13 | Ingatlah.com | Polda Riau Kembali Kirim Berkas PT Musim Mas ke Kejati Riau - Ingatlah.com | google:Ingatlah.com | aid6
-2026-10-07 13:03 | Pearce IP | Pearce IP BioBlast® for the week ending 2 October 2026 - Pearce IP | google:Pearce IP | aen4
-2026-10-07 12:59 | wowtv.co.kr | "파업 위험 충분히 설명 안됐다"…'3조' 유상증자 제동 건 노조 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070074&t=NN | a7?
-2026-10-07 12:58 | insightkorea.co.kr | 삼성물산·현대건설부터 고려아연까지… 직접 전기 만들어 파는 까닭 | https://www.insightkorea.co.kr/news/articleView.html?idxno=255961 | a1
-2026-10-07 12:57 | AD HOC NEWS | Samsung C&T stock draws a KRW 550,000 target from SK Securities - AD HOC NEWS | google:AD HOC NEWS | aen1
-2026-10-07 12:53 | Riau Satu | Lengkapi Petunjuk Jaksa, Polda Riau kirim Kembali Berkas PT Musim Mas - Riau Satu - Riau Satu | google:Riau Satu | aid6
-2026-10-07 12:35 | BigGo Finance | Samsung Biologics Union Seeks to Halt $2.2 Billion Rights Offering, Asks South Korean Regulators to Suspend Subscription - BigGo Finance | google:BigGo Finance | aen3
-2026-10-07 12:00 | 아시아경제 | Growing Hacking Concerns... Only Five Construction Firms Hold Information Security Certification - 아시아경제 | google:아시아경제 | aen1,aen2
-2026-10-07 11:50 | news.einfomax.co.kr | 삼성바이오 노조, 2.7조 유상증자 청약 일정 재검토 요청 | https://news.einfomax.co.kr/news/articleView.html?idxno=4438102 | a7?
-2026-10-07 11:42 | investchosun.com | [Invest]이재용 회장 겨눈 삼성바이오 노조…전면파업 초읽기에 3조 유증... | https://www.investchosun.com/site/data/html_dir/2026/10/07/2026100780095.html | a7?
-2026-10-07 11:30 | viva100.com | 삼성바이오 노조, 3兆 유상증자 제동⋯금감원·거래소에 청약 보류 요청 | https://www.viva100.com/article/20261007500639 | a7?
-2026-10-07 11:20 | newstomato.com | 삼성바이오로직스, 교섭 대상으로 '삼성전자' 지목…초강경 카드 제시 | http://www.newstomato.com/ReadNews.aspx?no=1315882&inflow=N | a7
-2026-10-07 11:09 | 아시아경제 | Everland's Kochia Turns Fiery Red, Expected to Peak This Weekend - 아시아경제 | google:아시아경제 | aen1
-2026-10-07 11:05 | Chosunbiz | Samsung Biologics union seeks halt to capital raise as company presses ahead - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3
-2026-10-07 11:00 | TradingView | Key facts: RELIANCE — ₹1,530 target; Jefferies raises weight; Banks - TradingView | google:TradingView | aen1
-2026-10-07 10:54 | DerakPost.com | Sepekan Kedepan, Ini Harga TBS Kelapa Sawit Swadaya se Provinsi Riau - DerakPost.com | google:DerakPost.com | aid2
-2026-10-07 10:22 | Seoul Economic Daily | Samsung Adds 30 British Museum Works to Art Store in 4K - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-10-07 10:02 | Aju Press | Samsung Biologics union sets three-week strike as talks collapse - Aju Press | google:Aju Press | aen3
-2026-10-07 09:10 | sentv.co.kr | 3주 파업 예고한 삼성바이오 노조…생산·수주 불확실성 커진다 | https://www.sentv.co.kr/article/view/sentv202610070009 | a7?
-2026-10-07 08:50 | dailymedi.com | 삼성바이오로직스 勞 "삼성전자 단체교섭" 요구 | https://www.dailymedi.com/news/news_view.php?wr_id=941192 | a7
-2026-10-07 08:44 | youthdaily.co.kr | 삼성바이오 노조 3주 파업 예고…수천억 손실·삼성전자 교섭 | https://www.youthdaily.co.kr/news/article.html?no=228017 | a7?
-2026-10-07 08:43 | 아시아경제 | "Securing Large Nuclear Power Plant Contracts Is Not Enough"... K-Nuclear Parts and Equipment Target U.S. Market Too - 아시아경제 | google:아시아경제 | aen1
-2026-10-07 08:38 | medicopharma.co.kr | 삼성바이오로직스, 환율·파업에도 3분기 성장…5공장 램프업 속도 | https://www.medicopharma.co.kr/news/articleView.html?idxno=69762 | a7
-2026-10-07 08:37 | yna.co.kr | IBK증권 "삼성바이오, 유상증자 영향 반영해 목표가 하향" | https://www.yna.co.kr/view/AKR20261007029900008?input=1195m | a7?
-2026-10-07 08:36 | financialpost.co.kr | '3주 파업 예고' 삼성바이오 노조…'삼성전자 단체교섭' 요구하는 까닭 | https://www.financialpost.co.kr/news/articleView.html?idxno=279017 | a1?,a7,a7?
-2026-10-07 08:22 | theguru.co.kr | 삼성물산이 지은 베트남 LNG발전소, '올해 발전소상' 등 2관왕 수상 | https://www.theguru.co.kr/news/article.html?no=107934 | a1
-2026-10-07 08:18 | joongboo.com | 증권가 "삼성바이오 2차 파업 고객사 불안 요인" | https://www.joongboo.com/news/articleView.html?idxno=363738622 | a7?
-2026-10-07 08:12 | megaeconomy.co.kr | 6.2% 올려준다는데도 '파업'…삼성바이오, 노조 강경행보에 속앓이 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568207332368 | a7?
-2026-10-07 08:12 | etoday.co.kr | IBK證, “삼성바이오로직스, 실적 기대에 부합하지만⋯목표가 200만↓” | https://www.etoday.co.kr/news/view/2633107 | a7
-2026-10-07 08:10 | gokorea.kr | 삼성바이오로직스 노사 갈등, 3주 파업 선언으로 긴장 고조 | https://www.gokorea.kr/news/articleView.html?idxno=880634 | a7
-2026-10-07 08:02 | cstimes.com | 삼성바이오로직스, 3분기 실적 기대치 상회할까…주가 향방은 | https://www.cstimes.com/news/articleView.html?idxno=722982 | a7
-2026-10-07 07:55 | Korea JoongAng Daily | Korea turns to AI, robots to tackle looming care worker shortage - Korea JoongAng Daily | google:Korea JoongAng Daily | aen1
-2026-10-07 07:47 | GoRiau.com | Tanah: Jangan Sampai Rakyat Kehilangan Rumah di Tanahnya Sendiri - GoRiau.com | google:GoRiau.com | aid9
-2026-10-07 07:30 | biz.heraldcorp.com | 협상 막히자 삼성전자 끌어들인 삼성바이오 노조…‘파업 명분 쌓기’ | https://biz.heraldcorp.com/article/10894858?ref=naver | a1?,a7?
-2026-10-07 07:14 | newsprime.co.kr | 삼성바이오로직스, 하반기 신규 수주 회복 '주목'…"5공장 이후 성장 기... | http://www.newsprime.co.kr/news/article.html?no=750081 | a7
-2026-10-07 07:04 | insight.co.kr | 삼성물산·삼성전자 추가 출자 계획 없다...삼성바이오, 유증 감소분 33... | https://www.insight.co.kr/news/576741 | a1
-2026-10-07 07:01 | Seoul Economic Daily | Samsung Biologics Positions Itself as Key Partner for Blockbuster Drugs - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-10-07 07:00 | 아시아경제 | Songdo or the U.S.? Samsung Biologics' New Calculations After Receiving the Tariff List [Click e-Stock] - 아시아경제 | google:아시아경제 | aen3
-2026-10-07 06:46 | BioBuzz | Designing Biomanufacturing Facilities for Growth: 7 Lessons on Utilities, Talent and Long-Term Planning - BioBuzz | google:BioBuzz | aen3
-2026-10-07 06:34 | labortoday.co.kr | 삼성바이오로직스 노조, 삼성전자에 '원청교섭' 요구 | https://www.labortoday.co.kr/news/articleView.html?idxno=237089 | a7
-2026-10-07 04:05 | KED Global | Samsung Biologics union seeks bargaining with Samsung Electronics - KED Global | google:KED Global | aen3
-2026-10-07 03:22 | Riaubernas.com | Tagih Kewajiban Kemitraan 20 Persen PT Serikat Putra, 1.500 Warga Pelalawan Gelar Aksi Damai - Riaubernas.com | google:Riaubernas.com | aid6
-2026-10-07 00:54 | Monitor Indonesia | Kejagung Didesak Usut Dugaan TPPU PT SAL - Monitor Indonesia | google:Monitor Indonesia | aid8
-2026-10-07 00:54 | 조선일보 | Samsung Biologics Union Demands Negotiations With Samsung Electronics - 조선일보 | google:조선일보 | aen1,aen3
-2026-10-07 00:45 | Betahita | Dana Hasil Dugaan Rasuah Sawit PT Duta Palma Ditahan Singapura - Betahita | google:Betahita | aid8
+2026-10-08 03:49 | CatatanRiau.com | Jasad Tanpa Identitas Ditemukan di Areal PT Adei, Empat Hari Usai Kericuhan - CatatanRiau.com | google:CatatanRiau.com | aid2
+2026-10-08 02:34 | Riau Pos | Wali Kota Pekanbaru Percayakan Mantan Sekda Rohul Jadi Sekretaris DPMPTSP Pekanbaru - Riau Pos | google:Riau Pos | aid2
+2026-10-08 02:06 | Riau Pos | Udara Belum Sehat, Siswa di Dua Kecamatan Inhil Masih PJJ - Riau Pos | google:Riau Pos | aid2
+2026-10-08 01:37 | Riau Pos | Jembatan Sarang Elang Kecil Roboh, PUPRPKP Inhu Carikan Solusi Penanganan - Riau Pos | google:Riau Pos | aid2
+2026-10-08 01:27 | Kompas.com | Kisah Kades di Riau Pasang Badan untuk Warganya, Lawan Perusahaan yang Ingin Ambil Lahan - Kompas.com | google:Kompas.com | aid9
+2026-10-08 01:20 | Riau Pos | Konsulat Malaysia Pekanbaru Perkenalkan Budaya dan Kuliner di UIN Suska Riau - Riau Pos | google:Riau Pos | aid2
+2026-10-08 00:40 | 조선일보 | Third Quarter NSCI Top-Ranked Companies Certified - 조선일보 | google:조선일보 | aen1
