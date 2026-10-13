@@ -108,63 +108,120 @@ DIRECT_FEED_PATHS = ["/rss/allArticle.xml", "/rss/rss.xml", "/rss.xml", "/feed/"
 DIRECT_UA = {"User-Agent": "Mozilla/5.0 (compatible; news-pool/1.0)"}
 # 날짜 문자열 끝에 시간대 표기(+0900, GMT, Z, KST 등)가 있는지 본다.
 _TZ_RE = re.compile(r"(?:[+-]\d{2}:?\d{2}|Z|GMT|UTC|UT|[ECMP][SD]T|KST)\s*$")
+# 홈페이지에서 RSS 주소를 찾는 데 쓰는 패턴
+_ALT_RE = re.compile(r'<link\b[^>]*type=["\']application/(?:rss|atom)\+xml["\'][^>]*>', re.I)
+_HREF_RE = re.compile(r'href=["\']([^"\']+)["\']', re.I)
+_ANY_RSS_RE = re.compile(r'href=["\']([^"\']*(?:rss|feed)[^"\']*)["\']', re.I)
+_SKIP_EXT = (".png", ".jpg", ".jpeg", ".gif", ".svg", ".ico", ".css", ".js")
+
+
+def _parse_feed(content, domain):
+    """RSS 본문을 기사 목록으로 바꾼다. RSS가 아니거나 기사가 3건 미만이면 None."""
+    feed = feedparser.parse(content)
+    ents = [e for e in feed.entries if (e.get("link") or "").startswith("http")]
+    if len(ents) < 3:
+        return None
+    items = []
+    for e in ents:
+        pub, naive = None, False
+        pp = e.get("published_parsed") or e.get("updated_parsed")
+        if pp:
+            raw = (e.get("published") or e.get("updated") or "").strip()
+            if _TZ_RE.search(raw):
+                t = dt.datetime(*pp[:6], tzinfo=dt.timezone.utc).astimezone(KST)
+            else:
+                # 시간대 표기가 없는 날짜는 사이트가 쓴 한국 시각 그대로로 본다.
+                t = dt.datetime(*pp[:6], tzinfo=KST)
+                naive = True
+            pub = t.isoformat()
+        items.append({
+            "title": html.unescape(re.sub(r"<[^>]+>", "", e.get("title", "") or "")).strip(),
+            "media": domain,
+            "published": pub,
+            "url": e["link"],
+            "tags": {"sw"},
+            "confirmed": True,
+            "risk": False,
+            "naive_tz": naive,
+        })
+    return items
+
+
+def _try_feed(url, domain):
+    """주소 하나를 시도한다. (기사목록, None) 또는 (None, 사유)."""
+    try:
+        r = requests.get(url, headers=DIRECT_UA, timeout=6)
+    except requests.exceptions.SSLError:
+        return None, "접속 오류(SSLError)"
+    except Exception as e:
+        return None, f"접속 오류({type(e).__name__})"
+    if r.status_code != 200:
+        return None, f"HTTP {r.status_code}"
+    items = _parse_feed(r.content, domain)
+    if items is None:
+        return None, "RSS 형식이 아니거나 기사 3건 미만"
+    return items, None
+
+
+def _discover(base, domain):
+    """홈페이지에서 RSS 주소 후보를 찾는다(같은 사이트 주소만 인정).
+    1순위: <link rel="alternate" type="application/rss+xml"> 선언, 2순위: href에 rss/feed가 들어간 링크."""
+    try:
+        r = requests.get(base + "/", headers=DIRECT_UA, timeout=6)
+        if r.status_code != 200:
+            return []
+        page = r.content.decode("utf-8", errors="ignore")
+    except Exception:
+        return []
+    cands = []
+    for tag in _ALT_RE.findall(page):
+        m = _HREF_RE.search(tag)
+        if m:
+            cands.append(m.group(1))
+    cands += _ANY_RSS_RE.findall(page)
+    out = []
+    for h in cands:
+        u = urllib.parse.urljoin(base + "/", html.unescape(h.strip()))
+        host = urllib.parse.urlparse(u).netloc.lower()
+        if not u.startswith("http") or u.lower().split("?")[0].endswith(_SKIP_EXT):
+            continue
+        if not (host == domain or host.endswith("." + domain)):
+            continue                      # 다른 사이트로 가는 주소는 따라가지 않는다
+        if u not in out:
+            out.append(u)
+    return out[:8]
 
 
 def _direct_one(domain):
     """한 매체의 자체 RSS를 찾는다. 성공하면 (기사목록, 사용한 주소), 실패하면 ([], 사유).
-    https 인증서 오류(SSLError)가 난 사이트만 마지막에 http 주소를 한 번 더 시도한다.
-    공개 헤드라인을 읽을 뿐 로그인·키를 보내지 않으며, 사용하면 로그에 표시된다."""
+    1) 흔한 경로를 순서대로 시도, https 인증서 오류(SSLError)가 난 사이트만 http를 한 번 더 시도
+    2) 서버는 응답하는데 경로가 틀렸으면 홈페이지에서 RSS 주소를 찾아 시도
+    공개 헤드라인을 읽을 뿐 로그인·키를 보내지 않으며, 어떤 주소를 썼는지는 로그에 남는다."""
     last = "후보 주소 모두 실패"
     bases = [f"https://www.{domain}", f"https://{domain}"]
-    ssl_failed, extended, i = False, False, 0
+    ssl_failed, extended, i, alive = False, False, 0, []
     while i < len(bases):
         base = bases[i]
         i += 1
         for path in DIRECT_FEED_PATHS:
-            url = base + path
-            try:
-                r = requests.get(url, headers=DIRECT_UA, timeout=6)
-            except requests.exceptions.SSLError:
-                last, ssl_failed = "접속 오류(SSLError)", True
+            items, why = _try_feed(base + path, domain)
+            if items:
+                return items, base + path
+            last = why
+            if why == "접속 오류(SSLError)":
+                ssl_failed = True
                 break                      # 같은 주소의 다른 경로도 같은 오류이므로 건너뛴다
-            except Exception as e:
-                last = f"접속 오류({type(e).__name__})"
-                continue
-            if r.status_code != 200:
-                last = f"HTTP {r.status_code}"
-                continue
-            feed = feedparser.parse(r.content)
-            ents = [e for e in feed.entries if (e.get("link") or "").startswith("http")]
-            if len(ents) < 3:
-                last = "RSS 형식이 아니거나 기사 3건 미만"
-                continue
-            items = []
-            for e in ents:
-                pub, naive = None, False
-                pp = e.get("published_parsed") or e.get("updated_parsed")
-                if pp:
-                    raw = (e.get("published") or e.get("updated") or "").strip()
-                    if _TZ_RE.search(raw):
-                        t = dt.datetime(*pp[:6], tzinfo=dt.timezone.utc).astimezone(KST)
-                    else:
-                        # 시간대 표기가 없는 날짜는 사이트가 쓴 한국 시각 그대로로 본다.
-                        t = dt.datetime(*pp[:6], tzinfo=KST)
-                        naive = True
-                    pub = t.isoformat()
-                items.append({
-                    "title": html.unescape(re.sub(r"<[^>]+>", "", e.get("title", "") or "")).strip(),
-                    "media": domain,
-                    "published": pub,
-                    "url": e["link"],
-                    "tags": {"sw"},
-                    "confirmed": True,
-                    "risk": False,
-                    "naive_tz": naive,
-                })
-            return items, url
+            if not why.startswith("접속 오류") and base not in alive:
+                alive.append(base)         # 서버는 응답함(404, RSS 아닌 페이지 등)
         if i == len(bases) and ssl_failed and not extended:
             extended = True
             bases += [f"http://www.{domain}", f"http://{domain}"]
+    for base in alive[:2]:
+        for url in _discover(base, domain):
+            items, why = _try_feed(url, domain)
+            if items:
+                return items, url + " (홈페이지에서 자동 발견)"
+            last = why
     return [], last
 
 
