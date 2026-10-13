@@ -1,180 +1,134 @@
-# collected: 2026-10-12 10:53 KST
-# window: 2026-10-08 00:00 ~ 2026-10-12 10:53 KST
-# part 1 of 1, lines: 175
+# collected: 2026-10-13 09:29 KST
+# window: 2026-10-12 00:00 ~ 2026-10-13 09:29 KST
+# part 1 of 1, lines: 129
 # format: date | media | title | url | tags
 
-2026-10-12 10:48 | sedaily.com | 골조 남기고 신축급으로…삼성물산, 반포푸르지오에 ‘넥스트 리모델링... | https://www.sedaily.com/article/20100386?ref=naver | a1
+2026-10-13 09:05 | 매일경제 | The KOSPI started lower in the aftermath of the plunge in semiconductor stocks from Chinese semicond.. - 매일경제 | google:매일경제 | aen1
+2026-10-13 09:00 | biotimes.co.kr | 플러스정형외과-삼성바이오로직스, 임직원 건강증진 MOU 체결 | https://www.biotimes.co.kr/news/articleView.html?idxno=35144 | a7
+2026-10-13 08:52 | kpenews.com | 삼성물산 르베이지, 비움의 미학으로 패션을 빚다..도예 거장 윤광조와... | https://kpenews.com/View.aspx?No=4260768 | a1
+2026-10-13 08:34 | popcornnews.net | 삼성물산 패션 르베이지, 윤광조 도예 세계 입힌 패션 선봬...전통 미학... | http://www.popcornnews.net/news/articleView.html?idxno=135706 | a1
+2026-10-13 08:20 | news.bizwatch.co.kr | 삼성바이오 주가 부진에 3조 유상증자 흥행 여부 '관심' | https://news.bizwatch.co.kr/article/healthcare/2026/10/12/0035 | a7?
+2026-10-13 07:02 | thebell.co.kr | [더벨][삼성바이오로직스, 폴리펩타이드 인수] UBS, 인수·피인수 양사 ... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610121243301200106110 | a7
+2026-10-13 07:00 | Seoul Economic Daily | Korean CDMOs Compete for Orders in $32 Billion ADC Market - Seoul Economic Daily | google:Seoul Economic Daily | aen3
+2026-10-13 06:52 | apnews.kr | 삼성물산, 반포푸르지오 입찰서 제출…'넥스트 리모델링' 베일 벗었다 | https://www.apnews.kr/news/articleView.html?idxno=3052008 | a1
+2026-10-13 06:00 | apsk.co.kr | 3조 삼성바이오 통과·195억 경남제약 제동…유증 희비 엇갈린 사연 | https://www.apsk.co.kr/news/articleView.html?idxno=540706 | a1?,a7?
+2026-10-13 05:20 | dnews.co.kr | 대형사 격전지 ‘송파’ 부상… ‘분당 선도지구’ 장기전 채비 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081535285340933 | a1,a1?
+2026-10-13 01:15 | RIAU1.COM | DPD RI Kawal Aspirasi Jalan Tol Inhu–Kuansing–Sumbar - RIAU1.COM | google:RIAU1.COM | aid8
+2026-10-13 01:06 | sentv.co.kr | 삼성물산, 반포푸르지오에 '넥스트 리모델링' 첫 적용 제안 | https://www.sentv.co.kr/article/view/sentv202610130004 | a1
+2026-10-13 00:42 | 조선일보 | Samsung C&T Proposes 'Next Remodeling' for Banpo Furjio Apartments - 조선일보 | google:조선일보 | aen1
+2026-10-13 00:37 | chosun.com | 삼성물산 ‘넥스트 리모델링’ 반포푸르지오에 첫 제안 | https://www.chosun.com/economy/real_estate/2026/10/13/6RJDQM3DONH4LPJAJE7D2TZBPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a1
+2026-10-12 23:56 | thedailypost.kr | 삼성물산, 반포푸르지오 '84㎡ 공간 혁신' 승부수 | https://www.thedailypost.kr/news/articleView.html?idxno=116164 | a1
+2026-10-12 23:39 | openPR.com | Biologics CDMO Market Research Report to 2032 - Primary - openPR.com | google:openPR.com | aen3
+2026-10-12 22:40 | thepublic.kr | 삼성물산, 반포푸르지오에 '넥스트 리모델링' 적용…하이엔드 주거 승부... | https://www.thepublic.kr/news/articleView.html?idxno=321956 | a1
+2026-10-12 22:34 | Healthcare Digital | Teva Wins FDA Approval For Schizophrenia Innovation - Healthcare Digital | google:Healthcare Digital | aen4
+2026-10-12 21:20 | Bermadah.co.id | Motor Honda Beat Nyaris Raib, Aksi Kejar-kejaran Berakhir di Kebun Sawit, Satu Pelaku Diringkus - Bermadah.co.id | google:Bermadah.co.id | aid6
+2026-10-12 20:36 | incheonilbo.com | 박찬대 인천시장, 마운자로 제조사 한국법인 대표 만나 바이오산업 육성... | https://www.incheonilbo.com/news/articleView.html?idxno=1333954 | a7?
+2026-10-12 19:57 | 매일경제 | While the Chinese fashion market has grown to about 420 billion dollars (about 580 trillion won), Ko.. - 매일경제 | google:매일경제 | aen1
+2026-10-12 19:52 | enewstoday.co.kr | 삼성물산, '반포푸르지오아파트 리모델링' 입찰제안서 제출 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2479248 | a1
+2026-10-12 19:52 | betanews.net | 삼성물산, '넥스트 리모델링' 첫 적용 제안…반포푸르지오 수주 도전 | https://www.betanews.net/article/view/beta202610120171 | a1
+2026-10-12 19:50 | BeritaOne.id | PT SSK Mitra Agrinas Perbaiki Jalan Kebun Sepanjang 11,5 Kilometer di Inhu - BeritaOne.id | google:BeritaOne.id | aid2,aid8
+2026-10-12 19:49 | Coinpaper | Why Are South Korean Stocks Crashing Today? Samsung and SK Hynix Lead Sell-Off - Coinpaper | google:Coinpaper | aen3
+2026-10-12 19:29 | The Economic Times | Salary from South Korean employer credited to NRE account triggers income tax notice; ITAT Bangalore gives - The Economic Times | google:The Economic Times | aen13
+2026-10-12 18:37 | 조선일보 | Korean Biosimilars Target $400B Patent Cliff - 조선일보 | google:조선일보 | aen4
+2026-10-12 18:35 | kompas1net | PT SSK Mitra Agrinas Perbaikan Jalan Kebun 11,5 KM, Lancarkan Pengangkutan Produksi TBS - kompas1net | google:kompas1net | aid8
+2026-10-12 18:28 | RIAUTERKINI.COM | Kejar Pelaku hingga Kebun Sawit, Korban Gagalkan Curanmor di Bandar Sei Kijang - RIAUTERKINI.COM | google:RIAUTERKINI.COM | aid6
+2026-10-12 18:24 | todayeconomic.com | 삼성물산, 반포푸르지오에 ‘넥스트 리모델링’ 제안…골조 유지하고 주... | https://www.todayeconomic.com/news/article.html?no=32403 | a1
+2026-10-12 17:50 | dailysmart.co.kr | "구축 아파트의 한계를 부쉈다"… 삼성물산 건설부문, 반포푸르지오에... | http://www.dailysmart.co.kr/news/articleView.html?idxno=130938 | a1,a3
+2026-10-12 17:50 | koreaittimes.com | 삼성물산, 반포푸르지오 리모델링 승부수… '넥스트 리모델링' 첫 적용... | https://www.koreaittimes.com/news/articleView.html?idxno=158027 | a1
+2026-10-12 17:46 | kdfnews.com | 건설업, 중동 리스크 부상…데이터센터·원전은 새 수주축 [KDF Industry] | http://www.kdfnews.com/news/articleView.html?idxno=189171 | a1,a1?
+2026-10-12 17:41 | 더바이오 | Samsung Bioepis and Teva Pharmaceuticals to develop and commercialize two biosimilars - 더바이오 | google:더바이오 | aen4,aen5
+2026-10-12 17:35 | 매일경제 | Samsung C&T will launch a "Next Remodeling" project that changes its internal structure, facilit.. - 매일경제 | google:매일경제 | aen1
+2026-10-12 17:35 | greened.kr | '2차 파업 예고' 홍역 삼성바이오, 우려 뚫고 어닝서프 기록할까 | https://www.greened.kr/news/articleView.html?idxno=351811 | a7?
+2026-10-12 17:24 | thepowernews.co.kr | 84㎡ 평면 뜯어고치고 5개층 커뮤니티 신축…삼성물산, 반포푸르지오 리... | https://www.thepowernews.co.kr/view.php?ud=202610121652168991de3f0aa1be_7 | a1
+2026-10-12 17:16 | businesspost.co.kr | DL이앤씨 플랜트 부진에 수익성 회복 '제동', 박상신 데이터센터·SMR에... | https://www.businesspost.co.kr/BP?command=article_view&num=449100 | a1,a1?
+2026-10-12 17:12 | insight.co.kr | 삼성물산이 '넥스트 리모델링' 첫 사업으로 반포푸르지오를 새 래미안으... | https://www.insight.co.kr/news/577451 | a1
+2026-10-12 17:08 | ceoscoredaily.com | 삼성물산 패션, 자체브랜드 강화·해외브랜드 확대로 ‘실적 반등’ | https://www.ceoscoredaily.com/page/view/2026101215473529793 | a1
+2026-10-12 17:08 | daily.hankooki.com | [건설업계 브리핑] 삼성물산·대우건설·포스코이앤씨 外 | https://daily.hankooki.com/news/articleView.html?idxno=1413885 | a1
+2026-10-12 17:01 | catchnews.kr | '5개층 커뮤니티·AI주차·로봇발렛' 삼성물산, 반포푸르지오 리모델링... | https://www.catchnews.kr/news/articleView.html?idxno=129177 | a1
+2026-10-12 16:56 | whitepaper.co.kr | 삼성물산, 반포푸르지오 리모델링 입찰…24일 시공사 선정 | http://www.whitepaper.co.kr/news/articleView.html?idxno=267692 | a1
+2026-10-12 16:54 | niceeconomy.co.kr | [건설 브리핑] IPARK현대산업개발·삼성물산·대우건설·LH | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91294 | a1
+2026-10-12 16:42 | asiaa.co.kr | 삼성물산, 반포푸르지오 리모델링 제안...'넥스트 리모델링' 구체화 | https://www.asiaa.co.kr/news/articleView.html?idxno=265933 | a1
+2026-10-12 16:34 | 조선일보 | Biosimilar Firms Race for $400 Billion Patent Cliff - 조선일보 | google:조선일보 | aen4
+2026-10-12 16:30 | datasom.co.kr | 삼성물산, 반포푸르지오 시공사 선정 앞두고 리모델링 설계안 제시 | https://www.datasom.co.kr/news/articleView.html?idxno=210293 | a1
+2026-10-12 16:28 | smartbizn.com | 재건축은 오래 걸리고, 리모델링은 상품성이 관건···삼성물산 해법은 | https://www.smartbizn.com/news/articleView.html?idxno=156170 | a1
+2026-10-12 16:18 | 아시아경제 | KOSPI Falls More Than 3% Amid Foreign Selling... Closes Around 6,380 - 아시아경제 | google:아시아경제 | aen1,aen3
+2026-10-12 16:18 | Sawit Indonesia | Tekan Stunting di Riau, Agrinas Palma Nusantara Intervensi Gizi Ibu dan Anak di Empat Kabupaten - Sawit Indonesia | google:Sawit Indonesia | aid8
+2026-10-12 16:18 | inthenews.co.kr | 삼성물산, 반포푸르지오에 ‘넥스트 리모델링’ 첫 제안…24일 시공사 ... | https://www.inthenews.co.kr/news/article.html?no=92946 | a1
+2026-10-12 16:12 | LiputanOke.Com | Kejar-kejaran di Kebun Sawit, Pencuri Motor di Pelalawan Tertangkap Warga - LiputanOke.Com | google:LiputanOke.Com | aid6
+2026-10-12 16:11 | news.tvchosun.com | 삼성물산, 반포푸르지오 입찰제안…'넥스트 리모델링' 첫 적용 | https://news.tvchosun.com/site/data/html_dir/2026/10/12/2026101290167.html | a1
+2026-10-12 16:05 | 디지털투데이 | KOSPI breaks below 6,400 as foreigners sell 2 trillion won; Kosdaq plunges 4.8 percent - 디지털투데이 | google:디지털투데이 | aen3
+2026-10-12 15:56 | BeritaOne.id | Antisipasi Dampak Kabut Asap, Kapolsek Kuala Cenaku Bersama Forkopimcam Tinjau Rumah Singgah Oksigen - BeritaOne.id | google:BeritaOne.id | aid2
+2026-10-12 15:56 | pinpointnews.co.kr | [거래소 외국인] 이수페타시스·삼성전기 사고 SK하이닉스·삼성전자 폭... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=494551 | a1,a1?,a7,a7?
+2026-10-12 15:54 | polinews.co.kr | 삼성물산, 반포푸르지오 리모델링 입찰…전용 84㎡ 평면 2종 공개 | https://www.polinews.co.kr/news/articleView.html?idxno=745474 | a1
+2026-10-12 15:52 | ttlnews.com | 삼성물산, 반포푸르지오 리모델링 입찰 제안…맞춤 평면·로봇 주차 제... | http://www.ttlnews.com/news/articleView.html?idxno=3150846 | a1
+2026-10-12 15:50 | wsobi.com | IPARK현대산업개발, AI 활용 전 세대 층간소음 실측 진행·삼성물산 리조... | http://www.wsobi.com/news/articleView.html?idxno=319509 | a1
+2026-10-12 15:49 | 매일경제 | KOSPI, which resumed trading on the 12th after the Hangeul Day holiday, ended up plunging around 3% - 매일경제 | google:매일경제 | aen1
+2026-10-12 15:20 | newspost.kr | 삼성물산, 반포푸르지오에 입찰제안서 제출...넥스트 리모델링 첫선 | https://www.newspost.kr/news/articleView.html?idxno=226286 | a1
+2026-10-12 14:54 | news2day.co.kr | 삼성물산, 반포푸르지오 리모델링에 '넥스트 모델' 첫 입찰 | https://www.news2day.co.kr/article/20261012500078 | a1
+2026-10-12 14:50 | tanahair.net | Masyarakat sipil Indonesia desak sahkan strategi keanekaragaman hayati jelang COP17 CBD - tanahair.net | google:tanahair.net | aid9
+2026-10-12 14:44 | 4th.kr | 삼성물산, 반포푸르지오 '넥스트 리모델링' 첫 적용..24일 시공사 선정 | http://www.4th.kr/news/articleView.html?idxno=2119573 | a1
+2026-10-12 14:43 | 매일경제 | Samsung E&A will join hands with Korea Gas Safety Corporation to target the overseas aging plant.. - 매일경제 | google:매일경제 | aen13
+2026-10-12 14:42 | economytalk.kr | 삼성물산, 헐지 않고 바꾼다…반포푸르지오에 '넥스트 리모델링' 제안 | http://www.economytalk.kr/news/articleView.html?idxno=424585 | a1
+2026-10-12 14:38 | job-post.co.kr | 삼성바이오로직스 119만3000원…2분기 성장 뒤 숨 고르기 | https://www.job-post.co.kr/news/articleView.html?idxno=231696 | a7
+2026-10-12 14:32 | biztribune.co.kr | 삼성물산, 반포푸르지오에 '넥스트 리모델링' 적용… 신축급 주거 혁신... | http://www.biztribune.co.kr/news/articleView.html?idxno=360416 | a1
+2026-10-12 14:28 | kpinews.kr | 삼성물산, 차세대 '넥스트 리모델링' 첫 적용…반포푸르지오 입찰제안서... | https://www.kpinews.kr/newsView/1065590768317849 | a1
+2026-10-12 14:27 | mk.co.kr | 삼성물산 넥스트 리모델링 1호 반포 푸르지오 아파트…벽식구조 한계 깬... | https://www.mk.co.kr/article/12173569 | a1
+2026-10-12 14:00 | klikmx.com | Diburu hingga ke Kebun Sawit, Pencuri Motor Ditangkap - klikmx.com | google:klikmx.com | aid6
+2026-10-12 13:48 | metroseoul.co.kr | IPARK현대산업개발, 숙대입구역세권 재개발 조경 특화…삼성물산과 협업 | http://www.metroseoul.co.kr/article/20261012500301 | a1
+2026-10-12 13:34 | swtvnews.com | IPARK현대산업개발, 삼성물산과 ‘숙대입구역세권 재개발 조경 특화’ ... | https://swtvnews.com/news/newsview.php?ncode=1065579508014954 | a1
+2026-10-12 13:30 | lcnews.co.kr | [건설 Pick] 삼성물산·삼성E&A·대우건설, 주거 정비 전환·해외 플랜트... | https://www.lcnews.co.kr/news/articleView.html?idxno=209482 | a1
+2026-10-12 13:18 | theguru.co.kr | 삼성물산, 호주서 2100억 '다넘 BESS' 프로젝트 시동…신재생에너지 영토... | https://www.theguru.co.kr/news/article.html?no=108126 | a1
+2026-10-12 13:18 | hankyung.com | 벽식 아파트도 욕실 옮긴다…삼성물산 '넥스트 리모델링' 청사진 | https://www.hankyung.com/article/202610126035i | a1
+2026-10-12 13:12 | sisaon.co.kr | 삼성물산, 반포푸르지오 '넥스트 리모델링' 제안 [건설·분양오늘] | https://www.sisaon.co.kr/news/articleView.html?idxno=205032 | a1
+2026-10-12 13:07 | Tribunpekanbaru.com | Pengedar Narkoba Ditangkap di Kebun Sawit Desa Kesuma, Sita 4 Paket Sabu Disita Polres Pelalawan - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid6
+2026-10-12 13:04 | thevaluenews.co.kr | [건설 레이더] 중흥건설·삼성물산·금호건설, 호남 반도체 지원·'반포... | http://www.thevaluenews.co.kr/news/view.php?idx=202258 | a1
+2026-10-12 12:58 | g-enews.com | 삼성물산, 재건축 대신 '넥스트 리모델링'…반포푸르지오에 'N캔버스' 적... | https://www.g-enews.com/view.php?ud=2026101212493525912aa6f4cdad_1 | a1
+2026-10-12 12:49 | 조선일보 | Exclusive: 80% of Passenger Vehicle Delivery Workers Drive Without Insurance - 조선일보 | google:조선일보 | aen13
+2026-10-12 12:44 | econovill.com | 삼성물산 '넥스트 리모델링', 첫 사업지 '반포푸르지오'에 입찰제안서 | https://www.econovill.com/news/articleView.html?idxno=753275 | a1
+2026-10-12 11:56 | newsprime.co.kr | [카드] 삼성물산 "넥스트 리모델링 베일 벗었다" 반포푸르지오 입찰제안... | http://www.newsprime.co.kr/news/article.html?no=750529 | a1
+2026-10-12 11:05 | BigGo Finance | Samsung E&A Partners with Korea Gas Safety Corporation to Target Overseas Aging Plant Retrofit Market - BigGo Finance | google:BigGo Finance | aen13
+2026-10-12 10:57 | fnnews.com | 베일 벗은 삼성물산 '넥스트 리모델링'...반포푸르지오 입찰제안서 제출 | https://www.fnnews.com/news/202610121012183872 | a1
+2026-10-12 10:52 | weeklytoday.com | [위클리오늘] 삼성물산, 반포푸르지오에 '넥스트 리모델링' 제안···신... | http://www.weeklytoday.com/news/articleView.html?idxno=797575 | a1
 2026-10-12 10:48 | e-science.co.kr | 삼성물산, 반포푸르지오 84㎡ 공간 공식 바꾼다…'넥스트 리모델링' 첫... | https://www.e-science.co.kr/news/articleView.html?idxno=137065 | a1
+2026-10-12 10:48 | sedaily.com | 삼성물산 “반포푸르지오, 재건축 없이 신축급 아파트로” | https://www.sedaily.com/article/20100386?ref=naver | a1
+2026-10-12 10:47 | Seoul Economic Daily | Samsung C&T Pitches New-Build Quality Without Rebuilding - Seoul Economic Daily | google:Seoul Economic Daily | aen1
 2026-10-12 10:44 | smedaily.co.kr | 삼성물산, 반포푸르지오 리모델링 입찰제안서 제출 '넥스트 리모델링' ... | http://www.smedaily.co.kr/news/articleView.html?idxno=364459 | a1
-2026-10-12 10:42 | techholic.co.kr | 삼성물산 '넥스트 리모델링' 첫선-반포푸르지오에 입찰제안서 제출 | http://www.techholic.co.kr/news/articleView.html?idxno=223197 | a1
 2026-10-12 10:40 | arunews.com | 삼성물산, 반포푸르지오에서 '넥스트 리모델링' 첫선 | https://www.arunews.com/news/articleView.html?idxno=68015 | a1
 2026-10-12 10:34 | newswell.co.kr | "구축 아파트를 신축급으로"… 삼성물산, '넥스트 리모델링' 공개 | http://www.newswell.co.kr/news/articleView.html?idxno=22579 | a1
 2026-10-12 10:30 | cstimes.com | 삼성물산, 구축 아파트 신축 전환 승부수…반포푸르지오 리모델링 입찰 | https://www.cstimes.com/news/articleView.html?idxno=723562 | a1
-2026-10-12 10:28 | goodkyung.com | [굿모닝! 12일 건설업계 소식] 삼성물산·대우건설·현대엔지니어링·LH... | https://www.goodkyung.com/news/articleView.html?idxno=292223 | a1
+2026-10-12 10:28 | goodkyung.com | [굿모닝! 12일 건설업계 소식] 삼성물산·대우건설·현대엔지니어링·LH... | https://www.goodkyung.com/news/articleView.html?idxno=292223 | a1,a10
 2026-10-12 10:24 | newsian.co.kr | 반포푸르지오로 첫 출격한 삼성물산 건설부문의 '넥스트 리모델링' [도... | http://www.newsian.co.kr/news/articleView.html?idxno=96863 | a1,a3
-2026-10-12 10:22 | megaeconomy.co.kr | 삼성물산, 반포푸르지오에 '넥스트 리모델링' 첫 적용…24일 시공사 선정 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575208933178 | a1,a12
 2026-10-12 10:20 | fetv.co.kr | 삼성물산, 리모델링 1호 사업지 반포푸르지오 공략…24일 시공사 선정 | https://www.fetv.co.kr/news/articleView.html?idxno=311569 | a1
 2026-10-12 10:20 | datanews.co.kr | 삼성물산 건설부문, 반포푸르지오에 ‘넥스트 리모델링’ 제안 | http://www.datanews.co.kr/news/article.html?no=146874 | a1,a3
-2026-10-12 10:06 | popcornnews.net | 삼성물산, 반포푸르지오에 입찰제안서 제출...'넥스트 리모델링' 1호 | http://www.popcornnews.net/news/articleView.html?idxno=135588 | a1,a6
 2026-10-12 10:06 | bizwork.co.kr | 5500억 용산 재개발 수주전…IPARK현대산업개발, 삼성물산과 조경 협업 | https://www.bizwork.co.kr/news/articleView.html?idxno=419773 | a1
 2026-10-12 10:04 | 아시아경제 | KOSPI Falls More Than 2% Intraday on Foreign Selling - 아시아경제 | google:아시아경제 | aen1
-2026-10-12 10:04 | theguru.co.kr | 목동 재건축 놓고 삼성물산·현대건설 등 '빅4 잔치'...경쟁 없이 수의계... | https://www.theguru.co.kr/news/article.html?no=108113 | a1,a7
-2026-10-12 10:02 | mk.co.kr | 베일 벗은 ‘넥스트 리모델링’…삼성물산, 반포푸르지오에 첫 입찰제안... | https://www.mk.co.kr/article/12173352 | a1
 2026-10-12 10:02 | moneystorm.kr | 삼성물산, 반포푸르지오 '넥스트 리모델링' 첫 선…"특화 설계 승부수 ... | https://www.moneystorm.kr/news/articleView.html?idxno=7158 | a1
+2026-10-12 10:02 | mk.co.kr | 베일 벗은 ‘넥스트 리모델링’…삼성물산, 반포푸르지오에 첫 입찰제안... | https://www.mk.co.kr/article/12173352 | a1
 2026-10-12 10:01 | 매일경제 | Samsung C&T's construction division (Samsung C&T) will enter the apartment remodeling busine.. - 매일경제 | google:매일경제 | aen1
 2026-10-12 09:58 | thetracker.co.kr | 삼성물산 ‘넥스트 리모델링’ 첫선…반포푸르지오에 하이엔드 설계 제... | https://thetracker.co.kr/View.aspx?No=4259075 | a1
-2026-10-12 09:56 | wowtv.co.kr | 삼성물산, 반포푸르지오 입찰제안…넥스트 리모델링 추진 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120039&t=NN | a1
+2026-10-12 09:54 | ajunews.com | 삼성물산 '넥스트 리모델링' 첫선…반포푸르지오에 제안서 제출 | https://www.ajunews.com/view/20261012095057737 | a1
+2026-10-12 09:51 | 헤럴드경제 | Kospi falls over 1% as foreign selling drags down Samsung Electronics, SK hynix - 헤럴드경제 | google:헤럴드경제 | aen3
 2026-10-12 09:40 | financialpost.co.kr | 삼성물산, 반포푸르지오에 맞춤형 평면 리모델링·로봇 주차 제안 | https://www.financialpost.co.kr/news/articleView.html?idxno=279743 | a1,a7?
-2026-10-12 09:38 | shinailbo.co.kr | 삼성물산, '넥스트 리모델링' 시동…반포 푸르지오에 첫 제안 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5070512 | a1
+2026-10-12 09:39 | 아시아경제 | Samsung C&T Submits Bid for Banpo Prugio Remodeling, First Use of 'Next Remodeling' - 아시아경제 | google:아시아경제 | aen1
 2026-10-12 09:36 | fntimes.com | 삼성물산 '넥스트 리모델링' 첫선…반포푸르지오, 신축 래미안으로 바뀌... | https://www.fntimes.com/html/view.php?ud=202610120922497083048b718333_18 | a1
-2026-10-12 09:30 | news.tf.co.kr | ﻿삼성물산, '넥스트 리모델링' 구체화…반포푸르지오에 첫 적용 제안 | https://news.tf.co.kr/read/economy/2374890.htm | a1
 2026-10-12 09:30 | socialvalue.kr | 삼성물산, '넥스트 리모델링' 사업 본격화…반포푸르지오에 첫 적용 | https://www.socialvalue.kr/news/view/1065572054509931 | a1
 2026-10-12 09:24 | businessplus.kr | 삼성물산, 반포푸르지오에 '넥스트 리모델링' 첫 입찰…골조 유지해 사... | https://www.businessplus.kr/news/articleView.html?idxno=117986 | a1
 2026-10-12 09:22 | newsis.com | 삼성물산, 반포푸르지오 리모델링 제안…84㎡ 평면·공용공간 차별화 | https://www.newsis.com/view/NISX20261012_0003821548 | a1,a3?
 2026-10-12 09:22 | segyebiz.com | 골조 해체 없이 내외관 신축급으로... 삼성물산, 반포푸르지오에 ‘넥스... | http://www.segyebiz.com/newsView/20261012505671?OutUrl=naver | a1
 2026-10-12 09:14 | ebn.co.kr | 삼성물산 '넥스트 리모델링' 첫 공개…반포푸르지오 어떻게 바뀌나 | https://www.ebn.co.kr/news/articleView.html?idxno=1727369 | a1
 2026-10-12 09:10 | newsdream.kr | 삼성물산 '넥스트 리모델링' 첫선…반포 푸르지오에 적용 예정 | http://www.newsdream.kr/news/articleView.html?idxno=119731 | a1
-2026-10-12 09:08 | seoultimes.news | 삼성물산, 반포푸르지오에 ‘넥스트 리모델링’ 제안…24일 선정 총회 | https://www.seoultimes.news/news/article.html?no=2000100747 | a1,a6?
-2026-10-12 09:06 | edaily.co.kr | 삼성물산, 반포푸르지오에 ‘넥스트 리모델링’ 첫 적용 제안 | https://www.edaily.co.kr/News/Read?newsId=02256646645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
+2026-10-12 09:08 | seoultimes.news | 삼성물산, 반포푸르지오에 ‘넥스트 리모델링’ 제안…24일 선정 총회 | https://www.seoultimes.news/news/article.html?no=2000100747 | a1
+2026-10-12 09:02 | 헤럴드경제 | Samsung C&T submits bid for first 'Next Remodeling' project at Banpo Prugio - 헤럴드경제 | google:헤럴드경제 | aen1,aen2
 2026-10-12 09:02 | smarttoday.co.kr | 삼성물산 에버랜드, 가을축제 공연·사파리 체험 운영 | https://www.smarttoday.co.kr/ko-kr/articles/112473 | a1
 2026-10-12 09:01 | hankyung.com | "재건축 없이 신축 래미안으로"…삼성물산, 반포서 첫 승부수 | https://www.hankyung.com/article/2026101251976 | a1
 2026-10-12 08:52 | mediapen.com | 구축도 신축 래미안으로···삼성물산 '넥스트 리모델링', 반포푸르지오... | https://www.mediapen.com/news/view/1129139 | a1
+2026-10-12 08:46 | biz.chosun.com | 삼성물산, 반포푸르지오에 입찰제안서… 넥스트 리모델링 첫 사업 추진 | https://biz.chosun.com/real_estate/real_estate_general/2026/10/12/TD6PVUTBD5AP7DM6KT32Q4JIYE/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
 2026-10-12 08:45 | Chosunbiz | Samsung C&T bids Banpo Prugio as first Next Remodeling project in South Korea - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1
 2026-10-12 08:31 | 아시아경제 | "Autumn Flower Gardens, Fireworks and Safari Expeditions"... Everland Unveils Full Lineup of Fall Attractions - 아시아경제 | google:아시아경제 | aen1,aen2
 2026-10-12 08:30 | mt.co.kr | [알림]"에너지, 결코 다시 에너지"…AI 시대 해법 28~30일 확인하자 | https://www.mt.co.kr/industry/2026/10/12/2026101110282981904 | a7?
 2026-10-12 08:15 | news1.kr | Samsung Biologics Expands End-to-End CDMO Services: What This Means for J... | https://www.news1.kr/bio/pharmaceutical-bio/6316196 | a8
-2026-10-12 08:00 | g-enews.com | 2030 신규 구매 68%…삼성물산 패션, 경량패딩 ‘멀티시즌’ 공략 | https://www.g-enews.com/view.php?ud=2026100816323726571d2373fc0f_1 | a1
-2026-10-12 06:31 | 조선일보 | Tech Firms Outrank Hygiene Brands in Korean Health Impact Survey - 조선일보 | google:조선일보 | aen1
+2026-10-12 06:31 | 조선일보 | South Koreans Rank IT Firms Top in Health Contribution Survey - 조선일보 | google:조선일보 | aen1
 2026-10-12 06:03 | segye.com | 삼바 노조 또 파업 예고… 글로벌 수주전 발목 잡나 | https://www.segye.com/newsView/20261011511752?OutUrl=naver | a7?
-2026-10-12 05:30 | 조선일보 | Biosimilar Race Heats Up as $400 Billion Market Emerges - 조선일보 | google:조선일보 | aen4
-2026-10-12 05:20 | dnews.co.kr | [이번주 재개발ㆍ재건축] 여의도 시범 ‘삼성물산’ㆍ목동10단지 ‘현대... | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610111338298490056 | a1,a6
-2026-10-12 05:04 | 조선일보 | Exclusive: Passenger Vehicle Delivery Workers: 80% Uninsured - 조선일보 | google:조선일보 | aen13
+2026-10-12 04:06 | Yahoo! Finance Canada | Samsung Electronics Co., Ltd. (SSUN.F) Stock Price, News, Quote & History - Yahoo! Finance Canada | google:Yahoo! Finance Canada | aen3
+2026-10-12 02:26 | IndexBox | Glass Prefilled Syringes And Glass Vials Packaging Equipment Market To 2035: Biologics Demand Fuels Growth - News and Statistics - IndexBox | google:IndexBox | aen3
 2026-10-12 00:02 | sedaily.com | [사설] 파업 근로손실 9년 만에 최대 우려…노봉법 탓 아닌가 | https://www.sedaily.com/article/20100202?ref=naver | a7?
-2026-10-11 23:46 | 조선일보 | Korean Biosimilars Expand Pipelines as $400B Patent Cliff Looms - 조선일보 | google:조선일보 | aen4
-2026-10-11 22:09 | KiblatRiau.Com | Polres Pelalawan Tangkap Pelaku Narkoba saat Transaksi di Kebun Sawit - KiblatRiau.Com | google:KiblatRiau.Com | aid6
-2026-10-11 21:01 | Haluan Riau | Empat Paket Sabu Disita dari Kebun Sawit Kesuma,Berat 7,7 Gram - Haluan Riau - Haluan Riau | google:Haluan Riau | aid6
-2026-10-11 18:40 | fnnews.com | 삼성바이오 노조 또 3주 파업… 임금손실 주요 변수로 | https://www.fnnews.com/news/202610111838183050 | a7?
-2026-10-11 16:35 | 매일경제 | Samsung Biologics booth in the middle of the Pacifico exhibition hall in Yokohama, Japan on the 8th... - 매일경제 | google:매일경제 | aen3
-2026-10-11 16:34 | mk.co.kr | IPARK현산·삼성물산 손잡고 … 숙대역세권 재개발 조경 특화 | https://www.mk.co.kr/article/12173018 | a1
-2026-10-11 15:04 | Koran Perdjoeangan | Perkuat Solidaritas Organisasi, PUK SPPK-FSPMI PT RSS Pelalawan Gelar Konsolidasi Bersama DPW FSPMI Riau - Koran Perdjoeangan | google:Koran Perdjoeangan | aid6
-2026-10-11 14:39 | Seoul Economic Daily | Police Probe Construction Flaws After Daegu Ceiling Collapse Injures 38 - Seoul Economic Daily | google:Seoul Economic Daily | aen13
-2026-10-11 13:40 | news.tvchosun.com | IPARK현대산업개발, 숙대입구 재개발 조경 삼성물산과 협업 | https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190041.html | a1
-2026-10-11 13:01 | mk.co.kr | 실적 선방이라며...삼성바이오로직스 눈높이 낮추는 증권가, 왜? | https://www.mk.co.kr/article/12171495 | a7
-2026-10-11 11:16 | mediapen.com | 미국 빅테크는 감원으로 체질 개선…한국 기업은 파업·노동입법에 발목 | https://www.mediapen.com/news/view/1129098 | a7?
-2026-10-11 10:57 | sedaily.com | “영업익 N% 달라” 대기업 파업에…근로손실일수 벌써 작년 넘어 | https://www.sedaily.com/article/20100073?ref=naver | a7?
-2026-10-11 10:31 | InfoSAWIT | Agrinas Palma Nusantara Salurkan Bantuan Nutrisi untuk 200 Penerima Manfaat di Rokan Hulu - InfoSAWIT | google:InfoSAWIT | aid8
-2026-10-11 09:55 | biz.chosun.com | IPARK현산, 삼성물산과 숙대입구역세권 재개발 조경 특화 MOU | https://biz.chosun.com/real_estate/real_estate_general/2026/10/11/MGDXE6XVXBHE3ILDQXUOD6OPZU/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
-2026-10-11 09:55 | Chosunbiz | Ipark Hyeonsan signs Samsung C&T MOU for Yongsan landscape redevelopment - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen1,aen2
-2026-10-11 09:43 | Korea IT Times | [Insight] Samsung SDS Connects AI Infrastructure with Manufacturing Operations - Korea IT Times | google:Korea IT Times | aen1
-2026-10-11 09:00 | Seoul Economic Daily | Court Rules Worker's Death From Pulmonary Embolism After Ankle Fracture Is Work-Related - Seoul Economic Daily | google:Seoul Economic Daily | aen13
-2026-10-11 07:00 | The Warragul & Drouin Gazette | Call for BESS submissions - The Warragul & Drouin Gazette | google:The Warragul & Drouin Gazette | aen1
-2026-10-11 00:26 | Insider Monkey | Jim Cramer Breaks Down the Stakes in Detail as GRAIL (GRAL) Awaits Its Next Big Decision - Insider Monkey | google:Insider Monkey | aen1
-2026-10-10 21:30 | CatatanRiau.com | 66 SHM Desa Sotol Diduga Cacat Administrasi, BPN Riau Turun Tangan - CatatanRiau.com | google:CatatanRiau.com | aid6
-2026-10-10 20:32 | segye.com | 아이파크현대산업개발, 삼성물산과 용산 숙대입구역세권 재개발 조경 특... | https://www.segye.com/newsView/20261009505626?OutUrl=naver | a1
-2026-10-10 18:06 | CatatanRiau.com | Kebakaran di Rokan Hulu Tewaskan Ayah Empat Anak, Istri dan Tiga Anak Luka Bakar - CatatanRiau.com | google:CatatanRiau.com | aid2
-2026-10-10 17:44 | katakabar.com | DPO Peristiwa Berdarah di PT SBP Inhu Muncul di Media Massa, Polisi Kok Diam? - katakabar.com | google:katakabar.com | aid9
-2026-10-10 17:24 | Chosunbiz | Korea probes Bucheon power plant deaths under Serious Accidents law - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen13
-2026-10-10 16:26 | Yahoo Finance Singapore | Samsung Biologics Co.,Ltd. (207940.KS) stock price, news, quote and history - Yahoo Finance Singapore | google:Yahoo Finance Singapore | aen3,aen5
-2026-10-10 16:00 | AAD Today | BPN Riau Kaji Pembatalan 66 SHM di Sotol, Ditargetkan Tuntas Oktober 2026 - AAD Today | google:AAD Today | aid6
-2026-10-10 14:27 | Pontianak Post | Melihat Lebih Dekat Praktik Benih Sawit melalui Kunjungan Pembibitan Dami Mas - Pontianak Post | google:Pontianak Post | aid8
-2026-10-10 13:28 | CatatanRiau.com | Tabrak Belakang Truk Tronton di Lintas Duri-Dumai, Sopir Truk Tangki CPO Tewas - CatatanRiau.com | google:CatatanRiau.com | aid2
-2026-10-10 11:48 | pointe.co.kr | IPARK현대산업개발, 삼성물산과 용산 재개발 조경 특화 맞손 | https://www.pointe.co.kr/news/articleView.html?idxno=85854 | a1
-2026-10-10 10:29 | 조선일보 | Court Orders Taean Oil Spill Groups to Return 280 Billion Won - 조선일보 | google:조선일보 | aen13
-2026-10-10 09:22 | HALLORIAU.COM | SF Hariyanto Minta Persoalan Pertanahan di Riau Dipetakan agar Tak Berlarut-larut - HALLORIAU.COM | google:HALLORIAU.COM | aid9
-2026-10-10 08:09 | Yahoo Finance | PolyPeptide Group (SWX:PPGN) Looks Fully Valued Following Samsung Biologics Tender Offer - Yahoo Finance | google:Yahoo Finance | aen3
-2026-10-10 07:02 | news2day.co.kr | 삼성바이오, 지속되는 노사갈등...주주가치 시험대 | https://www.news2day.co.kr/article/20261008500291 | a7?
-2026-10-09 23:38 | BeritaOne.id | Masa Depan Anak Jadi Perhatian, Agrinas Palma Nusantara Santuni 110 Anak di Rohul - BeritaOne.id | google:BeritaOne.id | aid2
-2026-10-09 21:30 | Fierce Pharma | Fierce Pharma Asia—Novartis’ $7.8B mRNA deal; Shionogi’s $2B buy; ArriVent’s phase 3 flop - Fierce Pharma | google:Fierce Pharma | aen4
-2026-10-09 21:09 | katakabar.com | Oalah Sempat Jadi Narasumber di Media, Ternyata Kucil Masuk DPO Konflik Lahan di Sungai Raya Inhu - katakabar.com | google:katakabar.com | aid9
-2026-10-09 20:56 | 조선일보 | Samsung Bioepis, Service Ace Honored for Childcare Innovations - 조선일보 | google:조선일보 | aen4
-2026-10-09 20:52 | koreareport.co.kr | IPARK현대산업개발, 삼성물산과 숙대입구역 재개발 조경특화 협약 | https://www.koreareport.co.kr/news/articleView.html?idxno=53542 | a1
-2026-10-09 20:24 | BeritaOne.id | Ribuan Anggota ASPANJI Siap Berkompetensi dalam Pengadaan Jasa di Kemenkes RI - BeritaOne.id | google:BeritaOne.id | aid2
-2026-10-09 19:38 | Vietnam.vn | Finding a way for Vietnamese sesame to enter the Korean food chain. - Vietnam.vn | google:Vietnam.vn | aen1
-2026-10-09 17:54 | sports.hankooki.com | IPARK현대산업개발, 삼성물산 리조트 부문과 맞손…숙대입구역세권 재개... | https://sports.hankooki.com/news/articleView.html?idxno=6941437 | a1,a6
-2026-10-09 17:35 | 매일경제 | Jusung Engineering, a semiconductor deposition equipment company, is riding a rally in semiconductor.. - 매일경제 | google:매일경제 | aen1
-2026-10-09 17:29 | pantau.com | Produksi Biomassa Sawit Indonesia Terkendala Biaya Logistik, Teknologi, dan Jaminan Keberlanjutan - pantau.com | google:pantau.com | aid6
-2026-10-09 17:23 | BeritaOne.id | PT Inecda Bantu Pembangunan Sumur Bor untuk Atasi Kesulitan Air Bersih Warga Desa Talang Sungai Parit - BeritaOne.id | google:BeritaOne.id | aid2
-2026-10-09 16:30 | pinpointnews.co.kr | IPARK현대산업개발, 삼성물산과 용산 숙대입구역세권 조경 협업 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=494042 | a1,a7
-2026-10-09 16:08 | RiauBISA.com | Pemprov Riau dan BPN Perkuat Koordinasi, Dorong Penyelesaian Persoalan Pertanahan - RiauBISA.com | google:RiauBISA.com | aid9
-2026-10-09 15:50 | Satuju | Jumat Curhat, Kapolsek Langgam Perkuat Komunikasi Dua Arah dengan Warga - Satuju | google:Satuju | aid6
-2026-10-09 15:47 | Tribunpekanbaru.com | Sunco Rp 20 Ribu Satu Liter, PT Musim Mas Siapkan 7,5 Ton Migor Murah Selama Helat Pelalawan ke-27 - Tribunpekanbaru.com | google:Tribunpekanbaru.com | aid6
-2026-10-09 15:32 | sawitsetara.co | Konflik Lahan Sawit Riau, Satgas PKH Diminta Buka Dasar Pengukuhan Kawasan Hutan - sawitsetara.co | google:sawitsetara.co | aid9
-2026-10-09 15:19 | seoul.co.kr | 삼성물산·현대건설 선점한 여의도에…DL이앤씨도 첫 수주 도전 | https://www.seoul.co.kr/news/economy/estate/2026/10/09/20261009500121?wlog_tag3=naver | a1
-2026-10-09 14:59 | Riau Pos | Sidak Pasar Soegih Belilias, Pemkab Inhu Benahi Drainase Area Penjualan Ikan - Riau Pos | google:Riau Pos | aid2
-2026-10-09 14:48 | 매일경제 | Lee Seo-hyun, Kim Woong-ki and Seok Young-bae among the world's 200 top art collectors - 매일경제 | google:매일경제 | aen1
-2026-10-09 13:21 | Okeline.com | Belasan Pasangan Terjaring Razia Hotel dan THM, Pemko Pekanbaru: Tindak Lanjut Laporan Masyarakat - Okeline.com | google:Okeline.com | aid9
-2026-10-09 12:57 | 매일경제 | IPARK Hyundai Industrial Development announced on the 9th that it has signed a memorandum of underst.. - 매일경제 | google:매일경제 | aen1
-2026-10-09 11:51 | BW Businessworld | Reliance Industries Plans Rs 1 Lakh Cr Investment In Andhra Pradesh CBG Projects - BW Businessworld | google:BW Businessworld | aen1
-2026-10-09 11:38 | 아시아경제 | IPARK Hyundai Development Targets Redevelopment Near Sookmyung Women's University Station, Signs Landscaping Pact with Samsung C&T - 아시아경제 | google:아시아경제 | aen1
-2026-10-09 11:38 | view.asiae.co.kr | IPARK현산, 숙대입구역세권 재개발 공략…삼성물산과 조경 특화 협약 | https://view.asiae.co.kr/article/2026100911383614469 | a1
-2026-10-09 11:37 | Bybit | Samsung Biologics (Stove Tokenized Stock) (SMSNBIOS) Price Prediction for 2026 to 2031 - Bybit | google:Bybit | aen3
-2026-10-09 10:49 | ppss.kr | IPARK현대산업개발, 삼성물산 리조트와 '자연+도심' 조경 전략…용산 랜... | https://www.ppss.kr/news/articleView.html?idxno=314723 | a1
-2026-10-09 10:26 | GoRiau.com | Cuaca Riau Hari Ini Diwarnai Kabut Asap, Cek Potensi Hujan Deras di Pekanbaru dan Sekitarnya - GoRiau.com | google:GoRiau.com | aid8
-2026-10-09 10:10 | mt.co.kr | IPARK현산-삼성물산 리조트 부문, 숙대입구역세권 조경 MOU | https://www.mt.co.kr/estate/2026/10/09/2026100910011550896 | a1,a6
-2026-10-09 10:02 | Simply Wall Street | PolyPeptide Group (SWX:PPGN) As Samsung Biologics Bid Leaves The Stock Looking Fully Valued - Simply Wall Street | google:Simply Wall Street | aen3
-2026-10-09 07:07 | 매일경제 | With the third-quarter earnings announcement season in full swing, the stock prices of large-cap sto.. - 매일경제 | google:매일경제 | aen1
-2026-10-09 07:01 | news1.kr | 구미시, 15일 삼성물산과 '지역건설업체 상생협력 매칭데이' 개최 | https://www.news1.kr/local/daegu-gyeongbuk/6313346 | a1
-2026-10-09 03:26 | Sawit Indonesia | Perkuat Tata Kelola dan Produktivitas Hulu, BPDP Gandeng 21 Dinas Daerah Lewat PKS Sarpras Kelapa 2026 - Sawit Indonesia | google:Sawit Indonesia | aid8
-2026-10-09 02:46 | BeritaOne.id | LBH Soroti Kewajiban Eks PT SAL atas 469 Hektare Kawasan Hutan - BeritaOne.id | google:BeritaOne.id | aid8,aid9
-2026-10-09 01:17 | riaupos.co | Persidangan Korupsi Kuansing Ungkap Mantan Kabag Umum Punya Rekening Rp2,9 Miliar - riaupos.co | google:riaupos.co | aid8
-2026-10-09 00:56 | ANTARA News | Komnas HAM terima belasan aduan dampak penertiban lahan Satgas PKH - ANTARA News | google:ANTARA News | aid9
-2026-10-09 00:54 | chosun.com | 서비스에이스, 아빠 직원 62% 육아휴직… 삼성바이오에피스, 400억 들여... | https://www.chosun.com/national/welfare-medical/2026/10/09/I52I2ESCUFA6VOLFOKGUIDTF2Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a10
-2026-10-08 23:40 | Oketimes.com | Tujuh Kali Berkas Dikembalikan, Kasus PT Musim Mas Masih Tertahan di Meja Jaksa - Oketimes.com | google:Oketimes.com | aid6
-2026-10-08 23:11 | kompas1net | Lebih dari 150 Hektare Kebun Sawit Warga di Sungai Raya Dirusak Ando, Polisi Diminta Segera Tangkap Pelaku - kompas1net | google:kompas1net | aid8
-2026-10-08 21:42 | METRORIAU.COM | Pemkab Inhu Rumuskan Arah Pembangunan Kelapa Sawit Melalui RAD-KSB - METRORIAU.COM | google:METRORIAU.COM | aid8
-2026-10-08 20:54 | Free Press Journal | Maharashtras $3 Billion Green Ammonia Project Faces Cancellation As IPO-Bound INOX Air Products Cites - Free Press Journal | google:Free Press Journal | aen1
-2026-10-08 19:45 | 아시아경제 | Gyeonggi Province Connects Local Firms with 30 Major General Contractors to Expand Contract Opportunities - 아시아경제 | google:아시아경제 | aen1
-2026-10-08 18:19 | fnnews.com | 삼성웰스토리, 구내식당에 지중해식 메뉴 선보여 | https://www.fnnews.com/news/202610081817342867 | a12
-2026-10-08 18:16 | joongangenews.com | 삼성바이오로직스 주가, 10월 8일 애프터마켓 1,223,000원 4.23% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=553711 | a12,a7,a9
-2026-10-08 17:58 | pointdaily.co.kr | 삼성웰스토리, 업계 최초 '이야이야앤프렌즈'와 협업…지중해 식문화 담... | https://www.pointdaily.co.kr/news/articleView.html?idxno=321779 | a12
-2026-10-08 17:50 | consumernews.co.kr | 삼성물산 패션, 에잇세컨즈·빈폴·구호플러스 경량 패딩 라인업 확대.... | http://www.consumernews.co.kr/news/articleView.html?idxno=765571 | a1,a1?,a3?
-2026-10-08 17:47 | KED Global | Alteogen chairman says Dutch Keytruda SC ruling to affect only 3% of global market - KED Global | google:KED Global | aen4
-2026-10-08 17:39 | 매일경제 | The landscape of the biosimilar (bio-pharmaceutical generic drug whose patent has expired) developme.. - 매일경제 | google:매일경제 | aen4
-2026-10-08 17:20 | biztribune.co.kr | 삼성바이오로직스, "고객 만족 위한 엔드 투 엔드 서비스로 APAC 시장 공... | http://www.biztribune.co.kr/news/articleView.html?idxno=360308 | a7
-2026-10-08 16:57 | Seoul Economic Daily | Dutch Court Bans Keytruda SC Sales in Eight European Countries - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-10-08 16:40 | topstarnews.net | 삼성물산 주가, 10월 8일 애프터마켓 319,500원 4.91% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16241901 | a1
-2026-10-08 16:34 | lkp.news | 삼성바이오 노조, 삼성전자에 교섭 요구하더니 금감원에 유증 제동 요청... | http://www.lkp.news/news/articleView.html?idxno=84792 | a1?,a7?
-2026-10-08 16:15 | 아시아경제 | KOSPI Plunges Late, Sinks Into 6,600 Range - 아시아경제 | google:아시아경제 | aen1
-2026-10-08 16:00 | Simply Wall Street | RELIANCE: Heavy Spending Still Matters, Cash Flow Now Rests On Jio And Retail - Simply Wall Street | google:Simply Wall Street | aen1
-2026-10-08 15:50 | 매일경제 | The KOSPI, which started higher, increased its decline during the day on the 8th and closed at the 6.. - 매일경제 | google:매일경제 | aen1
-2026-10-08 15:42 | thefirstmedia.net | 삼성웰스토리, 구내식당에 지중해식 한 상…그리스 브랜드와 협업 | http://www.thefirstmedia.net/news/articleView.html?idxno=210424 | a12
-2026-10-08 15:28 | dailian.co.kr | 삼성물산, 목동13단지에 ‘래미안 모브 13’ 제안…수주 굳히기 | https://www.dailian.co.kr/news/view/1699506/?sc=Naver | a1
-2026-10-08 15:28 | weekly.hankooki.com | 삼성웰스토리, 구내식당서 이야이야앤프렌과 협업 메뉴 선봬 | https://weekly.hankooki.com/news/articleView.html?idxno=7188053 | a12
-2026-10-08 15:25 | BigGo Finance | South Korean Biopharmaceutical Exports Hit Record $6.6 Billion in Q3 as Center of Gravity Shifts to Europe - BigGo Finance | google:BigGo Finance | aen3
-2026-10-08 15:24 | news.mtn.co.kr | [단독]삼성물산, 목동13 재건축 단지명 ‘래미안 모브13’ 제안 | https://news.mtn.co.kr/news-detail/2026100815164898125 | a1
-2026-10-08 14:58 | smarttoday.co.kr | [정비사업 디코드] 삼성·대우·롯데, 홍제동 문화타운 재개발 눈독 | https://www.smarttoday.co.kr/ko-kr/articles/112438 | a1?,a3?
-2026-10-08 14:40 | mydaily.co.kr | 파업 앞둔 삼성바이오 노조, 인사제도까지 요구…사측 ‘경영권 침해’... | https://www.mydaily.co.kr/page/view/2026100814393760999 | a7?
-2026-10-08 14:34 | job-post.co.kr | 삼성바이오로직스 122만1000원…CDMO 확장 투자 부담 점검 | https://www.job-post.co.kr/news/articleView.html?idxno=231357 | a7
-2026-10-08 14:26 | 아시아경제 | KOSPI Falls More Than 1%, Slumps into 6,700 Range - 아시아경제 | google:아시아경제 | aen1
-2026-10-08 14:00 | Chosunbiz | Korea shifts K-bio exports to Europe as record $6.6B fuels momentum - CHOSUNBIZ - Chosunbiz | google:Chosunbiz | aen3,aen4
-2026-10-08 13:40 | sateconomy.co.kr | [패션업계동향] LF·삼성물산 경량패딩 확대…무신사 오프라인 방문 2.8... | https://sateconomy.co.kr/news/view/1065587071918188 | a1
-2026-10-08 12:00 | NST Online | High Court upholds RM77mil award against Merdeka 118 subcontractor - NST Online | google:NST Online | aen1
-2026-10-08 12:00 | Sumbarkita.id | Deforestasi oleh Sawit di Sumbar Tembus 354 Ribu Hektare, Tak Sebanding dengan Perolehan Pajak - Sumbarkita.id | google:Sumbarkita.id | aid10
-2026-10-08 11:52 | mk.co.kr | 삼성웰스토리, 구내식당서 ‘지중해식 건강식’ 선보인다 | https://www.mk.co.kr/article/12171359 | a12
-2026-10-08 11:31 | RiauAktual.com | Kades Lubuk Besar Tolak Lahan Warga Disita, Tantang Agrinas Tunjukkan SK Kawasan Hutan yang Diklaim - RiauAktual.com | google:RiauAktual.com | aid8,aid9
-2026-10-08 11:15 | Kompas.com | Ditawari Lahan Ratusan Hektare oleh Perusahaan Sawit, Kades di Riau Pilih Bela Warga - Kompas.com | google:Kompas.com | aid9
-2026-10-08 11:10 | wsobi.com | 삼성물산·현대건설, 글로벌 원자력 에너지 시장 공략 박차 | http://www.wsobi.com/news/articleView.html?idxno=319396 | a1
-2026-10-08 10:28 | businesspost.co.kr | 삼성물산 대표 오세철 불가리아 에너지부 장관 만나, 에너지 협력 가능... | https://www.businesspost.co.kr/BP?command=article_view&num=448890 | a1,a10
-2026-10-08 10:14 | foodnews.co.kr | 구내식당에서 만나는 그리스…삼성웰스토리, '이야이야앤프렌즈'와 협업 | http://www.foodnews.co.kr/news/articleView.html?idxno=120453 | a12
-2026-10-08 10:00 | meconomynews.com | 유상증자에 딴지 건 삼성바이오 노조위원장... 전문가 "법적 근거 없다... | https://www.meconomynews.com/news/articleView.html?idxno=202332 | a7?
-2026-10-08 09:58 | fnnews.com | 삼성웰스토리, 급식업계 최초 지중해 식문화 도입 | https://www.fnnews.com/news/202610080955185913 | a12
-2026-10-08 09:57 | munhwa.com | “삼전 나오라”는 삼바 노조… 내부선 “적당히 하자”[소소한 복도통... | https://www.munhwa.com/article/11622136?ref=naver | a7?
-2026-10-08 09:53 | 아시아경제 | Early-Session Volatility Amid Foreign and Institutional Net Selling - 아시아경제 | google:아시아경제 | aen1
-2026-10-08 09:32 | thepublic.kr | 삼성바이오로직스, 바이오 재팬서 통합 CDMO·ADC 기술 소개 | https://www.thepublic.kr/news/articleView.html?idxno=321428 | a7
-2026-10-08 09:30 | ekn.kr | [똑똑한한끼] CJ제일제당, 오뚜기, 서울장수, 삼성웰스토리, 동원F&B, 남... | https://www.ekn.kr/web/view.php?key=20261008022373645 | a12
-2026-10-08 09:22 | mk.co.kr | Samsung Biologics draws crowds at BioJapan | https://www.mk.co.kr/article/12171140 | a8
-2026-10-08 09:18 | 아시아경제 | "Protina Revalued as an AI Antibody Validation Infrastructure Provider" - 아시아경제 | google:아시아경제 | aen4
-2026-10-08 09:16 | news.einfomax.co.kr | 삼성바이오 노사 줄다리기…협상력 향방 가를 '가처분' | https://news.einfomax.co.kr/news/articleView.html?idxno=4438264 | a7?
-2026-10-08 09:13 | newsis.com | 삼성웰스토리, '이야이야앤프렌즈' 손잡고 지중해 건강식 선봬 | https://www.newsis.com/view/NISX20261008_0003818494 | a12
-2026-10-08 08:28 | news1.kr | 삼성웰스토리, '이야이야앤프렌즈'와 맞손…구내식당서 지중해 건강식 ... | https://www.news1.kr/industry/distribution/6313750 | a12
-2026-10-08 08:01 | etnews.com | 피타 샌드위치부터 올리브주스까지…삼성웰스토리, 지중해식 메뉴 출시 | https://www.etnews.com/20261007000422 | a12
-2026-10-08 07:01 | sedaily.com | [기자의눈] 삼성바이오로직스, 노사갈등에 멍드는 기업가치 | https://www.sedaily.com/article/20099128?ref=naver | a7
-2026-10-08 07:00 | Seoul Economic Daily | Samsung Biologics' Labor Dispute Erodes Shareholder Value - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-10-08 07:00 | Seoul Economic Daily | Samsung Biologics Union Pushes Regulators to Review Merger Plan - Seoul Economic Daily | google:Seoul Economic Daily | aen3
-2026-10-08 06:31 | hankyung.com | 중국 혁신신약의 부상, 한국은 준비돼 있나 [더 머니이스트-조평규의 중... | https://www.hankyung.com/article/202609244604Q | a7?
-2026-10-08 06:30 | Seoul Economic Daily | Lee Seo-hyun, Suh Kyung-bae Named Among World's Top 200 Art Collectors - Seoul Economic Daily | google:Seoul Economic Daily | aen1
-2026-10-08 06:08 | news.mtn.co.kr | 대치쌍용1차·개포우성4차, 삼성물산과 도급계약…인허가 ‘속도’ | https://news.mtn.co.kr/news-detail/2026100716341111961 | a1
-2026-10-08 06:00 | etoday.co.kr | [노트북 너머] 삼성바이오로직스 2차 파업, 글로벌 수주 신뢰 흔든다 | https://www.etoday.co.kr/news/view/2633407 | a7
-2026-10-08 01:27 | Kompas.com | Kisah Kades di Riau Pasang Badan untuk Warganya, Lawan Perusahaan yang Ingin Ambil Lahan - Kompas.com | google:Kompas.com | aid9
-2026-10-08 01:20 | Riau Pos | Konsulat Malaysia Pekanbaru Perkenalkan Budaya dan Kuliner di UIN Suska Riau - Riau Pos | google:Riau Pos | aid2
-2026-10-08 00:40 | 조선일보 | Third Quarter NSCI Top-Ranked Companies Certified - 조선일보 | google:조선일보 | aen1
