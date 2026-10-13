@@ -106,16 +106,27 @@ def url_key(u):
 DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "dnews.co.kr", "labortoday.co.kr"]
 DIRECT_FEED_PATHS = ["/rss/allArticle.xml", "/rss/rss.xml", "/rss.xml", "/feed/", "/rss/"]
 DIRECT_UA = {"User-Agent": "Mozilla/5.0 (compatible; news-pool/1.0)"}
+# 날짜 문자열 끝에 시간대 표기(+0900, GMT, Z, KST 등)가 있는지 본다.
+_TZ_RE = re.compile(r"(?:[+-]\d{2}:?\d{2}|Z|GMT|UTC|UT|[ECMP][SD]T|KST)\s*$")
 
 
 def _direct_one(domain):
-    """한 매체의 자체 RSS를 찾는다. 성공하면 (기사목록, 사용한 주소), 실패하면 ([], 사유)."""
+    """한 매체의 자체 RSS를 찾는다. 성공하면 (기사목록, 사용한 주소), 실패하면 ([], 사유).
+    https 인증서 오류(SSLError)가 난 사이트만 마지막에 http 주소를 한 번 더 시도한다.
+    공개 헤드라인을 읽을 뿐 로그인·키를 보내지 않으며, 사용하면 로그에 표시된다."""
     last = "후보 주소 모두 실패"
-    for base in (f"https://www.{domain}", f"https://{domain}"):
+    bases = [f"https://www.{domain}", f"https://{domain}"]
+    ssl_failed, extended, i = False, False, 0
+    while i < len(bases):
+        base = bases[i]
+        i += 1
         for path in DIRECT_FEED_PATHS:
             url = base + path
             try:
                 r = requests.get(url, headers=DIRECT_UA, timeout=6)
+            except requests.exceptions.SSLError:
+                last, ssl_failed = "접속 오류(SSLError)", True
+                break                      # 같은 주소의 다른 경로도 같은 오류이므로 건너뛴다
             except Exception as e:
                 last = f"접속 오류({type(e).__name__})"
                 continue
@@ -129,11 +140,17 @@ def _direct_one(domain):
                 continue
             items = []
             for e in ents:
-                pub = None
+                pub, naive = None, False
                 pp = e.get("published_parsed") or e.get("updated_parsed")
                 if pp:
-                    pub = dt.datetime(*pp[:6], tzinfo=dt.timezone.utc)\
-                            .astimezone(KST).isoformat()
+                    raw = (e.get("published") or e.get("updated") or "").strip()
+                    if _TZ_RE.search(raw):
+                        t = dt.datetime(*pp[:6], tzinfo=dt.timezone.utc).astimezone(KST)
+                    else:
+                        # 시간대 표기가 없는 날짜는 사이트가 쓴 한국 시각 그대로로 본다.
+                        t = dt.datetime(*pp[:6], tzinfo=KST)
+                        naive = True
+                    pub = t.isoformat()
                 items.append({
                     "title": html.unescape(re.sub(r"<[^>]+>", "", e.get("title", "") or "")).strip(),
                     "media": domain,
@@ -142,8 +159,12 @@ def _direct_one(domain):
                     "tags": {"sw"},
                     "confirmed": True,
                     "risk": False,
+                    "naive_tz": naive,
                 })
             return items, url
+        if i == len(bases) and ssl_failed and not extended:
+            extended = True
+            bases += [f"http://www.{domain}", f"http://{domain}"]
     return [], last
 
 
@@ -158,22 +179,20 @@ def fetch_direct_feeds(domains, end):
         if not items:
             print(f"  direct {d}: 사용 불가 ({info}) -> 구글 훑기로 대체")
             continue
-        dated, fixed, oldest = 0, 0, None
+        dated, naive, oldest = 0, 0, None
         for a in items:
+            if a.pop("naive_tz", False):
+                naive += 1
             if not a["published"]:
                 continue
             dated += 1
             t = dt.datetime.fromisoformat(a["published"])
-            # 시간대 표기가 없는 RSS는 한국 시각을 UTC로 잘못 읽어 9시간 미래로 나온다.
-            if t > end + dt.timedelta(hours=1):
-                t -= dt.timedelta(hours=9)
-                a["published"] = t.isoformat()
-                fixed += 1
             if oldest is None or t < oldest:
                 oldest = t
         old_txt = f"{oldest:%m-%d %H:%M}" if oldest else "날짜없음"
+        note = " [http 사용: https 인증서 오류]" if info.startswith("http://") else ""
         print(f"  direct {d}: +{len(items)}건 (날짜 {dated}건, 가장 오래된 {old_txt}, "
-              f"시각보정 {fixed}건) <- {info}")
+              f"시간대표기없음 {naive}건은 한국시각으로 해석) <- {info}{note}")
         out += items
     return out
 
