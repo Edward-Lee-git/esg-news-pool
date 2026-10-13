@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# (분할본) 같은 폴더에 pool_extras.py 가 있어야 실행된다.
 """
 News pool collector
 ===================
@@ -32,12 +33,18 @@ import html
 import urllib.parse
 import datetime as dt
 from difflib import SequenceMatcher
-from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 
 import requests
 import feedparser
 import holidays
+
+# 보조 모듈 (같은 폴더의 pool_extras.py)
+from pool_extras import (
+    norm, url_key, verify, has_risk_signal,
+    fetch_direct_feeds, DIRECT_FEED_DOMAINS,
+    article_keys, STATE_SETS, load_state, exclusion_sets, advance_state, save_state,
+)
 
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -67,57 +74,6 @@ SETS = {
     "set_b": {"sweep": True,  "limit": 1200},
     "set_c": {"sweep": True,  "limit": 1200},
 }
-
-
-# ---------------------------------------------------------------
-# 검색어 검증 및 리스크 신호
-# ---------------------------------------------------------------
-def verify(query, text):
-    """검색어의 모든 낱말이 대상 텍스트(제목+요약)에 실제로 있는지 확인한다.
-    네이버 검색이 형태소 분해로 돌려준 무관한 기사를 걸러내는 용도."""
-    t = (text or "").lower().replace(" ", "")
-    for w in re.split(r"\s+", (query or "").strip().strip('"')):
-        w = w.strip('"').lower().replace(" ", "")
-        if not w or w in ("or", "and"):
-            continue
-        if w not in t:
-            return False
-    return True
-
-
-# 제목에 이 표현이 있으면 부정이슈 가능성이 있는 기사로 본다.
-# 검색어가 본문 깊숙이만 언급된 기사(요약문에 안 잡히는 경우)를 살려두기 위한 장치.
-RISK_WORDS = [
-    "제재", "처분", "과징금", "벌금", "시정명령", "불승인", "불허", "반려",
-    "적발", "고발", "기소", "수사", "조사", "압수", "감사", "지적", "논란",
-    "의혹", "혐의", "담합", "배임", "횡령", "탈세", "소송", "피소", "패소",
-    "사고", "사망", "부상", "붕괴", "화재", "누출", "재해", "리콜", "결함",
-    "하자", "불량", "파업", "쟁의", "해고", "갑질", "괴롭힘", "성희롱",
-    "차별", "오염", "그린워싱", "인권", "아동노동", "강제노동",
-    "유상증자", "지분희석", "주주가치", "소액주주", "반발", "항의", "시위",
-    "국정감사", "청문회", "제동", "중단", "취소", "박탈", "경고",
-    "scandal", "controversy", "lawsuit", "fine", "penalty", "probe",
-    "investigation", "violation", "dispute", "protest", "accident",
-    "sengketa", "konflik", "tuntut", "protes", "deforestasi",
-    "amenda", "accident", "greva",
-]
-
-
-# 리스크 신호가 있어도 부정이슈가 아닌 정형 기사 유형.
-# 증시 시황("코스피 붕괴"), 부고, 인사 등은 신호어가 들어가도 제외한다.
-BOILERPLATE = [
-    "코스피", "코스닥", "증시", "시황", "마감", "장중", "개장", "환율",
-    "부고", "부음", "별세", "모친상", "부친상", "빙부상", "빙모상", "궂긴",
-    "인사]", "[인사", "승진", "취업박람회", "job festival", "채용박람회",
-    "주간증시", "특징주", "상한가", "하한가", "공모주",
-]
-
-
-def has_risk_signal(title):
-    t = (title or "").lower()
-    if any(b.lower() in t for b in BOILERPLATE):
-        return False
-    return any(w.lower() in t for w in RISK_WORDS)
 
 
 # ---------------------------------------------------------------
@@ -208,6 +164,11 @@ def google_rss(query, locale="kr", tag=""):
             pub = dt.datetime(*e.published_parsed[:6], tzinfo=dt.timezone.utc)\
                     .astimezone(KST).isoformat()
         title = clean(e.get("title", ""))
+        # 구글 뉴스 제목은 끝에 " - 매체명"이 붙는다. 그 매체명만 정확히 떼야
+        # 같은 기사를 사이트 RSS·네이버로 받았을 때 중복으로 합쳐지고, 목록도 짧아진다.
+        _src = (e.get("source", {}) or {}).get("title", "")
+        if _src and title.endswith(" - " + _src):
+            title = title[: -(len(_src) + 3)].rstrip()
         out.append({
             "title": title,
             "media": (e.get("source", {}) or {}).get("title", "")
@@ -241,17 +202,13 @@ def parse_rfc822(s):
         return None
 
 
-def norm(t):
-    return re.sub(r"[^0-9a-z가-힣]", "", (t or "").lower())
-
-
 def dedupe(items, threshold=0.88):
     seen, kept = set(), []
     for a in items:
-        u = (a.get("url") or "").split("?")[0]
+        u = url_key(a.get("url"))
         if u and u in seen:
             for k in kept:
-                if (k.get("url") or "").split("?")[0] == u:
+                if url_key(k.get("url")) == u:
                     k.setdefault("tags", set()).update(a.get("tags") or set())
                     break
             continue
@@ -284,42 +241,6 @@ def in_window(a, start, end):
         return start <= dt.datetime.fromisoformat(p) <= end + dt.timedelta(hours=1)
     except Exception:
         return True
-
-
-def resolve_google_links(items, workers=16, cap=2500):
-    """(현재 미사용) 구글 중계 주소를 원출처로 변환. 속도 문제로 기본 비활성."""
-    """구글 뉴스 RSS가 주는 중계 주소를 원출처 주소로 바꾼다.
-    - 링크 길이가 크게 줄어 파일 용량이 절반 이하로 떨어진다
-    - 리포트에 원출처 링크가 실린다
-    실패하면 원래 주소를 그대로 둔다(수집 자체는 실패시키지 않는다)."""
-    targets = [a for a in items
-               if "news.google.com" in (a.get("url") or "")][:cap]
-    if not targets:
-        return items
-
-    session = requests.Session()
-    session.headers.update({"User-Agent": "Mozilla/5.0"})
-    ok = 0
-
-    def one(a):
-        nonlocal ok
-        try:
-            r = session.get(a["url"], timeout=8, allow_redirects=True)
-            final = r.url or ""
-            if final and "news.google.com" not in final:
-                a["url"] = final.split("?")[0]
-                if not a.get("media"):
-                    a["media"] = domain_of(final)
-                ok += 1
-        except Exception:
-            pass
-
-    with ThreadPoolExecutor(max_workers=workers) as ex:
-        list(ex.map(one, targets))
-
-    print(f"  링크 정리: {len(targets)}건 중 {ok}건 원출처 확인 "
-          f"({ok*100//max(len(targets),1)}%)")
-    return items
 
 
 def balance_by_date(items, limit):
@@ -387,12 +308,24 @@ def main():
 
     cfg = load_queries()
 
+    today = end.strftime("%Y-%m-%d")
+    state = load_state(ROOT)
+    exclude, ex_src = exclusion_sets(ROOT, state, today)
+    print(f"제외 기준: {ex_src} (부정기사 {len(exclude['a'])} / 규제동향 {len(exclude['b'])} / "
+          f"일반동향 {len(exclude['c'])}개 키)\n")
+    kept_keys = {k: set() for k in STATE_SETS}
+
     # 공통 매체 훑기
     sweep = []
     for site in cfg.get("sweep", []):
         got = google_rss(f"site:{site} when:{days}d", tag="sw")
         print(f"  sweep {site}: +{len(got)}")
         sweep += got
+
+    # 전문지는 사이트 자체 RSS를 먼저 놓는다. 같은 기사가 구글 훑기로도 들어오면
+    # 중복 제거에서 원문 주소가 있는 이쪽이 남는다.
+    direct = fetch_direct_feeds(DIRECT_FEED_DOMAINS, end)
+    sweep = direct + sweep
 
     outdir = os.path.join(ROOT, "pool")
     os.makedirs(outdir, exist_ok=True)
@@ -443,7 +376,18 @@ def main():
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
 
         print(f"      기간내 고유 기사 {len(items)}건")
+
+        ex = exclude.get(pfx, set())
+        n_excluded = 0
+        if ex:
+            before_ex = len(items)
+            items = [a for a in items if not (article_keys(a) & ex)]
+            n_excluded = before_ex - len(items)
+            print(f"      직전 수집본과 겹쳐 제외: {n_excluded}건 ({n_excluded * 100 // max(before_ex, 1)}%)")
+
         items, cut = balance_by_date(items, opt["limit"])
+        for a in items:
+            kept_keys[pfx] |= article_keys(a)
 
         lines = to_lines(items)
 
@@ -458,6 +402,7 @@ def main():
                 f"# window: {start:%Y-%m-%d} 00:00 ~ {end:%Y-%m-%d %H:%M} KST",
                 f"# part {idx} of {len(chunks)}, lines: {len(chunk)}",
                 "# format: date | media | title | url | tags",
+                "# note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음",
                 "",
             ]
             name = f"{base}-{idx}.txt"
@@ -495,6 +440,12 @@ def main():
         f.write(f"collected: {end:%Y-%m-%d %H:%M} KST\n")
         f.write(f"window: {start:%Y-%m-%d} 00:00 ~ {end:%Y-%m-%d %H:%M} KST\n")
         f.write("\n".join(summary) + "\n")
+
+    if advance_state():
+        save_state(ROOT, today, kept_keys, exclude)
+        print("\n제외 기준 저장 (정기 수집: 다음 날 이 수집본과 겹치는 기사를 뺀다)")
+    else:
+        print("\n제외 기준 저장 안 함 (수동 실행: 다음 정기 수집의 기준을 바꾸지 않는다)")
 
     print(f"\n완료: {', '.join(summary)}")
 
