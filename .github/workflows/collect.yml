@@ -2,9 +2,7 @@ name: Collect
 
 on:
   schedule:
-    - cron: "37 21 * * 0-4"   # KST 06:37
-    - cron: "23 22 * * 0-4"   # KST 07:23
-    - cron: "5 23 * * 0-4"    # KST 08:05
+    - cron: "7 19 * * 0-4"   # KST 04:07
   workflow_dispatch:
 
 permissions:
