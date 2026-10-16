@@ -50,7 +50,7 @@ from pool_extras import (
     fetch_direct_feeds, DIRECT_FEED_DOMAINS,
     article_keys, STATE_SETS, load_state, exclusion_sets, advance_state, save_state,
 )
-from body_check import apply_body_check   # '?' 태그 기사의 본문 확인 (set_a 전용)
+from body_check import apply_body_check, load_extra_queries   # set_a 보조 기능(본문 확인, 추가 검색어)
 
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -76,7 +76,7 @@ LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대�
 # set_a(부정기사)는 회사명 검색 결과가 핵심이므로 매체 훑기를 넣지 않는다.
 # 넣으면 훑기 결과가 상한을 차지해 회사 검색 결과가 잘려나간다.
 SETS = {
-    "set_a": {"sweep": False, "limit": 900, "body_check": True, "extra": True},
+    "set_a": {"sweep": False, "limit": 900, "body_check": True, "extra": True, "deep": True},
     "set_b": {"sweep": True,  "limit": 1200},
     "set_c": {"sweep": True,  "limit": 1200},
 }
@@ -109,18 +109,8 @@ def load_queries():
         return json.load(f)
 
 
-def load_extra_queries():
-    """보조 Secret EXTRA_QUERIES_JSON (["검색어", ...]) -> set_a 네이버 검색어에 덧붙인다. 없으면 빈 목록."""
-    raw = os.environ.get("EXTRA_QUERIES_JSON", "").strip()
-    try:
-        return [q.strip() for q in json.loads(raw) if isinstance(q, str) and q.strip()] if raw else []
-    except Exception as e:
-        print(f"[WARN] EXTRA_QUERIES_JSON 형식 오류 -> 무시: {type(e).__name__}")
-        return []
-
-
 # ---------------------------------------------------------------
-def naver_search(query, key_id, key, max_items=300, tag=""):
+def naver_search(query, key_id, key, max_items=300, tag="", since=None):
     out = []
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
@@ -161,6 +151,9 @@ def naver_search(query, key_id, key, max_items=300, tag=""):
             })
         if len(items) < 100:
             break
+        ds = [a["published"] for a in out[-len(items):] if a["published"]]
+        if since is not None and ds and dt.datetime.fromisoformat(min(ds)) < since:
+            break          # 최신순 결과가 이미 수집 시작 시각 이전까지 내려왔으면 더 볼 필요 없다
         time.sleep(0.12)
     return out
 
@@ -357,15 +350,16 @@ def main():
         legend = []                      # 태그 개수 집계용 (내용은 출력하지 않음)
 
         if key_id and key:
+            kw = {"max_items": 1000, "since": start} if opt.get("deep") else {}   # set_a: 수집 시작 시각까지
             for i, q in enumerate(spec.get("naver", []), 1):
                 t = f"{pfx}{i}"
                 legend.append((t, q))
-                items += naver_search(q, key_id, key, tag=t)
+                items += naver_search(q, key_id, key, tag=t, **kw)
             if opt.get("extra"):
                 for i, q in enumerate(extra, 1):
                     t = f"{pfx}x{i}"          # ax1, ax2 ... (기존 번호와 섞이지 않음)
                     legend.append((t, q))
-                    items += naver_search(q, key_id, key, tag=t)
+                    items += naver_search(q, key_id, key, tag=t, **kw)
         for i, q in enumerate(spec.get("rss", []), 1):
             t = f"{pfx}r{i}"
             legend.append((t, q))

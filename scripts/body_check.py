@@ -19,6 +19,7 @@
 """
 import os
 import re
+import json
 import time
 import socket
 import ipaddress
@@ -212,6 +213,17 @@ def _check_one(a, qmap, deadline):
         q = qmap.get(t[:-1])
         res[t] = judge(q, full, body, art) if q else "unknown"
     return res, "ok", host, len(body)
+
+
+
+def load_extra_queries():
+    """보조 Secret EXTRA_QUERIES_JSON (["검색어", ...]) -> set_a 네이버 검색어에 덧붙인다. 없으면 빈 목록."""
+    raw = os.environ.get("EXTRA_QUERIES_JSON", "").strip()
+    try:
+        return [q.strip() for q in json.loads(raw) if isinstance(q, str) and q.strip()] if raw else []
+    except Exception as e:
+        print(f"[WARN] EXTRA_QUERIES_JSON 형식 오류 -> 무시: {type(e).__name__}")
+        return []
 
 
 def apply_body_check(items, qmap):
