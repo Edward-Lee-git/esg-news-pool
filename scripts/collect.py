@@ -20,8 +20,13 @@ sweep 결과는 세 파일에 모두 포함된다.
   각 줄 형식:  YYYY-MM-DD HH:MM | 매체 | 제목 | URL
   검색어나 분류 정보는 기록하지 않는다.
 
+본문 확인: set_a 에서 태그 끝에 '?'가 붙은 기사(검색어가 제목에 없는 기사)는
+  body_check.py 가 본문을 직접 열어 확인한다. 같은 폴더에 body_check.py 가 있어야 한다.
+
 환경변수:
   NAVER_API_KEY_ID, NAVER_API_KEY  (없으면 RSS만 사용)
+  EXTRA_QUERIES_JSON               (선택. 부정기사 검색어를 더하는 보조 Secret)
+  BODY_CHECK                       (on 기본 | log 판정만 출력 | off)
   QUERIES_JSON                     (없으면 config/queries.sample.json 사용)
 """
 
@@ -45,6 +50,7 @@ from pool_extras import (
     fetch_direct_feeds, DIRECT_FEED_DOMAINS,
     article_keys, STATE_SETS, load_state, exclusion_sets, advance_state, save_state,
 )
+from body_check import apply_body_check   # '?' 태그 기사의 본문 확인 (set_a 전용)
 
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -70,7 +76,7 @@ LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대�
 # set_a(부정기사)는 회사명 검색 결과가 핵심이므로 매체 훑기를 넣지 않는다.
 # 넣으면 훑기 결과가 상한을 차지해 회사 검색 결과가 잘려나간다.
 SETS = {
-    "set_a": {"sweep": False, "limit": 900},
+    "set_a": {"sweep": False, "limit": 900, "body_check": True, "extra": True},
     "set_b": {"sweep": True,  "limit": 1200},
     "set_c": {"sweep": True,  "limit": 1200},
 }
@@ -101,6 +107,16 @@ def load_queries():
     print("[INFO] QUERIES_JSON 미설정 -> 샘플 검색어 사용")
     with open(path, encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_extra_queries():
+    """보조 Secret EXTRA_QUERIES_JSON (["검색어", ...]) -> set_a 네이버 검색어에 덧붙인다. 없으면 빈 목록."""
+    raw = os.environ.get("EXTRA_QUERIES_JSON", "").strip()
+    try:
+        return [q.strip() for q in json.loads(raw) if isinstance(q, str) and q.strip()] if raw else []
+    except Exception as e:
+        print(f"[WARN] EXTRA_QUERIES_JSON 형식 오류 -> 무시: {type(e).__name__}")
+        return []
 
 
 # ---------------------------------------------------------------
@@ -307,6 +323,9 @@ def main():
     print(f"기간: {start:%Y-%m-%d %H:%M} ~ {end:%Y-%m-%d %H:%M} (KST), {days}일치\n")
 
     cfg = load_queries()
+    extra = load_extra_queries()
+    if extra:
+        print(f"추가 검색어(EXTRA_QUERIES_JSON): {len(extra)}개 -> 부정기사 세트에 덧붙임")
 
     today = end.strftime("%Y-%m-%d")
     state = load_state(ROOT)
@@ -342,6 +361,11 @@ def main():
                 t = f"{pfx}{i}"
                 legend.append((t, q))
                 items += naver_search(q, key_id, key, tag=t)
+            if opt.get("extra"):
+                for i, q in enumerate(extra, 1):
+                    t = f"{pfx}x{i}"          # ax1, ax2 ... (기존 번호와 섞이지 않음)
+                    legend.append((t, q))
+                    items += naver_search(q, key_id, key, tag=t)
         for i, q in enumerate(spec.get("rss", []), 1):
             t = f"{pfx}r{i}"
             legend.append((t, q))
@@ -386,6 +410,8 @@ def main():
             print(f"      직전 수집본과 겹쳐 제외: {n_excluded}건 ({n_excluded * 100 // max(before_ex, 1)}%)")
 
         items, cut = balance_by_date(items, opt["limit"])
+        if opt.get("body_check"):
+            items = apply_body_check(items, dict(legend))   # legend: [(태그, 검색어)]
         for a in items:
             kept_keys[pfx] |= article_keys(a)
 
