@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""shell_head.html / shell_tail.html 생성기. CSS 는 render_report.py 와 같은 것을 쓴다(양식이 한 곳에서만 정의되도록)."""
+"""shell_head.html / shell_tail.html 생성기. 머리 파일의 __TITLE__ 은 조립할 때 리포트 제목으로 바꾼다(아티팩트 이름은 발행 시점의 <title>로 정해지기 때문). CSS 는 render_report.py 와 같은 것을 쓴다(양식이 한 곳에서만 정의되도록)."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render_report as R
@@ -9,7 +9,7 @@ HEAD = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>ESG 모니터링</title>
+<title>__TITLE__</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="__FONT__">
