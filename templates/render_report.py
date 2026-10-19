@@ -16,7 +16,7 @@ ESG 모니터링 리포트 렌더러 (부정기사 · 규제동향 · 일반동�
   "pills":  [{"label": "환경 E", "value": "12 / 10", "cat": "e"}, {"label": "링크 없음", "auto": "nolink"}],
   "issues": [{"title": "...", "body": "..."}],
   "legend": "사업영역 관련(그룹 맨 위에 표시)", "mark_label": "사업 관련",   # 선택(일반동향)
-  "groups": [{"cat": "e|s|g|n|p|a", "title": "...", "num": "01", "count": "12건",
+  "groups": [{"cat": "e|s|g|n|p|a", "title": "...", "num": "01", "count": "생략하면 자동(N건, mark 열이면 N건 · 사업 관련 M건)", "count_note": "자동 숫자 뒤에 덧붙일 설명",
               "head_chips": [{"text": "...", "kind": "alert|sub"}],   # 선택
               "cols": "mark|plain", "open": true,
               "rows": [{"title": "...", "url": "https://..."|null, "summary": "...", "source": "...",
@@ -326,7 +326,11 @@ def group(g, mark_label):
         raise ValueError(f"cols 오류: {cols!r}")
     if cols == "mark":
         rows.sort(key=lambda r: 0 if r.get("mark") else 1)            # 사업 관련 기사가 맨 위(안의 순서는 유지)
-    count = g.get("count") or (f"{len(rows)}건" if rows else "")
+    nm = sum(1 for r in rows if r.get("mark"))
+    auto = (f"{len(rows)}건" + (f" · 사업 관련 {nm}건" if cols == "mark" else "")) if rows else ""
+    count = g.get("count") or auto                                   # count 를 생략하면 건수를 틀이 자동 계산
+    if g.get("count_note"):
+        count = (count + " · " if count else "") + g["count_note"]   # 자동 숫자 뒤에 덧붙이는 설명(예: 목표 미달 사유)
     num = f'<span class="gnum">{esc(g["num"])}</span>' if g.get("num") else ""
     hc = "".join(chip(c) for c in g.get("head_chips", []))
     head = (f'<summary class="gh"><span class="gl"><span class="gdot"></span>{num}<h2 class="gtitle">{esc(g["title"])}</h2>{hc}'
