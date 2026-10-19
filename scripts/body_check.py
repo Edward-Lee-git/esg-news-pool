@@ -33,10 +33,10 @@ import requests
 from pool_extras import verify
 
 MODE = os.environ.get("BODY_CHECK", "on").strip().lower()
-MAX_ARTICLES = 60          # 한 세트에서 확인할 최대 기사 수
+MAX_ARTICLES = 120         # 한 세트에서 확인할 최대 기사 수
 WORKERS = 4
 TIMEOUT = 12               # 초
-TOTAL_BUDGET = 150         # 전체 제한 시간(초). 넘으면 남은 기사는 '확인 못함'
+TOTAL_BUDGET = 240         # 전체 제한 시간(초). 넘으면 남은 기사는 '확인 못함'
 MAX_BYTES = 2_000_000
 MIN_BODY = 800             # 본문 글자 수가 이보다 짧으면 '없다'고 단정하지 않는다
 HEADERS = {
@@ -217,13 +217,20 @@ def _check_one(a, qmap, deadline):
 
 
 def load_extra_queries():
-    """보조 Secret EXTRA_QUERIES_JSON (["검색어", ...]) -> set_a 네이버 검색어에 덧붙인다. 없으면 빈 목록."""
+    """보조 Secret EXTRA_QUERIES_JSON -> {"set_a": [검색어...], ...}. 목록(["검색어"])이면 set_a 로 본다. 없으면 {}."""
     raw = os.environ.get("EXTRA_QUERIES_JSON", "").strip()
+    if not raw:
+        return {}
     try:
-        return [q.strip() for q in json.loads(raw) if isinstance(q, str) and q.strip()] if raw else []
+        v = json.loads(raw)
+        if isinstance(v, list):
+            v = {"set_a": v}
+        out = {k: [q.strip() for q in lst if isinstance(q, str) and q.strip()]
+               for k, lst in v.items() if k in ("set_a", "set_b", "set_c") and isinstance(lst, list)}
+        return {k: lst for k, lst in out.items() if lst}
     except Exception as e:
         print(f"[WARN] EXTRA_QUERIES_JSON 형식 오류 -> 무시: {type(e).__name__}")
-        return []
+        return {}
 
 
 def apply_body_check(items, qmap):
@@ -251,7 +258,7 @@ def apply_body_check(items, qmap):
         print(f"    [경고] '없음' 판정이 {cnt['absent']}/{checked}건으로 비정상적으로 많아 이번 회차는 제거하지 않습니다")
 
     # 판정 근거(운영 초기에 오판 여부를 점검하기 위한 기록): 도메인·태그 번호·판정·본문 글자 수
-    for res, why, host, blen in out[:40]:
+    for res, why, host, blen in out:
         print("      " + f"{host or '-'} " + " ".join(f"{t}->{st}" for t, st in res.items()) + f" (본문 {blen}자)")
     if MODE == "log":
         print(f"    본문 확인(판정만, 결과 미적용): 확인 {cnt['confirm']} / 없음 {cnt['absent']} / "
@@ -260,7 +267,7 @@ def apply_body_check(items, qmap):
             print("      열람 실패: " + ", ".join(f"{k} x{v}" for k, v in fails.most_common(6)))
         return items
 
-    kept, removed_art, removed_tag, confirmed = [], 0, 0, 0
+    kept, removed_art, removed_tag, confirmed, removed_log = [], 0, 0, 0, []
     for a in items:
         r = results.get(id(a))
         if r is None:
@@ -279,6 +286,7 @@ def apply_body_check(items, qmap):
                 new.add(t)
         if not new:
             removed_art += 1
+            removed_log.append(f"{a.get('url')}  [{','.join(sorted(a.get('tags') or ()))}]")
             continue
         a["tags"] = new
         kept.append(a)
@@ -287,6 +295,8 @@ def apply_body_check(items, qmap):
           f"애매 {cnt['ambiguous']} / 열람 불가 {cnt['unknown']}")
     if fails:
         print("      열람 실패: " + ", ".join(f"{k} x{v}" for k, v in fails.most_common(6)))
+    for line in removed_log:
+        print(f"      제거된 기사(확인용 주소): {line}")
     if skipped:
         print(f"      한도 초과로 확인하지 못한 기사 {skipped}건은 '?'로 유지")
     return kept

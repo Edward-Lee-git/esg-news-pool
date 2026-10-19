@@ -25,7 +25,7 @@ sweep 결과는 세 파일에 모두 포함된다.
 
 환경변수:
   NAVER_API_KEY_ID, NAVER_API_KEY  (없으면 RSS만 사용)
-  EXTRA_QUERIES_JSON               (선택. 부정기사 검색어를 더하는 보조 Secret)
+  EXTRA_QUERIES_JSON               (선택. 검색어를 더하는 보조 Secret: ["검색어"] 는 부정기사, {"set_a":[..],"set_c":[..]} 는 세트별)
   BODY_CHECK                       (on 기본 | log 판정만 출력 | off)
   QUERIES_JSON                     (없으면 config/queries.sample.json 사용)
 """
@@ -76,7 +76,7 @@ LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대�
 # set_a(부정기사)는 회사명 검색 결과가 핵심이므로 매체 훑기를 넣지 않는다.
 # 넣으면 훑기 결과가 상한을 차지해 회사 검색 결과가 잘려나간다.
 SETS = {
-    "set_a": {"sweep": False, "limit": 900, "body_check": True, "extra": True, "deep": True},
+    "set_a": {"sweep": False, "limit": 900, "body_check": True, "deep": True},
     "set_b": {"sweep": True,  "limit": 1200},
     "set_c": {"sweep": True,  "limit": 1200},
 }
@@ -318,7 +318,7 @@ def main():
     cfg = load_queries()
     extra = load_extra_queries()
     if extra:
-        print(f"추가 검색어(EXTRA_QUERIES_JSON): {len(extra)}개 -> 부정기사 세트에 덧붙임")
+        print("추가 검색어(EXTRA_QUERIES_JSON): " + ", ".join(f"{k} {len(v)}개" for k, v in extra.items()))
 
     today = end.strftime("%Y-%m-%d")
     state = load_state(ROOT)
@@ -355,11 +355,10 @@ def main():
                 t = f"{pfx}{i}"
                 legend.append((t, q))
                 items += naver_search(q, key_id, key, tag=t, **kw)
-            if opt.get("extra"):
-                for i, q in enumerate(extra, 1):
-                    t = f"{pfx}x{i}"          # ax1, ax2 ... (기존 번호와 섞이지 않음)
-                    legend.append((t, q))
-                    items += naver_search(q, key_id, key, tag=t, **kw)
+            for i, q in enumerate(extra.get(s, []), 1):
+                t = f"{pfx}x{i}"              # ax1, bx1, cx1 ... (기존 번호와 섞이지 않음)
+                legend.append((t, q))
+                items += naver_search(q, key_id, key, tag=t, **kw)
         for i, q in enumerate(spec.get("rss", []), 1):
             t = f"{pfx}r{i}"
             legend.append((t, q))
