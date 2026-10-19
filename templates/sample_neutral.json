@@ -1,0 +1,225 @@
+{
+ "title": "리포트 양식 시험",
+ "kicker": "양식 시험 페이지 · 가짜 내용",
+ "meta": "이 페이지는 자료(JSON)를 읽어서 화면을 그립니다. 모든 내용은 시험용 가짜입니다.",
+ "pills": [
+  {
+   "label": "환경 E",
+   "value": "3",
+   "cat": "e"
+  },
+  {
+   "label": "사회 S",
+   "value": "2",
+   "cat": "s"
+  },
+  {
+   "label": "지배구조 G",
+   "value": "1",
+   "cat": "g"
+  },
+  {
+   "label": "링크 없음",
+   "auto": "nolink"
+  }
+ ],
+ "issues": [
+  {
+   "title": "첫 번째 핵심 이슈 예시",
+   "body": "굵은 제목 뒤에 설명이 이어지는 모양입니다."
+  },
+  {
+   "title": "두 번째 핵심 이슈 예시",
+   "body": "번호는 자동으로 붙습니다."
+  }
+ ],
+ "legend": "사업영역 관련 표시 예시(그룹 맨 위에 표시)",
+ "mark_label": "사업 관련",
+ "groups": [
+  {
+   "cat": "e",
+   "title": "환경 (Environment)",
+   "cols": "mark",
+   "rows": [
+    {
+     "title": "링크가 있는 기사 제목 예시 (제목 색이 있고 눌립니다)",
+     "url": "https://example.com/a",
+     "summary": "요약 문장 예시입니다. 영역 전체에 연한 배경색이 깔립니다.",
+     "source": "예시일보",
+     "date": "2026-10-19",
+     "tags": [
+      {
+       "text": "분류 예시",
+       "kind": "sub"
+      },
+      {
+       "text": "관련 사업: 예시",
+       "kind": "biz"
+      }
+     ],
+     "mark": true
+    },
+    {
+     "title": "링크가 없는 기사 제목 예시 (제목이 눌리지 않습니다)",
+     "url": null,
+     "summary": "링크가 없으면 분류 칸 맨 뒤에 점선 태그가 자동으로 붙습니다.",
+     "source": "예시신문",
+     "date": "2026-10-19",
+     "tags": [
+      {
+       "text": "분류 예시",
+       "kind": "sub"
+      }
+     ]
+    },
+    {
+     "title": "확인이 필요한 기사 제목 예시",
+     "url": "https://example.com/c",
+     "summary": "확인 필요 점선 태그는 분류 칩 뒤, 링크 없음 앞에 옵니다.",
+     "source": "예시경제",
+     "date": "2026-10-18",
+     "tags": [
+      {
+       "text": "검색어 예시",
+       "kind": "sub"
+      }
+     ],
+     "needs_check": true
+    }
+   ]
+  },
+  {
+   "cat": "s",
+   "title": "사회 (Social)",
+   "cols": "plain",
+   "rows": [
+    {
+     "title": "사회 분야 기사 제목 예시 1",
+     "url": "https://example.com/s1",
+     "summary": "사회 그룹은 파란 계열입니다.",
+     "source": "예시방송",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "사회 분야 기사 제목 예시 2 (링크 없음, 확인 필요)",
+     "url": null,
+     "summary": "두 태그가 함께 있을 때의 순서를 봅니다.",
+     "source": "예시뉴스",
+     "date": "2026-10-17",
+     "tags": [
+      {
+       "text": "예시",
+       "kind": "sub"
+      }
+     ],
+     "needs_check": true
+    }
+   ]
+  },
+  {
+   "cat": "g",
+   "title": "지배구조 (Governance)",
+   "cols": "plain",
+   "rows": [
+    {
+     "title": "지배구조 기사 제목 예시",
+     "url": "https://example.com/g1",
+     "summary": "지배구조 그룹은 황갈색 계열입니다.",
+     "source": "예시타임스",
+     "date": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "cat": "p",
+   "title": "글로벌",
+   "cols": "plain",
+   "count": "1건 · 보라 계열",
+   "rows": [
+    {
+     "title": "Global item example title",
+     "url": "https://example.com/p1",
+     "summary": "글로벌 그룹은 보라 계열입니다.",
+     "source": "Example News",
+     "date": "2026-10-19",
+     "tags": [
+      {
+       "text": "예시 기관",
+       "kind": "sub"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "a",
+   "num": "01",
+   "title": "부정이슈 있는 항목 예시",
+   "cols": "plain",
+   "head_chips": [
+    {
+     "text": "부정이슈 1건 확인",
+     "kind": "alert"
+    },
+    {
+     "text": "태그 5건",
+     "kind": "sub"
+    }
+   ],
+   "count": "기사 1건",
+   "rows": [
+    {
+     "title": "부정이슈 기사 제목 예시",
+     "url": "https://example.com/a1",
+     "summary": "부정이슈 그룹은 주황 계열입니다.",
+     "source": "예시일보",
+     "date": "2026-10-19",
+     "tags": [
+      {
+       "text": "검색어 예시",
+       "kind": "sub"
+      }
+     ]
+    }
+   ],
+   "more": {
+    "label": "그 외 태그 4건 검토 · 해당 없음 (사유 보기)",
+    "text": "여기를 누르면 접힌 사유 문장이 펼쳐집니다. 시험용 가짜 문장입니다."
+   }
+  },
+  {
+   "cat": "n",
+   "num": "02",
+   "title": "해당 없음 항목 예시 (접힌 상태)",
+   "cols": "plain",
+   "open": false,
+   "head_chips": [
+    {
+     "text": "부정이슈 해당 없음",
+     "kind": "sub"
+    }
+   ],
+   "count": "목록 내 관련 기사 3건 검토, 채택 없음",
+   "note": "접힌 항목입니다. 머리줄을 누르면 이 문장이 보입니다."
+  },
+  {
+   "cat": "n",
+   "title": "확인 필요 후보",
+   "cols": "plain",
+   "count": "1건",
+   "rows": [
+    {
+     "title": "확인 필요 후보 기사 제목 예시",
+     "url": null,
+     "summary": "후보 그룹도 다른 그룹과 같은 열 구조를 씁니다.",
+     "source": "예시",
+     "date": "2026-10-19"
+    }
+   ]
+  }
+ ],
+ "footer": {
+  "limit": "시험용 페이지입니다. 모든 기사·매체·내용은 가짜입니다.",
+  "verify": "검증: 시험 페이지 (자료를 읽어 그리는 방식)"
+ }
+}
