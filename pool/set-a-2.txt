@@ -1,9 +1,24 @@
-# collected: 2026-10-20 11:15 KST
-# window: 2026-10-19 00:00 ~ 2026-10-20 11:15 KST
-# part 2 of 2, lines: 82
+# collected: 2026-10-20 13:02 KST
+# window: 2026-10-19 00:00 ~ 2026-10-20 13:02 KST
+# part 2 of 2, lines: 97
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-10-19 10:20 | biz.sbs.co.kr | 삼성바이오로직스 "2027년까지 ADC 전주기 서비스 모두 확보" | https://biz.sbs.co.kr/article_hub/20000340714?division=NAVER | a7,ax2
+2026-10-19 10:20 | smartbizn.com | 삼성바이오로직스, ADC·오가노이드로 신약개발 영역 확대 | https://www.smartbizn.com/news/articleView.html?idxno=156797 | a7,ax2
+2026-10-19 10:20 | topstarnews.net | 삼성바이오로직스 주가, 10월 19일 장중 1,364,000원 5.08% 상승 | https://www.topstarnews.net/news/articleView.html?idxno=16251177 | a7,ax2
+2026-10-19 10:16 | thebigdata.co.kr | 삼성물산, 서울 여의도 시범아파트 재건축 시공사 선정...소비자 관심도... | https://www.thebigdata.co.kr/view.php?ud=202610191013205920bbceadc3c9_23 | a1
+2026-10-19 10:16 | weeklytoday.com | [위클리오늘] 삼성물산, 여의도 시범아파트 재건축 수주···공사비 2조... | http://www.weeklytoday.com/news/articleView.html?idxno=798512 | a1
+2026-10-19 10:12 | metroseoul.co.kr | 여의도 시범에 ‘래미안’…삼성물산, 2.3조 재건축 수주 | http://www.metroseoul.co.kr/article/20261019500053 | a1
+2026-10-19 10:12 | popcornnews.net | 삼성물산 건설부문, 여의도 시범아파트 시공자 선정...단지명 '래미안 ... | http://www.popcornnews.net/news/articleView.html?idxno=136411 | a1,a3
+2026-10-19 10:12 | ajunews.com | 삼성바이오로직스, 월드 ADC서 연구부터 생산까지 '원스톱' 역량 알려 | https://www.ajunews.com/view/20261019100627942 | a7,ax2
+2026-10-19 10:12 | newsworks.co.kr | 삼성바이오, 美샌디에이고서 전주기 ADC 서비스 역량 알렸다 | https://www.newsworks.co.kr/news/articleView.html?idxno=856848 | ax2
+2026-10-19 10:10 | newsian.co.kr | 삼성바이오, '월드 ADC'서 과시한 '차세대 항암제 전 주기' 경쟁력 [Biz 포... | http://www.newsian.co.kr/news/articleView.html?idxno=97289 | ax2
+2026-10-19 10:08 | techholic.co.kr | 삼성물산, 총 공사비 2조 2685억원 규모 서울 여의도 시범아파트 재건축... | http://www.techholic.co.kr/news/articleView.html?idxno=223292 | a1
+2026-10-19 10:07 | moneystorm.kr | 삼성바이오로직스, 美서 ADC 경쟁력 알렸다…이중항체·오가노이드 기술... | https://www.moneystorm.kr/news/articleView.html?idxno=7383 | a7,ax2
+2026-10-19 10:06 | todaykorea.co.kr | 급제동 걸린 삼성바이오 2차 파업···法, 쟁의제한 공정 9개로 확대 | https://www.todaykorea.co.kr/news/articleView.html?idxno=407284 | a7,ax2
+2026-10-19 10:04 | segyebiz.com | 삼성물산, 2.2조원대 여의도 시범아파트 재건축 수주... ‘래미안 소넬... | http://www.segyebiz.com/newsView/20261019507342?OutUrl=naver | a1
+2026-10-19 10:02 | viva100.com | 삼성물산, 여의도 시범 재건축 수주… 정비사업 10조 ‘초읽기’ | https://www.viva100.com/article/20261019500263 | a1
 2026-10-19 10:00 | fetv.co.kr | 삼성물산, 2.26조 여의도 시범아파트 재건축 따냈다 | https://www.fetv.co.kr/news/articleView.html?idxno=311984 | a1
 2026-10-19 09:59 | segye.com | 삼성물산, 2조 2685억 여의도 시범 재건축 수주…‘래미안 소넬리’ 제... | https://www.segye.com/newsView/20261019507091?OutUrl=naver | a1
 2026-10-19 09:58 | catchnews.kr | "ADC·이중항체·오가노이드까지" 삼성바이오로직스, 美서 CRDMO 홍보전 | https://www.catchnews.kr/news/articleView.html?idxno=129438 | a7,ax2
@@ -11,55 +26,55 @@
 2026-10-19 09:54 | shinailbo.co.kr | 2조2685억원 규모 '여의도 시범아파트 재건축', 삼성물산 품으로 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5073059 | a1
 2026-10-19 09:52 | newsworks.co.kr | 삼성물산 '여의도 시범아파트' 재건축 시공…공사비 2조2685억·최고 59층... | https://www.newsworks.co.kr/news/articleView.html?idxno=856842 | a1
 2026-10-19 09:50 | daily.hankooki.com | 삼성바이오로직스, 美 월드 ADC 참가…ADC 개발·생산 역량 소개 | https://daily.hankooki.com/news/articleView.html?idxno=1415990 | a7,ax2
-2026-10-19 09:49 | newspim.com | 삼성물산, 여의도 시범아파트 재건축 시공사 선정...2480가구 조성 | https://www.newspim.com/news/view/20261019000335 | a1
 2026-10-19 09:49 | biz.heraldcorp.com | 대교·목화 이어 시범까지…삼성물산, 여의도 한강변에 ‘래미안 벨트’... | https://biz.heraldcorp.com/article/10906684?ref=naver | a1
+2026-10-19 09:49 | newspim.com | 삼성물산, 여의도 시범아파트 재건축 시공사 선정...2480가구 조성 | https://www.newspim.com/news/view/20261019000335 | a1
 2026-10-19 09:48 | etnews.com | 삼성바이오로직스, 글로벌 ADC 공략…'전 주기 서비스' 역량 강조 | https://www.etnews.com/20261019000071 | a7,ax2
 2026-10-19 09:46 | daily.hankooki.com | 여의도 시범아파트, 삼성물산 '래미안 소넬리'로 재탄생 | https://daily.hankooki.com/news/articleView.html?idxno=1415993 | a1
 2026-10-19 09:46 | news1.kr | 법원, 노조 2차 파업 제동에…삼성바이오 5% 강세[핫종목] | https://www.news1.kr/finance/market-exr/6324125 | a7?,ax2
 2026-10-19 09:44 | dealsite.co.kr | [제약+] 삼성바이오로직스, ‘월드 ADC’ 참가 경쟁력 뽐내 外 | https://dealsite.co.kr/articles/170889 | a7,ax2
 2026-10-19 09:42 | biospectator.com | 삼성바이오, 월드ADC 참가.."ADC 서비스 역량 알려" | https://www.biospectator.com/view/news_view.php?varAtcId=30115 | ax2
-2026-10-19 09:41 | FourWeekMBA | Samsung Organizational Structure (2026): How Samsung Is Organized | google:FourWeekMBA | aen1
-2026-10-19 09:40 | ad-hoc-news.de | Samsung Biologics clears 87.88% tender hurdle: what it means for Samsung Biologics stock | google:ad-hoc-news.de | aen3
+2026-10-19 09:41 | FourWeekMBA | Samsung Organizational Structure (2026): How Samsung Is Organized | google:FourWeekMBA#d997698b | aen1
+2026-10-19 09:40 | ad-hoc-news.de | Samsung Biologics clears 87.88% tender hurdle: what it means for Samsung Biologics stock | google:ad-hoc-news.de#010c5868 | aen3
 2026-10-19 09:40 | sateconomy.co.kr | 삼성물산, 여의도 시범아파트 2조원 재건축 수주…2491가구 조성 | https://sateconomy.co.kr/news/view/1065572718961908 | a1
-2026-10-19 09:40 | widedaily.com | 2조2000억 잭팟…삼성물산, 여의도 1호 재건축 '시범아파트' 수주 성공 | https://www.widedaily.com/news/articleView.html?idxno=302057 | a1
 2026-10-19 09:40 | financialpost.co.kr | 삼성물산, '2.2兆 규모' 여의도 시범아파트 재건축 수주… 총 2480세대 | https://www.financialpost.co.kr/news/articleView.html?idxno=281079 | a1
-2026-10-19 09:37 | 아시아경제 | KOSPI Falls Around 1% in Early Trading, Drops Below 5,600 | google:아시아경제 | aen1,aen3
-2026-10-19 09:35 | 조선일보 | National Pension Service Posts 182 Trillion Won Loss in Quarter | google:조선일보 | aen3
-2026-10-19 09:35 | BigGo Finance | KOSPI Plunges 1.6% Intraday to 5,575 as AI Profitability Fears Hit Samsung Electronics, SK Hynix | google:BigGo Finance | aen3
-2026-10-19 09:34 | Aju Press | AI debt scare knocks Seoul and Tokyo stocks at open | google:Aju Press | aen3
+2026-10-19 09:40 | widedaily.com | 2조2000억 잭팟…삼성물산, 여의도 1호 재건축 '시범아파트' 수주 성공 | https://www.widedaily.com/news/articleView.html?idxno=302057 | a1
+2026-10-19 09:37 | 아시아경제 | KOSPI Falls Around 1% in Early Trading, Drops Below 5,600 | google:아시아경제#8db2acd5 | aen1,aen3
+2026-10-19 09:35 | 조선일보 | National Pension Service Posts 182 Trillion Won Loss in Quarter | google:조선일보#973b7916 | aen3
+2026-10-19 09:35 | BigGo Finance | KOSPI Plunges 1.6% Intraday to 5,575 as AI Profitability Fears Hit Samsung Electronics, SK Hynix | google:BigGo Finance#f62b4308 | aen3
+2026-10-19 09:34 | Aju Press | AI debt scare knocks Seoul and Tokyo stocks at open | google:Aju Press#2a62a52c | aen3
 2026-10-19 09:32 | ajunews.com | [핫타임] 삼성바이오로직스, 급락장 속 4%대 강세…3분기 실적 기대감에... | https://www.ajunews.com/view/20261019093047773 | a7,ax2
-2026-10-19 09:30 | biz.chosun.com | 삼성바이오로직스, 월드 ADC서 연구·생산 전 주기 서비스 소개 | https://biz.chosun.com/science-chosun/bio/2026/10/19/T6KB6TU23RD7VLFGEBOUCPGIXE/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7,ax2
 2026-10-19 09:30 | press9.kr | 삼성바이오로직스, 폴리펩타이드 인수 일정 늦춰지나…11월 연기 전망 | http://www.press9.kr/news/articleView.html?idxno=84457 | a7,ax2
+2026-10-19 09:30 | biz.chosun.com | 삼성바이오로직스, 월드 ADC서 연구·생산 전 주기 서비스 소개 | https://biz.chosun.com/science-chosun/bio/2026/10/19/T6KB6TU23RD7VLFGEBOUCPGIXE/?utm_source=naver&utm_medium=original&utm_campaign=biz | a7,ax2
 2026-10-19 09:29 | greened.kr | 삼성바이오, 월드 ADC서 전주기 서비스 경쟁력 강조···고객 수요 대응... | https://www.greened.kr/news/articleView.html?idxno=352350 | ax2
-2026-10-19 09:29 | Chosunbiz | Samsung Biologics touts end-to-end ADC CDMO services at World ADC San Diego - CHOSUNBIZ | google:Chosunbiz | aen3
+2026-10-19 09:29 | Chosunbiz | Samsung Biologics touts end-to-end ADC CDMO services at World ADC San Diego - CHOSUNBIZ | google:Chosunbiz#59533a1f | aen3
 2026-10-19 09:28 | kizmom.com | 삼성바이오로직스, ADC 사업 확대…2027년 완제의약품 전용 라인 가동 추... | https://www.kizmom.com/news/articleView.html?idxno=113376 | a7,ax2
 2026-10-19 09:28 | opinionnews.co.kr | 코스피, -1%대 반등에 5600 공방전...삼전우·삼성바이오 선방 | http://www.opinionnews.co.kr/news/articleView.html?idxno=145831 | ax2
-2026-10-19 09:24 | pinpointnews.co.kr | 3D 장기 유사체 시장 개척… 오가노이드 테마 실적·기술력 차별화 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=496351 | a7,ax2
 2026-10-19 09:24 | paxetv.com | 삼성바이오로직스, '월드 ADC'서 ADC 관련 전 주기 원스톱 서비스 역량 ... | http://www.paxetv.com/news/articleView.html?idxno=284434 | a7,ax2
+2026-10-19 09:24 | pinpointnews.co.kr | 3D 장기 유사체 시장 개척… 오가노이드 테마 실적·기술력 차별화 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=496351 | a7,ax2
 2026-10-19 09:23 | news.tf.co.kr | 삼성물산, '2.3조원' 여의도 시범 재건축 수주…단지명 '래미안 소넬리... | https://news.tf.co.kr/read/economy/2377655.htm | a1
-2026-10-19 09:22 | 머니투데이 | KOSPI plunges 3% at open, pares losses as foreign and institutional investors buy shares | google:머니투데이 | aen1,aen3
+2026-10-19 09:22 | 머니투데이 | KOSPI plunges 3% at open, pares losses as foreign and institutional investors buy shares | google:머니투데이#27659c7d | aen1,aen3
 2026-10-19 09:22 | dizzotv.com | 삼성물산, 여의도 시범아파트 재건축 시공사 선정…단지명 ‘래미안 소... | https://www.dizzotv.com/site/data/html_dir/2026/10/19/2026101980035.html | a1
 2026-10-19 09:22 | fnnews.com | 삼성바이오, 증시 부진 속 3거래일 연속 상승…11%대 반등[종목NOW] | https://www.fnnews.com/news/202610190916529609 | ax2
-2026-10-19 09:21 | 파이낸셜뉴스 | Samsung Biologics rises for third straight session amid market slump, rebounds 11% [Stock NOW] | google:파이낸셜뉴스 | aen3
+2026-10-19 09:21 | 파이낸셜뉴스 | Samsung Biologics rises for third straight session amid market slump, rebounds 11% [Stock NOW] | google:파이낸셜뉴스#4442d5a6 | aen3
 2026-10-19 09:21 | yna.co.kr | 삼성바이오, 월드 ADC서 경쟁력 알려…"전주기 역량 확보" | https://www.yna.co.kr/view/AKR20261019031100017?input=1195m | ax2
 2026-10-19 09:20 | socialvalue.kr | 삼성물산, 2조원대 여의도 시범아파트 재건축 수주…미래형 주거단지로... | https://www.socialvalue.kr/news/view/1065571428156805 | a1
 2026-10-19 09:20 | edaily.co.kr | 삼성바이오, 월드 ADC서 고객 접점 확대…전주기 서비스 알렸다 | https://www.edaily.co.kr/News/Read?newsId=02417366645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | ax2
-2026-10-19 09:19 | 디지털투데이 | KOSPI opens lower after selloff in U.S. AI stocks; KOSDAQ also falls | google:디지털투데이 | aen3
+2026-10-19 09:19 | 디지털투데이 | KOSPI opens lower after selloff in U.S. AI stocks; KOSDAQ also falls | google:디지털투데이#a735626b | aen3
 2026-10-19 09:18 | popcornnews.net | 삼성바이오로직스, '송도 원스톱' 앞세워 차세대 ADC 시장 공략 가속 | http://www.popcornnews.net/news/articleView.html?idxno=136379 | a7,ax2
 2026-10-19 09:18 | newsis.com | 삼성바이오 "월드ADC서 전주기 서비스 소개" | https://www.newsis.com/view/NISX20261019_0003830986 | ax2
-2026-10-19 09:15 | Aju Press | Samsung Biologics pitches one-stop ADC services in US | google:Aju Press | aen3
+2026-10-19 09:15 | Aju Press | Samsung Biologics pitches one-stop ADC services in US | google:Aju Press#ae3f17c2 | aen3
 2026-10-19 09:15 | dailian.co.kr | 삼성물산, '2.2조' 여의도 시범아파트 시공사 선정 | https://www.dailian.co.kr/news/view/1702903/?sc=Naver | a1
 2026-10-19 09:12 | fnnews.com | 삼성물산, 여의도 시범아파트 재건축 2조2685억원 수주 | https://www.fnnews.com/news/202610190907596825 | a1
 2026-10-19 09:12 | womentimes.co.kr | 삼성바이오로직스, 美 '월드 ADC'서 기술력 선보여...27년 완제의약품 생... | https://www.womentimes.co.kr/news/articleView.html?idxno=107097 | a7,ax2
 2026-10-19 09:11 | dailian.co.kr | 삼성바이오, 美서 'ADC CDMO' 역량 전격 공개 | https://www.dailian.co.kr/news/view/1702904/?sc=Naver | ax2
 2026-10-19 09:08 | lawissue.co.kr | 삼성물산, ‘여의도 시범아파트 재건축’ 시공권 확보…‘래미안 소넬... | https://www.lawissue.co.kr/view.php?ud=20261019090709298267191f6c6e_12 | a1
 2026-10-19 09:06 | yonhapnewstv.co.kr | 삼성물산, 2조원 '여의도 시범' 재건축 수주…한강 조망 2천 세대 | http://www.yonhapnewstv.co.kr/news/AKR20261019090600ImW | a1
-2026-10-19 09:04 | 아시아경제 | Samsung Biologics Showcases End-to-End Service Capabilities at World ADC | google:아시아경제 | aen3
+2026-10-19 09:04 | 아시아경제 | Samsung Biologics Showcases End-to-End Service Capabilities at World ADC | google:아시아경제#ea9676ef | aen3
 2026-10-19 09:02 | pharmnews.com | 삼성바이오로직스, '월드 ADC'서 CRO·CDO·CMO 전 주기 역량 소개 | https://www.pharmnews.com/news/articleView.html?idxno=307052 | a7,ax2
-2026-10-19 09:01 | Chosunbiz | Foreign and institutional buying trim Korea stock slump after US chip rout - CHOSUNBIZ | google:Chosunbiz | aen3
+2026-10-19 09:01 | Chosunbiz | Foreign and institutional buying trim Korea stock slump after US chip rout - CHOSUNBIZ | google:Chosunbiz#ae1e63ee | aen3
 2026-10-19 09:00 | press9.kr | 삼성바이오로직스, ADC 전주기 서비스 확대…월드ADC서 소개 | http://www.press9.kr/news/articleView.html?idxno=84444 | a7,ax2
 2026-10-19 08:59 | mk.co.kr | “미래형 주거공간 구현”…삼성물산, 2.3조 규모 여의도 시범아파트 재... | https://www.mk.co.kr/article/12179206 | a1
-2026-10-19 08:58 | 매일경제 | Samsung C&T Construction Division (Samsung C&T) has been selected as the contractor for the | google:매일경제 | aen1,aen13
+2026-10-19 08:58 | 매일경제 | Samsung C&T Construction Division (Samsung C&T) has been selected as the contractor for the | google:매일경제#258dcfde | aen1,aen13
 2026-10-19 08:58 | econovill.com | 서울 여의도 시범아파트 삼성물산이 품었다…단지명 '래미안 소넬리' | https://www.econovill.com/news/articleView.html?idxno=754016 | a1
 2026-10-19 08:55 | mt.co.kr | 삼성바이오, 월드ADC 참가…"ADC·이중항체 CDMO 경쟁력 뽐냈다" | https://www.mt.co.kr/thebio/2026/10/19/2026101908503110868 | ax2
 2026-10-19 08:52 | newsprime.co.kr | 삼성물산, 반도체 하이테크 수주 확대…하반기 실적 개선 기대 | http://www.newsprime.co.kr/news/article.html?no=751382 | a1
@@ -68,21 +83,21 @@
 2026-10-19 08:42 | ftoday.co.kr | 삼성바이오로직스 '월드 ADC' 참가… 전주기 ADC 원스톱 서비스 역량 과... | http://www.ftoday.co.kr/news/articleView.html?idxno=367523 | a7,ax2
 2026-10-19 08:40 | sentv.co.kr | 삼성물산, 2조원대 여의도 시범 재건축 수주…정비사업 9.6조 돌파 | https://www.sentv.co.kr/article/view/sentv202610190008 | a1
 2026-10-19 08:38 | businessplus.kr | [비즈+]삼성물산, 2.2조 규모 여의도 시범아파트 재건축 시공권 확보…... | https://www.businessplus.kr/news/articleView.html?idxno=118338 | a1
-2026-10-19 08:36 | ad-hoc-news.de | Samsung C&T sets October 28 results date for Samsung C&T stock | google:ad-hoc-news.de | aen1,aen3
+2026-10-19 08:36 | ad-hoc-news.de | Samsung C&T sets October 28 results date for Samsung C&T stock | google:ad-hoc-news.de#2a06c876 | aen1,aen3
 2026-10-19 08:36 | biz.heraldcorp.com | 삼성바이오로직스, ‘월드 ADC’ 참가…전 주기 원스톱 역량 알려 | https://biz.heraldcorp.com/article/10906509?ref=naver | a7,ax2
 2026-10-19 08:34 | cbci.co.kr | 삼성물산, 여의도 시범아파트 재건축 시공사 선정…공사 예정금액 2조2... | https://www.cbci.co.kr/news/articleView.html?idxno=616835 | a1
 2026-10-19 08:34 | newspim.com | [모닝 리포트] "삼성물산, 반도체 공장 수주 확대…루마니아 대형원전 ... | https://www.newspim.com/news/view/20261019000072 | a1
-2026-10-19 08:30 | 아시아경제 | Everland's Twin Pandas Begin Quarantine Ahead of Move to China; On View Through Dec. 11 | google:아시아경제 | aen1
+2026-10-19 08:30 | 아시아경제 | Everland's Twin Pandas Begin Quarantine Ahead of Move to China; On View Through Dec. 11 | google:아시아경제#e9a5f864 | aen1
 2026-10-19 08:28 | g-enews.com | [개장 전 주요 공시] 삼성물산·한화시스템·키움증권·DL·현대엘리베이... | https://www.g-enews.com/view.php?ud=202610190812031740923c501012_1 | a1
 2026-10-19 08:22 | etoday.co.kr | 구미시, 삼성물산·지역건설업체 ‘매칭데이’ 실시...지자체 최초 | https://www.etoday.co.kr/news/view/2637125 | a1
 2026-10-19 08:10 | newsis.com | 삼성물산, 2조2685억 규모 주택재건축정비사업 시공사 선정 | https://www.newsis.com/view/NISX20261019_0003830769 | a1
 2026-10-19 08:04 | 4th.kr | 삼성물산, 2.3조 여의도 시범 재건축 시공사 선정 | http://www.4th.kr/news/articleView.html?idxno=2119948 | a1
 2026-10-19 08:00 | youthdaily.co.kr | '하이테크'로 쏠린 삼성물산 건설…토목사업은 매출·수주 모두 "위축" | https://www.youthdaily.co.kr/news/article.html?no=228411 | a1
-2026-10-19 07:52 | TradingView | Samsung C&T Corp Wins 2.27 Trln Won Order | google:TradingView | aen1
-2026-10-19 07:51 | ad-hoc-news.de | Samsung Bioepis starts SBE303 trial: what it means for Samsung Epis stock | google:ad-hoc-news.de | aen4,aen5
+2026-10-19 07:52 | TradingView | Samsung C&T Corp Wins 2.27 Trln Won Order | google:TradingView#25f31396 | aen1
+2026-10-19 07:51 | ad-hoc-news.de | Samsung Bioepis starts SBE303 trial: what it means for Samsung Epis stock | google:ad-hoc-news.de#48ca4213 | aen4,aen5
 2026-10-19 07:02 | businesspost.co.kr | [Who Is ?] 송규종 삼성물산 리조트 부문 및 삼성웰스토리 대표이사 사장 | https://www.businesspost.co.kr/BP?command=article_view&num=449612 | a1,a12,a6,ax6
 2026-10-19 07:02 | investchosun.com | [Invest]삼성바이오 우리사주 청약에 노사갈등 변수…전자·물산 초과청... | https://www.investchosun.com/site/data/html_dir/2026/10/16/2026101680122.html | ax2
 2026-10-19 07:01 | sedaily.com | 삼성바이오, 완제 의약품 진출…론자·우시와 격돌 | https://www.sedaily.com/article/20102891?ref=naver | ax2
-2026-10-19 07:00 | Seoul Economic Daily | Samsung Biologics Enters ADC Fill-Finish, Taking On Lonza and WuXi | google:Seoul Economic Daily | aen3
+2026-10-19 07:00 | Seoul Economic Daily | Samsung Biologics Enters ADC Fill-Finish, Taking On Lonza and WuXi | google:Seoul Economic Daily#eede68c0 | aen3
 2026-10-19 06:56 | medicopharma.co.kr | 삼성바이오로직스, 폴리펩타이드 인수 내년 1분기 가능성…규제심사 변... | https://www.medicopharma.co.kr/news/articleView.html?idxno=69900 | a7,ax2
 2026-10-19 06:34 | labortoday.co.kr | '9개 공정 쟁의금지' 고민 깊어진 삼성바이오노조 | https://www.labortoday.co.kr/news/articleView.html?idxno=237263 | a7,ax2
