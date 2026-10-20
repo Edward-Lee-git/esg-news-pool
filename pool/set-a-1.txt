@@ -1,256 +1,147 @@
-# collected: 2026-10-20 13:02 KST
-# window: 2026-10-19 00:00 ~ 2026-10-20 13:02 KST
-# part 1 of 2, lines: 250
+# collected: 2026-10-21 07:11 KST
+# window: 2026-10-20 00:00 ~ 2026-10-21 07:11 KST
+# part 1 of 1, lines: 141
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-10-21 07:01 | sedaily.com | 브라질에 희귀질환치료제…삼성에피스 ‘10년 공급 계약’ 따냈다 | https://www.sedaily.com/article/20103837?ref=naver | ax3
+2026-10-21 07:00 | Korea JoongAng Daily | Workplace fatalities fall nearly 20% to record low, but deaths in manufacturing rise | google:Korea JoongAng Daily#c5668ff6 | aen13
+2026-10-21 06:56 | ngetnews.com | 삼성바이오에피스, 브라질 기술이전 확대…안과질환 치료제도 '협의' | https://www.ngetnews.com/news/articleView.html?idxno=554816 | a10,ax2,ax5
+2026-10-21 06:40 | dnews.co.kr | [재해 사망자 급감] ③ 건설업 사망 28.6% 감소…전체 감소세 견인 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610200855048680236 | a1
+2026-10-21 06:01 | inews24.com | "닷새만에 1500억 손실"⋯2차 파업 가져올 피해는 '예측 불가' [삼성바이... | http://www.inews24.com/view/2017065 | a7,ax2
+2026-10-21 03:54 | mt.co.kr | 삼성에피스, 브라질서 3번째 판로 열었다 | https://www.mt.co.kr/thebio/2026/10/21/2026102019530784498 | ax3
+2026-10-21 03:06 | Jambi Ekspres | Harga TBS Sawit Mitra Swadaya Riau Naik, Tertinggi Rp3.679,40/Kg, Ini Daftar Harga TBS 21-27 Oktober 2026 - https://jambiekspres.disway.id/ | google:Jambi Ekspres#78366535 | aid8
+2026-10-21 02:04 | s-journal.co.kr | 삼성물산, 반도체 훈풍 탄다…평택 이어 용인 수주 기대감 'UP' | https://www.s-journal.co.kr/news/articleView.html?idxno=44656 | a1
+2026-10-21 01:58 | Reuters | Small reactor developers tie in EPC partners to de-risk roll out | google:Reuters#5660d5f4 | aen1
+2026-10-21 00:31 | donga.com | [단독]삼성바이오에피스, 브라질에 희귀질환약 10년간 단독 공급 | https://www.donga.com/news/Economy/article/all/20261020/134877506/2 | a10,ax2,ax5
+2026-10-21 00:30 | vegannews.co.kr | 삼성물산, 매출 2.5% 이상 건설공사 낙찰통지 받아 | https://www.vegannews.co.kr/news/article.html?no=394772 | a1
+2026-10-20 23:32 | BeritaRiau.com | Harga TBS Sawit Mitra Swadaya Riau Naik Rp75 per Kg, Tembus Rp3.679,40 | google:BeritaRiau.com#28422ba7 | aid8
+2026-10-20 23:19 | HALLORIAU.COM | Harga TBS Sawit Mitra Swadaya di Riau Pekan ini Naik Jadi Rp3.679 | google:HALLORIAU.COM#dca7aa46 | aid2,aid8
+2026-10-20 22:08 | econovill.com | [단독] '진퇴양난' 삼성바이오로직스 노조, 소통 창구도 먹통 | https://www.econovill.com/news/articleView.html?idxno=754311 | a7,ax2
+2026-10-20 21:51 | The Pharma Letter | Samsung Bioepis enters deal for biosimilar in Brazil | google:The Pharma Letter#81f10fc8 | aen4
+2026-10-20 21:45 | Drug Store News | Samsung Bioepis enters 10-year agreement to supply eculizumab in Brazil | google:Drug Store News#7e981abf | aen4
+2026-10-20 21:00 | newsian.co.kr | 삼성바이오 노조, 결국 '2차 총파업' 연기…사측엔 '재교섭' 손 내밀어 | http://www.newsian.co.kr/news/articleView.html?idxno=97406 | a7,ax2
+2026-10-20 20:58 | bizwnews.com | [헬스 HOT 뉴스] 삼성바이오에피스, 브라질 희귀질환 치료제 10년 동안 ... | http://www.bizwnews.com/news/articleView.html?idxno=149469 | a10,ax2,ax5
+2026-10-20 20:30 | econotimes.com | Samsung Bioepis Consortium Secures 10-Year Eculizumab Deal in Brazil | https://econotimes.com/Samsung-Bioepis-Consortium-Secures-10-Year-Eculizumab-Deal-in-Brazil-1757630 | a11
+2026-10-20 20:06 | ebn.co.kr | 삼성바이오로직스 노조, 26일 예정 2차 파업 연기…사측에 교섭 요구 | https://www.ebn.co.kr/news/articleView.html?idxno=1728541 | a7,ax2
+2026-10-20 19:42 | popcornnews.net | '3분기 호실적' 삼성물산 건설·삼성E&A...기존 사업에 하이테크 가세 | http://www.popcornnews.net/news/articleView.html?idxno=136655 | a1
+2026-10-20 19:35 | Riauin.com | Lonjakan Harga CPO dan Kernel Dongkrak Harga TBS Swadaya Riau Jadi Rp3.679/Kg | google:Riauin.com#c4afed06 | aid2
+2026-10-20 19:19 | seoul.co.kr | 중동 플랜트 수주 40% 급감…美 189%↑ 최대시장 부상 | https://www.seoul.co.kr/news/economy/2026/10/20/20261020500328?wlog_tag3=naver | a1
+2026-10-20 18:49 | RiauSky.com | Harga TBS Kelapa Sawit Petani Mitra Swadaya Provinsi Riau Minggu ini..... | google:RiauSky.com#82d7f509 | aid8
+2026-10-20 18:34 | kukinews.com | 삼성바이오로직스 노조, 2차 총파업 잠정 연기…“법원 결정 따라 전략... | https://www.kukinews.com/article/view/kuk202610200223 | a7,ax2
+2026-10-20 18:34 | kormedi.com | 삼성바이오 노조, 26일 2차 총파업 잠정 연기⋯교섭 재개 추진 | https://kormedi.com/?p=2888343 | a7,ax2
+2026-10-20 18:34 | hankyung.com | 삼성에피스, 브라질 공략 희귀질환약 10년간 공급 | https://www.hankyung.com/article/2026102040691 | ax3
+2026-10-20 18:29 | Media Center Riau | Harga TBS Mitra Swadaya Riau Naik ke Rp3.679,40/Kg Pekan Ini | google:Media Center Riau#83132e97 | aid2
+2026-10-20 18:13 | fnnews.com | 삼성에피스, 브라질과 '10년 공급권' 계약 | https://www.fnnews.com/news/202610201812176876 | ax3
+2026-10-20 18:12 | dealsite.co.kr | 삼성바이오로직스 노조, 총파업 연기…낮은 참여율 ‘발목’ | https://dealsite.co.kr/articles/171037 | a7,ax2
+2026-10-20 18:09 | marketscreener.com | Samsung C&T Secures Letter of Award for Construction Project | google:marketscreener.com#2ecfd6c7 | aen1
+2026-10-20 18:00 | hankyung.com | 중대재해 예방·공기 단축…건설현장도 '피지컬 AI' | https://www.hankyung.com/article/2026102039571 | a1
+2026-10-20 17:51 | KED Global | Amazon backs 960 MW small nuclear project; Doosan, Hyundai, DL, other Korean suppliers stand to benefit | google:KED Global#17027638 | aen1
+2026-10-20 17:50 | 4th.kr | 삼성바이오로직스 노조, 2차 총파업 연기..법원 제동에 교섭 선회 | http://www.4th.kr/news/articleView.html?idxno=2120086 | a7,ax2
+2026-10-20 17:44 | ytn.co.kr | 삼성 바이오 노조, 2차 파업 연기...사측에 교섭 요구 | https://www.ytn.co.kr/_ln/0102_202610201744271496 | a7,ax2
+2026-10-20 17:44 | mt.co.kr | 삼성바이오 노조, 다음주 총파업 '연기'…사측에 교섭 재개 요청 | https://www.mt.co.kr/thebio/2026/10/20/2026102017144780664 | a7,ax2
+2026-10-20 17:41 | sedaily.com | 삼성바이오로직스 노조, 26일 2차 총파업 연기 | https://www.sedaily.com/article/20103916?ref=naver | a7,ax2
+2026-10-20 17:40 | ktnews.com | 패션 대기업, '브랜드 세계관' 경쟁...AI 캐릭터·예술·글로벌 IP로 차별... | http://www.ktnews.com/news/articleView.html?idxno=149520 | a1,a5
+2026-10-20 17:38 | news.ifm.kr | '26일 파업' 잠정 연기...삼성바이오 노조 "쟁의기금 확보 '임시 총회' 앞... | https://news.ifm.kr/news/articleView.html?idxno=482202 | a7,ax2
+2026-10-20 17:34 | biz.sbs.co.kr | 삼성바이오 노조, 교섭 재개 추진…2차 파업 연기 | https://biz.sbs.co.kr/article_hub/20000341087?division=NAVER | a7?,ax2
+2026-10-20 17:28 | etoday.co.kr | 삼성바이오로직스 노조, 26일 총파업 연기…법원 결정에 전략 수정 | https://www.etoday.co.kr/news/view/2638020 | a7,ax2
+2026-10-20 17:26 | cbci.co.kr | [속보] 삼성물산, 최근 매출액 2.5% 이상 건설공사 낙찰통지서 수령 | https://www.cbci.co.kr/news/articleView.html?idxno=617456 | a1
+2026-10-20 17:26 | daily.hankooki.com | 삼성바이오 교섭 재개하나…노조, 2차 파업 연기 | https://daily.hankooki.com/news/articleView.html?idxno=1416737 | a7,ax2
+2026-10-20 17:22 | biztribune.co.kr | 삼성바이오에피스, 브라질 희귀질환 치료제 10년간 단독 공급 계약 체결 | http://www.biztribune.co.kr/news/articleView.html?idxno=360934 | a10,ax2,ax5
+2026-10-20 17:14 | newsworks.co.kr | 삼성바이오 노조, 2차 총파업 연기…교섭 재개 요청 | https://www.newsworks.co.kr/news/articleView.html?idxno=900117 | a7,ax2
+2026-10-20 17:13 | hankookilbo.com | 삼성바이오 노조,  2차 파업 연기… "법원 결정에 전략 수정" | https://www.hankookilbo.com/news/article/A2026102016320000605?did=NA | a7,ax2
+2026-10-20 17:10 | ajunews.com | 삼성바이오 노조, 26일 2차 총파업 연기… 사측에 교섭 재개 요청 | https://www.ajunews.com/view/20261020165947389 | a7,ax2
+2026-10-20 17:10 | g-enews.com | 삼성바이오에피스, 브라질에 희귀질환 치료제 '에쿨리주맙' 10년간 단독... | https://www.g-enews.com/view.php?ud=202610201555159440b065b72042_1 | a10,ax2,ax5
+2026-10-20 17:06 | whitepaper.co.kr | 삼성바이오 노조, 2차 파업 연기···법원 제동에 교섭 재개 추진 | http://www.whitepaper.co.kr/news/articleView.html?idxno=267964 | a7,ax2
+2026-10-20 17:06 | sentv.co.kr | 삼성바이오 노조, 26일 총파업 잠정 연기 | https://www.sentv.co.kr/article/view/sentv202610200166 | a7,ax2
+2026-10-20 17:06 | view.asiae.co.kr | 삼성바이오로직스 노조, 2차 파업 연기…교섭 재개 추진 | https://view.asiae.co.kr/article/2026102017063415622 | a7,ax2
+2026-10-20 17:02 | smartbizn.com | 삼성바이오 노조, 2차 총파업 연기···다시 교섭 테이블로 | https://www.smartbizn.com/news/articleView.html?idxno=157016 | a7,ax2
+2026-10-20 16:59 | inews24.com | "교섭 재개 추진"⋯삼성바이오 노조, 2차 파업 연기 | http://www.inews24.com/view/2017071 | a7,ax2
+2026-10-20 16:58 | TradingView | Samsung C&T Receives Letter Of Award On Construction Project That Accounts For More Than 2.5% Of Recent Revenue | google:TradingView#6e153106 | aen1
+2026-10-20 16:55 | newsis.com | 삼성바이오 노조, 2차총파업 연기…22일 임시총회(종합) | https://www.newsis.com/view/NISX20261020_0003833849 | a7,ax2
+2026-10-20 16:45 | mk.co.kr | 삼성에피스, 희귀질환약 브라질 공급 | https://www.mk.co.kr/article/12180710 | ax3
+2026-10-20 16:44 | livebiz.today | 법원에 제동 걸린 삼성바이오 노조, 전면 파업 보류하고 협상으로 선회... | https://www.livebiz.today/news/articleView.html?idxno=205758 | a7,ax2
+2026-10-20 16:43 | newsis.com | "참여율 저조"…삼성바이오 노조, 2차 총파업 연기 | https://www.newsis.com/view/NISX20261020_0003833818 | a7,ax2
+2026-10-20 16:40 | digitalchosun.dizzo.com | 삼성바이오에피스 희귀질환약, 10년간 브라질 공급 물량 보장…이후 현... | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/20/2026102080148.html | a10,ax2,ax5
+2026-10-20 16:34 | biztribune.co.kr | 삼성물산, 3분기 영업이익 컨센서스 부합 전망…하이테크 수주 확대 기... | http://www.biztribune.co.kr/news/articleView.html?idxno=360930 | a1
+2026-10-20 16:30 | fnnews.com | 삼성바이오 노조, 총파업 연기...낮은 참여율에 교섭 전략 수정 | https://www.fnnews.com/news/202610201607048411 | a7,ax2
+2026-10-20 16:10 | 삼성물산 뉴스룸 | Everland’s Capybara Family Welcomes Three New Babies | google:삼성물산 뉴스룸#65843d8f | aen1
+2026-10-20 16:08 | gokorea.kr | 법원 판결로 주춤한 삼성바이오로직스 노조, 2차 파업 연기의 숨은 전략 | https://www.gokorea.kr/news/articleView.html?idxno=882134 | a7,ax2
+2026-10-20 15:52 | 파이낸셜뉴스 | Korea National Railway conducts compound disaster response drill at GTX-B site...20 agencies take part | google:파이낸셜뉴스#a5dcabf9 | aen13
+2026-10-20 15:46 | businesspost.co.kr | 삼성바이오에피스, 브라질에 희귀질환 치료제 10년 동안 단독 공급하기... | https://www.businesspost.co.kr/BP?command=article_view&num=449808 | a10,ax2,ax5
+2026-10-20 15:34 | seoulfn.com | [제약브리핑] 삼성바이오에피스, 브라질 희귀질환 치료제 10년간 단독 공... | https://www.seoulfn.com/news/articleView.html?idxno=640502 | a10,ax2,ax5
+2026-10-20 15:26 | newsprime.co.kr | 삼성바이오에피스, 브라질에 SB12 10년 단독 공급 | http://www.newsprime.co.kr/news/article.html?no=751670 | a10,ax2,ax5
+2026-10-20 15:24 | businesspost.co.kr | 삼성물산 오세철 도시정비 앞세워 그룹사 의존도 낮춘다, 주택사업 비중... | https://www.businesspost.co.kr/BP?command=article_view&num=449797 | a1
+2026-10-20 15:10 | mdtoday.co.kr | 삼성바이오에피스, 브라질에 희귀질환 치료제 10년간 독점 공급 | https://www.mdtoday.co.kr/news/articleView.html?idxno=619747 | a10,ax2,ax5
+2026-10-20 15:05 | Teras.id | Bagaimana Konflik Tersulut di Kebun Sawit Agrinas Palma Nusantara Riau / Riauterkini.com | google:Teras.id#738e68f3 | aid9
+2026-10-20 14:56 | paxetv.com | 삼성바이오에피스, 브라질 정부 주도 PDP 단독 공급 계약 체결...'2500억원... | http://www.paxetv.com/news/articleView.html?idxno=284652 | a10,ax2,ax5
+2026-10-20 14:53 | hankyung.com | 여의도 시범, 사업시행인가 이어 시공사 삼성물산…최고 59층 재건축 | https://www.hankyung.com/article/202610203435i | a1
+2026-10-20 14:42 | dailymedi.com | 삼성바이오로직스 노조 '장기파업 제동' 주목 | https://www.dailymedi.com/news/news_view.php?wr_id=941643 | a7,ax2
+2026-10-20 14:36 | job-post.co.kr | 삼성바이오로직스 138만8000원…3분기 실적 발표 앞둬 | https://www.job-post.co.kr/news/articleView.html?idxno=233435 | a7,ax2
+2026-10-20 14:30 | Chosunbiz | SK weighs Westinghouse stake to power Korea AI push with nuclear - CHOSUNBIZ | google:Chosunbiz#022eec49 | aen1
+2026-10-20 14:26 | RRI.co.id | DPRD Kubar Beri Waktu 14 Hari untuk Selesaikan Sengketa Lahan Warga Sentalar-BPPJ | google:RRI.co.id#279bd0ad | aid9
+2026-10-20 14:22 | Haluan Riau | Sepekan Operasi Antik, Polres Pelalawan Amankan 14 Tersangka dan Sita 83,09 Gram Sabu - Haluan Riau | google:Haluan Riau#f8a61092 | aid6
+2026-10-20 14:10 | shinailbo.co.kr | 삼성웰스토리, 경북 중소기업 제품 급식 메뉴로 개발…2만식 제공 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5073134 | a12,ax6
+2026-10-20 14:00 | 파이낸셜뉴스 | Ulsan City Brokers Meeting Between Major Construction Firms and Local Companies to Expand Subcontracting Opportunities | google:파이낸셜뉴스#91efe3e9 | aen1
+2026-10-20 13:48 | newsworks.co.kr | 삼성바이오에피스, 브라질에 솔리리스 바이오시밀러 10년간 단독 공급 | https://www.newsworks.co.kr/news/articleView.html?idxno=900045 | a10,ax2,ax5
+2026-10-20 13:36 | koreaherald.com | Samsung Bioepis secures 10-year biosimilar supply deal in Brazil | https://www.koreaherald.com/article/10908631?ref=naver | a11,aen4
+2026-10-20 13:05 | BigGo Finance | South Korea's Samsung C&T Nears First-Ever 10 Trillion Won in Annual Urban Renewal Orders as Hyundai E&C's Eight-Year Streak Faces Challenge | google:BigGo Finance#86aeeec5 | aen1
+2026-10-20 13:04 | businesskorea.co.kr | Court Restricts Samsung Biologics Strike Across Nine Production Processes | https://www.businesskorea.co.kr/news/articleView.html?idxno=279204 | a8
 2026-10-20 12:48 | shinailbo.co.kr | 구미시, 삼성물산에 지역 건설업체 30% 이상 참여 요청…상생협력 확대 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5073703 | a1
 2026-10-20 12:40 | newslock.co.kr | 삼성바이오에피스, 브라질 정부 시장에 희귀질환 치료제 10년 공급 | http://www.newslock.co.kr/news/articleView.html?idxno=138263 | a10,ax2,ax5
 2026-10-20 12:13 | upkoreanews.kr | [창간22주년 특집: 글로벌 바이오의 중심에 서다]① 삼성바이오로직스,... | https://www.upkoreanews.kr/news/articleView.html?idxno=100729 | a7,ax2
 2026-10-20 11:46 | ngetnews.com | 삼성바이오로직스, 폴리펩타이드 인수 결제 연기…내년 1분기 완료 | https://www.ngetnews.com/news/articleView.html?idxno=554802 | a7,ax2
 2026-10-20 11:41 | biz.sbs.co.kr | 삼성바이오 노조 또 반격…법원 결정에 재항고 검토 | https://biz.sbs.co.kr/article_hub/20000341012?division=NAVER | ax2
 2026-10-20 11:40 | asiatoday.co.kr | 삼성바이오에피스, 브라질과 10년 장기 계약…희귀질환 치료제 단독 공... | https://www.asiatoday.co.kr/kn/view.php?key=20261020010006400 | a10,ax2,ax5
-2026-10-20 11:40 | metroseoul.co.kr | 삼성바이오에피스, 브라질 희귀질환 치료제 10년간 단독 공급 계약 | http://www.metroseoul.co.kr/article/20261020500181 | a10,ax2,ax5
+2026-10-20 11:39 | Aju Press | Samsung Bioepis wins 10-year rare disease drug deal in Brazil | google:Aju Press#61219a64 | aen4
 2026-10-20 11:30 | e-science.co.kr | 삼성바이오에피스, 희귀질환 치료제 브라질 10년 공급…바이오 기술이전... | https://www.e-science.co.kr/news/articleView.html?idxno=137716 | a10,ax2,ax5
 2026-10-20 11:20 | beyondpost.co.kr | 삼성물산, 2조2685억원 여의도 시범아파트 재건축 시공사 선정 | http://www.beyondpost.co.kr/view.php?ud=202610201116003811205868f676_30 | a1
+2026-10-20 11:20 | Sawitku | Singapura Tak Ingin Kompromi dengan Dugaan Korupsi Sawit Surya Darmadi - Sawitku Id | google:Sawitku#c7e10c1d | aid8
 2026-10-20 11:18 | koreatimes.co.kr | Samsung Bioepis secures 10-year exclusive drug supply deal in Brazil | https://www.koreatimes.co.kr/path/A2026102010460005602 | a11,aen4
 2026-10-20 11:12 | news2day.co.kr | 삼성바이오에피스, 브라질 희귀질환 치료제 시장 공략...10년 공급권 확... | https://www.news2day.co.kr/article/20261020500121 | a10,ax2,ax5
 2026-10-20 11:06 | fntimes.com | 정비사업 10조 고지 앞둔 삼성물산…‘래미안 타운’ 확장 시동 | https://www.fntimes.com/html/view.php?ud=202610201053468566b372994c95_18 | a1
-2026-10-20 11:04 | econovill.com | 삼성바이오에피스, 브라질에 희귀질환 치료제 단독 공급 | https://www.econovill.com/news/articleView.html?idxno=754234 | a10,ax2,ax5
+2026-10-20 11:04 | Portibi Online | Sepekan, Polres Pelalawan Ungkap 6 Kasus Narkoba Dengan 14 Tersangka dan BB 83,09 Gram Sabu | google:Portibi Online#edba48f2 | aid6
 2026-10-20 11:01 | 파이낸셜뉴스 | Samsung Bioepis targets Brazil’s rare disease treatment market with 10-year supply contract | google:파이낸셜뉴스#aa4c6b6e | aen4
-2026-10-20 11:00 | mt.co.kr | 삼성에피스, 브라질서 또 '10년 공급권' 계약…"신흥국 공략 발판" | https://www.mt.co.kr/thebio/2026/10/20/2026102010264686885 | ax3
+2026-10-20 11:00 | 머니투데이 | Samsung Bioepis secures another 10-year supply deal in Brazil to expand in emerging markets | google:머니투데이#2fc33dec | aen4,aen5
+2026-10-20 11:00 | mt.co.kr | 삼성에피스, 브라질서 또 '10년 공급권' 계약…"신흥국 공략 발판" | https://www.mt.co.kr/thebio/2026/10/21/2026102010264686885 | ax3
+2026-10-20 10:58 | BigGo Finance | Samsung Bioepis Secures 10-Year Exclusive Supply Rights in Brazil's Rare Disease Drug Market | google:BigGo Finance#6d42071f | aen4
 2026-10-20 10:56 | cwn.kr | 삼성바이오에피스, '브라질 희귀질환 환자 치료' 10년 장기공급...기술 ... | https://www.cwn.kr/news/articleView.html?idxno=59737 | a10,ax2,ax5
-2026-10-20 10:55 | BigGo Finance | Samsung Bioepis Secures 10-Year Exclusive Supply Rights in Brazil's Rare Disease Drug Market | google:BigGo Finance#6d42071f | aen4
 2026-10-20 10:53 | khan.co.kr | 삼성바이오에피스, 브라질에 에쿨리주맙 복제약 10년간 단독 공급…“연... | https://www.khan.co.kr/article/202610201053011 | a10,ax2,ax5
 2026-10-20 10:52 | goodkyung.com | [굿모닝! 20일 제약바이오 소식] 삼성바이오에피스·대웅제약·세라젬·... | https://www.goodkyung.com/news/articleView.html?idxno=292563 | a10,ax2,ax5
 2026-10-20 10:50 | megaeconomy.co.kr | 도시정비 수주 40조 쌓은 '빅6'…현대건설, 삼성물산에 3조 앞섰다 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574762565509 | a1
 2026-10-20 10:49 | 매일경제 | JPMorgan sees Kospi as deeply undervalued but unsure of market bottom | google:매일경제#96d9b220 | aen1
 2026-10-20 10:27 | Businesskorea | Samsung Bioepis Secures 10-Year Exclusive Supply Deal in Brazil's $170 Million Rare Disease Drug Market | google:Businesskorea#9f3f4890 | aen4
-2026-10-20 10:26 | new.dailypharm.com | 삼성바이오에피스, 브라질에 솔리리스 시밀러 10년 단독 공급 | https://new.dailypharm.com/user/news/343596?REFERER=NP | a10,ax2,ax3,ax5
-2026-10-20 10:20 | biz.sbs.co.kr | 삼성바이오에피스, 브라질에 희귀질환약 10년 독점 공급 | https://biz.sbs.co.kr/article_hub/20000340962?division=NAVER | a10,ax2,ax5
 2026-10-20 10:16 | pharmnews.com | 삼성바이오에피스, 브라질 보건부와 희귀질환 치료제 'SB12' 10년 독점 공... | https://www.pharmnews.com/news/articleView.html?idxno=307112 | a10,ax2,ax5
 2026-10-20 10:15 | Kompasiana.com | PT SAR Dukung Pelestarian Lingkungan melalui Penanaman Pohon Pelindung | google:Kompasiana.com#c730bb3d | aid6
+2026-10-20 10:12 | wowtv.co.kr | 삼성바이오에피스 "브라질에 10년간 희귀질환 치료제 단독 공급" | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200037&t=NN | a10,ax2,ax5
 2026-10-20 10:06 | financialpost.co.kr | 내년부터 브라질로...삼성바이오에피스, '솔리리스 시밀러' 10년 단독 공... | https://www.financialpost.co.kr/news/articleView.html?idxno=281372 | a10,ax2,ax5
-2026-10-20 10:06 | sateconomy.co.kr | 삼성바이오에피스, 브라질 희귀질환 치료제 10년 단독 공급…기술이전... | https://sateconomy.co.kr/news/view/1065572983091306 | a10,ax2,ax5
 2026-10-20 10:02 | kukinews.com | 삼성바이오에피스, 브라질에 희귀질환 치료제 ‘SB12’ 10년 공급 | https://www.kukinews.com/article/view/kuk202610200028 | a10,ax2,ax5
 2026-10-20 10:00 | Seoul Economic Daily | Korea Workplace Deaths Hit Record Low, Down 20% Through September | google:Seoul Economic Daily#0da5359c | aen13
 2026-10-20 09:56 | 4th.kr | 삼성바이오에피스 브라질 희귀질환 치료제 공급 맡는다…10년간 독점 | http://www.4th.kr/news/articleView.html?idxno=2120028 | a10,ax2,ax5
 2026-10-20 09:56 | widedaily.com | 중남미 최대 시장 뚫었다…삼성에피스, 브라질에 희귀질환 치료제 10년... | https://www.widedaily.com/news/articleView.html?idxno=302106 | ax3
 2026-10-20 09:52 | dealsite.co.kr | [제약+] 삼성바이오에피스, 브라질서 희귀질환 치료제 공급 계약 外 | https://dealsite.co.kr/articles/170982 | a10,ax2,ax5
-2026-10-20 09:50 | smartbizn.com | 삼성바이오에피스, 브라질에 희귀 혈액질환 치료제 10년 공급 계약 체결 | https://www.smartbizn.com/news/articleView.html?idxno=156904 | a10,ax2,ax5
 2026-10-20 09:46 | newsprime.co.kr | 삼성바이오 파업, 남은 변수는 | http://www.newsprime.co.kr/news/article.html?no=751556 | a7,ax2
-2026-10-20 09:40 | medicopharma.co.kr | 삼성바이오에피스, 브라질에 'SB12' 10년간 단독 공급 | https://www.medicopharma.co.kr/news/articleView.html?idxno=69929 | a10,ax2,ax5
 2026-10-20 09:40 | biotimes.co.kr | 삼성바이오에피스, 브라질서 에쿨리주맙 바이오시밀러 10년 단독 공급 | https://www.biotimes.co.kr/news/articleView.html?idxno=35385 | a10,ax2,ax5
 2026-10-20 09:38 | apsk.co.kr | 삼성바이오에피스, 브라질 2500억 희귀질환 치료제 시장 10년간 독점 공... | https://www.apsk.co.kr/news/articleView.html?idxno=540804 | a10,ax2,ax5
 2026-10-20 09:36 | newstomato.com | 삼성바이오에피스, 브라질에 솔리리스 바이오시밀러 공급 계약 | http://www.newstomato.com/ReadNews.aspx?no=1317300&inflow=N | a10,ax2,ax5
 2026-10-20 09:34 | koreabiomed.com | Samsung Bioepis enters into landmark 10-year agreement to supply eculizum... | https://www.koreabiomed.com/news/articleView.html?idxno=33541 | a11
 2026-10-20 09:30 | theguru.co.kr | 대한민국 아파트는 래미안·디에이치 밖에 없겠네…삼성물산·현대건설... | https://www.theguru.co.kr/news/article.html?no=108497 | a1
 2026-10-20 09:28 | kdpress.co.kr | [주요공시] 삼천리자전거, 에코프로, 삼성바이오로직스, LG에너지솔루션... | https://www.kdpress.co.kr/news/articleView.html?idxno=209346 | a7,ax2
-2026-10-20 09:26 | handmk.com | 삼성물산, 여의도 시범아파트 재건축 시공사 선정 | https://www.handmk.com/news/articleView.html?idxno=44252 | a1
+2026-10-20 09:22 | meconomynews.com | 삼성바이오에피스, 브라질서 희귀질환 치료제 10년간 단독공급... 시장입... | https://www.meconomynews.com/news/articleView.html?idxno=202714 | a10,ax2,ax5
 2026-10-20 09:18 | hansbiz.co.kr | 삼성바이오에피스, 브라질서 10년 판로 확보…희귀질환 공략 확대 | http://www.hansbiz.co.kr/news/articleView.html?idxno=874322 | a10,ax2,ax5
-2026-10-20 09:17 | 아시아경제 | KOSPI Falls to 5,600 Level... KOSDAQ Also Weak | google:아시아경제#bedfa4d8 | aen3
 2026-10-20 09:17 | KiblatRiau.Com | Kapolres Pelalawan Tak Beri Ruang bagi Narkoba, Tangkap 14 Tersangka | google:KiblatRiau.Com#b6d87b76 | aid6
 2026-10-20 09:16 | newsian.co.kr | '솔리리스' 시밀러 품은 삼성바이오에피스, 브라질 영토 넓힌다 [Biz 포커... | http://www.newsian.co.kr/news/articleView.html?idxno=97345 | a10,ax2,ax5
-2026-10-20 09:10 | joongangenews.com | 삼성바이오에피스, 브라질 현지 파트너십…희귀질환치료제 10년간 공급 | https://www.joongangenews.com/news/articleView.html?idxno=556401 | a10,ax2,ax5
+2026-10-20 09:12 | biz.heraldcorp.com | 삼성바이오에피스, 브라질 희귀질환약 10년 독점 공급 계약 체결 | https://biz.heraldcorp.com/article/10908073?ref=naver | a10,ax2,ax5
+2026-10-20 09:10 | joongangenews.com | 삼성바이오에피스, 브라질 현지 파트너십…희귀질환치료제 10년간 공급 | https://www.joongangenews.com/news/articleView.html?idxno=556401 | a10,ax2
+2026-10-20 09:10 | biospectator.com | 삼성에피스, 브라질 '솔리리스 시밀러' 10년 단독공급 | https://www.biospectator.com/view/news_view.php?varAtcId=30125 | ax3
 2026-10-20 08:58 | sedaily.com | 삼성바이오에피스, 희귀질환 치료제 브라질 공급 계약 “2500억 시장 공... | https://www.sedaily.com/article/20103589?ref=naver | a10,ax2,ax5
-2026-10-20 08:58 | newsis.com | 삼성에피스 "희귀질환약 브라질 단독 공급 계약" | https://www.newsis.com/view/NISX20261020_0003832682 | ax3
+2026-10-20 08:58 | mediafine.co.kr | 삼성바이오에피스, 브라질에 희귀질환 치료제 10년간 공급…현지 기술이... | https://www.mediafine.co.kr/news/articleView.html?idxno=93079 | a10,ax2,ax5
 2026-10-20 08:57 | Seoul Economic Daily | Samsung Bioepis to Supply Rare Disease Drug to Brazil for 10 Years | google:Seoul Economic Daily#65b4659f | aen4,aen5
-2026-10-20 08:55 | dt.co.kr | 여의도 삼킨 삼성물산 10조 ‘성큼’…‘7년 1위’ 현대건설 흔들리나 | https://www.dt.co.kr/article/12090003?ref=naver | a1
-2026-10-20 08:35 | greened.kr | 삼성바이오에피스, 브라질에 희귀질환 치료제 10년 독점 공급···글로벌... | https://www.greened.kr/news/articleView.html?idxno=352485 | a10,ax2,ax5
+2026-10-20 08:55 | dt.co.kr | 여의도 삼킨 삼성물산 '10조 클럽' 눈앞… '7년째 업계 1위' 현대건설 아... | https://www.dt.co.kr/article/12090003?ref=naver | a1
 2026-10-20 08:32 | 매일경제 | Samsung Bioepis will supply a treatment for rare diseases to Brazil, the largest pharmaceutical mark.. | google:매일경제#8ca3ca94 | aen4
 2026-10-20 08:23 | biz.chosun.com | 삼성바이오에피스, 브라질서 희귀질환 바이오시밀러 10년 단독 공급 | https://biz.chosun.com/science-chosun/bio/2026/10/20/6EHPVVF3WVF3ROSOTXW47SLEAQ/?utm_source=naver&utm_medium=original&utm_campaign=biz | a10,ax2,ax5
 2026-10-20 08:22 | Chosunbiz | Samsung Bioepis secures 10-year Brazil deal to supply rare disease biosimilar - CHOSUNBIZ | google:Chosunbiz#df70731f | aen4
+2026-10-20 08:17 | 아시아경제 | Samsung Bioepis to Exclusively Supply Rare Disease Treatments in Brazil for 10 Years | google:아시아경제#6030e7e9 | aen4
 2026-10-20 08:10 | inews24.com | 연봉 1억·이직률 1%인데⋯'벌금'까지 걷으며 파업 강행 무리수 [삼성바... | http://www.inews24.com/view/2016582 | a7,ax2
 2026-10-20 07:55 | news1.kr | Samsung Biologics Unveils Next-Gen ADC Manufacturing at World ADC San Die... | https://www.news1.kr/bio/pharmaceutical-bio/6325190 | a8
-2026-10-20 07:02 | theviewers.co.kr | [건설사 신사업 전략②] 삼성물산, SMR 투자로 원전 수주판 넓힌다 | https://theviewers.co.kr/View.aspx?No=4263690 | a1
-2026-10-20 07:00 | ceoscoredaily.com | 현대건설 vs 삼성물산, 올해 도시정비사업 ‘왕좌’ 놓고 각축전 | https://www.ceoscoredaily.com/page/view/2026101914442691967 | a1
-2026-10-20 06:51 | Crypto Briefing | South Korea plans $520 billion Samsung and SK hynix chip hub in Gwangju | google:Crypto Briefing#8303045f | aen13
-2026-10-20 06:02 | news.mtn.co.kr | 법원에 막힌 삼성바이오 2차 파업…노조 '다음 카드' 고심 | https://news.mtn.co.kr/article/2026101913294734057 | a7,ax2
-2026-10-20 05:58 | vegannews.co.kr | 여의도 시범 재건축 삼성물산이 맡는다 | https://www.vegannews.co.kr/news/article.html?no=394398 | a1
-2026-10-20 05:32 | news2day.co.kr | 삼성바이오 노조 2차 파업, 법원서 제동...생산 불확실성 이어지나 | https://www.news2day.co.kr/article/20261019500328 | a7,ax2
-2026-10-20 03:10 | webeconomy.co.kr | 삼성물산, 2조 2,685억 원 규모 여의도 시범아파트 재건축 수주 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2339026 | a1
-2026-10-20 01:59 | upi | Missiles and alliances -- the Korean Peninsula hardens | google:upi#7703da81 | aen1
-2026-10-20 00:34 | Drug Store News | Samsung Bioepis to present data for oncology biosimilars at ESMO Congress 2026 | google:Drug Store News#73124eef | aen4
-2026-10-20 00:32 | donga.com | 삼성물산, 여의도 시범아파트 재건축 수주 | https://www.donga.com/news/Economy/article/all/20261019/134869951/2 | a1
-2026-10-20 00:29 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Swadaya Riau Periode 14-20 Oktober 2026 Turun Rp13,47 per Kg Jadi Rp3.603,92 per Kg | google:Warta Suluh#3874926d | aid8
-2026-10-20 00:02 | thedailypost.kr | 삼성물산, 여의도 시범아파트 재건축 수주…공사비 2조2685억원 | https://www.thedailypost.kr/news/articleView.html?idxno=116297 | a1
-2026-10-19 22:47 | KED Global | Bulge-bracket IBs cash in as Korean big companies pursue foreign acquisitions, US listings | google:KED Global#a8328fa0 | aen3
-2026-10-19 21:40 | KED Global | Kospi erases early losses to close higher as battery, biotech stocks rally | google:KED Global#5a3a62a8 | aen3
-2026-10-19 21:30 | econonews.co.kr | 코스피, 1%대 상승에 5700선 회복...LG에너지솔루션, 삼성바이오로직스... | http://www.econonews.co.kr/news/articleView.html?idxno=445937 | a7,ax2
-2026-10-19 21:02 | biztribune.co.kr | 삼성바이오로직스, '2026 월드 ADC 샌디에이고'서 전 주기 ADC 서비스 역... | http://www.biztribune.co.kr/news/articleView.html?idxno=360877 | a7,ax2
-2026-10-19 21:01 | kmib.co.kr | [포토] 삼성물산, 2.2조원 여의도 시범아파트 재건축 수주 | https://www.kmib.co.kr/article/20261019502190 | a1
-2026-10-19 20:55 | suluhonline.id | Polres Inhu Gelar Bakti Sosial Bersihkan Rumah Ibadah | google:suluhonline.id#01b082b1 | aid2
-2026-10-19 20:50 | newsquest.co.kr | "삼성물산, 평택 P5 타고 용인 산단까지…수주 대풍년 '빅 사이클'이 온... | https://www.newsquest.co.kr/news/articleView.html?idxno=302976 | a1
-2026-10-19 20:49 | moneystorm.kr | [특징주] 삼성바이오로직스, 3분기 실적 기대·파업 변수 완화에 9.94% 급... | https://www.moneystorm.kr/news/articleView.html?idxno=7422 | a7,ax2
-2026-10-19 20:47 | HaiSawit | Mentan Amran Tantang Mahasiswa UGM Ciptakan Inovasi Pertanian Berdampak bagi Masyarakat | google:HaiSawit#6881e376 | aid8
-2026-10-19 20:24 | biztribune.co.kr | 삼성바이오로직스, 노조파업 제동걸리자 주가 급등 | http://www.biztribune.co.kr/news/articleView.html?idxno=360899 | a7,ax2
-2026-10-19 20:15 | Engineering and Technology Magazine | Microsoft pulls out of major Essex AI data centre project | google:Engineering and Technology Magazine#41bb846e | aen1
-2026-10-19 20:01 | The Pharma Letter | Sth Korean court backs Samsung Biologics’ manufacturing processes | google:The Pharma Letter#1c4624d5 | aen3
-2026-10-19 19:36 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·현대건설·대우건설·IPARK현대산업개발... | https://sports.hankooki.com/news/articleView.html?idxno=6941934 | a1,a3
-2026-10-19 19:22 | delighti.co.kr | 삼성바이오로직스, 월드 ADC 참가…전 주기 서비스 경쟁력 홍보 | https://www.delighti.co.kr/news/articleView.html?idxno=123459 | a7,ax2
-2026-10-19 18:42 | smartbizn.com | '대한민국 아파트의 원조' 여의도 시범, 삼성물산 손잡고 59층 랜드마크... | https://www.smartbizn.com/news/articleView.html?idxno=156893 | a1
-2026-10-19 18:38 | BukaMata.Co | DPD RI Turun Gunung Soroti Konflik Lahan PT MMJ di Rupat Riau Picu Kemiskinan dan Adu Domba Warga | google:BukaMata.Co#6d92588e | aid9
-2026-10-19 18:22 | kdfnews.com | 삼성물산, 여의도 시범아파트 재건축 수주…최고 59층·2480세대 | http://www.kdfnews.com/news/articleView.html?idxno=189545 | a1
-2026-10-19 18:04 | Businesskorea | [Closing Market] KOSPI Rebounds Above 5,760 After 3% Early Plunge | google:Businesskorea#b5864a03 | aen1
-2026-10-19 18:02 | thepublic.kr | 서울 재건축 휩쓰는 현대건설·삼성물산…정비사업 양강 구도 뚜렷 | https://www.thepublic.kr/news/articleView.html?idxno=322796 | a1
-2026-10-19 17:59 | Korea JoongAng Daily | A banner day for reconstruction | google:Korea JoongAng Daily#3630aa16 | aen1
-2026-10-19 17:56 | sentv.co.kr | 현대건설, 12조 정비수주 돌파…삼성물산 첫 10조 눈앞 | https://www.sentv.co.kr/article/view/sentv202610190101 | a1
-2026-10-19 17:51 | donga.com | 삼성물산, 여의도 시범아파트 재건축 시공사 선정…2조2685억 원 규모 | https://www.donga.com/news/Economy/article/all/20261019/134869412/1 | a1
-2026-10-19 17:50 | newscj.com | 삼성물산, 여의도 시범 재건축 수주… 2조 2685억원 규모 | https://www.newscj.com/news/articleView.html?idxno=3441462 | a1
-2026-10-19 17:46 | wikileaks-kr.org | 현대건설-삼성물산 나란히 수주… 도시정비 1위 경쟁 박차 | https://www.wikileaks-kr.org/news/articleView.html?idxno=193442 | a1
-2026-10-19 17:45 | hankyung.com | 美는 배임죄 자체가 없어…韓 기소, 日의 31배 | https://www.hankyung.com/article/2026101914901 | a1
-2026-10-19 17:41 | Aju Press | South Korean stocks rebound as battery, biotech shares lead recovery | google:Aju Press#e34b129e | aen3
-2026-10-19 17:40 | 매일경제 | While the domestic stock market is reeling from the weakening of large semiconductor stocks, economi.. | google:매일경제#d07f5cbd | aen3
-2026-10-19 17:40 | dnews.co.kr | [제약바이오 브리프] 삼성바이오로직스·동화약품·동아제약·대원제약... | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610190939370200082 | a7,ax2
-2026-10-19 17:11 | Haluan Riau | Sengketa 122 Hektare di Pelalawan, PT MUP Diadukan ke Polda Riau - Haluan Riau | google:Haluan Riau#c38cc558 | aid6
-2026-10-19 17:10 | e-science.co.kr | 삼성바이오로직스, ADC 개발부터 생산까지 전주기 기술 역량 강화 | https://www.e-science.co.kr/news/articleView.html?idxno=137675 | a7,ax2
-2026-10-19 17:08 | newspim.com | 서정진이 삼성바이오 직원 채용하나…노조 , 사측 조롱 현수막 '눈살' | https://www.newspim.com/news/view/20261019000701 | ax2
-2026-10-19 17:05 | seoul.co.kr | 여의도 시범아파트, ‘래미안 소넬리’로 탈바꿈…삼성물산 재건축 사업... | https://www.seoul.co.kr/news/economy/estate/2026/10/19/20261019500279?wlog_tag3=naver | a1
-2026-10-19 17:04 | 매일경제 | Everland’s twin pandas... “Following big sister Fu Bao to China” | google:매일경제#483029f4 | aen1
-2026-10-19 17:04 | 매일경제 | Everland's twin pandas Ruibao and Huibao will undergo a month-long pre-quarantine from the 13th of n.. | google:매일경제#22290799 | aen1
-2026-10-19 17:04 | tournews21.com | 삼성물산, 여의도 시범아파트 재건축 수주… 단지명 '래미안 소넬리' | https://www.tournews21.com/news/articleView.html?idxno=146096 | a1
-2026-10-19 17:03 | Teras.id | Mengapa Ada 68 Ribu Hektare Kebun Sawit di Taman Nasional Tesso Nilo | google:Teras.id#d23b47ad | aid6
-2026-10-19 16:54 | 머니투데이 | SK hynix to provide 2 trillion won in financing to semiconductor suppliers as Samsung expands support for partners | google:머니투데이#6b9273fd | aen13
-2026-10-19 16:54 | open.kg | Investors proposed to build an oncology clinic based on KSMU | google:open.kg#e0e4031f | aen1
-2026-10-19 16:54 | theviewers.co.kr | [N-제약Bio] 삼성바이오로직스, '월드 ADC'서 전주기 ADC 서비스 역량 알... | https://theviewers.co.kr/View.aspx?No=4269806 | a7,ax2
-2026-10-19 16:37 | Aju Press | 2026 Red cross bazaar held at COEX | google:Aju Press#50a71178 | aen1
-2026-10-19 16:28 | 머니투데이 | KOSPI's recovery to 5,700 signals a rebound? Why investors are warned not to relax or rush to buy | google:머니투데이#32d40d53 | aen1,aen3
-2026-10-19 16:27 | nocutnews.co.kr | 삼성바이오로직스, 월드 ADC 참여…"전주기 역량 확보" | https://www.nocutnews.co.kr/news/6593620?utm_source=naver&utm_medium=article&utm_campaign=20261019042648 | a7,ax2
-2026-10-19 16:24 | thepowernews.co.kr | 삼성물산, 여의도 시범아파트 시공사 선정…최고 59층·2480세대 | https://www.thepowernews.co.kr/view.php?ud=202610191623299213de3f0aa1be_7 | a1
-2026-10-19 16:24 | koreabiomed.com | Samsung Bioepis reports comparable results for Keytruda biosimilar ahead ... | https://www.koreabiomed.com/news/articleView.html?idxno=33537 | a11,aen3,aen4
-2026-10-19 16:22 | 파이낸셜뉴스 | Rui Bao and Hui Bao begin preparations for move to China...Last public viewing on December 11 | google:파이낸셜뉴스#0531cb43 | aen1
-2026-10-19 16:20 | news1.kr | 여의도 시범아파트 재건축 사업시행인가 '시공사 삼성물산 선정' | https://www.news1.kr/photos/8167344 | a1
-2026-10-19 16:16 | dt.co.kr | 삼성물산, 2조2000억 서울 여의도 시범아파트 재건축 수주 | https://www.dt.co.kr/article/12089904?ref=naver | a1
-2026-10-19 16:15 | 아시아경제 | Samsung C&T on the Verge of the "KRW 10 Trillion Club," Sets Sights on Mokdong After Yeouido (Comprehensive) | google:아시아경제#4f8138e8 | aen1
-2026-10-19 16:15 | view.asiae.co.kr | 삼성물산 '10조 클럽' 눈 앞…여의도 넘어 목동 조준(종합) | https://view.asiae.co.kr/article/2026101916150337076 | a1
-2026-10-19 16:14 | vegannews.co.kr | 삼성에피스홀딩스 장중 3.32% 상승 | https://www.vegannews.co.kr/news/article.html?no=394368 | a9,ax3,ax4
-2026-10-19 16:11 | 머니투데이 | Major retailers go all out on fall sales as discount events set to determine annual results | google:머니투데이#15b7fcb5 | aen1
-2026-10-19 16:11 | 파이낸셜뉴스 | KOSPI and KOSDAQ rebound in the 1% range as foreign investors and institutions lead buying [fn Closing Market] | google:파이낸셜뉴스#0a4aafb1 | aen3
-2026-10-19 16:10 | kihoilbo.co.kr | 삼성바이오로직스 월드 ADC 샌디에이고에 참가 항체·약물 접합체 서비... | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038070 | a7,ax2
-2026-10-19 16:07 | 머니투데이 | Samsung Electronics, SK hynix rebound on foreign, institutional buying; Kospi closes up 1.8% | google:머니투데이#4ea84f57 | aen1,aen3
-2026-10-19 15:56 | 아시아경제 | KOSPI Ends Higher After Opening Lower... Reclaims 5,700 Level | google:아시아경제#806c39fd | aen3
-2026-10-19 15:55 | BigGo Finance | South Korea's Samsung Biologics Surges 9.55% as Pharma Sector Leads Kospi Gains | google:BigGo Finance#80bb64bc | aen3
-2026-10-19 15:53 | inews24.com | 삼성바이오로직스, '월드 ADC'서 전 주기 서비스 역량 알려 | http://www.inews24.com/view/2016514 | a7,ax2
-2026-10-19 15:50 | 00news.co.kr | 삼성물산 품에 안긴 여의도 시범...래미안으로 재탄생 | http://www.00news.co.kr/news/articleView.html?idxno=107235 | a1
-2026-10-19 15:38 | moneystorm.kr | 현대건설· 삼성물산, 각각 목동10단지, 여의도시범 재건축 수주....평당... | https://www.moneystorm.kr/news/articleView.html?idxno=7401 | a1
-2026-10-19 15:32 | biztribune.co.kr | 삼성물산, 서울 여의도 시범아파트 재건축 수주… 2조2685억원 규모 랜드... | http://www.biztribune.co.kr/news/articleView.html?idxno=360871 | a1
-2026-10-19 15:30 | Business Recorder | South Korean shares start week lower on AI worries | google:Business Recorder#3586088e | aen3
-2026-10-19 15:30 | dailypop.kr | 삼성물산 여의도 시범·현대건설 목동10단지 수주…2조원대 재건축 사업... | http://www.dailypop.kr/news/articleView.html?idxno=103508 | a1
-2026-10-19 15:26 | huffingtonpost.kr | 삼성물산 여의도 시범아파트 품고 올해 도시정비 수주 자체 신기록, 1위... | https://www.huffingtonpost.kr/article/261340 | a1
-2026-10-19 15:24 | greenpostkorea.co.kr | 삼성물산, 2.2조 규모 '여의도 시범' 재건축 수주···동여의도 래미안... | https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307739 | a1
-2026-10-19 15:23 | 아시아경제 | Samsung C&T Wins 2.2 Trillion Won Contract to Rebuild Yeouido Sibeom Apartments | google:아시아경제#c6c0c424 | aen1
-2026-10-19 15:20 | LiputanOke.Com | Konflik Lahan 122 Hektare di Langgam Pelalawan, Perusahaan Sawit PT MUP Dilaporkan ke Polda Riau | google:LiputanOke.Com#adfb067e | aid6,aid9
-2026-10-19 15:16 | weekly.hankooki.com | 삼성물산 에버랜드, 루이바오·후이바오 야생동물 사전 검역 돌입 | https://weekly.hankooki.com/news/articleView.html?idxno=7189492 | a1
-2026-10-19 15:14 | apnews.kr | 삼성물산, 2.3조 여의도 시범아파트 품었다…'래미안 소넬리' 제안 | https://www.apnews.kr/news/articleView.html?idxno=3052231 | a1
-2026-10-19 15:04 | Jernih.co | Megaskandal Sawit di Singapura, Rekening Rp1,96 Triliun Anak Surya Darmadi Resmi Ditahan | google:Jernih.co#69985a49 | aid8
-2026-10-19 15:03 | 매일경제 | Rui Bao and Hui Bao to leave after Fu Bao, head to China in third week of December | google:매일경제#3e3305ca | aen1
-2026-10-19 15:02 | sisacast.kr | 삼성물산, 서울 여의도 시범아파트 단지명 '래미안 소넬리' 결정…총 공... | http://www.sisacast.kr/news/articleView.html?idxno=101111 | a1
-2026-10-19 15:02 | industrynews.co.kr | 삼성바이오로직스, 美 '월드 ADC'서 통합 개발·생산 역량 소개 | https://www.industrynews.co.kr/news/articleView.html?idxno=87775 | a7,ax2
-2026-10-19 14:50 | niceeconomy.co.kr | [건설 브리핑] 현대건설·삼성물산·LH·IPARK현대산업개발 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91382 | a1
-2026-10-19 14:48 | fntimes.com | 삼성물산, 여의도 시범아파트 재건축 맡는다…'래미안 소넬리' 제안 | https://www.fntimes.com/html/view.php?ud=202610191442222763048b718333_18 | a1
-2026-10-19 14:47 | Seoul Economic Daily | Samsung C&T Wins 2.27 Trillion Won Yeouido Rebuilding Project | google:Seoul Economic Daily#5651d448 | aen1,aen2
-2026-10-19 14:44 | joongangenews.com | 삼성바이오, 노조 2차 파업 앞두고 긴장…법원 제동에도 불씨 여전 | https://www.joongangenews.com/news/articleView.html?idxno=556184 | a7,ax2
-2026-10-19 14:43 | 아시아경제 | KOSPI Turns Slightly Higher During Session; Foreign Investors, Institutions Net Buyers | google:아시아경제#97970fe3 | aen1,aen3
-2026-10-19 14:38 | mdtoday.co.kr | 삼성바이오로직스 노조 파업 '급제동'…법원, 생산공정 9곳 쟁의 금지 | https://www.mdtoday.co.kr/news/articleView.html?idxno=619431 | a7,ax2
-2026-10-19 14:38 | startuptoday.co.kr | [기획] 삼성웰스토리, '구내식당 오픈런' 이끌어...비결은? | https://www.startuptoday.co.kr/news/articleView.html?idxno=816249 | a12,ax6
-2026-10-19 14:35 | fnnews.com | 삼성바이오로직스 9%대 급등…제약업종 코스피 상승률 1위[종목NOW] | https://www.fnnews.com/news/202610191432233488 | a7,ax2
-2026-10-19 14:32 | megaeconomy.co.kr | 삼성물산, 여의도 시범 재건축에 ‘공사비 인상분 400억·특화공사비 30... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588511369234 | a1
-2026-10-19 14:30 | hani.co.kr | 삼성물산, 여의도 최대 시범아파트 재건축 시공사로 | https://www.hani.co.kr/arti/economy/property/1283028.html | a1
-2026-10-19 14:26 | joongangenews.com | 삼성바이오로직스 주가, 10월 19일 장중 1,404,000원 8.17% 상승 | https://www.joongangenews.com/news/articleView.html?idxno=556159 | a7,ax2
-2026-10-19 14:22 | 파이낸셜뉴스 | KOSPI Reverses Course After Sharp Drop as Foreign Investors Buy and Chip Stocks Rebound [fn Afternoon Market Update] | google:파이낸셜뉴스#c72cbd80 | aen3
-2026-10-19 14:22 | hansbiz.co.kr | 삼성바이오로직스, ADC 전주기 승부수…개발부터 생산까지 한곳에 | http://www.hansbiz.co.kr/news/articleView.html?idxno=874086 | a7,ax2
-2026-10-19 14:12 | news2day.co.kr | 삼성바이오로직스, 美 ‘월드 ADC’ 참가...사업 확장 전략 공유 | https://www.news2day.co.kr/article/20261019500116 | a7,ax2
-2026-10-19 14:10 | updownnews.co.kr | 삼성물산, 2.3조 규모 여의도 시범아파트 재건축 시공권…'래미안 소넬... | https://www.updownnews.co.kr/news/articleView.html?idxno=319201 | a1
-2026-10-19 14:10 | yna.co.kr | 서울 여의도 시범아파트 재건축은 삼성물산이 | https://www.yna.co.kr/view/PYH20261019108800013?input=1196m | a1
-2026-10-19 14:08 | mediapen.com | 정비사업 10조 눈앞 삼성물산, 최고 기록 어디까지 늘리나 | https://www.mediapen.com/news/view/1130898 | a1
-2026-10-19 14:08 | vegannews.co.kr | 삼성바이오로직스, 제약업종 오름세 속 장중 7%대 상승 | https://www.vegannews.co.kr/news/article.html?no=394330 | a7,ax2
-2026-10-19 14:08 | GoRiau.com | Warga Pelalawan Laporkan PT MUP ke Polda Riau, Diduga Garap Ratusan Hektare Kebun Luar HGU | google:GoRiau.com#81429305 | aid6,aid9
-2026-10-19 14:02 | goodkyung.com | [굿모닝! 19일 건설업계 소식] 삼성물산·현대건설·대우건설·LH·신동아... | https://www.goodkyung.com/news/articleView.html?idxno=292516 | a1
-2026-10-19 14:00 | news.bbsi.co.kr | 삼성물산, 여의도 시범아파트 재건축 수주…한강변 랜드마크 조성 | https://news.bbsi.co.kr/news/articleView.html?idxno=4113177 | a1
-2026-10-19 14:00 | joongangenews.com | 삼성바이오로직스, 美 월드 ADC서 기술력 과시…연구·개발·생산 아우르... | https://www.joongangenews.com/news/articleView.html?idxno=555960 | a7,ax2
-2026-10-19 14:00 | financialpost.co.kr | 삼성바이오로직스, '월드 ADC'서 전주기 ADC 서비스 역량 과시 | https://www.financialpost.co.kr/news/articleView.html?idxno=281161 | a7,ax2
-2026-10-19 13:46 | fnnews.com | 여의도 시범, '래미안' 단다...삼성물산, 2.2조원대 재건축 수주 | https://www.fnnews.com/news/202610191040139587 | a1
-2026-10-19 13:46 | news.dealsitetv.com | 삼성물산, 여의도 시범 재건축 최종 선정 | https://news.dealsitetv.com/articles/177133 | a1
-2026-10-19 13:45 | 파이낸셜뉴스 | Yeouido Sibeom Apartments to get the ‘Raemian’ name as Samsung C&T wins redevelopment contract worth around 2.2 trillion won | google:파이낸셜뉴스#12ac9002 | aen1,aen13
-2026-10-19 13:44 | job-post.co.kr | 삼성바이오로직스 8.17% 급등…폴리펩타이드 공개매수 진전 | https://www.job-post.co.kr/news/articleView.html?idxno=233098 | a7,ax2
-2026-10-19 13:35 | Seoul Economic Daily | Everland's Twin Pandas to Go on Final Public Display Dec. 11 | google:Seoul Economic Daily#6e570306 | aen1
-2026-10-19 13:35 | 머니투데이 | [Notice] SMRs on Oct. 28, AI infrastructure on Oct. 29… Explore the future at COEX | google:머니투데이#67c2216b | aen1,aen13
-2026-10-19 13:30 | lcnews.co.kr | [건설 Pick] 삼성물산·현대건설, 대형 도시정비 수주와 글로벌 에너지... | https://www.lcnews.co.kr/news/articleView.html?idxno=209849 | a1
-2026-10-19 13:24 | insight.co.kr | 삼성바이오로직스, 월드ADC서 전 주기 CDMO 경쟁력 뽐내 | https://www.insight.co.kr/news/578251 | a7,ax2
-2026-10-19 13:20 | newsprime.co.kr | 르몽·삼성물산, AI 학습 서비스 '러네스' 실증 진행 | http://www.newsprime.co.kr/news/article.html?no=751421 | a1
-2026-10-19 13:20 | ziksir.com | 삼성바이오로직스, '월드 ADC'서 원스톱 서비스 소개…글로벌 수주 타깃 | https://www.ziksir.com/news/articleView.html?idxno=149849 | a7,ax2
-2026-10-19 13:17 | Chosunbiz | Korea stocks rebound as US futures lift sentiment; batteries lead rally - CHOSUNBIZ | google:Chosunbiz#b644dea0 | aen3
-2026-10-19 13:14 | ngetnews.com | 삼성바이오 노조 2차 파업 일정 재검토…법원, 쟁의행위 금지 범위 확대 | https://www.ngetnews.com/news/articleView.html?idxno=554734 | a7,ax2
-2026-10-19 13:08 | catchnews.kr | '9600평 휴게커뮤니티' 삼성물산, 2.3조원대 여의도시범 재건축 수주 | https://www.catchnews.kr/news/articleView.html?idxno=129449 | a1
-2026-10-19 12:55 | BigGo Finance | South Korean Chip Stocks Plunge on AI Investment Skepticism as Top Traders Buy Equipment Names on the Dip, Sell SK Hynix | google:BigGo Finance#e0ed456d | aen1
-2026-10-19 12:54 | RiauAktual.com | Sengketa Lahan 122 Hektare di Pelalawan, PT MUP Dilaporkan ke Polda Riau | google:RiauAktual.com#676292c5 | aid6
-2026-10-19 12:48 | newswell.co.kr | "한강 조망 2032세대"… 삼성물산, 여의도 시범아파트 재건축 | http://www.newswell.co.kr/news/articleView.html?idxno=22811 | a1
-2026-10-19 12:46 | edaily.co.kr | “국민연금 182조원 어쩌다…” 이 대통령 고발한 주주단체 | https://www.edaily.co.kr/News/Read?newsId=03257046645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
-2026-10-19 12:44 | matariau.com | Klaim Lahan 122 Hektare Dikuasai Perusahaan, Warga Tempuh Jalur Hukum | google:matariau.com#3b961c8c | aid6
-2026-10-19 12:38 | mt.co.kr | 삼성바이오, 노조 파업 예고에 긴장감↑…"사업 근간 흔들릴 수도" 우려 | https://www.mt.co.kr/thebio/2026/10/20/2026101910400995935 | a7,ax2
-2026-10-19 12:38 | 머니투데이 | Tensions Rise as Samsung Bio Union Warns of Strike… Concerns That “Core Business Could Be Shaken” | google:머니투데이#2dbe609a | aen3
-2026-10-19 12:26 | CatatanRiau.com | Sengketa Lahan Pulau Muda Berlarut Sejak 1998, Warga Berharap Ada Kepastian Hukum | google:CatatanRiau.com#957c03d2 | aid9
-2026-10-19 12:26 | cwn.kr | 삼성바이오로직스, 'ADC 전주기 전략'으로 글로벌 시장 주목...신약 생산... | https://www.cwn.kr/news/articleView.html?idxno=59654 | a7,ax2
-2026-10-19 12:18 | marketscreener.com | Samsung C&T Selected as Contractor for KRW2.3 Trillion Seoul Redevelopment | google:marketscreener.com#1fe37597 | aen1
-2026-10-19 12:01 | bloter.net | 삼성물산, '여의도 시범아파트' 품었다…텃밭 재건축 선두 굳히기 | https://www.bloter.net/news/articleView.html?idxno=675978 | a1
-2026-10-19 12:00 | kdfnews.com | 삼성바이오로직스, 美 '월드 ADC' 참가…전주기 생산 역량 소개 | http://www.kdfnews.com/news/articleView.html?idxno=189509 | a7,ax2
-2026-10-19 11:55 | BigGo Finance | South Korea's KOSPI Rebounds to 5,768 a Day After Plunge; Pension Funds Buy Samsung Electronics, SK Hynix | google:BigGo Finance#9245f42c | aen3
-2026-10-19 11:51 | HaiSawit | Bupati Nagan Raya: Investasi Nagan Raya Tembus Rp41,05 Miliar, Sawit Jadi Penyumbang Terbesar | google:HaiSawit#b7ced445 | aid9
-2026-10-19 11:50 | koreabiomed.com | Samsung Biologics outlines ADC expansion plans at San Diego conference | https://www.koreabiomed.com/news/articleView.html?idxno=33528 | a8,aen3
-2026-10-19 11:50 | whitepaper.co.kr | 삼성바이오, 월드ADC 참가해 'ADC·이중항체 CDMO' 역량 공개 | http://www.whitepaper.co.kr/news/articleView.html?idxno=267894 | ax2
-2026-10-19 11:46 | niceeconomy.co.kr | [제약 브리핑] 오스템임플란트·삼성바이오로직스·대원제약 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91373 | a7,ax2
-2026-10-19 11:42 | jnilbo.com | 삼성바이오로직스, 차세대 항암제 완제품 생산 추진 | https://www.jnilbo.com/news/articleView.html?idxno=90000074563 | a7,ax2
-2026-10-19 11:40 | lcnews.co.kr | 삼성바이오로직스, ADC 생산시설 가동…완제 라인 구축 2027년 목표 | https://www.lcnews.co.kr/news/articleView.html?idxno=209861 | a7,ax2
-2026-10-19 11:36 | e-science.co.kr | 삼성물산, 여의도 시범아파트에 '미래 주거기술' 집약…서울 아파트 문... | https://www.e-science.co.kr/news/articleView.html?idxno=137589 | a1
-2026-10-19 11:34 | businesskorea.co.kr | Samsung Biologics Highlights ADC Manufacturing Strength | https://www.businesskorea.co.kr/news/articleView.html?idxno=279093 | a8,aen3
-2026-10-19 11:30 | weekly.hankooki.com | 삼성바이오로직스, 미국 ADC 학회서 개발·생산 서비스 소개 | https://weekly.hankooki.com/news/articleView.html?idxno=7189539 | a7,ax2
-2026-10-19 11:30 | newsian.co.kr | [디깅 인사이드] 법원 철퇴 뒤 나온 삼성바이오 노조 '심판론'…위태로... | http://www.newsian.co.kr/news/articleView.html?idxno=97295 | ax2
-2026-10-19 11:28 | wsobi.com | 삼성물산·DL이앤씨·현대엔지니어링, 여의도 시범아파트 재건축 수주·... | http://www.wsobi.com/news/articleView.html?idxno=319917 | a1
-2026-10-19 11:26 | fntoday.co.kr | 삼성물산, 2조2685억 규모 '여의도 시범아파트' 재건축 시공사 낙점 | https://www.fntoday.co.kr/news/articleView.html?idxno=395591 | a1
-2026-10-19 11:26 | consumernews.co.kr | 삼성물산, 2.3조 여의도 시범아파트 재건축 시공사 선정…공급 물량 80%... | http://www.consumernews.co.kr/news/articleView.html?idxno=766164 | a1
-2026-10-19 11:26 | newstomato.com | 국민연금 '182조 증발'에 대통령·복지부 장관 피고발 | http://www.newstomato.com/ReadNews.aspx?no=1317149&inflow=N | a1?
-2026-10-19 11:24 | ilovepc.co.kr | 삼성바이오 '파업 노이즈' 약화 … 노조 "파업 시작일 변경될 수 있다" | https://www.ilovepc.co.kr/news/articleView.html?idxno=61021 | a7,ax2
-2026-10-19 11:23 | mk.co.kr | 삼성물산 ‘여의도 대장’ 시범아파트 수주…41층 스카이 브릿지 만든다 | https://www.mk.co.kr/article/12179405 | a1
-2026-10-19 11:22 | 매일경제 | The pilot apartment, which is considered the biggest fish for reconstruction in Yeouido, Seoul, will.. | google:매일경제#45580381 | aen1
-2026-10-19 11:21 | 파이낸셜뉴스 | Rui Bao and Hui Bao, headed to China, set for final public viewing on Dec. 11 | google:파이낸셜뉴스#782ecaaa | aen1
-2026-10-19 11:18 | smedaily.co.kr | 여의도 시범 품은 삼성물산…도시정비 10조 눈앞 | http://www.smedaily.co.kr/news/articleView.html?idxno=364831 | a1
-2026-10-19 11:15 | Finimize | Korea’s KOSPI Wobbled After A Rough Week For AI Trades | google:Finimize#ae410ab4 | aen3
-2026-10-19 11:14 | ngetnews.com | 삼성바이오, 이중항체 ADC·오가노이드 기술 공개…글로벌 수주 확대 나... | https://www.ngetnews.com/news/articleView.html?idxno=554730 | ax2
-2026-10-19 11:13 | sisajournal.com | 삼성물산, 여의도 시범아파트 재건축 수주…새 이름은 '래미안 소넬리' | https://www.sisajournal.com/news/articleView.html?idxno=390688 | a1
-2026-10-19 11:10 | newswatch.kr | [핫이슈] 삼성물산, 여의도 시범아파트 재건축 수주…목표액 13조 코앞 | http://www.newswatch.kr/news/articleView.html?idxno=81563 | a1
-2026-10-19 11:08 | seouleconews.com | 삼성물산,2.2조 여의도 시범아파트 59층 재건축 수주 | http://www.seouleconews.com/news/articleView.html?idxno=94413 | a1
-2026-10-19 11:08 | businesskorea.co.kr | 삼성바이오로직스, 샌디에이고 '2026 ADC' 참가 | https://www.businesskorea.co.kr/news/articleView.html?idxno=279086 | a7,ax2
-2026-10-19 11:08 | kukinews.com | 삼성바이오로직스, ADC 전주기 CDMO 공략…2027년 완제라인 가동 | https://www.kukinews.com/article/view/kuk202610190045 | a7,ax2
-2026-10-19 11:06 | biz.newdaily.co.kr | 삼성바이오로직스, 임단협 협상 주도권 잡나 … 노조 파업 전략 '흔들' | https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900107.html | a7,ax2
-2026-10-19 11:04 | fashionbiz.co.kr | 삼성물산·LF 출신 베테랑 디자이너 4人 뭉쳤다! ‘에이레터’ 팝업 눈... | https://www.fashionbiz.co.kr/article/230383 | a1
-2026-10-19 11:03 | The Korea Daily | Twin Pandas — Rui Bao and Hui Bao Prepare for Move to China in December | google:The Korea Daily#5b431d4f | aen1
-2026-10-19 11:00 | goodkyung.com | [굿모닝! 19일 제약바이오 소식] 삼성바이오·세라젬·​​​​​​​보... | https://www.goodkyung.com/news/articleView.html?idxno=292514 | ax2
-2026-10-19 10:58 | news.tvchosun.com | 삼성바이오 노조위원장, 우리사주조합장 겸직…"유증 일정 재검토" 요구 | https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990092.html | ax2
-2026-10-19 10:56 | ekn.kr | 삼성물산, 2조2685억원 여의도 시범아파트 재건축 수주…59층 ‘래미안 ... | https://www.ekn.kr/web/view.php?key=20261019026337882 | a1
-2026-10-19 10:56 | g-enews.com | 현대건설 목동·삼성물산 여의도 2조 원대 수주…도시정비 양강체제 굳... | https://www.g-enews.com/view.php?ud=202610191021295852aa6f4cdad_1 | a1
-2026-10-19 10:56 | medicaltimes.com | 삼성바이오로직스, ADC 확대…2027년 완제 라인 가동 추진 | https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171237&ref=naverpc | a7,ax2
-2026-10-19 10:55 | bloter.net | HS화성, 삼성물산과 궁전맨션 조경 협력…정비사업 경쟁력 강화 | https://www.bloter.net/news/articleView.html?idxno=675972 | a1
-2026-10-19 10:54 | hbnpress.com | 삼성물산, 여의도 시범아파트 시공사 선정...'래미안 소넬리' 제안 | https://hbnpress.com/news/view/1065577815894890 | a1
-2026-10-19 10:54 | medipana.com | 삼성바이오로직스, 월드 ADC서 전주기 CDMO 역량 소개 | https://www.medipana.com/news/articleView.html?idxno=419575 | a7,ax2
-2026-10-19 10:50 | 4th.kr | 삼성바이오로직스, 이중항체 ADC 개발 성과 공개 | http://www.4th.kr/news/articleView.html?idxno=2119973 | a7,ax2
-2026-10-19 10:49 | nocutnews.co.kr | 삼성물산, 여의도 시범아파트 재건축 수주…공사비 2.2조원대 | https://www.nocutnews.co.kr/news/6593260?utm_source=naver&utm_medium=article&utm_campaign=20261019104845 | a1
-2026-10-19 10:48 | newsfreezone.co.kr | 2.2조 랜드마크의 무게···삼성물산, '내실 경영' 시험대 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=714586 | a1
-2026-10-19 10:48 | womentimes.co.kr | 삼성물산, 여의도 시범아파트 재건축 수주 2480세대 '래미안 소넬리' 조... | https://www.womentimes.co.kr/news/articleView.html?idxno=107110 | a1
-2026-10-19 10:45 | sedaily.com | 삼성바이오 5% 급등…노조 2차파업 제동에 ‘불기둥’ [코주부] | https://www.sedaily.com/article/20103189?ref=naver | a7,ax2
-2026-10-19 10:44 | Seoul Economic Daily | Samsung Biologics Jumps 5% After Court Curbs Union Strike | google:Seoul Economic Daily#3428aacd | aen3
-2026-10-19 10:43 | 파이낸셜뉴스 | KOSPI turns higher after an early-session plunge; chip and biotech stocks rebound [fn Morning Market Update] | google:파이낸셜뉴스#3d202ea8 | aen3
-2026-10-19 10:42 | newsian.co.kr | [도시정비 MAP] 삼성물산, 매머드급 수주 낭보…2.3兆 '여의도 시범아파... | http://www.newsian.co.kr/news/articleView.html?idxno=97303 | a1
-2026-10-19 10:40 | businesspost.co.kr | 삼성물산 '2.2조' 여의도 시범아파트 재건축 시공권 확보, 단지명 '래미... | https://www.businesspost.co.kr/BP?command=article_view&num=449648 | a1
-2026-10-19 10:39 | edaily.co.kr | 압구정·성수 이어 여의도 핵심 품은 삼성물산…다음은 ‘목동’ | https://www.edaily.co.kr/News/Read?newsId=02810966645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
-2026-10-19 10:38 | srtimes.kr | 삼성물산, 벌써 지난해 정비수주액 넘었다…숙제는 '공사비' | http://www.srtimes.kr/news/articleView.html?idxno=215087 | a1
-2026-10-19 10:36 | 머니투데이 | Pension funds step into volatile market for a rebound, here's what they're buying | google:머니투데이#93900437 | aen1,aen3
-2026-10-19 10:36 | dailymedi.com | 삼성바이오로직스, 국제무대서 기술 경쟁력 각인 | https://www.dailymedi.com/news/news_view.php?wr_id=941585 | a7,ax2
-2026-10-19 10:32 | arunews.com | 삼성물산, 여의도 시범 품었다… 누적액 9조6,055억원 돌파 | https://www.arunews.com/news/articleView.html?idxno=68274 | a1
-2026-10-19 10:32 | wowtv.co.kr | 삼성바이오로직스, '월드 ADC' 참여..."전주기 서비스 소개" | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610190032&t=NN | a7,ax2
-2026-10-19 10:32 | getnews.co.kr | 삼성바이오로직스, 월드 ADC 참가...CRO·CDO·CMO 전 주기 홍보 | https://www.getnews.co.kr/news/articleView.html?idxno=883957 | a7,ax2
-2026-10-19 10:30 | biz.newdaily.co.kr | 삼성물산, 2.2조 여의도 시범 재건축 수주 … 59층 래미안으로 탈바꿈 | https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900094.html | a1
-2026-10-19 10:25 | BigGo Finance | South Korea's Samsung C&T Wins 2.27 Trillion Won Yeouido Sibum Apartment Rebuild, Securing 2,032 Han River-View Units | google:BigGo Finance#3f09d6e3 | aen1
-2026-10-19 10:25 | BigGo Finance | Asian Markets Plunge Together on AI Funding Warning; KOSPI Breaks 5,500, Nikkei Drops 1,400 Points | google:BigGo Finance#62b33766 | aen3
-2026-10-19 10:24 | moneystorm.kr | 삼성물산, 여의도 시범아파트 품었다…2.3조 재건축 수주·미래형 주거... | https://www.moneystorm.kr/news/articleView.html?idxno=7387 | a1
-2026-10-19 10:22 | straightnews.co.kr | 여의도 시범아파트가 '래미안 소넬리'로…삼성물산, 2조2600억 규모 재건... | https://www.straightnews.co.kr/news/articleView.html?idxno=313405 | a1
-2026-10-19 10:20 | livebiz.today | 삼성물산, 여의도 시범 아파트 대어 잡았다...2.3조 규모 재건축 수주 | https://www.livebiz.today/news/articleView.html?idxno=205702 | a1
+2026-10-20 02:01 | CatatanRiau.com | Gempur Jaringan Narkoba di Pelalawan! Polres Ungkap 6 Kasus, 14 Tersangka Diamankan | google:CatatanRiau.com#7d1d5974 | aid6
