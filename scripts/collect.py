@@ -33,6 +33,7 @@ sweep 결과는 세 파일에 모두 포함된다.
 import os
 import re
 import json
+import hashlib
 import time
 import html
 import urllib.parse
@@ -57,7 +58,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 NAVER_ENDPOINT = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{lang}"
-GOOGLE_SAMPLES = {}   # 매체 -> (제목, 구글 중계 주소). 브라우저에서 열리는지 확인하라고 로그에 몇 개만 남긴다.
+LINKS = {}   # 구글 중계 주소 번호 -> 주소. 기사 목록에는 번호만 남기고 pool/links.txt 에 대응표를 저장한다.
 
 # 구글 뉴스 지역·언어 코드. 해외 현지 보도를 잡기 위해 사용한다.
 # 네이버 뉴스 검색 API는 국내 등록 매체만 다루므로 해외 보도는 여기서만 확보된다.
@@ -179,11 +180,6 @@ def google_rss(query, locale="kr", tag=""):
         _src = (e.get("source", {}) or {}).get("title", "")
         if _src and title.endswith(" - " + _src):
             title = title[: -(len(_src) + 3)].rstrip()
-        _m = (e.get("source", {}) or {}).get("title", "")
-        _l = e.get("link", "")
-        if "news.google.com" in _l and _m and _m not in GOOGLE_SAMPLES and \
-                (_m in ("경향신문", "뉴시스", "이투데이") or len(GOOGLE_SAMPLES) < 2):
-            GOOGLE_SAMPLES[_m] = (title, _l)
         out.append({
             "title": title,
             "media": (e.get("source", {}) or {}).get("title", "")
@@ -292,11 +288,15 @@ def balance_by_date(items, limit):
 
 
 def short_url(a):
-    """구글 뉴스 중계 주소는 400자가 넘고 리포트에 쓸 수도 없으므로
-    파일에는 표시만 남긴다. 실제 주소가 필요하면 읽는 쪽에서 제목으로 찾는다."""
+    """구글 뉴스 중계 주소는 길어서(130~340자) 기사 목록에는 `google:매체#번호`만 남기고,
+    번호와 실제 주소의 대응표는 pool/links.txt 에 저장한다. 중계 주소는 클릭하면 원문으로 이동한다.
+    번호는 주소의 해시(8자리)라 같은 기사는 항상 같은 번호다."""
     u = a.get("url") or ""
     if "news.google.com" in u:
-        return "google:" + (a.get("media") or "unknown")
+        lid = hashlib.md5(u.encode("utf-8")).hexdigest()[:8]
+        LINKS[lid] = u
+        media = (a.get("media") or "unknown").replace("|", "/").replace("#", " ")
+        return f"google:{media}#{lid}"
     return u
 
 
@@ -461,6 +461,13 @@ def main():
             print(f"      {n}")
         summary.append(f"{base}: {len(lines)}줄 / {len(chunks)}개 파일")
 
+    # 구글 중계 주소 대응표: 이번에 기사 목록에 실제로 남은 줄의 번호만 들어간다.
+    with open(os.path.join(outdir, "links.txt"), "w", encoding="utf-8") as f:
+        f.write(f"# collected: {end:%Y-%m-%d %H:%M} KST\n# format: 번호 | 구글 뉴스 중계 주소(클릭하면 원문으로 이동)\n")
+        for k in sorted(LINKS):
+            f.write(f"{k} | {LINKS[k]}\n")
+    print(f"\n구글 중계 링크 대응표: {len(LINKS)}개 -> pool/links.txt ({os.path.getsize(os.path.join(outdir, 'links.txt')) // 1024}KB)")
+
     with open(os.path.join(outdir, "index.txt"), "w", encoding="utf-8") as f:
         f.write(f"collected: {end:%Y-%m-%d %H:%M} KST\n")
         f.write(f"window: {start:%Y-%m-%d} 00:00 ~ {end:%Y-%m-%d %H:%M} KST\n")
@@ -471,11 +478,6 @@ def main():
         print("\n제외 기준 저장 (정기 수집: 다음 날 이 수집본과 겹치는 기사를 뺀다)")
     else:
         print("\n제외 기준 저장 안 함 (수동 실행: 다음 정기 수집의 기준을 바꾸지 않는다)")
-
-    if GOOGLE_SAMPLES:
-        print("\n구글 뉴스 중계 링크 샘플(복사해서 브라우저 주소창에 붙여 원문으로 열리는지 확인):")
-        for _m, (_t, _u) in GOOGLE_SAMPLES.items():
-            print(f"  [{_m}] {_t[:40]}\n    {_u}")
 
     print(f"\n완료: {', '.join(summary)}")
 
