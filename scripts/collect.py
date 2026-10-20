@@ -57,6 +57,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 NAVER_ENDPOINT = "https://naverapihub.apigw.ntruss.com/search/v1/news"
 GOOGLE_RSS = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{lang}"
+GOOGLE_SAMPLES = {}   # 매체 -> (제목, 구글 중계 주소). 브라우저에서 열리는지 확인하라고 로그에 몇 개만 남긴다.
 
 # 구글 뉴스 지역·언어 코드. 해외 현지 보도를 잡기 위해 사용한다.
 # 네이버 뉴스 검색 API는 국내 등록 매체만 다루므로 해외 보도는 여기서만 확보된다.
@@ -178,6 +179,11 @@ def google_rss(query, locale="kr", tag=""):
         _src = (e.get("source", {}) or {}).get("title", "")
         if _src and title.endswith(" - " + _src):
             title = title[: -(len(_src) + 3)].rstrip()
+        _m = (e.get("source", {}) or {}).get("title", "")
+        _l = e.get("link", "")
+        if "news.google.com" in _l and _m and _m not in GOOGLE_SAMPLES and \
+                (_m in ("경향신문", "뉴시스", "이투데이") or len(GOOGLE_SAMPLES) < 2):
+            GOOGLE_SAMPLES[_m] = (title, _l)
         out.append({
             "title": title,
             "media": (e.get("source", {}) or {}).get("title", "")
@@ -465,6 +471,11 @@ def main():
         print("\n제외 기준 저장 (정기 수집: 다음 날 이 수집본과 겹치는 기사를 뺀다)")
     else:
         print("\n제외 기준 저장 안 함 (수동 실행: 다음 정기 수집의 기준을 바꾸지 않는다)")
+
+    if GOOGLE_SAMPLES:
+        print("\n구글 뉴스 중계 링크 샘플(복사해서 브라우저 주소창에 붙여 원문으로 열리는지 확인):")
+        for _m, (_t, _u) in GOOGLE_SAMPLES.items():
+            print(f"  [{_m}] {_t[:40]}\n    {_u}")
 
     print(f"\n완료: {', '.join(summary)}")
 

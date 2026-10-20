@@ -103,8 +103,21 @@ def url_key(u):
 # 구글 뉴스 RSS로 받은 기사는 원문 주소가 없어(google:매체명) 리포트에서
 # "원문 링크 미확인"이 된다. 전문지는 사이트 자체 RSS를 쓰면 원문 주소가
 # 그대로 들어오고 구글의 100건 상한도 없다. 열리지 않는 곳은 기존 구글 훑기를 쓴다.
-DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "dnews.co.kr", "labortoday.co.kr"]
+DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "dnews.co.kr", "labortoday.co.kr",
+                       # 2026-10-20 시험 추가: 매체 훑기(구글 경유, 원문 주소 없음)를 쓰던 종합지·경제지.
+                       # 자체 RSS가 열리면 원문 주소가 붙고, 안 열리면 로그에 사유가 남고 구글 훑기로 대체된다.
+                       "khan.co.kr", "newsis.com", "etoday.co.kr", "yna.co.kr", "hankyung.com",
+                       "mk.co.kr", "asiae.co.kr", "sedaily.com", "ajunews.com", "biz.heraldcorp.com"]
 DIRECT_FEED_PATHS = ["/rss/allArticle.xml", "/rss/rss.xml", "/rss.xml", "/feed/", "/rss/"]
+# 매체별로 알려진 RSS 경로 후보(공통 경로보다 먼저 시도). 기억에 의존한 후보라 실제로 되는지는 수집 로그의 direct 줄로 확인한다.
+DIRECT_FEED_EXTRA = {
+    "khan.co.kr": ["/rss/rssdata/total_news.xml", "/rss/rssdata/economy_news.xml", "/rss/rssdata/society_news.xml"],
+    "yna.co.kr": ["/rss/news.xml", "/rss/economy.xml"],
+    "mk.co.kr": ["/rss/30000001/", "/rss/50100032/"],
+    "hankyung.com": ["/feed/all-news", "/feed/economy"],
+    "newsis.com": ["/RSS/sokbo.xml", "/RSS/economy.xml"],
+    "asiae.co.kr": ["/rss/all.htm"],
+}
 DIRECT_UA = {"User-Agent": "Mozilla/5.0 (compatible; news-pool/1.0)"}
 # 날짜 문자열 끝에 시간대 표기(+0900, GMT, Z, KST 등)가 있는지 본다.
 _TZ_RE = re.compile(r"(?:[+-]\d{2}:?\d{2}|Z|GMT|UTC|UT|[ECMP][SD]T|KST)\s*$")
@@ -203,7 +216,7 @@ def _direct_one(domain):
     while i < len(bases):
         base = bases[i]
         i += 1
-        for path in DIRECT_FEED_PATHS:
+        for path in DIRECT_FEED_EXTRA.get(domain, []) + DIRECT_FEED_PATHS:
             items, why = _try_feed(base + path, domain)
             if items:
                 return items, base + path
