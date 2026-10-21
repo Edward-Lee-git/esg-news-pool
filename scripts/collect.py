@@ -79,8 +79,8 @@ LINES_PER_FILE = 250     # 파일 1개당 줄 수 (읽는 쪽 용량 제한 대�
 # 넣으면 훑기 결과가 상한을 차지해 회사 검색 결과가 잘려나간다.
 SETS = {
     "set_a": {"sweep": False, "limit": 900, "body_check": True, "deep": True},
-    "set_b": {"sweep": True,  "limit": 1200},
-    "set_c": {"sweep": True,  "limit": 1200},
+    "set_b": {"sweep": True,  "limit": 1200, "strict": False},   # strict=False: 제목+요약 확정
+    "set_c": {"sweep": True,  "limit": 1200, "strict": False},
 }
 
 
@@ -112,7 +112,7 @@ def load_queries():
 
 
 # ---------------------------------------------------------------
-def naver_search(query, key_id, key, max_items=300, tag="", since=None):
+def naver_search(query, key_id, key, max_items=300, tag="", since=None, strict=True):
     out = []
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
@@ -139,8 +139,13 @@ def naver_search(query, key_id, key, max_items=300, tag="", since=None):
             # 본문(요약) 언급만으로는 스쳐 지나간 언급과 실제 이슈를 구분할 수 없다.
             # 취업박람회 기사의 참가기업 목록, 재건축 기사의 시공사 목록 등이
             # 모두 본문 언급으로 잡히기 때문이다. 그래서 제목을 기준으로 삼는다.
-            confirmed = verify(query, title)
-            body_only = (not confirmed) and verify(query, title + " " + desc)
+            # strict=True(부정기사): 검색어의 모든 낱말이 '제목'에 있어야 확정.
+            # strict=False(규제동향·일반동향): 제목+요약에 있으면 확정. 종합지 기사는 제목에 낱말을
+            # 다 쓰지 않는 경우가 많아 제목만 보면 대부분 탈락한다(부처명+입법예고 등).
+            in_title = verify(query, title)
+            in_body = in_title or verify(query, title + " " + desc)
+            confirmed = in_title if strict else in_body
+            body_only = (not in_title) and in_body
             out.append({
                 "title": title,
                 "media": domain_of(link),
@@ -254,18 +259,39 @@ def in_window(a, start, end):
         return True
 
 
-def balance_by_date(items, limit):
-    """건수 상한을 넘을 때, 날짜별로 골고루 남긴다.
-    최신순으로 자르면 검색기간 첫날(월요일 기준 금요일) 기사가 통째로
-    날아가므로, 각 날짜에서 돌아가며 뽑는다."""
-    if len(items) <= limit:
-        return items, False
+def qstat(tag, text, got, start, end, show_text=True, cap=300):
+    """검색어 하나의 성과를 한 줄로 출력한다. 부정기사(set_a)는 회사명이 들어 있어 태그만 출력한다."""
+    win = [a for a in got if in_window(a, start, end)]
+    conf = sum(1 for a in win if a.get("confirmed"))
+    riskonly = sum(1 for a in win if not a.get("confirmed") and a.get("risk"))
+    drop = len(win) - conf - riskonly
+    pubs = [a["published"] for a in got if a.get("published")]
+    old = min(pubs)[5:16].replace("T", " ") if pubs else "-"
+    hit = bool(pubs) and len(got) >= cap and dt.datetime.fromisoformat(min(pubs)) > start
+    label = f"{tag} {text}" if show_text else tag
+    print(f"      · {label} | 원시 {len(got)} · 기간내 {len(win)} · 확정 {conf} · 위험어만 {riskonly} · 탈락 {drop}"
+          f" | 가장 오래된 {old}{' ★' if hit else ''}")
+
+
+def keep_priority(a):
+    """상한 절단 때 남기는 순서. 0: 확정된 검색어 태그 또는 ESG 전문 매체 직접 수집분,
+    1: 약한(?) 검색어 태그만 있는 기사, 2: 그 밖의 매체 훑기(관련도 필터를 안 거친 기사)."""
+    tags = a.get("tags") or set()
+    real = [t for t in tags if t.rstrip("?") != "sw"]
+    if any(not t.endswith("?") for t in real):
+        return 0
+    media = (a.get("media") or "").lower()
+    if any(media.endswith(d) for d in DIRECT_FEED_DOMAINS):
+        return 0
+    return 1 if real else 2
+
+
+def _round_robin_by_date(items, limit):
     by_day = {}
     for a in items:
         by_day.setdefault((a.get("published") or "")[:10], []).append(a)
     for k in by_day:
         by_day[k].sort(key=lambda a: (a.get("published") or ""), reverse=True)
-
     days = sorted(by_day.keys(), reverse=True)
     picked, i = [], 0
     while len(picked) < limit:
@@ -277,7 +303,31 @@ def balance_by_date(items, limit):
         if not added:
             break
         i += 1
+    return picked
 
+
+def balance_by_date(items, limit, prio=None):
+    """건수 상한을 넘을 때, 날짜별로 골고루 남긴다.
+    최신순으로 자르면 검색기간 첫날(월요일 기준 금요일) 기사가 통째로
+    날아가므로, 각 날짜에서 돌아가며 뽑는다."""
+    if len(items) <= limit:
+        return items, False
+    if prio is None:
+        picked = _round_robin_by_date(items, limit)
+    else:
+        # 관련도 순(prio 값이 작을수록 먼저)으로 남기고, 한 등급이 남은 자리보다 많으면 날짜별로 골고루 뽑는다.
+        tiers = {}
+        for a in items:
+            tiers.setdefault(prio(a), []).append(a)
+        picked, info = [], []
+        for p in sorted(tiers):
+            room = limit - len(picked)
+            part = tiers[p]
+            take = part if len(part) <= room else _round_robin_by_date(part, max(room, 0))
+            picked += take
+            info.append(f"{p}등급 {len(take)}/{len(part)}")
+        print("      절단 우선순위별 유지(0=확정 검색어·ESG 전문지, 1=약한 검색어, 2=훑기): " + ", ".join(info))
+    picked.sort(key=lambda a: (a.get("published") or ""), reverse=True)   # 절단 여부와 상관없이 최신순
     kept = {}
     for a in picked:
         kept.setdefault((a.get("published") or "")[:10], 0)
@@ -354,21 +404,29 @@ def main():
         items = []
         pfx = s[-1]                      # set_a -> "a", set_b -> "b", set_c -> "c"
         legend = []                      # 태그 개수 집계용 (내용은 출력하지 않음)
+        strict = opt.get("strict", True)
+        print(f"    [{s}] 검색어별 성과 (원시=받은 건수, 기간내, 확정, 위험어만=제목에 위험어가 있어 남은 것, 탈락, 가장 오래된 기사, ★=300건 한도에 걸려 기간 시작까지 못 내려감)")
 
         if key_id and key:
             kw = {"max_items": 1000, "since": start} if opt.get("deep") else {}   # set_a: 수집 시작 시각까지
             for i, q in enumerate(spec.get("naver", []), 1):
                 t = f"{pfx}{i}"
                 legend.append((t, q))
-                items += naver_search(q, key_id, key, tag=t, **kw)
+                got = naver_search(q, key_id, key, tag=t, strict=strict, **kw)
+                qstat(t, q, got, start, end, show_text=(s != "set_a"), cap=kw.get("max_items", 300))
+                items += got
             for i, q in enumerate(extra.get(s, []), 1):
                 t = f"{pfx}x{i}"              # ax1, bx1, cx1 ... (기존 번호와 섞이지 않음)
                 legend.append((t, q))
-                items += naver_search(q, key_id, key, tag=t, **kw)
+                got = naver_search(q, key_id, key, tag=t, strict=strict, **kw)
+                qstat(t, q, got, start, end, show_text=(s != "set_a"), cap=kw.get("max_items", 300))
+                items += got
         for i, q in enumerate(spec.get("rss", []), 1):
             t = f"{pfx}r{i}"
             legend.append((t, q))
-            items += google_rss(f"{q} when:{days}d", tag=t)
+            got = google_rss(f"{q} when:{days}d", tag=t)
+            qstat(t, q, got, start, end, show_text=(s != "set_a"), cap=100)
+            items += got
 
         # 해외 보도: {"locale": "en", "queries": [...]} 형태의 목록
         for blk in spec.get("foreign", []):
@@ -377,7 +435,9 @@ def main():
             for i, q in enumerate(blk.get("queries", []), 1):
                 t = f"{pfx}{loc}{i}"
                 legend.append((t, q))
-                items += google_rss(f"{q} when:{days}d", locale=loc, tag=t)
+                got = google_rss(f"{q} when:{days}d", locale=loc, tag=t)
+                qstat(t, q, got, start, end, show_text=(s != "set_a"), cap=100)
+                items += got
             print(f"    해외[{loc}]: +{len(items)-n0}")
 
         raw_n = len(items)
@@ -408,7 +468,7 @@ def main():
             n_excluded = before_ex - len(items)
             print(f"      직전 수집본과 겹쳐 제외: {n_excluded}건 ({n_excluded * 100 // max(before_ex, 1)}%)")
 
-        items, cut = balance_by_date(items, opt["limit"])
+        items, cut = balance_by_date(items, opt["limit"], prio=keep_priority if opt["sweep"] else None)
         if opt.get("body_check"):
             items = apply_body_check(items, dict(legend))   # legend: [(태그, 검색어)]
         for a in items:
