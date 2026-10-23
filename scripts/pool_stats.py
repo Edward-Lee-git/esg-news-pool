@@ -2,6 +2,7 @@
 """수집 보조: 기간 판정, 검색어별 성과 기록·이력 저장, 상한 절단(관련도 우선), 근거 문구.
 collect.py 가 가져다 쓴다(같은 scripts 폴더에 두어야 한다)."""
 import os
+import re
 import csv
 import datetime as dt
 
@@ -87,17 +88,46 @@ def save_query_stats(outdir, end, stats):
     return len(keep)
 
 
+GOOGLE_TAG = re.compile(r"[abc](r|gb|en|id|ro)\d+$")   # 구글 뉴스 RSS(한국판·해외 판) 검색어 태그
+
+
 def keep_priority(a):
-    """상한 절단 때 남기는 순서. 0: 확정된 검색어 태그 또는 ESG 전문 매체 직접 수집분,
-    1: 약한(?) 검색어 태그만 있는 기사, 2: 그 밖의 매체 훑기(관련도 필터를 안 거친 기사)."""
+    """상한 절단 때 남기는 순서(작을수록 먼저).
+    0: ESG 전문지 직접 수집, 구글 뉴스(해외·RSS) 확정 기사, 제목에 검색어 낱말이 있는 확정 기사(검색어당 상한 이내)
+    1: 요약에만 낱말이 있는 확정 기사, 또는 검색어당 상한을 넘은 기사
+    2: 약한(?) 검색어 태그만 있는 기사
+    3: 그 밖의 매체 훑기(관련도 필터를 안 거친 기사)"""
     tags = a.get("tags") or set()
     real = [t for t in tags if t.rstrip("?") != "sw"]
-    if any(not t.endswith("?") for t in real):
-        return 0
     media = (a.get("media") or "").lower()
     if any(media.endswith(d) for d in DIRECT_FEED_DOMAINS):
         return 0
-    return 1 if real else 2
+    confirmed = [t for t in real if not t.endswith("?")]
+    if confirmed:
+        if any(GOOGLE_TAG.match(t) for t in confirmed):
+            return 0
+        if a.get("th", True) and not a.get("over"):
+            return 0
+        return 1
+    return 2 if real else 3
+
+
+def apply_query_cap(items, cap):
+    """한 검색어가 목록을 독차지하지 못하게, 제목에 낱말이 있는 확정 기사를 검색어마다 최신순 cap줄까지만
+    0등급으로 두고 나머지는 1등급으로 내린다(버리지는 않는다). 내린 줄 수를 돌려준다."""
+    cnt, n_over = {}, 0
+    for a in sorted(items, key=lambda x: x.get("published") or "", reverse=True):
+        tags = [t for t in (a.get("tags") or set())
+                if not t.endswith("?") and t != "sw" and not GOOGLE_TAG.match(t)]
+        if not tags or not a.get("th", True):
+            continue
+        ok = any(cnt.get(t, 0) < cap for t in tags)
+        for t in tags:
+            cnt[t] = cnt.get(t, 0) + 1
+        if not ok:
+            a["over"] = True
+            n_over += 1
+    return n_over
 
 
 def _round_robin_by_date(items, limit):
@@ -140,7 +170,7 @@ def balance_by_date(items, limit, prio=None):
             take = part if len(part) <= room else _round_robin_by_date(part, max(room, 0))
             picked += take
             info.append(f"{p}등급 {len(take)}/{len(part)}")
-        print("      절단 우선순위별 유지(0=확정 검색어·ESG 전문지, 1=약한 검색어, 2=훑기): " + ", ".join(info))
+        print("      절단 우선순위별 유지(0=전문지·해외·제목에 낱말이 있는 확정 기사, 1=요약에만 있거나 검색어당 상한 초과, 2=약한 검색어, 3=훑기): " + ", ".join(info))
     picked.sort(key=lambda a: (a.get("published") or ""), reverse=True)   # 절단 여부와 상관없이 최신순
     kept = {}
     for a in picked:

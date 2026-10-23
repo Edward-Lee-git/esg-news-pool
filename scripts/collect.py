@@ -53,7 +53,7 @@ from pool_extras import (
 )
 from pool_stats import (
     in_window, context_snippet, QSTATS, STATS_FILE, STATS_KEEP_DAYS, STATS_HEAD,
-    qstat, save_query_stats, keep_priority, balance_by_date,
+    qstat, save_query_stats, keep_priority, balance_by_date, apply_query_cap,
 )
 from body_check import apply_body_check, load_extra_queries   # set_a 보조 기능(본문 확인, 추가 검색어)
 
@@ -85,8 +85,9 @@ SETS = {
     "set_a": {"sweep": False, "limit": 900, "body_check": True, "deep": True},
     # strict=False: 제목+요약 확정. deep=True: 검색어마다 300건 한도에 걸리면 수집 시작 시각까지 최대 1,000건 더 가져온다.
     # set_c 상한 1,500줄 = 파일 6개(루틴 프롬프트는 최대 8개까지 읽도록 되어 있어야 한다).
-    "set_b": {"sweep": True,  "limit": 1200, "strict": False, "deep": True},
-    "set_c": {"sweep": True,  "limit": 1500, "strict": False, "deep": True},
+    # query_cap: 한 검색어가 목록을 독차지하지 못하게 제목에 낱말이 있는 기사를 검색어마다 최신순 100줄까지만 우선 보존한다.
+    "set_b": {"sweep": True,  "limit": 1200, "strict": False, "deep": True, "query_cap": 100},
+    "set_c": {"sweep": True,  "limit": 1500, "strict": False, "deep": True, "query_cap": 100},
 }
 
 
@@ -125,6 +126,7 @@ def naver_search(query, key_id, key, max_items=300, tag="", since=None, strict=T
     title_req = query.strip().startswith("^")
     query = query.strip().lstrip("^").strip()
     first_word = (query.split() or [""])[0]
+    q_words = [w.strip('"') for w in query.split() if w.strip('"') and w.lower() not in ("or", "and")]
     headers = {"X-NCP-APIGW-API-KEY-ID": key_id, "X-NCP-APIGW-API-KEY": key}
     for start in range(1, max_items, 100):
         try:
@@ -163,6 +165,7 @@ def naver_search(query, key_id, key, max_items=300, tag="", since=None, strict=T
                 confirmed = in_title if strict else in_body
                 body_only = (not in_title) and in_body
                 risk = has_risk_signal(title)
+            th = bool(confirmed and any(verify(w, title) for w in q_words))     # 제목에 검색어 낱말이 있는가
             ctx = context_snippet(desc, query) if (confirmed and not in_title) else ""
             out.append({
                 "title": title,
@@ -174,6 +177,7 @@ def naver_search(query, key_id, key, max_items=300, tag="", since=None, strict=T
                 "body_only": body_only,
                 "risk": risk,
                 "ctx": ctx,
+                "th": th,
             })
         if len(items) < 100:
             break
@@ -245,6 +249,8 @@ def dedupe(items, threshold=0.88):
             for k in kept:
                 if url_key(k.get("url")) == u:
                     k.setdefault("tags", set()).update(a.get("tags") or set())
+                    if a.get("th"):
+                        k["th"] = True
                     break
             continue
         n = norm(a["title"])
@@ -258,6 +264,8 @@ def dedupe(items, threshold=0.88):
                 break
         if dup is not None:
             dup.setdefault("tags", set()).update(a.get("tags") or set())
+            if a.get("th"):
+                dup["th"] = True
             continue
         if u:
             seen.add(u)
@@ -400,6 +408,9 @@ def main():
             n_excluded = before_ex - len(items)
             print(f"      직전 수집본과 겹쳐 제외: {n_excluded}건 ({n_excluded * 100 // max(before_ex, 1)}%)")
 
+        if opt["sweep"]:
+            n_over = apply_query_cap(items, opt.get("query_cap", 100))
+            print(f"      검색어당 상한({opt.get('query_cap', 100)}줄) 초과로 순위를 낮춘 줄: {n_over}건")
         items, cut = balance_by_date(items, opt["limit"], prio=keep_priority if opt["sweep"] else None)
         if opt.get("body_check"):
             items = apply_body_check(items, dict(legend))   # legend: [(태그, 검색어)]
