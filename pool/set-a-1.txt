@@ -1,43 +1,138 @@
-# collected: 2026-10-26 10:58 KST
-# window: 2026-10-23 00:00 ~ 2026-10-26 10:58 KST
+# collected: 2026-10-26 16:25 KST
+# window: 2026-10-23 00:00 ~ 2026-10-26 16:25 KST
 # part 1 of 2, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-10-26 16:17 | segye.com | 삼성물산, 7381억원 규모 창원 용호1구역 재건축 수주 | https://www.segye.com/newsView/20261026514064?OutUrl=naver | a1,a3
+2026-10-26 16:16 | asiatoday.co.kr | 삼성바이오 노조, 전면파업 접고 '선택적 파업'…법원 결정에 전략 수정 | https://www.asiatoday.co.kr/kn/view.php?key=20261026010008716 | a7,ax2
+2026-10-26 16:14 | topstarnews.net | 삼성바이오로직스 주가, 10월 26일 애프터마켓 1,443,000원 1.57% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16258411 | a7,ax2
+2026-10-26 16:08 | inews24.com | 삼성물산, 창원 용호1구역 재건축 수주…공사비 7381억원 | http://www.inews24.com/view/2019047 | a1
+2026-10-26 16:00 | megaeconomy.co.kr | "法, 확대해석·현실성無"…삼성바이오 파업금지가처분 판단 '위헌' 부상 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594292277805 | a7,ax2
+2026-10-26 15:58 | 아시아경제 | Foreign Investors' "Sell" Sends KOSPI Below 5,500; KOSDAQ Falls 3.2% | google:아시아경제#67f4c2c7 | aen3
+2026-10-26 15:56 | job-post.co.kr | 삼성바이오로직스 145만2000원…CDMO 수주와 5공장 가동 주목 | https://www.job-post.co.kr/news/articleView.html?idxno=234543 | a7,ax2
+2026-10-26 15:54 | job-post.co.kr | 삼성물산 1.39% 상승…건설·상사·바이오 가치 함께 반영 | https://www.job-post.co.kr/news/articleView.html?idxno=234539 | a1
+2026-10-26 15:50 | seoul.co.kr | 삼성물산, 경남 창원 용호1구역 재건축 시공사 선정… ‘래미안 클리에... | https://www.seoul.co.kr/news/economy/estate/2026/10/26/20261026500210?wlog_tag3=naver | a1
+2026-10-26 15:46 | thepowernews.co.kr | 삼성물산, 7381억 창원 용호1구역 재건축 수주…1315세대 조성 | https://www.thepowernews.co.kr/view.php?ud=202610261514596521de3f0aa1be_7 | a1
+2026-10-26 15:40 | insightkorea.co.kr | 삼성바이오 노조 "법원 보안작업 확대 해석…파업권 무력화 시도" | https://www.insightkorea.co.kr/news/articleView.html?idxno=257269 | a7,ax2
+2026-10-26 15:30 | moneystorm.kr | 삼성물산, 창원 용호1구역 재건축 7,381억원 수주…'래미안 클리에르' 제... | https://www.moneystorm.kr/news/articleView.html?idxno=7671 | a1
+2026-10-26 15:30 | hansbiz.co.kr | 삼성물산, 정비수주 10조 넘어…연간 목표 13조 '성큼' | http://www.hansbiz.co.kr/news/articleView.html?idxno=876301 | a1
+2026-10-26 15:25 | BigGo Finance | South Korean builders' Q3 results diverge: Daewoo, Samsung C&T, Hyundai post double-digit profit growth; DL and GS retreat | google:BigGo Finance#4ac6ccde | aen1
+2026-10-26 15:24 | viva100.com | 삼성바이오 노조, 법원 결정에 반발⋯비생산 조직 중심 ‘부분파업’ 추... | https://www.viva100.com/article/20261026500859 | a7,ax2
+2026-10-26 15:20 | dailypop.kr | 삼성물산, 반포·창원 정비사업 잇단 수주…총 8631억원 규모 | http://www.dailypop.kr/news/articleView.html?idxno=103739 | a1
+2026-10-26 15:12 | s-journal.co.kr | 삼성물산, 창원 용호1구역 재건축 시공사 선정…7381억원 규모 | https://www.s-journal.co.kr/news/articleView.html?idxno=44806 | a1
+2026-10-26 15:12 | news.einfomax.co.kr | 삼성바이오 노조, 법원 파업 제동에 반발…"단체행동권 무력화" | https://news.einfomax.co.kr/news/articleView.html?idxno=4441135 | a7,ax2
+2026-10-26 15:04 | realty.chosun.com | 경남 첫 래미안 탄생...삼성물산,창원 용호1구역 재건축 수주 | https://realty.chosun.com/site/data/html_dir/2026/10/26/2026102601873.html | a1
+2026-10-26 15:02 | newsprime.co.kr | 삼성바이오 노사 갈등, 법정 공방으로…노조 재항고 예고 | http://www.newsprime.co.kr/news/article.html?no=752359 | ax2
+2026-10-26 15:00 | globalepic.co.kr | 삼성물산, 경남 창원 용호1구역 재건축 시공사 선정 | https://www.globalepic.co.kr/view.php?ud=20261026145734136048439a4874_29 | a1
+2026-10-26 14:57 | etnews.com | 삼성바이오로직스 노조, 파업 제한 결정에 재항고…28일 교섭 재개 | https://www.etnews.com/20261026000342 | a7,ax2
+2026-10-26 14:56 | metroseoul.co.kr | 삼성물산, 창원 용호1구역 품었다…1315가구 '래미안 클리에르' 조성 | http://www.metroseoul.co.kr/article/20261026500376 | a1
+2026-10-26 14:54 | lawleader.co.kr | 이용우 "법원, 삼성바이오로직스(삼바) 가처분…노조 단체행동권 무력화... | https://www.lawleader.co.kr/news/articleView.html?idxno=20247 | a7,ax2
+2026-10-26 14:50 | busan.com | 삼성바이오 노조 '파업 재개' 수순… 국회서 가처분 규탄 | https://www.busan.com/view/busan/view.php?code=2026102614453807181 | a7,ax2
+2026-10-26 14:43 | mk.co.kr | 용지호수 품은 46층 랜드마크…삼성물산, 창원 용호1구역 재건축 수주 | https://www.mk.co.kr/article/12185755 | a1
+2026-10-26 14:42 | 매일경제 | Samsung C&T announced on the 26th that it has been finally selected as a contractor for the reco.. | google:매일경제#8e59209d | aen1
+2026-10-26 14:42 | newsway.co.kr | 삼성물산, 도시정비사업 수주 첫 10조원 돌파 | https://www.newsway.co.kr/news/view?ud=2026102614043495942 | a1
+2026-10-26 14:42 | ziksir.com | 삼성바이오 노조, 파업 제한에 재항고…법원은 생산 안정에 무게 | https://www.ziksir.com/news/articleView.html?idxno=150742 | a7,ax2
+2026-10-26 14:34 | 1conomynews.co.kr | 삼성물산, 창원에 '래미안 클리에르' 제안…용지호수 조망 강화 | https://www.1conomynews.co.kr/news/articleView.html?idxno=50968 | a1
+2026-10-26 14:27 | mt.co.kr | 삼성바이오 노조, 법원 제동에 파업 방식 전면→부분 전환…28일 대화 재... | https://www.mt.co.kr/thebio/2026/10/26/2026102613572294623 | a7,ax2
+2026-10-26 14:21 | HaiSawit | BPDP Dorong Kemandirian Ekonomi Perempuan Melalui Inovasi UMKM Kuliner Berbahan Oleofood Sawit | google:HaiSawit#ea4ca247 | aid6
+2026-10-26 14:18 | whitepaper.co.kr | 삼성물산, 창원 용호1구역 재건축 수주···최고 46층·1315가구 조성 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268118 | a1
+2026-10-26 14:16 | megaeconomy.co.kr | 삼성바이오노조, 쟁의 방식·기금 변화 움직임…12억 조성·부분파업 고... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579642839456 | a7,ax2
+2026-10-26 14:11 | Tribunpekanbaru.com | Kepala Desa di Inhu Jadi Tersangka Kasus Perambahan Hutan untuk Kebun Sawit | google:Tribunpekanbaru.com#21e2f8e3 | aid8
+2026-10-26 14:06 | 매일경제 | “Came to see the Bao family” ... Everland’s YouTube channel surpasses 2 million subscribers | google:매일경제#d0c2a538 | aen1
+2026-10-26 14:00 | ajunews.com | 삼성바이오 노조, 법원 파업 제동에 반발… "사측 보상 담은 교섭안 제... | https://www.ajunews.com/view/20261026135353994 | a7,ax2
+2026-10-26 13:56 | newsway.co.kr | 삼성바이오로직스 노조, 파업 제한 확대에 반발…대법원 재항고 추진 | https://www.newsway.co.kr/news/view?ud=2026102611122207044 | a7,ax2
+2026-10-26 13:56 | ebn.co.kr | 삼성바이오 노조 "단체행동권 보장해야"…법원 결정 규탄 | https://www.ebn.co.kr/news/articleView.html?idxno=1729150 | ax2
+2026-10-26 13:54 | mdtoday.co.kr | 삼성바이오 노조, 파업 제한 확대에 반발…'총파업' 대신 '부분파업' 검... | https://www.mdtoday.co.kr/news/articleView.html?idxno=620870 | a7,ax2
+2026-10-26 13:45 | sedaily.com | 삼성물산, 창원 용호1구역 재건축 수주…‘래미안 클리에르’로 탈바꿈 | https://www.sedaily.com/article/20106105?ref=naver | a1
+2026-10-26 13:44 | Seoul Economic Daily | Samsung C&T Wins 738.1 Billion Won Changwon Reconstruction Deal | google:Seoul Economic Daily#5bc0398b | aen1
+2026-10-26 13:44 | gokorea.kr | 삼성물산, 창원 '래미안 클리에르'로 7,381억 재건축 대작전 시작 | https://www.gokorea.kr/news/articleView.html?idxno=882740 | a1
+2026-10-26 13:38 | m-i.kr | 삼성바이오로직스 노조, 법원 파업 제한 결정에 반발…사측에 새 교섭안... | https://www.m-i.kr/news/articleView.html?idxno=2010296 | a7,ax2
+2026-10-26 13:36 | businesspost.co.kr | 삼성바이오로직스 노조 파업제한 반발 여론전 나서, 쟁의기금 모아도 실... | https://www.businesspost.co.kr/BP?command=article_view&num=450256 | a7,ax2
+2026-10-26 13:36 | segyebiz.com | 58년 무분규 깨진 포스코·파업 전운 감도는 삼바·효성重…산업계 노사... | http://www.segyebiz.com/newsView/20261026509476?OutUrl=naver | a7,ax2
+2026-10-26 13:36 | cwn.kr | 삼성바이오로직스 노조, 법원 판단에 "파업권 보장하라"...2차 총파업 연... | https://www.cwn.kr/news/articleView.html?idxno=60137 | a7,ax2
+2026-10-26 13:34 | news.ifm.kr | 삼성바이오 노조 "파업권 무력화"…항고심 결정에 국회서 반발 기자회견 | https://news.ifm.kr/news/articleView.html?idxno=482620 | a7,ax2
+2026-10-26 13:34 | newstomato.com | 삼성바이오로직스 노조, 법원 파업 제동에 반발 | http://www.newstomato.com/ReadNews.aspx?no=1317985&inflow=N | a7,ax2
+2026-10-26 13:32 | joongboo.com | 삼성바이오 노사 28일 대화 재개...갈등 장기화 양쪽 모두에 부담 | https://www.joongboo.com/news/articleView.html?idxno=363740454 | ax2
+2026-10-26 13:31 | hankyung.com | 반포·창원서 연이어 수주…삼성물산, 연간 정비 수주 첫 10조 | https://www.hankyung.com/article/202610264971i | a1
+2026-10-26 13:31 | sisajournal.com | 삼바 노조, 법원 결정 규탄…쟁의기금 최대 12억원 추진 | https://www.sisajournal.com/news/articleView.html?idxno=391655 | a7,ax2
+2026-10-26 13:30 | lcnews.co.kr | [건설 Pick] 대보건설·삼성물산·현대건설, 주택정비 수주 낭보와 헬스... | https://www.lcnews.co.kr/news/articleView.html?idxno=210233 | a1
+2026-10-26 13:30 | ytn.co.kr | 삼성바이오 노조 "파업 제한 재항고"...교섭안 요구 | https://www.ytn.co.kr/_ln/0102_202610261330184735 | a7,ax2
+2026-10-26 13:29 | detikcom | Kades di Inhu Jadi Tersangka Perambah Hutan Konsesi, Begini Modusnya | google:detikcom#8e7e4e45 | aid8
+2026-10-26 13:27 | mydaily.co.kr | 삼성바이오 노조, 법원 파업 제한 확대에 반발…“단체행동권 침해” | https://www.mydaily.co.kr/page/view/2026102612241149466 | a7,ax2
+2026-10-26 13:26 | news.ifm.kr | [현장영상] 삼성바이오로직스 노조, 법원 '해동' 기준 반발..."도대체 어... | https://news.ifm.kr/news/articleView.html?idxno=482624 | a7,ax2
+2026-10-26 13:20 | datasom.co.kr | 삼성물산, 창원·반포 정비사업 8631억원 수주 | https://www.datasom.co.kr/news/articleView.html?idxno=210501 | a1
+2026-10-26 13:16 | safetimes.co.kr | 삼성바이오 노조 "정상 가동하라는 법원, 파업권 무력화" | https://www.safetimes.co.kr/news/articleView.html?idxno=246824 | a7,ax2
+2026-10-26 13:14 | 4th.kr | 삼성바이오로직스 노사갈등 격화…파업권 놓고 충돌 | http://www.4th.kr/news/articleView.html?idxno=2120410 | a7,ax2
+2026-10-26 13:12 | RiauAktual.com | Oknum Kades di Inhu Ditangkap, Diduga Terbitkan Surat Tanah untuk Lahan Sawit di Kawasan Hutan | google:RiauAktual.com#42ce50c9 | aid8
+2026-10-26 13:12 | consumernews.co.kr | 삼성물산, 7381억 규모 창원 용호1구역 재건축 수주...'래미안 클리에르... | http://www.consumernews.co.kr/news/articleView.html?idxno=766749 | a1
+2026-10-26 13:10 | newsian.co.kr | [디깅 인사이드] 삼성바이오 노조, 법원 결정에도 반기…'집행부 자질론... | http://www.newsian.co.kr/news/articleView.html?idxno=97728 | ax2
+2026-10-26 13:00 | shinailbo.co.kr | 반포 푸르지오에 '래미안' 입힌다…삼성물산, 첫 '넥스트 리모델링' 수... | https://www.shinailbo.co.kr/news/articleView.html?idxno=5075446 | a1
+2026-10-26 12:59 | Kompas.com | Kades di Inhu Ditangkap Terkait Perambahan Hutan untuk Kebun Sawit, Terima Rp 15 Juta | google:Kompas.com#e9e1587b | aid8
+2026-10-26 12:58 | biztribune.co.kr | 삼성물산, 반포푸르지오 리모델링 시공사 선정… '넥스트 리모델링' 첫... | http://www.biztribune.co.kr/news/articleView.html?idxno=361248 | a1
+2026-10-26 12:54 | hansbiz.co.kr | [현장] 法 "생산 멈추지 말라"…삼성바이오 노조, 쟁의기금 돌파구 | http://www.hansbiz.co.kr/news/articleView.html?idxno=876213 | a7,ax2
+2026-10-26 12:43 | Tribunpekanbaru.com | Cabuli Anak Dibawah Umur 4 Kali, Oknum Asisten Perusahaan Sawit di Pelalawan Diciduk Polisi | google:Tribunpekanbaru.com#932dbbaf | aid6
+2026-10-26 12:43 | news.tvchosun.com | 삼바노조 "파업 중 9개 공정 가동 결정은 단체행동권 무력화" | https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690133.html | a7,ax2
+2026-10-26 12:36 | BukaMata.Co | Keruk Untung di Lahan Cacat Prosedur, GMNI Desak Rakyat Pulau Rupat Gugat PT MMJ Ganti Rugi Materil dan Immateril! | google:BukaMata.Co#e649181e | aid9
+2026-10-26 12:29 | The Korea News Plus | Samsung Fire & Marine launches AI-powered sales support system | google:The Korea News Plus#6820d2e1 | aen3
+2026-10-26 12:18 | newsworks.co.kr | 삼성바이오 노조, 국회서 항고심 규탄…"파업권 제한하면 다른 산업도" | https://www.newsworks.co.kr/news/articleView.html?idxno=900751 | a7,ax2
+2026-10-26 12:06 | newspost.kr | 삼성물산, 창원 용호1구역 재건축 7381억원 수주 | https://www.newspost.kr/news/articleView.html?idxno=226678 | a1
+2026-10-26 12:06 | dailypharm.com | 키트루다 시밀러 허가 청신호…삼성에피스, 임상 근거 보강 | https://www.dailypharm.com/user/news/343790?REFERER=NP | ax3
+2026-10-26 11:58 | hitnews.co.kr | "파업하라면서 생산은 계속?"…삼성바이오 노조, 법원 결정 반발 | https://www.hitnews.co.kr/news/articleView.html?idxno=80196 | a7,ax2
+2026-10-26 11:56 | globalepic.co.kr | 반포푸르지오, 삼성물산 ‘넥스트 리모델링’ 첫 사업지로 ‘래미안 아... | https://www.globalepic.co.kr/view.php?ud=20261026115155172648439a4874_29 | a1
+2026-10-26 11:56 | munhwa.com | 삼성바이오 노조 파업 무산… 참여의사 조합원 40% 미만 | https://www.munhwa.com/article/11626242?ref=naver | a7,ax2
+2026-10-26 11:55 | fnnews.com | 삼성물산, 창원 최대어 '용호1구역' 재건축 수주…7381억 규모 | https://www.fnnews.com/news/202610261148170815 | a1
+2026-10-26 11:55 | BigGo Finance | South Korea's Samsung C&T Wins 738.1 Billion Won Changwon Yongho District 1 Redevelopment Order, to Supply 'Raemian Clier' | google:BigGo Finance#eb00b131 | aen1
+2026-10-26 11:54 | 파이낸셜뉴스 | Samsung C&T wins contract for Yongho District 1, Changwon’s biggest redevelopment project... valued at 738.1 billion won | google:파이낸셜뉴스#f609b700 | aen1
+2026-10-26 11:50 | vegannews.co.kr | [특징주] 삼성바이오로직스, 장 초반 0.55% 하락 | https://www.vegannews.co.kr/news/article.html?no=397169 | a7,ax2
+2026-10-26 11:46 | kukinews.com | 국회 찾은 삼성바이오로직스 노조…“파업 제한 확대로 단체행동권 무력... | https://www.kukinews.com/article/view/kuk202610260096 | a7,ax2
+2026-10-26 11:44 | wikileaks-kr.org | '10조 클럽' 올라 선 삼성물산, 13조 목표 달성 마지막 관문은 | https://www.wikileaks-kr.org/news/articleView.html?idxno=193724 | a1
+2026-10-26 11:42 | biz.chosun.com | 법원 판결 규탄하러 국회 간 삼성바이오 노조…법조계 “사법부 독립 훼... | https://biz.chosun.com/science-chosun/bio/2026/10/26/7GBQMRV2VBE5ZPSC4Z634EDEWU/?utm_source=naver&utm_medium=original&utm_campaign=biz | ax2
+2026-10-26 11:41 | Chosunbiz | Samsung Bio union assails court ruling at National Assembly, stoking Korea debate - CHOSUNBIZ | google:Chosunbiz#23809efa | aen3
+2026-10-26 11:30 | news.tvchosun.com | "래미안, 용지호수 품었다"…삼성물산, 창원 용호1구역 재건축 수주 | https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690127.html | a1
+2026-10-26 11:30 | news.bizwatch.co.kr | 삼성바이오 노조 "파업권 위축…재항고·단계적 파업 추진" | https://news.bizwatch.co.kr/article/healthcare/2026/10/26/0012 | a7?,ax2
+2026-10-26 11:29 | Chosunbiz | Foreign selling drives Korea stocks lower as KOSPI, KOSDAQ extend losses - CHOSUNBIZ | google:Chosunbiz#e530b69c | aen3
+2026-10-26 11:28 | newdaily.co.kr | 삼성바이오로직스의 성장 뒤에 쌓이는 갈등 비용 [데스크칼럼] | https://www.newdaily.co.kr/site/data/html/2026/10/26/2026102600129.html | a7,ax2
+2026-10-26 11:26 | dailian.co.kr | 삼성바이오 노조 '생산' 못 막으면 '물류' 막는다…파업 여부 '28일' 결정 | https://www.dailian.co.kr/news/view/1706065/?sc=Naver | a7,ax2
+2026-10-26 11:24 | ebn.co.kr | 삼성물산, 창원 용호1구역 재건축 수주…7381억 규모 '래미안 클리에르... | https://www.ebn.co.kr/news/articleView.html?idxno=1729129 | a1
+2026-10-26 11:20 | goodkyung.com | 삼성물산, 도시정비 첫 '10조원' 수주…목표 13조원 '순항' | https://www.goodkyung.com/news/articleView.html?idxno=292737 | a1
+2026-10-26 11:14 | businesspost.co.kr | 삼성물산 창원에 경남 '첫' 래미안 짓는다, 연간 도시정비 수주액 10조 ... | https://www.businesspost.co.kr/BP?command=article_view&num=450254 | a1
+2026-10-26 11:14 | smartbizn.com | 창원 7381억·대전 2107억···지방 재건축 잡은 삼성물산·대보건설 | https://www.smartbizn.com/news/articleView.html?idxno=157476 | a1
+2026-10-26 11:14 | arunews.com | 삼성물산, 반포푸르지오아파트 리모델링 시공자로 선정 | https://www.arunews.com/news/articleView.html?idxno=68592 | a1
+2026-10-26 11:10 | joongangenews.com | 삼성바이오로직스 주가, 10월 26일 장중 1,457,000원 0.61% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=558197 | a7,ax2
+2026-10-26 11:06 | pinpointnews.co.kr | 압구정·성수·여의도 품은 '래미안'…삼성물산, 도시정비 수주 '10조 고... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498411 | a1
+2026-10-26 11:04 | 조선일보 | Samsung Biologics Union Defies Court Ruling, Vows to Continue Strike | google:조선일보#939d529b | aen3
+2026-10-26 11:00 | shinailbo.co.kr | 창원 용호 1구역 품은 삼성물산…도정 '10조 클럽' 입성 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5075735 | a1
 2026-10-26 10:58 | chosun.com | 삼성바이오 노조, “법원 단체행동권 확대 해석으로 제한” | https://www.chosun.com/economy/science/2026/10/26/O3V4UE5TRRGEZN5S4K72D2CECQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | ax2
-2026-10-26 10:56 | betanews.net | 삼성물산, 7381억원 규모 창원 용호1구역 재건축 수주 | https://www.betanews.net/article/view/beta202610260059 | a1
-2026-10-26 10:55 | yna.co.kr | 삼성바이오 노조, 법원 파업 제동에 "단체행동권 보장해야" | https://www.yna.co.kr/view/AKR20261026067100017?input=1195m | a7,ax2
-2026-10-26 10:55 | mt.co.kr | 삼성바이오 노조, 국회서 법원 규탄…"파업 제한 판단 부당해" | https://www.mt.co.kr/thebio/2026/10/26/2026102610085336601 | a7,ax2
+2026-10-26 10:55 | 아시아경제 | Samsung Biologics Union: "Court Ruling Effectively Nullifies Right to Strike" | google:아시아경제#a433734c | aen3
 2026-10-26 10:55 | view.asiae.co.kr | 삼성바이오 노조 "법원 결정, 파업권 사실상 무력화" | https://view.asiae.co.kr/article/2026102610552574459 | a7,ax2
+2026-10-26 10:55 | mt.co.kr | 삼성바이오 노조, 국회서 법원 규탄…"파업 제한 판단 부당해" | https://www.mt.co.kr/thebio/2026/10/26/2026102610085336601 | a7,ax2
+2026-10-26 10:55 | yna.co.kr | 삼성바이오 노조, 법원 파업 제동에 "단체행동권 보장해야" | https://www.yna.co.kr/view/AKR20261026067100017?input=1195m | a7,ax2
 2026-10-26 10:54 | widedaily.com | 삼성물산, 7381억 규모 창원 용호1구역 잭팟…'래미안 클리에르' 품는다 | https://www.widedaily.com/news/articleView.html?idxno=302304 | a1
 2026-10-26 10:54 | cstimes.com | 창원에 들어서는 '래미안 클리에르'…삼성물산, 용호1구역 시공사 최종... | https://www.cstimes.com/news/articleView.html?idxno=725248 | a1
 2026-10-26 10:54 | kyeonggi.com | 삼성바이오 노조, 쟁의행위 제한 3개→9개 확대 반발…“파업권 침해” | https://www.kyeonggi.com/article/20261026580078 | a7,ax2
 2026-10-26 10:52 | biz.newdaily.co.kr | 법원 제동에 손발 묶인 삼성바이오 노조 … "단체행동권 제한" 반발 | https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600090.html | a7,ax2
-2026-10-26 10:50 | womentimes.co.kr | 삼성물산, 창원 용호1구역 재건축 수주...'래미안 클리에르' 조성 | https://www.womentimes.co.kr/news/articleView.html?idxno=107293 | a1
 2026-10-26 10:50 | newsis.com | 법원 제동에도…파업자금 걷는 삼성바이오 노조 | https://www.newsis.com/view/NISX20261026_0003840835 | a7,ax2
-2026-10-26 10:48 | delighti.co.kr | 삼성물산, 창원 용호1구역 재건축 수주…공사비 7381억원 | https://www.delighti.co.kr/news/articleView.html?idxno=123825 | a1
 2026-10-26 10:43 | biz.heraldcorp.com | 삼성물산, 창원 용호1구역 ‘래미안 클리에르’로 재건축 [부동산360] | https://biz.heraldcorp.com/article/10914566?ref=naver | a1
 2026-10-26 10:37 | catchnews.kr | "호수뷰 584→955가구로" 삼성물산, 7381억대 창원 용호1구역 재건축 수... | https://www.catchnews.kr/news/articleView.html?idxno=129750 | a1
 2026-10-26 10:35 | mk.co.kr | 삼성물산, 경남 창원 용호1구역 ‘래미안’ 단다 | https://www.mk.co.kr/article/12185497 | a1
 2026-10-26 10:34 | 매일경제 | Samsung C&T has won an order for the reconstruction project of Yongho District 1 in Changwon, So.. | google:매일경제#85158c65 | aen1
 2026-10-26 10:34 | smedaily.co.kr | 삼성물산 주택사업 탄력 '재건축 10조' | http://www.smedaily.co.kr/news/articleView.html?idxno=365162 | a1
 2026-10-26 10:30 | sidae.com | 삼성물산, 공사비 7381억 창원용호1구역 재건축 수주 | https://www.sidae.com/article/2026102609431699200 | a1
-2026-10-26 10:28 | ziksir.com | 삼성물산, 창원 용호1구역 재건축 시공사 선정…7381억원 규모 | https://www.ziksir.com/news/articleView.html?idxno=150686 | a1
 2026-10-26 10:24 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍ현대건설ㆍ롯데건설 (10.26) | http://www.weeklytoday.com/news/articleView.html?idxno=799414 | a1
-2026-10-26 10:22 | sisaon.co.kr | 삼성물산, 올해 도시정비사업 수주액 10조원 돌파 | https://www.sisaon.co.kr/news/articleView.html?idxno=205460 | a1
 2026-10-26 10:22 | newscj.com | 삼성물산, 7381억원 규모 창원 용호1구역 재건축 시공사 선정 | https://www.newscj.com/news/articleView.html?idxno=3443037 | a1
 2026-10-26 10:20 | wsobi.com | 삼성물산·대보건설, 창원 용호1구역·대전 가오동 1구역 재건축 수주 | http://www.wsobi.com/news/articleView.html?idxno=320319 | a1
+2026-10-26 10:18 | 조선일보 | Samsung Biologics Union Raises 1.2 Billion Won Dispute Fund | google:조선일보#3cafffbc | aen3
 2026-10-26 10:14 | newsprime.co.kr | [카드] 창원 용호1구역, 삼성물산 래미안 클리에르로 재탄생 | http://www.newsprime.co.kr/news/article.html?no=752277 | a1
-2026-10-26 10:11 | Chosunbiz | Yoon & Yang reelects Lee Myung-su as managing partner, targets growth in Korea - CHOSUNBIZ | google:Chosunbiz#7a0f5209 | aen2
+2026-10-26 10:11 | Chosunbiz | Yoon & Yang reelects Lee Myung-su as managing partner, targets growth in Korea - CHOSUNBIZ | google:Chosunbiz#37156d53 | aen2
 2026-10-26 10:08 | fetv.co.kr | 삼성물산, 준공 26년차 반포푸르지오 신축 래미안으로 바꾼다 | https://www.fetv.co.kr/news/articleView.html?idxno=312407 | a1
 2026-10-26 10:04 | cnbnews.com | 삼성물산, 창원 용호1구역 재건축 수주···"누적 10조 돌파" | https://www.cnbnews.com/news/articleView.html?idxno=1020870 | a1
-2026-10-26 10:02 | koreaittimes.com | 삼성물산, 창원 용호1구역 재건축 수주…7,381억원 규모 '래미안 클리에... | https://www.koreaittimes.com/news/articleView.html?idxno=158524 | a1
 2026-10-26 09:55 | 아시아경제 | Foreign Investors 'Sell'; KOSPI Falls Over 1%, Gives Up 5,500 Mark | google:아시아경제#1fbb192b | aen3
 2026-10-26 09:54 | 4th.kr | 삼성물산, 창원 용호1구역 7381억 수주..도시정비 10조 돌파 | http://www.4th.kr/news/articleView.html?idxno=2120378 | a1
 2026-10-26 09:54 | popcornnews.net | 삼성물산, '7381억 원' 창원 용호1구역 재건축 수주...단지명 '래미안 클... | http://www.popcornnews.net/news/articleView.html?idxno=137265 | a1
 2026-10-26 09:49 | 머니투데이 | KOSPI Mixed in Early Trading Amid U.S. Rate Decision and Q3 Earnings 'Super Week' | google:머니투데이#1076b2e6 | aen3
 2026-10-26 09:48 | asiatime.co.kr | 삼성물산, 창원 용호1구역 수주…첫 10조 클럽 가입 | https://www.asiatime.co.kr/article/20261026500067 | a1
-2026-10-26 09:46 | newsis.com | 삼성바이오로직스 쟁의행위 가처분에 대한 법원 항고심 결과 관련 기자... | https://www.newsis.com/view/NISI20261026_0021504080 | a7,ax2
+2026-10-26 09:46 | newsis.com | 삼성바이오로직스 쟁의행위 가처분에 대한 법원 항고심 결과 관련 기자... | https://www.newsis.com/view/NISI20261026_0021504074 | a7,ax2
 2026-10-26 09:44 | iminju.net | 삼성물산 건설부문, 창원 용호1구역 재건축 수주…7381억 원 규모 | http://www.iminju.net/news/articleView.html?idxno=171373 | a1,a3
 2026-10-26 09:43 | newspim.com | 삼성물산, 창원 용호1구역 재건축 수주...1315가구 공급 | https://www.newspim.com/news/view/20261026000229 | a1
 2026-10-26 09:36 | ttlnews.com | 삼성물산, 창원 용호1구역 재건축 수주… 최고 46층 래미안 클리에르 탄... | http://www.ttlnews.com/news/articleView.html?idxno=3155117 | a1
@@ -49,21 +144,22 @@
 2026-10-26 09:22 | pinpointnews.co.kr | 삼성물산, 창원 용호1구역에 46층 래미안 조성 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498349 | a1
 2026-10-26 09:19 | Chosunbiz | U.S.-Iran tensions sink South Korea stocks as oil jumps - CHOSUNBIZ | google:Chosunbiz#af050ec3 | aen3
 2026-10-26 09:10 | newsroad.co.kr | 삼성물산, 7381억 '래미안 클리에르'로 창원 용호1구역 품었다 | http://www.newsroad.co.kr/news/articleView.html?idxno=66430 | a1
-2026-10-26 09:08 | news.einfomax.co.kr | 삼성물산, 경남 창원 용호1구역 재건축 시공사 선정 | https://news.einfomax.co.kr/news/articleView.html?idxno=4441034 | a1
+2026-10-26 09:02 | 헤럴드경제 | Korean biosimilars dominate globally but lag at home, ranking last among 12 nations | google:헤럴드경제#8f59a2d9 | aen4
 2026-10-26 09:00 | kizmom.com | 삼성물산, 반포푸르지오 리모델링 수주…1250억원 규모 | https://www.kizmom.com/news/articleView.html?idxno=113529 | a1
 2026-10-26 08:56 | hansbiz.co.kr | [단독] "내 사진으로 착용"…삼성물산 패션 SSF샵, 'AI피팅' 도입 | http://www.hansbiz.co.kr/news/articleView.html?idxno=876071 | a1
-2026-10-26 08:53 | 조선일보 | Samsung Biologics Union Approves 1.2 Billion Won Strike Fund | google:조선일보#3cafffbc | aen3
 2026-10-26 08:53 | hankyung.com | 창원 용지호수 앞에 46층 아파트…삼성물산, 7381억 재건축 수주 | https://www.hankyung.com/article/2026102642156 | a1
 2026-10-26 08:52 | mt.co.kr | 삼성물산, 7381억 창원 용호1구역 수주…최고 46층 '래미안 클리에르' | https://www.mt.co.kr/estate/2026/10/26/2026102608414339341 | a1
-2026-10-26 08:50 | 아시아경제 | Samsung C&T Wins Contract for 738.1 Billion Won Changwon Yongho District 1 Reconstruction Project | google:아시아경제#9256a6ef | aen1
+2026-10-26 08:50 | 아시아경제 | Samsung C&T Wins Contract for 738.1 Billion Won Changwon Yongho District 1 Reconstruction Project | google:아시아경제#e5a7855b | aen1
 2026-10-26 08:50 | inthenews.co.kr | 삼성물산, 반포푸르지오 리모델링 시공사 선정…1250억원 규모 | https://www.inthenews.co.kr/news/article.html?no=93474 | a1
 2026-10-26 08:50 | peoplewatch.co.kr | 삼성물산, 반포푸르지오 리모델링 수주…'넥스트 리모델링' 첫 적용 | https://www.peoplewatch.co.kr/article/view/ppw202610260003 | a1
+2026-10-26 08:47 | 조선일보 | Samsung Biologics Union Approves 1.2 Billion Won Strike Fund | google:조선일보#e1a26032 | aen3
 2026-10-26 08:46 | mediapen.com | 삼성물산, 반포 리모델링·창원 재건축 시공권 잇따라 확보…공사비 합... | https://www.mediapen.com/news/view/1132341 | a1
-2026-10-26 08:45 | Chosunbiz | Samsung C&T wins 738.1b-won Changwon Yongho 1 redevelopment in South Korea - CHOSUNBIZ | google:Chosunbiz#d91de197 | aen1
+2026-10-26 08:45 | Chosunbiz | Samsung C&T wins 738.1b-won Changwon Yongho 1 redevelopment in South Korea - CHOSUNBIZ | google:Chosunbiz#734f6e40 | aen1
 2026-10-26 08:44 | chosun.com | 삼성바이오 노조, 최대 12억원 쟁의기금 걷는다 | https://www.chosun.com/economy/science/2026/10/26/NXV4QCKIHNF6BNKTBJRIJNMXNI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a7?,ax2
 2026-10-26 08:40 | catchnews.kr | '태양광 발전 외장·440평 커뮤니티' 삼성물산, 1250억대 반포푸르지오... | https://www.catchnews.kr/news/articleView.html?idxno=129737 | a1
 2026-10-26 08:35 | biz.heraldcorp.com | 삼성물산, 반포푸르지오아파트 리모델링 시공사 선정…공사 2년 안에 끝... | https://biz.heraldcorp.com/article/10914202?ref=naver | a1
-2026-10-26 08:26 | 아시아경제 | Everland YouTube Channel Surpasses 2 Million Subscribers, First in Travel and Leisure Industry | google:아시아경제#8bbdfa3b | aen1
+2026-10-26 08:34 | 헤럴드경제 | Samsung C&T selected as contractor for Banpo Prugio apartment remodeling | google:헤럴드경제#55dde9a1 | aen1
+2026-10-26 08:26 | 아시아경제 | Everland YouTube Channel Surpasses 2 Million Subscribers, First in Travel and Leisure Industry | google:아시아경제#9af40719 | aen1
 2026-10-26 08:12 | wsobi.com | 삼성물산-롯데건설, 반포푸르지오아파트 리모델링 시공자 선정...'그린팜... | http://www.wsobi.com/news/articleView.html?idxno=320304 | a1
 2026-10-26 07:46 | public25.com | 삼성물산, 반포푸르지오아파트 리모델링 수주…래미안 단지로 재탄생 | https://www.public25.com/news/articleView.html?idxno=57148 | a1
 2026-10-26 07:20 | medicopharma.co.kr | 삼성바이오에피스 "美 시밀러 공급난 심각…4개 중 1개 차질" | https://www.medicopharma.co.kr/news/articleView.html?idxno=70008 | a10,ax2,ax5
@@ -88,21 +184,24 @@
 2026-10-25 18:23 | fnnews.com | 삼성바이오, 파업에도 호실적… 6공장 신설 기대 솔솔 | https://www.fnnews.com/news/202610251822567372 | a7,ax2
 2026-10-25 18:04 | Chosunbiz | Samsung expands board oversight of CEO succession across major affiliates - CHOSUNBIZ | google:Chosunbiz#356fa4f2 | aen1
 2026-10-25 17:34 | 매일경제 | Samsung Group administers GSAT in the second half, expands hiring in AI, semiconductors and biotech | google:매일경제#cf743418 | aen3
+2026-10-25 17:25 | 아시아경제 | Samsung's Electronics Affiliates Also to Regularly Report 'CEO Succession Candidates' to Boards | google:아시아경제#e3b2701b | aen1
 2026-10-25 17:19 | MedanBisnisDaily.com | Warisan Kolonial di Balik Konflik Agraria | google:MedanBisnisDaily.com#d1aff381 | aid9
 2026-10-25 17:15 | wowtv.co.kr | 삼성물산, 반포푸르지오 리모델링 시공사 선정 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610250058&t=NN | a1
 2026-10-25 17:07 | mk.co.kr | 반포푸르지오 리모델링 … 삼성물산, 1250억에 수주 | https://www.mk.co.kr/article/12185154 | a1
 2026-10-25 16:42 | arunews.com | 삼성물산, 창원 용호1구역 품고 정비사업 첫 '10조 클럽' | https://www.arunews.com/news/articleView.html?idxno=68572 | a1
 2026-10-25 15:44 | webeconomy.co.kr | 삼성물산, 1250억원 규모 반포푸르지오 리모델링 수주 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2346956 | a1
 2026-10-25 15:10 | segyebiz.com | 삼성물산, 반포푸르지오 리모델링 수주... ‘래미안 아스펠 반포’로 탈... | http://www.segyebiz.com/newsView/20261025507877?OutUrl=naver | a1
+2026-10-25 14:52 | ajunews.com | 현대건설·삼성물산 '10조 클럽' 굳히기…중위권은 연말까지 초접전 | https://www.ajunews.com/view/20261025110239738 | a1
 2026-10-25 14:27 | dailian.co.kr | 삼성물산, 반포푸르지오 리모델링 수주…‘래미안 아스펠’ 재탄생 | https://www.dailian.co.kr/news/view/1705815/?sc=Naver | a1
 2026-10-25 14:25 | BigGo Finance | South Korea's Samsung Holds GSAT for 19 Affiliates in Second-Half Hiring Push, Focused on Chips and AI | google:BigGo Finance#fef0f813 | aen1,aen3
 2026-10-25 14:14 | pinpointnews.co.kr | 삼성바이오로직스 5공장 램프업 속도전…실적 기대치 웃돌았다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498217 | a7,ax2
+2026-10-25 13:47 | InDepthNews | Warga Mersam Klaim Tanah Perkebunan PT IAA/ICA Masuk Ke Kelompok Tani Mersam Jaya | google:InDepthNews#5da6bc3a | aid9
 2026-10-25 13:44 | 파이낸셜뉴스 | Samsung C&T wins Banpo Prugio remodeling contract ... to be reborn as 'Raemian Aspel Banpo' | google:파이낸셜뉴스#a073a2fe | aen1
 2026-10-25 13:18 | joongboo.com | 삼성바이오·셀트리온 주가 상승세...열흘새 각각 20%·8% 넘게 올라 | https://www.joongboo.com/news/articleView.html?idxno=363740298 | ax2
 2026-10-25 13:04 | 파이낸셜뉴스 | Samsung Group to Expand Board Reporting on CEO Succession Candidates, Boost Management Transparency | google:파이낸셜뉴스#b804a1e9 | aen1
-2026-10-25 13:00 | Chosunbiz | Samsung expands second-half hiring across 19 affiliates, interviews set for November - CHOSUNBIZ | google:Chosunbiz#5771abc8 | aen1,aen3
+2026-10-25 13:00 | Chosunbiz | Samsung expands second-half hiring across 19 affiliates, interviews set for November - CHOSUNBIZ | google:Chosunbiz#436e29b3 | aen1,aen3
+2026-10-25 13:00 | 머니투데이 | Samsung Continues 70-Year Tradition of Open Recruitment… Conducts Second-Half Samsung General Aptitude Test for Job Positions | google:머니투데이#580e444f | aen1,aen2,aen3,aen4
 2026-10-25 13:00 | 아시아경제 | Samsung Holds Second-Half GSAT for 19 Affiliates... Delivers on Pledge to Hire 60,000 in 5 Years | google:아시아경제#4e952b74 | aen1,aen3,aen4
-2026-10-25 13:00 | 머니투데이 | Samsung Continues 70-Year Tradition of Open Recruitment… Conducts Second-Half Samsung General Aptitude Test for Job Positions | google:머니투데이#580e444f | aen1,aen2,aen3
 2026-10-25 12:25 | news.tf.co.kr | 삼성물산 반포서 1250억 리모델링 수주…'래미안 아스펠' 제안 | https://news.tf.co.kr/read/economy/2380391.htm | a1
 2026-10-25 11:46 | g-enews.com | 삼성물산, 반포서 '넥스트 리모델링' 첫 수주…1250억 규모 | https://www.g-enews.com/view.php?ud=2026102511383862292aa6f4cdad_1 | a1
 2026-10-25 11:24 | smarttoday.co.kr | 삼성물산, 1250억 규모 반포푸르지오 리모델링 시공사 선정 | https://www.smarttoday.co.kr/ko-kr/articles/113096 | a1
@@ -112,8 +211,6 @@
 2026-10-25 10:40 | 4th.kr | 삼성물산, 강남 재건축 이어 리모델링…반포푸르지오 수주(종합) | http://www.4th.kr/news/articleView.html?idxno=2120361 | a1
 2026-10-25 10:34 | realty.chosun.com | 삼성물산 첫 '넥스트 리모델링'...1250억 규모 반포푸르지오 수주 | https://realty.chosun.com/site/data/html_dir/2026/10/25/2026102500520.html | a1
 2026-10-25 10:30 | cbci.co.kr | 삼성바이오로직스 강세, 알테오젠 등 약세…양대지수, 뉴욕증시 하락국... | https://www.cbci.co.kr/news/articleView.html?idxno=619030 | a7,ax2
-2026-10-25 10:21 | kompas1net | Empat Hektare Dibuka Pakai Excavator, Kades Pesajian Inhu Penjual Lahan Jadi Tersangka | google:kompas1net#8f1bf415 | aid8
-2026-10-25 09:44 | etoday.co.kr | 삼성물산, 반포푸르지오 리모델링 시공사 선정…'넥스트 리모델링' 첫 ... | https://www.etoday.co.kr/news/view/2639710 | a1
 2026-10-25 09:06 | metroseoul.co.kr | 삼성물산·포스코이앤씨 리모델링 수주…고급화 vs 가구수 확대 | http://www.metroseoul.co.kr/article/20261025500020 | a1
 2026-10-25 08:02 | g-enews.com | 삼성바이오로직스, 3분기 매출 1조4903억 원…신규 공장 매출 본격화 | https://www.g-enews.com/view.php?ud=202610221654517736b065b72042_1 | a7,ax2
 2026-10-25 08:02 | edaily.co.kr | 삼성바이오, 분기 매출 1.5조 ‘최대’…한올바이오, 中서 신약 허가 [바... | https://www.edaily.co.kr/News/Read?newsId=01134886645616528&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | ax2
@@ -125,132 +222,35 @@
 2026-10-25 00:20 | kjdaily.com | 삼성물산·포스코이앤씨, 서울 아파트 리모델링 사업 수주 | http://www.kjdaily.com/article.php?aid=1792855102690100276 | a1
 2026-10-24 23:06 | livebiz.today | 삼성물산, 반포푸르지오 리모델링 사업 수주...포스코이앤씨는 이수신동... | https://www.livebiz.today/news/articleView.html?idxno=205891 | a1
 2026-10-24 22:18 | sateconomy.co.kr | 삼성바이오로직스, 파업 연기에도 신규 생산 변수…해외서 공급 안정성... | http://sateconomy.co.kr/news/view/1065618679035695 | a7,a8,ax2
-2026-10-24 21:12 | PojokBanua.com | WALHI: Satgas PKH Bukan Pulihkan Hutan, Konsolidasi Modal dan Ganti Pemain? | google:PojokBanua.com#e49bfbd6 | aid9
 2026-10-24 21:02 | betanews.net | 삼성물산, 1250억 반포푸르지오 리모델링 수주…새 사업 방식 첫 적용 | https://www.betanews.net/article/view/beta202610240087 | a1
 2026-10-24 20:38 | businessplus.kr | [마켓+]삼성물산·포스코이앤씨, 서울 아파트 리모델링 잇따라 수주 | https://www.businessplus.kr/news/articleView.html?idxno=118677 | a1
 2026-10-24 20:26 | news.mtn.co.kr | 분당 양지마을, 재건축 정비사업위 출범…삼성물산 ‘독주’ 행보 | https://news.mtn.co.kr/article/2026102416171648687 | a1
 2026-10-24 19:42 | fnnews.com | 수십명 동원 삼성물산...'4조' 대어 양지마을, 설계사는 누가 [르포] | https://www.fnnews.com/news/202610241403239528 | a1
 2026-10-24 19:41 | 파이낸셜뉴스 | Samsung C&T brings in dozens... Who will design Yangji Village, the '4 trillion won' prize project? [On the Ground] | google:파이낸셜뉴스#8ad140a7 | aen1
 2026-10-24 19:26 | newscj.com | 삼성물산, 1250억원 규모 반포푸르지오 리모델링 시공권 확보 | https://www.newscj.com/news/articleView.html?idxno=3442809 | a1
-2026-10-24 19:08 | Disway | CCTV Tersembunyi Bongkar Pencurian Sawit di Empat Lawang, Pria 46 Tahun Ditangkap Polisi - rakyatempatlawang.disway.id | google:Disway#9f2aa54e | aid12
 2026-10-24 18:50 | 아시아경제 | Samsung C&T, POSCO E&C Selected as Contractors for Banpo, Isu Apartment Remodeling Projects | google:아시아경제#b3c86202 | aen1,aen2
 2026-10-24 18:50 | view.asiae.co.kr | 반포·이수 아파트 리모델링 시공사 선정…삼성물산·포스코이앤씨 낙점 | https://view.asiae.co.kr/article/2026102418503481331 | a1
 2026-10-24 17:48 | biz.sbs.co.kr | 삼성물산·포스코이앤씨, 강남·동작 리모델링 시공사 선정 | https://biz.sbs.co.kr/article_hub/20000341939?division=NAVER | a1
 2026-10-24 17:36 | Chosunbiz | Samsung C&T, POSCO E&C win major Seoul remodeling contracts in South Korea - CHOSUNBIZ | google:Chosunbiz#2d1f438d | aen1
+2026-10-24 16:46 | Suara.com | WALHI: Satgas PKH Bukan Pulihkan Hutan, tapi Konsolidasi Modal dan Ganti Pemain | google:Suara.com#6a5be62a | aid9
 2026-10-24 15:00 | ekn.kr | 삼성바이오로직스, 6공장 착공 놓고 증권가 ‘설왕설래’…수주가 관건 | https://www.ekn.kr/web/view.php?key=20261023024140401 | a7,ax2
 2026-10-24 14:00 | Indian Pharma Post | Samsung Biologics wins court injunction covering all nine manufacturing stages | google:Indian Pharma Post#a391de87 | aen3
 2026-10-24 13:08 | news.mtn.co.kr | 삼성물산, 반포푸르지오 품었다…‘넥스트 리모델링’ 첫 결실 | https://news.mtn.co.kr/article/2026102413033652824 | a1
 2026-10-24 13:00 | todaykorea.co.kr | 삼성바이오로직스, 파업·환율 하락 악재 뚫고 3분기 최대 실적 | https://www.todaykorea.co.kr/news/articleView.html?idxno=407609 | a7,ax2
 2026-10-24 12:06 | econonews.co.kr | 삼성물산 패션, 멤버십 위크 프로모션 진행..."신규 고객 할인- 경량패딩... | http://www.econonews.co.kr/news/articleView.html?idxno=446172 | a1
+2026-10-24 12:00 | NST Online | High Court upholds RM77mil award against Merdeka 118 subcontractor | google:NST Online#0d21c493 | aen1
 2026-10-24 11:52 | viva100.com | 인천시, 릴리·삼성바이오 손잡고 신약개발 판 바꾼다…스타트업 30곳 키... | https://www.viva100.com/article/20261024500110 | ax2
 2026-10-24 11:48 | joongangenews.com | 최근 5거래일 삼성바이오로직스 주가 130만원140만원대 등락 | https://www.joongangenews.com/news/articleView.html?idxno=557897 | a7,ax2
 2026-10-24 10:26 | mediapen.com | 건설사도 '밸류업'…불황에도 자사주 태우고 주주가치 제고 나선다 | https://www.mediapen.com/news/view/1132100 | a1
 2026-10-24 10:14 | medipana.com | 삼성바이오로직스, 성장 질주 속 파업 변수…외신 주목 | https://www.medipana.com/news/articleView.html?idxno=420002 | a7,ax2
 2026-10-24 09:45 | Semaraknews | Usulan Luhut Ubah UU Tipikor Bakal Melindungi Koruptor SDA - semaraknews.co.id | google:Semaraknews#13dde228 | aid8
-2026-10-24 09:30 | Nusantaraterkini.co | Gegara Warisan, Adik di Pelalawan Bacok Abang Kandung hingga Tewas | google:Nusantaraterkini.co#e939e372 | aid5
 2026-10-24 07:20 | pinpointnews.co.kr | [주간 거래소 기관] 한화오션·삼성바이오로직스 담고…전자 대형주 비... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498080 | a7,ax2
 2026-10-24 07:01 | hankyung.com | 집은 홈닉, 회사엔 바인드…삼성물산 '공간 플랫폼' 승부수 | https://www.hankyung.com/article/202610215969i | a1
 2026-10-24 03:05 | TradingView | SAMSUNG C&T CORP Pfd 1 Non-Voting Estimates – KRX:02826K | google:TradingView#52225599 | aen1
 2026-10-24 00:47 | 조선일보 | Samsung Holds Sixth Memorial for Lee Kun-hee | google:조선일보#59b2d93a | aen1
 2026-10-24 00:44 | wemakenews.co.kr | 10대 건설사 하자심사 5279건…현대건설·대우건설 1000건 넘어 | https://wemakenews.co.kr/news/view.php?no=26646 | a1?
-2026-10-24 00:32 | Media Indonesia | Usulan Luhut Soal Definisi Korupsi Dinilai Langgengkan Impunitas | google:Media Indonesia#5b9539fd | aid8
 2026-10-24 00:30 | Inforiau | Skandal Rp176 Triliun Dana Sawit: DPR Desak Kejagung Ungkap Aliran ke Korporasi Raksasa | google:Inforiau#40f17db7 | aid9
 2026-10-24 00:16 | cbci.co.kr | 코스피 강보합…SK하이닉스·삼성바이오로직스 강세, 삼성전자 소폭 약... | https://www.cbci.co.kr/news/articleView.html?idxno=618761 | a7,ax2
 2026-10-23 22:03 | KED Global | Kospi reverses 4% drop to close higher as SK Hynix rebounds | google:KED Global#714472e1 | aen3
 2026-10-23 21:42 | Fierce Pharma | COINS Act, Hengrui, Samsung Biologics—Fierce Pharma Asia | google:Fierce Pharma#9f19fe03 | aen3
 2026-10-23 21:30 | econonews.co.kr | 코스피, 강보합에 5500선 유지...삼성바이오로직스, SK하이닉스 등 상승 | http://www.econonews.co.kr/news/articleView.html?idxno=446155 | a7,ax2
-2026-10-23 21:00 | SuluhOnline | Sekda Inhu Buka Penataran Pelatih, Wasit dan Juri IPSI | google:SuluhOnline#f3b73902 | aid2
-2026-10-23 20:24 | vegannews.co.kr | 삼성물산 UAE 송전공사 계약일 25일…종료일 협의 기재 | https://www.vegannews.co.kr/news/article.html?no=396074 | a1
-2026-10-23 20:20 | obsnews.co.kr | [비즈투데이] 삼성물산, 삼성노블라이프와 고령자 거주 확대 | https://www.obsnews.co.kr/news/articleView.html?idxno=1541528 | a1
-2026-10-23 20:11 | ad-hoc-news.de | KOSPI closes higher as SK hynix rebounds 0.3 percent | google:ad-hoc-news.de#045bb67a | aen3
-2026-10-23 19:45 | Korea JoongAng Daily | Samsung's Lee Jae-yong pays tribute to late father on sixth death anniversary | google:Korea JoongAng Daily#c0a5a5b7 | aen13
-2026-10-23 19:40 | beyondpost.co.kr | 박찬대 인천시장 “송도, 글로벌 혁신 신약 허브로”…릴리·삼성바이오... | http://www.beyondpost.co.kr/view.php?ud=2026102319354547094c878f8fa1_30 | ax2
-2026-10-23 18:47 | AFU.id | Cekcok Soal Tanah Warisan, Pria Tewas Dibacok Adik Kandung | google:AFU.id#0410847f | aid5
-2026-10-23 18:40 | ilyo.co.kr | 삼성바이오로직스, 폴리펩타이드그룹 인수 대금 결제 연기한 까닭 | https://ilyo.co.kr/?ac=article_view&entry_id=513287 | a7,ax2
-2026-10-23 18:25 | BigGo Finance | South Korea's Hanmi Pharmaceutical Launches Obesity Drug EPPE on Oct. 29 at approximately $98 per 4-Week Supply | google:BigGo Finance#7ff4ebd1 | aen3
-2026-10-23 17:52 | kmaeil.com | 정일영 의원, 10대 건설사 하자심사 5,279건·현장 사망자 153명 지적하며... | https://www.kmaeil.com/news/articleView.html?idxno=655612 | a1
-2026-10-23 17:44 | businesspost.co.kr | [오늘의 주목주] '파업 연기' 삼성바이오로직스 7%대 상승, 코스피 기관... | https://www.businesspost.co.kr/BP?command=article_view&num=450199 | a7,ax2
-2026-10-23 17:34 | news.mtn.co.kr | ‘2.6조’ 목동9단지, 시공사 선정 돌입…삼성물산 두 번째 수주 도전 | https://news.mtn.co.kr/article/2026102317303125787 | a1
-2026-10-23 17:31 | mbn.mk.co.kr | '솔리다임' 상장 중단 효과…삼전닉스 반등·소부장 낙폭 축소 | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226768 | a1?
-2026-10-23 17:16 | dailypop.kr | 집수리에서 노후 돌봄까지…현대건설·삼성물산이 확장하는 주거 사업 | http://www.dailypop.kr/news/articleView.html?idxno=103695 | a1
-2026-10-23 17:10 | joseilbo.com | 한미약품 국산 비만약 '에페' 이달 출격…삼성바이오 3분기 수익성 둔화... | http://www.joseilbo.com/news/news_read.php?uid=578051&class=17&grp= | ax2
-2026-10-23 17:04 | livebiz.today | 삼성물산 패션, 다음달 1일까지 '멤버십 위크'…"신규 고객 대상 최대 2... | https://www.livebiz.today/news/articleView.html?idxno=205877 | a1
-2026-10-23 17:03 | biz.heraldcorp.com | ‘공사비 2.6조’ 목동 9단지 시공사 선정…삼성물산·GS건설 ‘촉각’... | https://biz.heraldcorp.com/article/10913198?ref=naver | a1
-2026-10-23 16:54 | cnbizm.com | 삼성물산 패션, '멤버십 위크' 열어… 신규 고객 혜택 확대 | https://www.cnbizm.com/news/articleView.html?idxno=319022 | a1
-2026-10-23 16:38 | topstarnews.net | 삼성바이오로직스 주가, 10월 23일 애프터마켓 1,450,000원 6.54% 상승 | https://www.topstarnews.net/news/articleView.html?idxno=16256095 | a7,ax2
-2026-10-23 16:18 | lawissue.co.kr | 인천시, 송도 바이오산업 연구개발 생태계 확장… 릴리·삼성바이오와 ... | https://www.lawissue.co.kr/view.php?ud=202610231309569764d94aa4ada6_12 | ax2
-2026-10-23 16:02 | news2day.co.kr | [재계 인사이드] 이재용 회장, 삼성물산 직접 경영 여부에 재계 관심 고... | https://www.news2day.co.kr/article/20261023500142 | a1
-2026-10-23 16:02 | gukjenews.com | SK하이닉스·삼성바이오로직스 강세 속 코스피 0.30% 상승 마감 | https://www.gukjenews.com/news/articleView.html?idxno=3730868 | a7,ax2
-2026-10-23 16:01 | yna.co.kr | 솔리다임 상장 중단에…삼전·닉스 반등하고 소부장 낙폭 축소(종합2보... | https://www.yna.co.kr/view/AKR20261023043252008?input=1195m | a1
-2026-10-23 15:56 | opinionnews.co.kr | 코스피, 기관 순매수에 5550 강보합 마감...하이닉스·삼성바이오 강세 | http://www.opinionnews.co.kr/news/articleView.html?idxno=146133 | ax2
-2026-10-23 15:52 | pinpointnews.co.kr | [거래소 외국인] 삼성E&A·한화오션 사고 SK하이닉스·삼성전자 팔았다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498039 | a1
-2026-10-23 15:52 | mbn.mk.co.kr | 귀국하자마자 부친 선영으로…이건희 추도식 찾은 이재용 '포착' | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226730 | a1?
-2026-10-23 15:52 | joongangenews.com | 삼성바이오로직스 주가, 10월 23일 1,466,000원대 강한 오름세 | https://www.joongangenews.com/news/articleView.html?idxno=557817 | a7,ax2
-2026-10-23 15:45 | Chosunbiz | KOSPI rebounds to 5,550 as institutions buy despite chip shock in South Korea - CHOSUNBIZ | google:Chosunbiz#2bce5cf3 | aen3
-2026-10-23 15:40 | asiatime.co.kr | 10대 건설사 '안전 불감증' 여전…4년 반 새 현장 사망자 153명 | https://www.asiatime.co.kr/article/20261023500282 | a1,a3
-2026-10-23 15:37 | moneystorm.kr | [특징주] 삼성바이오로직스, 파업 우려 완화·호실적에 7.71% 상승 | https://www.moneystorm.kr/news/articleView.html?idxno=7600 | a7,ax2
-2026-10-23 15:32 | ekn.kr | 이재용, UAE서 귀국하자마자 선영行…故 이건희 6주기 추도 | https://www.ekn.kr/web/view.php?key=20261023029480442 | a1
-2026-10-23 15:30 | hankookilbo.com | UAE 출장 귀국하자마자 이건희 선영 찾은 이재용... 6주기 추도식 | https://www.hankookilbo.com/news/article/A2026102314130003697?did=NA | a1
-2026-10-23 15:26 | jbnews.com | 상위 10개 건설사 시공 품질 심각…최근 5년간 하자심사 5천200여건 | https://www.jbnews.com/news/articleView.html?idxno=1514235 | a1
-2026-10-23 15:18 | megaeconomy.co.kr | 삼성물산 패션, 신규 고객 유치 나선다…멤버십 할인·아우터 기획전 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593637728150 | a1
-2026-10-23 15:06 | yakup.com | 삼성바이오로직스 “우리도 처음엔 벤처였다…이젠 한국 바이오텍과 세... | https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334193 | a7,ax2
-2026-10-23 15:04 | newstnt.com | 인천 송도, 글로벌 신약개발 거점 구축 추진...릴리·삼성바이오로직스... | https://www.newstnt.com/news/articleView.html?idxno=724638 | a7,ax2
-2026-10-23 15:02 | greened.kr | "최대 20%까지 할인 혜택"...삼성물산 패션, 신규 고객 대상 '멤버십 위... | https://www.greened.kr/news/articleView.html?idxno=352892 | a1
-2026-10-23 15:00 | news.tf.co.kr | 이재용, 귀국하자마자 父 묘소로…추도식 후 삼성 사장단과 오찬 | https://news.tf.co.kr/read/economy/2380022.htm | a1
-2026-10-23 15:00 | Chosunbiz | Lee Jae-yong honors Lee Kun-hee with Samsung chiefs after UAE return - CHOSUNBIZ | google:Chosunbiz#7d5d8f45 | aen1
-2026-10-23 14:54 | breaknews.com | 분당 주민 재건축 선호도, 1위는 삼성물산…2위 DL이앤씨 | http://www.breaknews.com/1245249 | a1
-2026-10-23 14:38 | 아시아경제 | Incheon City Proclaims 'Global Innovative Drug Hub'... Launches Multilateral Cooperation with Lilly and Samsung Biologics | google:아시아경제#ce7105c8 | aen3
-2026-10-23 14:38 | view.asiae.co.kr | 인천시, '글로벌 신약 허브' 선포…릴리·삼성바이오와 다자협력 가동 | https://view.asiae.co.kr/article/2026102314385834422 | ax2
-2026-10-23 14:28 | greened.kr | 인천시, 릴리·삼성바이오와 손잡고 글로벌 혁신신약 허브 도약… 세계... | https://www.greened.kr/news/articleView.html?idxno=352877 | ax2
-2026-10-23 14:26 | inews24.com | 분당 주민 절반 "삼성물산에 재건축 맡기고 싶다"…하이엔드 선호 81% | http://www.inews24.com/view/2018373 | a1
-2026-10-23 14:22 | fnnews.com | 삼성바이오로직스 8%대 급등..파업 우려 덜고 실적 기대감 호재로[종목... | https://www.fnnews.com/news/202610231409279479 | a7,ax2
-2026-10-23 14:22 | ajunews.com | 박찬대 인천시장, 삼성바이오·릴리와 신약개발 협력...송도 글로벌 R&D... | https://www.ajunews.com/view/20261023112437746 | ax2
-2026-10-23 14:21 | 조선일보 | Samsung Family Holds Quiet Memorial for Lee Kun-hee | google:조선일보#dd10f717 | aen1
-2026-10-23 14:21 | 파이낸셜뉴스 | Samsung Biologics surges around 8% on easing strike concerns and earnings optimism [Stock NOW] | google:파이낸셜뉴스#ee0a0411 | aen3
-2026-10-23 14:06 | incheonilbo.com | [현장] 박찬대 "인천, 신약 만드는 도시로"…시·복지부·삼성바이오·릴... | https://www.incheonilbo.com/news/articleView.html?idxno=1334914 | ax2
-2026-10-23 14:00 | 아시아경제 | KOSPI Narrows Losses, Reclaims 5,400 Mark; SK hynix Up 2% | google:아시아경제#31dffb24 | aen3
-2026-10-23 14:00 | 머니투데이 | SMRs emerge as a solution to AI power crunch as SK and Doosan pursue next generation nuclear plants | google:머니투데이#e3a0b442 | aen1
-2026-10-23 13:52 | sedaily.com | 솔리다임 IPO 검토 중단에 투심 살아났나…SK하이닉스 2%대 반등[이런국... | https://www.sedaily.com/article/20105333?ref=naver | a7,ax2
-2026-10-23 13:44 | job-post.co.kr | 삼성바이오로직스 8.08% 상승…3분기 매출 1조4903억원 | https://www.job-post.co.kr/news/articleView.html?idxno=234134 | a7,ax2
-2026-10-23 13:40 | sisaon.co.kr | 삼성바이오·셀트리온, 분기 매출 1.5조 육박…4분기 실적도 '주목' | https://www.sisaon.co.kr/news/articleView.html?idxno=205420 | ax2
-2026-10-23 13:31 | kompas1net | Polres Pelalawan Tangani Dugaan Pembunuhan Adik Bunuh Kakak di Ukui | google:kompas1net#3badf6bb | aid5
-2026-10-23 13:30 | financialpost.co.kr | 삼성물산 패션, '멤버십 위크' 프로모션…가을 아우터 혜택 눈길 | https://www.financialpost.co.kr/news/articleView.html?idxno=282202 | a1
-2026-10-23 13:30 | srtimes.kr | 삼성물산 패션, '멤버십 위크' 프로모션 실시…최대 20% 할인 | http://www.srtimes.kr/news/articleView.html?idxno=215676 | a1
-2026-10-23 13:20 | incheontoday.com | 인천시, 송도 글로벌 신약 허브 선포··· 삼성바이오·릴리와 MOU | https://www.incheontoday.com/news/articleView.html?idxno=325355 | ax2
-2026-10-23 13:11 | The Economic Times | South Korean shares fall 2% as AI selloff weighs on global markets | google:The Economic Times#088c898f | aen3
-2026-10-23 13:04 | AJNN.net | Konflik Lahan Tak Kunjung Usai, DPRK Aceh Selatan Tolak Perpanjangan HGU PT Asdal | google:AJNN.net#3b94a33a | aid9
-2026-10-23 13:02 | naeil.com | ‘가거도 공사 뻥튀기’ 삼성물산 직원 등 8명 유죄 | https://www.naeil.com/news/read/606168?ref=naver | a1
-2026-10-23 12:40 | Inforiau | Tragedi Tanah Warisan: Kakak Tewas Dibacok Adik di Pelalawan, Polisi Dalami Motif | google:Inforiau#15f10a80 | aid5,aid9
-2026-10-23 12:19 | Chosunbiz | KOSPI trims slump near 5,400 as SK hynix steadies on Solidigm IPO halt - CHOSUNBIZ | google:Chosunbiz#cdfcfd03 | aen3
-2026-10-23 12:16 | newsclaim.co.kr | [삼성물산 건설 인사 전망] 오세철 내년 임기 만료… 주택 수주·SMR 사업... | https://www.newsclaim.co.kr/news/articleView.html?idxno=3079787 | a1
-2026-10-23 12:04 | news1.kr | 이건희 선대회장 추도식 참석한 이서현 삼성물산 사장 | https://www.news1.kr/photos/8175366 | a1
-2026-10-23 11:54 | kmaeil.com | 인천시, 삼성바이오로직스·글로벌 제약사 릴리와 손잡고 송도 혁신 신... | https://www.kmaeil.com/news/articleView.html?idxno=655527 | a7,ax2
-2026-10-23 11:45 | news.tvchosun.com | 이재용, 귀국하자마자 부친 묘소로…故이건희 6주기 추도식 | https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390125.html | a1
-2026-10-23 11:42 | businesspost.co.kr | 삼성물산 패션부문 '멤버십위크' 열어, 신규 고객 대상 할인 행사 | https://www.businesspost.co.kr/BP?command=article_view&num=450136 | a1,a5
-2026-10-23 11:30 | incheonilbo.com | 성남시 분당 재건축 주민, 건설사 선호도 삼성물산 49% 1위 | https://www.incheonilbo.com/news/articleView.html?idxno=1334902 | a1
-2026-10-23 11:22 | Finimize | South Korean Stocks Slide As AI Trade Cools | google:Finimize#3d921357 | aen3
-2026-10-23 11:06 | kpinews.kr | 삼성물산 패션, 신규 고객 확보 프로모션…멤버십 할인·아우터 행사 | https://www.kpinews.kr/newsView/1065578279949870 | a1
-2026-10-23 11:05 | Seoul Economic Daily | Incheon's Songdo Pivots From Biomanufacturing to AI Drug Discovery | google:Seoul Economic Daily#62c2c2d7 | aen3
-2026-10-23 11:05 | Medialokal.co | Jejak Hitam PT THIP, Sanksi Karhutla dan Sengkarut Lahan Pelalawan | google:Medialokal.co#62e35407 | aid6
-2026-10-23 10:56 | wolyo.co.kr | 분당 재건축 선호 건설사 1위는 삼성물산...49% '압도적 지지' | https://www.wolyo.co.kr/news/articleView.html?idxno=319487 | a1
-2026-10-23 10:50 | 헤럴드경제 | Incheon declares itself global AI drug development hub | google:헤럴드경제#11b0e61d | aen3
-2026-10-23 10:44 | hellodd.com | [조간브리핑] AI 회의론과 전력망 해킹 경고··· 흔들리는 기술주, 냉... | http://www.hellodd.com/news/articleView.html?idxno=113600 | a10,ax2,ax5
-2026-10-23 10:32 | asiatime.co.kr | 분당 재건축 선호 시공사 1위는 삼성물산…DL이앤씨·현대건설 뒤이어 | https://www.asiatime.co.kr/article/20261023500111 | a1
-2026-10-23 10:32 | lawissue.co.kr | 삼성물산 패션, 신규 멤버십 가입 연계 행사와 브랜드별 아우터 기획전... | https://www.lawissue.co.kr/view.php?ud=202610231029495534204ead0791_12 | a1
-2026-10-23 10:32 | businesspost.co.kr | 삼성바이오로직스 주가 장중 4%대 올라, '파업 우려 완화·수주 기대'에... | https://www.businesspost.co.kr/BP?command=article_view&num=450115 | a7,ax2
-2026-10-23 10:23 | Medialokal.co | 28 Tahun Sengkarut HGU PT THIP dan Nasib Tanah Ulayat Pulau Muda | google:Medialokal.co#87f025e7 | aid6
-2026-10-23 10:19 | view.asiae.co.kr | 포스코이앤씨, 연내 영업정지 처분 임박…신용등급 하향 빨간불 | https://view.asiae.co.kr/article/2026102219171320410 | a1
-2026-10-23 10:16 | megaeconomy.co.kr | 삼성바이오로직스, 실적도 주가도 '청신호'…내년 영업익 2.8조 전망 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575568814063 | a7,ax2
-2026-10-23 10:08 | pointdaily.co.kr | ﻿삼성물산 패션부문, '멤버십 위크' 프로모션 실시 | https://www.pointdaily.co.kr/news/articleView.html?idxno=323348 | a1,a5
-2026-10-23 10:08 | theguru.co.kr | 법원 제동에도 '마이웨이'…삼성바이오로직스 노조, 집행부 전횡에 노노... | https://www.theguru.co.kr/news/article.html?no=108706 | a7,ax2
-2026-10-23 10:07 | newsis.com | 분당 재건축 시공사 인기 1위 삼성물산…2위는 DL이앤씨 | https://www.newsis.com/view/NISX20261023_0003838136 | a1
-2026-10-23 10:06 | whitepaper.co.kr | 삼성물산 패션, 신규 고객에 최대 20% 할인 혜택 '멤버십 위크' | http://www.whitepaper.co.kr/news/articleView.html?idxno=268058 | a1
-2026-10-23 10:00 | hansbiz.co.kr | 컨센트 "분당 재건축 선호 시공사 삼성물산 1위" | http://www.hansbiz.co.kr/news/articleView.html?idxno=875501 | a1
-2026-10-23 09:56 | etnews.com | 삼성물산 패션부문, 신규 고객 대상 할인권 제공 '멤버십 위크' 실시 | https://www.etnews.com/20261023000049 | a1,a5
-2026-10-23 09:50 | mk.co.kr | 반도체주, AI 수익성 우려에 급락…SK하닉, 솔리다임 상장 중단에도 약... | https://www.mk.co.kr/article/12183843 | a1
-2026-10-23 09:49 | yna.co.kr | 삼성물산 패션, 신규 고객 대상 '멤버십 위크'…"최대 20% 할인" | https://www.yna.co.kr/view/AKR20261023053100030?input=1195m | a1
-2026-10-23 09:48 | asiatime.co.kr | 삼성물산 패션, ‘멤버십 위크’ 연다…FW 아우터 수요 공략 | https://www.asiatime.co.kr/article/20261023500078 | a1
-2026-10-23 09:47 | fnnews.com | 삼성물산 패션, 신규고객 프로모션...최대 20% 할인 | https://www.fnnews.com/news/202610230931255974 | a1
-2026-10-23 09:44 | wemakenews.co.kr | 삼성물산 패션, 가을 쇼핑 혜택 쏟아진다…최대 20% 할인에 인기 아우터... | https://wemakenews.co.kr/news/view.php?no=26637 | a1
-2026-10-23 09:41 | thetracker.co.kr | 삼성물산 패션, 신규 고객에 최대 20% 할인…가을·겨울 아우터 행사 | https://thetracker.co.kr/View.aspx?No=4275881 | a1
-2026-10-23 09:40 | enewstoday.co.kr | 가을 아우터 쇼핑객 잡아라···'할인' 카드 꺼낸 삼성물산 패션 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2483684 | a1
