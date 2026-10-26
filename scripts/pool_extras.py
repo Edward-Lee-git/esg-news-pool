@@ -103,7 +103,9 @@ def url_key(u):
 # 구글 뉴스 RSS로 받은 기사는 원문 주소가 없어(google:매체명) 리포트에서
 # "원문 링크 미확인"이 된다. 전문지는 사이트 자체 RSS를 쓰면 원문 주소가
 # 그대로 들어오고 구글의 100건 상한도 없다. 열리지 않는 곳은 기존 구글 훑기를 쓴다.
-DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "dnews.co.kr", "labortoday.co.kr"]
+# 직접 수집(RSS) 대상이자 목록 절단 우선순위 0등급인 전문지. 대한경제(dnews.co.kr)는 RSS가 없고(2026-10 확인) 2026-10-26 사용자 결정으로
+# 전문지에서 빼고 일반 매체와 똑같이 취급한다(훑기·검색어 결과로만 들어오고 우선순위 혜택 없음).
+DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "labortoday.co.kr"]
 DIRECT_FEED_PATHS = ["/rss/allArticle.xml", "/rss/rss.xml", "/rss.xml", "/feed/", "/rss/"]
 DIRECT_UA = {"User-Agent": "Mozilla/5.0 (compatible; news-pool/1.0)"}
 # 날짜 문자열 끝에 시간대 표기(+0900, GMT, Z, KST 등)가 있는지 본다.
