@@ -1,207 +1,256 @@
-# collected: 2026-10-28 07:54 KST
-# window: 2026-10-27 00:00 ~ 2026-10-28 07:54 KST
-# part 1 of 1, lines: 201
+# collected: 2026-10-29 08:04 KST
+# window: 2026-10-28 00:00 ~ 2026-10-29 08:04 KST
+# part 1 of 2, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-10-28 07:46 | news1.kr | Samsung Bioepis Confirms Pharmacokinetic Equivalence in Phase 1 Trial of ... | https://www.news1.kr/bio/pharmaceutical-bio/6334105 | a11
-2026-10-28 07:00 | ceoscoredaily.com | 이재용, 삼성 주식 5조 ‘취득’ - 홍라희, 8조 ‘처분’…“LS, 세살배... | https://www.ceoscoredaily.com/page/view/2026102314244433252 | a1
-2026-10-28 06:12 | hitnews.co.kr | [숏폼] 삼성바이오에피스, 키트루다 시밀러 허가 경쟁 참전 | https://www.hitnews.co.kr/news/articleView.html?idxno=80264 | a10,ax2,ax5
-2026-10-28 06:00 | Chosunbiz | Won slide splits Korea pharma and bio as exporters lose, importers gain | google:Chosunbiz#0ec7c438 | aen3
-2026-10-28 05:27 | TradingView | Free cash flow per share of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#4c76f32f | aen3
-2026-10-28 04:44 | RRI.co.id | HGU Perusahaan Sawit di Aceh Singkil Diminta Evaluasi | google:RRI.co.id#9dda2b10 | aid9
-2026-10-28 00:58 | openPR.com | Inflammatory Diseases Biologics Market to Reach US$157.31 | google:openPR.com#6ef45995 | aen4
-2026-10-27 23:44 | lawissue.co.kr | 삼성바이오에피스, 유럽서 키트루다 바이오시밀러 임상 1상 결과 발표 | https://www.lawissue.co.kr/view.php?ud=202610272343198234f4ab64559d_12 | a10,ax2,ax5
-2026-10-27 21:14 | ebn.co.kr | [EBN 오늘(27일) 이슈 종합] 여전한 '빚투'에 금감원 경고, LIG D&A, '방산... | https://www.ebn.co.kr/news/articleView.html?idxno=1729392 | ax2?
-2026-10-27 21:04 | mhns.co.kr | 창원 용호1구역 재건축, 관통도로 폐지 논란…공공성 검증 도마 | https://www.mhns.co.kr/news/articleView.html?idxno=766235 | a1
-2026-10-27 20:48 | TradingView | Total revenue of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#912a0543 | aen3
-2026-10-27 20:40 | TradingView | SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares | google:TradingView#da8a6574 | aen3
-2026-10-27 20:19 | TradingView | Quick ratio of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#e658f71a | aen3
-2026-10-27 19:50 | incheonilbo.com | 삼성바이오에피스 'SB27' 임상 1상…면역항암제 '키트루다' 동등성 입증 | https://www.incheonilbo.com/news/articleView.html?idxno=1335265 | a10,ax2,ax5
-2026-10-27 19:38 | openPR.com | Psoriasis Biosimilars Market Outlook Signals Expansion To $13.79 Billion Through 2030 | google:openPR.com#a7a6e46d | aen4
-2026-10-27 19:36 | thepublic.kr | 삼성물산, 스타트업 6곳과 기술 실증…공간 디지털 전환 속도 | https://www.thepublic.kr/news/articleView.html?idxno=323997 | a1
-2026-10-27 19:29 | TradingView | Gross profit of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#f366ef3a | aen3
-2026-10-27 19:20 | TradingView | After tax other income/expense of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#260898fe | aen3
-2026-10-27 19:18 | BioPharma APAC | 17 APAC-Made Biosimilars Approved in the US or EU in 2026 | google:BioPharma APAC#02855b28 | aen4
-2026-10-27 19:10 | TradingView | Non-operating income (total) of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#a5b78297 | aen3
-2026-10-27 19:05 | TradingView | Diluted shares outstanding of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#d8603b2b | aen3
-2026-10-27 18:58 | TradingView | Cost of goods sold of SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares – KRX:2079401G | google:TradingView#2f172340 | aen3
-2026-10-27 18:36 | 머니투데이 | Dong-A ST Posts Q3 Revenue of 206.5 Billion Won, Exceeding 200 Billion Won for Second Consecutive Quarter | google:머니투데이#8f3e25a6 | aen4
-2026-10-27 18:25 | 머니투데이 | Hanmi Science Breaks 1 Trillion Won in Cumulative Q3 Revenue…“Growth in Distribution and Healthcare” | google:머니투데이#a2b5d050 | aen4
-2026-10-27 18:16 | paxetv.com | 삼성바이오에피스, 키트루다 바이오시밀러 'SB27' 임상1상서 약동학적 ... | http://www.paxetv.com/news/articleView.html?idxno=285366 | a10,ax2,ax5
-2026-10-27 18:15 | TradingView | SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares Cash Flow – KRX:2079401G | google:TradingView#847987ea | aen3
-2026-10-27 17:50 | fnnews.com | 삼성바이오에피스, 키트루다 복제약 임상서 유사성 확인 | https://www.fnnews.com/news/202610271038469377 | a10,ax2,ax5
-2026-10-27 17:49 | 파이낸셜뉴스 | Samsung Bioepis Confirms Similarity in Clinical Trial of Keytruda Biosimilar | google:파이낸셜뉴스#5b2089c2 | aen4
-2026-10-27 17:38 | econovill.com | [이슈+] 떼쓰는 삼성바이오 노조에 '눈살' | https://www.econovill.com/news/articleView.html?idxno=755068 | ax2
-2026-10-27 17:37 | TradingView | SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares Earnings and Revenue – KRX:2079401G | google:TradingView#cc3dd2b0 | aen3
-2026-10-27 17:36 | todayeconomic.com | 삼성물산, ‘퓨처스케이프 데모데이’ 개최…주거·오피스 혁신기술 실... | https://www.todayeconomic.com/news/article.html?no=32621 | a1
-2026-10-27 17:36 | digitalchosun.dizzo.com | 셀트리온·삼성바이오, 사상 최대 영업익 불구 순이익 뒷걸음 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/27/2026102780143.html | ax2
-2026-10-27 17:28 | news.bbsi.co.kr | 삼성물산, 창원 용호1구역 재건축 시공사 선정 | https://news.bbsi.co.kr/news/articleView.html?idxno=4115085 | a1
-2026-10-27 17:27 | TradingView | SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares Revenue Breakdown – KRX:2079401G | google:TradingView#82a5d95a | aen3
-2026-10-27 17:23 | TradingView | SAMSUNG BIOLOGICS CO. LTD. Rights 2026-10.11.26 For Shares Income Statement – KRX:2079401G | google:TradingView#227cee64 | aen3
-2026-10-27 17:22 | sports.hankooki.com | [건설부문] 삼성물산 건설부문·IPARK현대산업개발·부영그룹·롯데건설 | https://sports.hankooki.com/news/articleView.html?idxno=6942362 | a1,a3
-2026-10-27 17:12 | smartbizn.com | 삼성물산, AI로 주거·업무공간 혁신···스타트업 6곳과 실증 | https://www.smartbizn.com/news/articleView.html?idxno=157698 | a1
-2026-10-27 17:10 | pointdaily.co.kr | 삼성바이오로직스 노사 갈등 격화…'보안작업 범위' 쟁점 급부상 | https://www.pointdaily.co.kr/news/articleView.html?idxno=323853 | a7,ax2
-2026-10-27 17:01 | Haluan Riau | Dirut PT Musim Mas Wakili Korporasi, Berkas Perkara Kembali Diteliti Jaksa - Haluan Riau | google:Haluan Riau#6dead628 | aid6
-2026-10-27 17:00 | lawissue.co.kr | 삼성물산 준지 K-POP 아티스트 전시 의상 협업 진행 | https://www.lawissue.co.kr/view.php?ud=202610271658016136204ead0791_12 | a1
-2026-10-27 16:59 | news.bizwatch.co.kr | 삼성물산, 스타트업 기술로 래미안 '업그레이드' | https://news.bizwatch.co.kr/article/real_estate/2026/10/27/0018 | a1
-2026-10-27 16:56 | s-journal.co.kr | 삼성물산, 스타트업 기술 실증 성과 공유…주거·건설 협업 확대 | https://www.s-journal.co.kr/news/articleView.html?idxno=44860 | a1
-2026-10-27 16:46 | dt.co.kr | 삼성물산, ‘퓨처스케이프 데모데이’… 유망 스타트업 육성 | https://www.dt.co.kr/article/12091593?ref=naver | a1
-2026-10-27 16:44 | thevaluenews.co.kr | [제약 레이더] 삼성바이오에피스, SB27 임상 1상 결과 공개…대웅제약·... | http://www.thevaluenews.co.kr/news/view.php?idx=202698 | a10,ax2,ax5
-2026-10-27 16:40 | topstarnews.net | 삼성물산 주가, 10월 27일 애프터마켓 301,000원 3.08% 상승 | https://www.topstarnews.net/news/articleView.html?idxno=16259516 | a1
-2026-10-27 16:39 | Pewarta.co | Terungkap di PN Kisaran, Konflik Tanah Antara Warga dan PT CSIL Telah Lama Berlangsung | google:Pewarta.co#db13686e | aid9
-2026-10-27 16:32 | meconomynews.com | '우쌍쌍 래미안 타운' 가시화... 삼성물산, 대치우성1·쌍용2차 현설 단... | https://www.meconomynews.com/news/articleView.html?idxno=202983 | a1
-2026-10-27 16:32 | topstarnews.net | 삼성바이오로직스 주가, 10월 27일 애프터마켓 1,366,000원 5.92% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16259504 | a7,ax2
-2026-10-27 16:30 | vop.co.kr | 삼성물산, 도시정비사업 수주 첫 10조원 돌파... 목동13단지 추가 수주 ... | https://vop.co.kr/A00001697337.html | a1
-2026-10-27 16:27 | Riau Online | Duduk Perkara Sengketa Lahan di Meranti Pandak, Berujung Aduan ke Polisi | google:Riau Online#a711bdd6 | aid9
-2026-10-27 16:25 | 머니투데이 | Hanmi Pharmaceutical Surpasses 1.2 Trillion Won in Revenue Within Three Quarters… “We Will Continue Our Growth” | google:머니투데이#94254993 | aen4
-2026-10-27 16:22 | thedailypost.kr | 삼성물산, 7381억원 창원 용호1구역 재건축 수주 | https://www.thedailypost.kr/news/articleView.html?idxno=116453 | a1
-2026-10-27 16:22 | ajunews.com | 삼성물산 패션 준지, 케이팝 아티스트 전시서 의상 협업 | https://www.ajunews.com/view/20261027140933021 | a1
-2026-10-27 16:20 | lawissue.co.kr | 삼성물산, ‘퓨처스케이프 데모데이’서 스타트업 6곳 실증 성과 공개 | https://www.lawissue.co.kr/view.php?ud=20261027161743114967191f6c6e_12 | a1
-2026-10-27 16:16 | sateconomy.co.kr | 삼성물산, 창원·반포 정비사업 시공사 선정…올해 수주 10조원 돌파 | https://sateconomy.co.kr/news/view/1065596074424320 | a1
-2026-10-27 16:14 | whitepaper.co.kr | 삼성물산, 'AI·로봇기술' 주거 접목 위해 스타트업 6곳과 실증 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268184 | a1
-2026-10-27 15:56 | sisacast.kr | 삼성물산, SBA 공동 주관 오픈이노베이션 '2026 퓨처스케이프 데모데이... | http://www.sisacast.kr/news/articleView.html?idxno=101366 | a1
-2026-10-27 15:54 | insight.co.kr | 집 수리부터 AI 공부까지... 삼성물산이 스타트업과 함께 바꾸려는 아파... | https://www.insight.co.kr/news/579388 | a1
-2026-10-27 15:52 | hbnpress.com | 삼성물산, '퓨처스케이프 데모데이' 개최...스타트업 6곳 기술 실증 | https://hbnpress.com/news/view/1065595755885446 | a1
-2026-10-27 15:50 | DerakPost.com | Hutan Terbakar, Sawit Mekar | google:DerakPost.com#c045a8bc | aid9
-2026-10-27 15:48 | news2day.co.kr | 삼성바이오에피스·HLB, 유럽서 항암제 임상 성과 전략 공유 | https://www.news2day.co.kr/article/20261027500212 | a10,ax2,ax5
-2026-10-27 15:46 | arunews.com | 대치우성1차·쌍용2차, 시공자 현설에 삼성물산만 | https://www.arunews.com/news/articleView.html?idxno=68714 | a1
-2026-10-27 15:32 | fnnews.com | 삼성물산 준지, K팝 아티스트 전시에 의상 협업 | https://www.fnnews.com/news/202610271448365761 | a1
-2026-10-27 15:31 | 파이낸셜뉴스 | Samsung C&T Corporation's Gissen by Kwak Hyun Joo collaborates on outfits for K-pop artist exhibition | google:파이낸셜뉴스#9fd34a5c | aen1,aen2
-2026-10-27 15:20 | public25.com | 삼성물산, 퓨처스케이프 데모데이 개최...스타트업 실증성과 공유 | https://www.public25.com/news/articleView.html?idxno=57293 | a1
-2026-10-27 15:18 | newsinside.kr | 삼성물산, '2026 퓨처스케이프 데모데이' 개최 | https://www.newsinside.kr/news/articleView.html?idxno=5034559 | a1
-2026-10-27 15:17 | 머니투데이 | Ildong Pharm Group enters functional skincare market, establishes JV with Nine & Company | google:머니투데이#8168dd75 | aen4
-2026-10-27 15:15 | inews24.com | 삼성물산, 스타트업 6곳과 주거·건설 디지털 전환 실증 | http://www.inews24.com/view/2019496 | a1
-2026-10-27 15:14 | The Korea Times | Everland's baby panda Shubao to make public debut this week | google:The Korea Times#8bb4b346 | aen1,aen2
-2026-10-27 15:10 | mediapen.com | 사법 리스크 뚫은 삼성바이오로직스, 내부 암초에 발목 잡히나 | https://www.mediapen.com/news/view/1132781 | a7,ax2
-2026-10-27 15:08 | 머니투데이 | Dong-A Pharm posts record Q3 revenue after integration, says growth will continue | google:머니투데이#49faea0b | aen4
-2026-10-27 15:04 | inthenews.co.kr | K팝 아티스트 48인, 삼성물산 ‘준지(JUUN.J)’ 입는다 | https://www.inthenews.co.kr/news/article.html?no=93598 | a1
-2026-10-27 15:04 | weekly.hankooki.com | 삼성바이오에피스, SB27 임상 1상 결과 공개 | https://weekly.hankooki.com/news/articleView.html?idxno=7190885 | a10,ax2,ax5
-2026-10-27 15:00 | mt.co.kr | 'AI 전력원' SMR의 글로벌 트렌드?…내일 코엑스에서 확인하자 | https://www.mt.co.kr/industry/2026/10/27/2026102707165397797 | a1
-2026-10-27 14:56 | asiatime.co.kr | 삼성물산, '퓨처스케이프 데모데이' 개최…협업 성과 공유 | https://www.asiatime.co.kr/article/20261027500312 | a1
-2026-10-27 14:50 | huffingtonpost.kr | 삼성바이오로직스 3분기 매출 19% 늘었는데 영업이익 1% 증가 : 존 림 투... | https://www.huffingtonpost.kr/article/261564 | a7,ax2
-2026-10-27 14:44 | news1.kr | 삼바 노조, 법원 결정에도 파업 의지 고수…보안작업 범위 놓고 공방 | https://www.news1.kr/bio/pharmaceutical-bio/6333442 | a7?,ax2?
-2026-10-27 14:40 | businesspost.co.kr | 삼성바이오에피스, 유럽종양학회서 면역항암제 '키트루다' 복제약 임상... | https://www.businesspost.co.kr/BP?command=article_view&num=450391 | a10,ax2,ax5
-2026-10-27 14:38 | cstimes.com | 삼성물산, '2026 퓨처스케이프 데모데이' 개최…스타트업과 공간 혁신 협... | https://www.cstimes.com/news/articleView.html?idxno=725448 | a1
-2026-10-27 14:32 | biz.chosun.com | 삼성물산 ‘2026 퓨처스케이프 데모데이’… 스타트업과 기술 실증·공동... | https://biz.chosun.com/real_estate/real_estate_general/2026/10/27/BMFSP77APJEOZFUITD4GKKI4K4/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
-2026-10-27 14:32 | Chosunbiz | Samsung C&T accelerates startup partnerships at 2026 Futurescape in Seoul | google:Chosunbiz#072e76ac | aen1,aen2
-2026-10-27 14:30 | citybuzz - | PolyPeptide Shareholders Approve Board Overhaul and Removal of Transfer Restrictions Ahead of Samsung Biologics Takeover | google:citybuzz -#1f82613e | aen3
-2026-10-27 14:24 | mk.co.kr | 바이오공장 노사갈등 ‘팽팽’…‘세포’는 파업의 끝까지 기다려주지... | https://www.mk.co.kr/article/12186927 | a7,ax2
-2026-10-27 14:23 | 매일경제 | Cells also work in biopharmaceutical factories. The process of making antibody drugs begins with mel.. | google:매일경제#c6325948 | aen3
-2026-10-27 14:23 | sedaily.com | “아파트에 AI 적용”…삼성물산, ‘2026 퓨처스케이프 데모데이’ 개최 | https://www.sedaily.com/article/20106613?ref=naver | a1
-2026-10-27 14:22 | Seoul Economic Daily | Samsung C&T Tests AI Home Services With Six Startups | google:Seoul Economic Daily#5976e253 | aen1
-2026-10-27 14:22 | news.mtn.co.kr | 대치우성1차·쌍용2차 재건축 현설에 ‘삼성물산’ 단독 참석…현대는 ... | https://news.mtn.co.kr/article/2026102714005762903 | a1
-2026-10-27 14:22 | upkoreanews.kr | [창간22주년 특집: 식탁의 가치를 바꾸다]② 삼성웰스토리, 외식 2000곳·... | https://www.upkoreanews.kr/news/articleView.html?idxno=100848 | a12,ax6
-2026-10-27 14:18 | kyeonggi.com | 김교흥, 인천 의료 정책 소외 지적…정은경 장관 “설립법 시간 두고 검... | https://www.kyeonggi.com/article/20261027580254 | ax2
-2026-10-27 14:10 | shinailbo.co.kr | 삼성웰스토리, 카페인 없는 대체커피 도입…사내카페 음료 7종 운영 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5076043 | a12,ax6
-2026-10-27 13:59 | upkoreanews.kr | [창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]①... | https://www.upkoreanews.kr/news/articleView.html?idxno=100847 | a1
-2026-10-27 13:52 | financialpost.co.kr | 삼성물산, 혁신기술 보유 스타트업 발굴...공동 사업화 지원 | https://www.financialpost.co.kr/news/articleView.html?idxno=282757 | a1
-2026-10-27 13:50 | sateconomy.co.kr | [패션소식] LF·삼성물산·무신사·이랜드, 맞춤형 서비스·브랜드 협업... | https://sateconomy.co.kr/news/view/1065584007999447 | a1
-2026-10-27 13:44 | webeconomy.co.kr | 삼성물산, 스타트업 6개사 기술 실증…주거·건물 서비스 사업화 추진 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2349718 | a1
-2026-10-27 13:32 | techholic.co.kr | 삼성물산, AI 기반 주거·물류·시니어케어 등 6개 유망 스타트업 현장... | http://www.techholic.co.kr/news/articleView.html?idxno=223416 | a1
-2026-10-27 13:28 | s-journal.co.kr | 삼성물산 패션, 준지 전시 협업부터 아우터 프로모션까지 | https://www.s-journal.co.kr/news/articleView.html?idxno=44848 | a1
-2026-10-27 13:24 | koreabiomed.com | [ESMO 2026] Samsung Bioepis' Keytruda biosimilar shows equivalent drug ex... | https://www.koreabiomed.com/news/articleView.html?idxno=33622 | a11,aen4
-2026-10-27 13:20 | Pearce IP | Pearce IP BioBlast® for the week ending 23 October 2026 | google:Pearce IP#6dd83564 | aen4
-2026-10-27 13:20 | viva100.com | 삼성물산, ‘2026 퓨처스케이프 데모데이’ 진행… 스타트업 6곳과 기술... | https://www.viva100.com/article/20261027500552 | a1
-2026-10-27 13:06 | joongangenews.com | 삼성물산, 스타트업 6곳과 미래 주거 기술 실증...'퓨처스케이프 데모데... | https://www.joongangenews.com/news/articleView.html?idxno=558610 | a1
-2026-10-27 13:04 | ziksir.com | 삼성바이오에피스, ESMO서 '키트루다' 시밀러 임상 1상 발표…약동학 동... | https://www.ziksir.com/news/articleView.html?idxno=150893 | a10,ax2,ax5
-2026-10-27 13:02 | 파이낸셜뉴스 | Yoon & Yang head Lee Myung-soo reappointed; revenue grows 35% in two years | google:파이낸셜뉴스#fb8eeff4 | aen2
-2026-10-27 12:56 | BigGo Finance | South Korea's Samsung C&T Wins 125 Billion Won Banpo Prugio Remodeling Contract, First Use of 'Next Remodeling' | google:BigGo Finance#2127359b | aen1
-2026-10-27 12:18 | asiaa.co.kr | 삼성물산, 스타트업과 공간 디지털 전환 실증...'퓨처스케이프' 개최 | https://www.asiaa.co.kr/news/articleView.html?idxno=268016 | a1
-2026-10-27 12:16 | thebigdata.co.kr | 삼성물산, '2026 퓨처스케이프 데모데이' 개최...소비자 관심도 상승 | https://www.thebigdata.co.kr/view.php?ud=202610271058326202df3c2a17b7_23 | a1
-2026-10-27 12:04 | kormedi.com | 삼성바이오에피스, 키트루다 시밀러 임상 1상 세부결과 공개 | https://kormedi.com/?p=2892514 | a10,ax2,ax5
-2026-10-27 12:02 | news2day.co.kr | [재계 인사이드] 삼성물산 현대건설, GS건설...‘3사(社)3색(色)’ | https://www.news2day.co.kr/article/20261027500138 | a1
-2026-10-27 11:46 | breaknews.com | 창원 용호1구역 재건축 '도로 폐지' 특혜 논란 일파만파 | http://www.breaknews.com/1245973 | a1?
-2026-10-27 11:44 | economist.co.kr | 엇갈린 바이오 대장주...셀트리온·알테오젠 '웃고' 삼성바이오 '울고' | https://economist.co.kr/article/view/ecn202610270018 | ax2
-2026-10-27 11:34 | biz.heraldcorp.com | 삼성물산, ‘반포푸르지오’ 리모델링 수주 | https://biz.heraldcorp.com/article/10916100?ref=naver | a1
-2026-10-27 11:32 | ebn.co.kr | 삼성바이오에피스, 유럽종양학회서 키트루다 바이오시밀러 동등성 입증 | https://www.ebn.co.kr/news/articleView.html?idxno=1729290 | a10,ax2,ax5
-2026-10-27 11:32 | meconomynews.com | 삼성바이오에피스, 글로벌 항암제 '키트루다' 복제약 임상 1상서 동등성... | https://www.meconomynews.com/news/articleView.html?idxno=202967 | a10,ax2,ax5
-2026-10-27 11:28 | consumernews.co.kr | 셀트리온, 3분기 누적 매출 삼성바이오로직스 다시 넘어...영업이익률은... | http://www.consumernews.co.kr/news/articleView.html?idxno=766870 | a7,ax2
-2026-10-27 11:24 | e-science.co.kr | 삼성바이오에피스, 키트루다 바이오시밀러 개발 진전...약동학적 동등성... | https://www.e-science.co.kr/news/articleView.html?idxno=138236 | a10,ax2,ax5
-2026-10-27 11:06 | e-science.co.kr | 삼성물산, AI 주거·헬스케어 스타트업 6곳과 실증 성과 공유 | https://www.e-science.co.kr/news/articleView.html?idxno=138232 | a1
-2026-10-27 11:04 | businesspost.co.kr | 삼성물산 미국 SMR 개발사 엘리멘틀 투자 컨소시엄에 참여, "엔지니어링... | https://www.businesspost.co.kr/BP?command=article_view&num=450359 | a1
-2026-10-27 10:57 | ddaily.co.kr | 46조원 면역항암제 시장 겨냥…삼성바이오에피스, SB27 임상 결과 공개 | https://www.ddaily.co.kr/page/view/2026102710460297933 | a10,ax2,ax5
-2026-10-27 10:55 | BigGo Finance | South Korea's Celltrion Tops Samsung Biologics in Q3 Revenue as Annual Race Tightens | google:BigGo Finance#faab2c96 | aen3
-2026-10-27 10:52 | g-enews.com | 유럽 당국의 안전성 점검대…삼성에피스, 장기 처방 데이터로 심의 오른... | https://www.g-enews.com/view.php?ud=20261027103626134fbbec65dfb_1 | ax3
-2026-10-27 10:50 | goodkyung.com | [굿모닝! 27일 건설업계 소식] 삼성물산·현대건설·대우건설·현대엔지... | https://www.goodkyung.com/news/articleView.html?idxno=292778 | a1
-2026-10-27 10:48 | g-enews.com | AI 데이터센터 신성장 동력 부상...건설사 수주 경쟁 본격화 | https://www.g-enews.com/view.php?ud=2026102710150949492aa6f4cdad_1 | a1,a3
-2026-10-27 10:46 | businesspost.co.kr | 삼성물산 스타트업 기술 실증 결과 공유, '2026 퓨처스케이프 데모데이... | https://www.businesspost.co.kr/BP?command=article_view&num=450372 | a1
-2026-10-27 10:44 | ajunews.com | 삼성바이오에피스, '키트루다' 시밀러 1상서 오리지널과 동등성 입증 | https://www.ajunews.com/view/20261027103601350 | a10,ax2,ax5
-2026-10-27 10:44 | dailymedi.com | 삼성바이오에피스 "키트루다 시밀러 동등성 입증" | https://www.dailymedi.com/news/news_view.php?wr_id=941909 | a10,ax2,ax5
-2026-10-27 10:42 | dealsite.co.kr | [제약+] 삼성바이오에피스, 유럽서 키트루다 시밀러 1상 결과 발표…오... | https://dealsite.co.kr/articles/171397 | a10,ax2,ax5
-2026-10-27 10:40 | businesskorea.co.kr | Samsung Biologics, Celltrion Hit Record Q3 Results, Intensifying Revenue ... | https://www.businesskorea.co.kr/news/articleView.html?idxno=279726 | a8,aen3
-2026-10-27 10:36 | fetv.co.kr | 삼성물산, AI 홈케어·로봇 물류 등 스타트업 6곳과 협업 본격화 | https://www.fetv.co.kr/news/articleView.html?idxno=312495 | a1
-2026-10-27 10:36 | BigGo Finance | Samsung Bioepis Confirms Pharmacokinetic Equivalence of Keytruda Biosimilar 'SB27' in Phase 1 Trial | google:BigGo Finance#ac38f6db | aen4
-2026-10-27 10:34 | thevaluenews.co.kr | [건설 레이더] 삼성물산·현대건설, 혁신 기술 발굴·SNS 소통으로 주거... | http://www.thevaluenews.co.kr/news/view.php?idx=202666 | a1
-2026-10-27 10:34 | thevaluenews.co.kr | [유통 레이더] 삼성물산·무신사·F&F, 패션과 문화 결합해 브랜드 경험... | http://www.thevaluenews.co.kr/news/view.php?idx=202664 | a1
-2026-10-27 10:34 | press9.kr | 삼성바이오에피스, 키트루다 시밀러 'SB27' 1상서 동등성 확인 | http://www.press9.kr/news/articleView.html?idxno=84963 | a10,ax2,ax5
-2026-10-27 10:33 | kpinews.kr | 삼성물산, '퓨처스케이프 데모데이' 개최…혁신 스타트업과 AI·디지털 ... | https://www.kpinews.kr/newsView/1065576666077078 | a1
-2026-10-27 10:24 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍ현대건설ㆍIPARK현대산업개발 (10.27) | http://www.weeklytoday.com/news/articleView.html?idxno=799676 | a1
-2026-10-27 10:24 | 4th.kr | 삼성바이오에피스, 키트루다 복제약 개발 진전 | http://www.4th.kr/news/articleView.html?idxno=2120479 | a10,ax2,ax5
-2026-10-27 10:22 | betanews.net | 삼성물산, ‘2026 퓨처스케이프 데모데이’ 개최…스타트업 협업 본격화 | https://www.betanews.net/article/view/beta202610270076 | a1
-2026-10-27 10:22 | biospectator.com | 삼성에피스, ESMO서 '키트루다 시밀러' 1상 공개 | https://www.biospectator.com/view/news_view.php?varAtcId=30208 | ax3
-2026-10-27 10:18 | digitalchosun.dizzo.com | 삼성바이오에피스, 키트루다 바이오시밀러 6회차 투여에서도 약동학적... | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/27/2026102780035.html | a10,ax2,ax5
-2026-10-27 10:16 | newspost.kr | 삼성물산, 스타트업 6곳과 기술 실증…퓨처스케이프 데모데이 운영 | https://www.newspost.kr/news/articleView.html?idxno=226726 | a1
-2026-10-27 10:16 | cbci.co.kr | HLB 4%대 상승·알테오젠 강세…바이오주 대체로 오름세, 삼성바이오로... | https://www.cbci.co.kr/news/articleView.html?idxno=619685 | ax2
-2026-10-27 10:12 | ebn.co.kr | 삼성물산도 10조 넘었다…현대건설과 도시정비 '10조 클럽' 첫 동반 입성 | https://www.ebn.co.kr/news/articleView.html?idxno=1729262 | a1
-2026-10-27 10:12 | fashionn.com | 삼성물산 준지, 블랙으로 K-POP 아티스트 48인 예술 전시 함께! 패션과 ... | http://www.fashionn.com/board/read_new.php?table=1006&number=62937 | a1
-2026-10-27 10:10 | wsobi.com | 삼성물산·현대건설 '2026 퓨처스케이프 데모데이' 개최·힐스테이트 '2... | http://www.wsobi.com/news/articleView.html?idxno=320414 | a1
-2026-10-27 10:08 | news.bbsi.co.kr | 삼성물산, 6개 스타트업과 미래 주거·물류 기술 실증 성과 공유 | https://news.bbsi.co.kr/news/articleView.html?idxno=4114867 | a1
-2026-10-27 10:07 | fnnews.com | 삼성물산 '2026 퓨처스케이프 데모데이'...스타트업 성과 공유 | https://www.fnnews.com/news/202610271000078965 | a1
-2026-10-27 10:06 | 파이낸셜뉴스 | Samsung C&T’s ‘2026 FutureScape Demo Day’ ... Startups Share Achievements | google:파이낸셜뉴스#cfe8e269 | aen1
-2026-10-27 10:05 | 머니투데이 | 'I'm Solo' couple Young-sook and Young-sik split after three months, saying 'We were happy' | google:머니투데이#087ec5a7 | aen4
-2026-10-27 10:05 | BigGo Finance | South Korea's Yulchon Reappoints CEO Lee Myung-soo as Revenue Nears First 300 Billion Won | google:BigGo Finance#95f98b56 | aen2
-2026-10-27 10:04 | smartbizn.com | 삼성물산 준지, K팝 스타 48인에 '블랙의 미학' 입혔다 | https://www.smartbizn.com/news/articleView.html?idxno=157602 | a1
-2026-10-27 10:04 | bizwork.co.kr | 삼성물산, 스타트업 6곳과 기술 실증…미래 주거서비스 발굴 | https://www.bizwork.co.kr/news/articleView.html?idxno=420214 | a1
-2026-10-27 10:04 | edaily.co.kr | 삼성바이오에피스, 키트루다 바이오시밀러 임상 1상서 동등성 확인 | https://www.edaily.co.kr/News/Read?newsId=03204566645617184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a10,ax2,ax5
-2026-10-27 10:02 | ziksir.com | 삼성물산, '2026 퓨처스케이프 데모데이' 성공적 마무리…스타트업 협력... | https://www.ziksir.com/news/articleView.html?idxno=150861 | a1
-2026-10-27 10:00 | widedaily.com | "AI 홈케어·스마트 물류가 단지 안으로"…삼성물산, 스타트업 혁신 기... | https://www.widedaily.com/news/articleView.html?idxno=302332 | a1
-2026-10-27 10:00 | catchnews.kr | "3D센서로 근골격계 건강분석" 삼성물산, 스타트업 6곳과 기술실증 | https://www.catchnews.kr/news/articleView.html?idxno=129802 | a1
-2026-10-27 10:00 | weekly.hankooki.com | 삼성물산, '퓨처스케이프 데모데이' 진행...AI·로봇·시니어케어 기술... | https://weekly.hankooki.com/news/articleView.html?idxno=7190824 | a1
-2026-10-27 09:56 | niceeconomy.co.kr | [제약 브리핑] 차병원·종근당·동아ST·삼성바이오에피스 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91541 | a10,ax2,ax5
-2026-10-27 09:54 | cnbnews.com | 삼성물산, '퓨처스케이프 데모데이'서 스타트업 지원 | https://www.cnbnews.com/news/articleView.html?idxno=1021084 | a1
-2026-10-27 09:54 | edaily.co.kr | 삼성물산, AI 주거·물류 기술 실증…스타트업 6곳과 사업화 추진 | https://www.edaily.co.kr/News/Read?newsId=03135686645617184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
-2026-10-27 09:53 | newspim.com | 삼성물산, 2026 퓨처스케이프 데모데이...AI 학습·로봇 물류 실증 | https://www.newspim.com/news/view/20261027000315 | a1
-2026-10-27 09:52 | popcornnews.net | 삼성물산 패션 준지, K팝 아티스트 48인과 만났다...'디페스타' 전시 의... | http://www.popcornnews.net/news/articleView.html?idxno=137445 | a1
-2026-10-27 09:52 | etoday.co.kr | 삼성바이오에피스, ESMO에서 키트루다 바이오시밀러 1상 결과 발표 | https://www.etoday.co.kr/news/view/2640370 | a10,ax2,ax5
-2026-10-27 09:50 | delighti.co.kr | 삼성물산, 스타트업 6곳과 공간 혁신 기술 실증 및 사업화 가능성 모색 | https://www.delighti.co.kr/news/articleView.html?idxno=123883 | a1
-2026-10-27 09:49 | ppss.kr | 삼성물산, '퓨처스케이프 데모데이'로 혁신 스타트업 실증 성과 선보여 | https://www.ppss.kr/news/articleView.html?idxno=317480 | a1
-2026-10-27 09:46 | popcornnews.net | 삼성물산, '퓨처스케이프 데모데이' 개최...스타트업과 AI 협력 가속화 | http://www.popcornnews.net/news/articleView.html?idxno=137440 | a1
-2026-10-27 09:43 | moneystorm.kr | 삼성바이오에피스, 46조원 규모 면역항암제 시장 '정조준'…SB27 임상 1상... | https://www.moneystorm.kr/news/articleView.html?idxno=7693 | a10,ax2,ax5
-2026-10-27 09:42 | newsis.com | 삼성물산, AI 홈케어부터 스마트 물류까지 스타트업 기술 실증 | https://www.newsis.com/view/NISX20261027_0003842355 | a1
-2026-10-27 09:40 | megaeconomy.co.kr | 삼성물산, 스타트업 6곳과 혁신기술 실증…주거·업무공간 디지털 전환... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573316681105 | a1
-2026-10-27 09:38 | weekly.hankooki.com | 삼성물산 패션 준지, '디페스타 디 오리진' 전시 참여 | https://weekly.hankooki.com/news/articleView.html?idxno=7190812 | a1
-2026-10-27 09:36 | newstomato.com | 삼성바이오에피스, 키트루다 바이오시밀러 ‘SB27’ 효과성 입증 | http://www.newstomato.com/ReadNews.aspx?no=1318109&inflow=N | a10,ax2,ax5
-2026-10-27 09:34 | ddaily.co.kr | 매출은 셀트리온, 이익은 삼성바이오…바이오 투톱 ‘승부는 지금부터... | https://www.ddaily.co.kr/page/view/2026102709211263960 | ax2
-2026-10-27 09:34 | etnews.com | 삼성에피스 'SB27', 1상서 키트루다와 유효성·안전성 유사성 확인 | https://www.etnews.com/20261027000059 | ax3
-2026-10-27 09:32 | ikld.kr | 삼성물산, '2026 퓨처스케이프 데모데이' 개최… 유망 스타트업 실증성... | http://www.ikld.kr/news/articleView.html?idxno=342964 | a1
-2026-10-27 09:32 | businessplus.kr | 삼성물산, 오픈이노베이션 '2026 퓨처스케이프 데모데이' 개최 | https://www.businessplus.kr/news/articleView.html?idxno=118767 | a1
-2026-10-27 09:31 | thetracker.co.kr | 삼성물산, 스타트업 6곳 실증 마쳐…주거·물류 플랫폼 사업화 추진 | https://thetracker.co.kr/View.aspx?No=4280256 | a1
-2026-10-27 09:28 | metroseoul.co.kr | 삼성물산, AI 홈케어·로봇 물류 등 스타트업 기술 실증 | http://www.metroseoul.co.kr/article/20261027500067 | a1
-2026-10-27 09:28 | ftoday.co.kr | 삼성물산 준지, K-팝 아티스트 48인과 예술 전시 | http://www.ftoday.co.kr/news/articleView.html?idxno=368182 | a1
-2026-10-27 09:28 | pharmnews.com | 삼성바이오에피스, ESMO 2026서 'SB27' 임상 1상 결과 발표 | https://www.pharmnews.com/news/articleView.html?idxno=307299 | a10,ax2,ax5
-2026-10-27 09:25 | BigGo Finance | South Korean Money Backs U.S. SMR Development with Up to $750 Million; Samsung C&T Weighs Participation | google:BigGo Finance#7647089f | aen1
-2026-10-27 09:24 | medicopharma.co.kr | 삼성바이오에피스, 키트루다 바이오시밀러 개발 속도…1상서 동등성 확... | https://www.medicopharma.co.kr/news/articleView.html?idxno=70046 | a10,ax2,ax5
-2026-10-27 09:22 | Chosunbiz | Samsung Bioepis proves Keytruda biosimilar matches pharmacokinetics - CHOSUNBIZ | google:Chosunbiz#195e5bd9 | aen4
-2026-10-27 09:21 | Seoul Economic Daily | Samsung Bioepis Keytruda Biosimilar Matches Original in Phase 1 Trial | google:Seoul Economic Daily#0d360226 | aen4
-2026-10-27 09:20 | socialvalue.kr | 삼성물산, 우수 스타트업 발굴한다…'퓨처스케이프 데모데이' 개최 | https://www.socialvalue.kr/news/view/1065571653490526 | a1
-2026-10-27 09:18 | pinpointnews.co.kr | 삼성물산, 스타트업 6곳과 주거·건설 기술 사업화 모색 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=498726 | a1
-2026-10-27 09:16 | naeil.com | 삼성바이오 노조 “단체행동권 보장하라” | https://www.naeil.com/news/read/606449?ref=naver | ax2
-2026-10-27 09:12 | daily.hankooki.com | 삼성바이오에피스, 키트루다 시밀러 'SB27' 1상 결과 공개 | https://daily.hankooki.com/news/articleView.html?idxno=1418656 | a10,ax2,ax5
-2026-10-27 09:10 | dailian.co.kr | 삼성에피스, 키트루다 시밀러 1상서 '동등성' 입증 | https://www.dailian.co.kr/news/view/1706494/?sc=Naver | ax3
-2026-10-27 09:06 | lawleader.co.kr | 삼성바이오로직스 상생노조 "법원의 파업권 제한, 다른 산업 번질까 우... | https://www.lawleader.co.kr/news/articleView.html?idxno=20250 | a7,ax2
-2026-10-27 09:02 | kizmom.com | 삼성물산 준지, K팝 아티스트 48인 전시 '디페스타' 의상 협업 | https://www.kizmom.com/news/articleView.html?idxno=113559 | a1
-2026-10-27 09:01 | 헤럴드경제 | Samsung Bioepis presents Phase 1 trial results for Keytruda biosimilar at ESMO, confirming equivalence | google:헤럴드경제#c1afa71f | aen4
-2026-10-27 09:01 | biz.heraldcorp.com | 삼성물산, 유망 스타트업 육성하는 ‘2026 퓨처스케이프 데모데이’ 개... | https://biz.heraldcorp.com/article/10915591?ref=naver | a1
-2026-10-27 09:00 | 헤럴드경제 | Samsung C&T hosts '2026 Futurescape Demo Day' to nurture promising startups | google:헤럴드경제#f0f63212 | aen1
-2026-10-27 09:00 | theguru.co.kr | 삼성바이오에피스, 키트루다 시밀러 1상 데이터 공개…연내 3상 마무리 | https://www.theguru.co.kr/news/article.html?no=108842 | a10,ax2,ax5
-2026-10-27 09:00 | Cekricek | Di Desa Tambak, Panen Madu Bermantra Hilang Saat Hutan Jadi Sawit | google:Cekricek#af1b1c58 | aid6
-2026-10-27 08:48 | newsis.com | 삼성에피스, 키트루다 시밀러 임상1상 결과발표 | https://www.newsis.com/view/NISX20261027_0003842192 | ax3
-2026-10-27 08:37 | hankyung.com | 삼성바이오에피스, 키트루다 바이오시밀러 임상 1상 결과 공개…약동학... | https://www.hankyung.com/article/202610276741i | a10,ax2,ax5
-2026-10-27 08:34 | Sawitku | Sawit dan Karhutla Tak Lagi Soal Lingkungan, Isu SARA Ikut Menyeruak - Sawitku Id | google:Sawitku#107a7662 | aid9
-2026-10-27 08:26 | 머니투데이 | Samsung Biologics Epix Presents Phase 1 Results for Keytruda Biosimilar at ESMO, Demonstrating Equivalence | google:머니투데이#f505077c | aen3,aen4
-2026-10-27 08:26 | mt.co.kr | 삼성바이오에피스, ESMO서 키트루다 시밀러 1상 결과 발표…"동등성 입... | https://www.mt.co.kr/thebio/2026/10/27/2026102708233435935 | a10,ax2,ax5
-2026-10-27 08:14 | sentv.co.kr | 삼성바이오에피스, 키트루다 시밀러 1상 공개…동등성 확인 | https://www.sentv.co.kr/article/view/sentv202610270002 | a10,ax2,ax5
-2026-10-27 08:08 | 아시아경제 | Samsung Bioepis Demonstrates Equivalence to Keytruda in Phase 1 Trial of 'SB27' | google:아시아경제#28874eb5 | aen4
-2026-10-27 08:08 | view.asiae.co.kr | 삼성바이오에피스, 'SB27' 임상1상서 키트루다와 동등성 입증 | https://view.asiae.co.kr/article/2026102708081937438 | a10,ax2,ax5
-2026-10-27 04:20 | 머니투데이 | Tax revenue in US Loudoun County, up sevenfold in 10 years… 17,000 jobs also added | google:머니투데이#06b77aac | aen4
+2026-10-29 08:01 | biz.heraldcorp.com | 삼성웰스토리, 구내식당에 ‘가을책방’…텍스트힙 담았다 | https://biz.heraldcorp.com/article/10917826?ref=naver | a12,ax6
+2026-10-29 08:00 | press9.kr | 삼성에피스홀딩스 목표가 유지, 마일스톤 서프라이즈-하나 | http://www.press9.kr/news/articleView.html?idxno=85147 | a9,ax3,ax4
+2026-10-29 08:00 | view.asiae.co.kr | "텍스트힙 담은 구내식당"…삼성웰스토리, '가을책방' 프로모션 | https://view.asiae.co.kr/article/2026102907403953001 | a12,ax6
+2026-10-29 07:48 | newsdream.kr | [키-리포트] LS "삼성물산, 실적 성장 본격화" | http://www.newsdream.kr/news/articleView.html?idxno=121050 | a1
+2026-10-29 07:46 | ebn.co.kr | 삼성물산 건설, 반도체가 끌고 재건축이 밀고…실적·수주 동반 질주 | https://www.ebn.co.kr/news/articleView.html?idxno=1729586 | a1
+2026-10-29 07:44 | medicopharma.co.kr | 삼성에피스홀딩스, 바이오시밀러 10개 더 늘린다…글로벌 공급망 확대 | https://www.medicopharma.co.kr/news/articleView.html?idxno=70087 | a9,ax3,ax4
+2026-10-29 07:43 | edaily.co.kr | 삼성물산, 반도체 투자 확대에 건설 실적 '쑥'…수익성 개선세-한화 | https://www.edaily.co.kr/News/Read?newsId=02892966645617840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
+2026-10-29 07:02 | medigatenews.com | 복잡한 이중항체 개발, 맞춤형 공정으로 푼다…삼성바이오로직스, 13개... | https://www.medigatenews.com/news/3866198773 | a7,ax2
+2026-10-29 07:02 | thebell.co.kr | [더벨][thebell interview] 김경아 삼성바이오에피스 대표 "빠른 신약 성... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610281648175080107284 | a10,ax2,ax5
+2026-10-29 07:01 | sedaily.com | 삼성물산, 반도체 공사 효과 ‘어닝 서프라이즈’…비건설 부문 성장 지... | https://www.sedaily.com/article/20107454?ref=naver | a1,a3
+2026-10-29 07:00 | Seoul Economic Daily | Samsung C&T Beats Estimates as Chip Plant Work Lifts Construction Profit | google:Seoul Economic Daily#fc10fdbf | aen1
+2026-10-29 06:36 | news.bizwatch.co.kr | 영업익 150% 늘린 삼성물산 건설…"내년도 성장" | https://news.bizwatch.co.kr/article/real_estate/2026/10/28/0043 | a1
+2026-10-29 06:19 | imnews.imbc.com | 엘리엇에 패소 1,530억 배상‥"쓰라린 교훈" | https://imnews.imbc.com/replay/2026/nwtoday/article/6861506_37012.html | a1
+2026-10-29 06:12 | hitnews.co.kr | 삼성바이오 노사, 내달 3일 '끝장교섭'… 결렬 땐 순차 파업 | https://www.hitnews.co.kr/news/articleView.html?idxno=80321 | a7,ax2
+2026-10-29 06:00 | pharmnews.com | 위탁생산 넘어 '파트너'로...K-CDMO, 신약 개발 핵심 동반자로 부상 | https://www.pharmnews.com/news/articleView.html?idxno=307345 | a7,ax2
+2026-10-29 04:39 | TradingView | Samsung C&T: Q3 earnings advanced as E&C growth lifted order guidance and funded new growth bets | google:TradingView#ebb651c0 | aen1
+2026-10-29 04:05 | mt.co.kr | 삼성에피스, 시밀러·신약 투트랙 성장 순항 | https://www.mt.co.kr/thebio/2026/10/29/2026102819440094366 | ax3
+2026-10-29 01:20 | kjdaily.com | 삼성물산 3분기 영업이익 1조1천428억원…15% 증가 | http://www.kjdaily.com/article.php?aid=1793204259690663276 | a1
+2026-10-29 00:31 | donga.com | 선 넘는 파업, 대가는 조합원이 치른다[기고/박지순] | https://www.donga.com/news/Economy/article/all/20261028/134928202/2 | a7?,ax2?
+2026-10-29 00:16 | webeconomy.co.kr | 삼성물산 건설, 3분기 영업이익 2770억원 …전년보다 150% 급증 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2351901 | a1,a3
+2026-10-28 23:52 | RiauAktual.com | Reses Anggota DPR RI di Polres Kuansing, AKBP Hidayat Perdana Sampaikan Berbagai Tantangan | google:RiauAktual.com#6717dde6 | aid9
+2026-10-28 23:44 | nocutnews.co.kr | 삼성물산 패션부문, 3분기 영업이익 200억원…전년보다 66.7%↑ | https://www.nocutnews.co.kr/news/6598862?utm_source=naver&utm_medium=article&utm_campaign=20261028114339 | a1,a5
+2026-10-28 23:29 | BUALBUAL.com | Konflik Muara Langsat hingga PETI Jadi Sorotan, Ini 12 Poin Siti Aisyah di Polres Kuansing | google:BUALBUAL.com#c3bc06e7 | aid9
+2026-10-28 23:28 | paxetv.com | [2026 BIX코리아] 삼성바이오로직스, 이중항체 맞춤형 CMC 역량 고도화.... | http://www.paxetv.com/news/articleView.html?idxno=285501 | a7,ax2
+2026-10-28 23:02 | newsworks.co.kr | 삼성물산, 3분기 영업익 1조1428억 15.0%↑…건설 149.5% 급증 | https://www.newsworks.co.kr/news/articleView.html?idxno=901179 | a1
+2026-10-28 22:42 | CAKAPLAH.com | Kapolres Kuansing Sampaikan Aspirasi ke Anggota DPR RI | google:CAKAPLAH.com#650b8eb3 | aid9
+2026-10-28 22:36 | daejonilbo.com | 정부, 엘리엇 ISDS 최종 패소 수용…1530억 배상 | https://www.daejonilbo.com/news/articleView.html?idxno=2310096 | a1
+2026-10-28 22:36 | electimes.com | 삼성물산 건설부문, 3분기 영업익 149.5%↑…연간 수주 목표 30.1조 | https://www.electimes.com/news/articleView.html?idxno=374046 | a1,a3
+2026-10-28 22:02 | koreareport.co.kr | 삼성물산, 삼성바이오로직스 증자에 9190억…폴리펩타이드 인수 뒷받침 | https://www.koreareport.co.kr/news/articleView.html?idxno=54071 | a1,a7,ax2
+2026-10-28 21:48 | Tribunpekanbaru.com | Tingginya Konflik Lahan di Kuansing Disorot Anggota DPR RI | google:Tribunpekanbaru.com#4ccd7501 | aid9
+2026-10-28 21:40 | DataRiau.com | Kuasa Hukum Kelompok Tani 80 Apresiasi Siti Aisyah, Minta Konflik Muara Langsat Diusut Tuntas | google:DataRiau.com#39aa69c8 | aid9
+2026-10-28 21:29 | Haluan Riau | Sakit Hati soal Warisan, Adik Diduga Bunuh Kakak Kandung di Ukui - Haluan Riau | google:Haluan Riau#ed056dcc | aid5
+2026-10-28 21:14 | jasm.co.kr | 삼성물산, 3분기 영업익 1조1천억…전년比 15% 상승 | https://www.jasm.co.kr/news/view/323315/?sc=Naver | a1
+2026-10-28 21:10 | apnews.kr | 삼성물산, 영업익 15%↑…오세철 하이테크가 증가분 111% 책임졌다 | https://www.apnews.kr/news/articleView.html?idxno=3052581 | a1
+2026-10-28 21:07 | HaiSawit | Harga TBS Mitra Plasma Riau Periode 28 Oktober–3 November 2026 Naik, Berikut Daftar per Umur Tanaman | google:HaiSawit#1ee2b153 | aid6
+2026-10-28 20:50 | smartbizn.com | 삼성바이오 노사, 내달 3일 '끝장 교섭' 돌입 | https://www.smartbizn.com/news/articleView.html?idxno=157833 | ax2
+2026-10-28 20:32 | press9.kr | 삼성물산, 삼성바이오로직스 유상증자에 9190억 출자 | http://www.press9.kr/news/articleView.html?idxno=85131 | a1,a7,ax2
+2026-10-28 20:32 | press9.kr | 삼성바이오로직스 '맞춤형 CMC', 이중항체 개발기간 27% 단축 | http://www.press9.kr/news/articleView.html?idxno=85136 | a7,ax2
+2026-10-28 20:20 | newsroad.co.kr | 삼성물산 영업익 1.14조…반도체·재건축이 건설 실적 견인 | http://www.newsroad.co.kr/news/articleView.html?idxno=66655 | a1
+2026-10-28 20:18 | businesspost.co.kr | 정부 '삼성물산 합병 개입' 관련 엘리엇과 국제투자분쟁 최종 패소, 배상... | https://www.businesspost.co.kr/BP?command=article_view&num=450579 | a1
+2026-10-28 20:16 | cwn.kr | 삼성물산, 3분기 영업이익 1조 1,430억 원…전년 대비 15% 증가 | https://www.cwn.kr/news/articleView.html?idxno=60406 | a1
+2026-10-28 20:16 | bloter.net | [바이오사 리포트] 삼성에피스홀딩스 이익 급증…마케팅비 환입 영향 | https://www.bloter.net/news/articleView.html?idxno=677019 | a9,ax3,ax4
+2026-10-28 20:14 | Kilasriau.com | Konflik Muara Langsat Disorot Anggota Komisi III DPR RI, Kuasa Hukum Desak Penyidikan Tak Berhenti pada Pelaku Lapangan | google:Kilasriau.com#a6ad3fbe | aid9
+2026-10-28 20:00 | newsverse.kr | 정부, 엘리엇 국제투자분쟁 패소 수용…1,530억원 배상 확정 | https://www.newsverse.kr/news/articleView.html?idxno=11790 | a1
+2026-10-28 19:43 | METRORIAU.COM | Delapan Daerah di Riau Terima Bantuan Dana Cegah Karhutla | google:METRORIAU.COM#0293fdf5 | aid1
+2026-10-28 19:42 | yakup.com | 삼성바이오로직스 "이중항체, 정밀 조립이 핵심…제조 난제 해결·개발... | https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334432 | a7,ax2
+2026-10-28 19:35 | 뉴스웍스 | Samsung Bio Union declares 'final negotiations' on November 3…Sequential Strike if Talks Fail | google:뉴스웍스#5fd83b3c | aen3
+2026-10-28 19:30 | klikmx.com | Kapolres Pelalawan Ungkap Kasus Abang Tewas Dicincang Adik Kandung, Pelaku Residivis Narkoba | google:klikmx.com#aa39f01d | aid5
+2026-10-28 19:19 | seoul.co.kr | 정부, 엘리엇 국제투자분쟁 최종 패소…배상액 약 1530억원 | https://www.seoul.co.kr/news/society/2026/10/28/20261028500427?wlog_tag3=naver | a1
+2026-10-28 19:08 | woodkorea.co.kr | "매출 12조 뚫고 영업익 1.1조 수확"… 삼성물산, 3분기 잭팟 터졌다 | https://www.woodkorea.co.kr/news/articleView.html?idxno=92202 | a1
+2026-10-28 19:08 | metroseoul.co.kr | 삼성물산 건설부문, 3분기 영업이익 2770억원…전년比 149.5% 증가 | http://www.metroseoul.co.kr/article/20261028500641 | a1,a3
+2026-10-28 18:56 | cnbnews.com | 삼성물산, 3분기 영업익 1조 1430억···"건설 견인" | https://www.cnbnews.com/news/articleView.html?idxno=1021397 | a1,a3
+2026-10-28 18:56 | kmib.co.kr | 정부, 엘리엇에 최종 패소… 배상액 1530억 | https://www.kmib.co.kr/article/20261028502387 | a1
+2026-10-28 18:56 | s-journal.co.kr | 삼성물산, 3분기 영업익 1.1조 돌파…건설 호조에 실적 개선 | https://www.s-journal.co.kr/news/articleView.html?idxno=44899 | a1
+2026-10-28 18:50 | Dealroom | Samsung C&T commits $687M to Samsung Biologics' $2B rights offering | google:Dealroom#a3f277de | aen1,aen3
+2026-10-28 18:50 | BukaMata.Co | Peta Pengangguran Riau 2025, Mengapa Kota Dumai dan Pekanbaru Kalah Sukses dari Pelalawan? | google:BukaMata.Co#76ed2375 | aid6,aid8
+2026-10-28 18:49 | koreajoongangdaily.com | Korea drops eight-year Elliott dispute over Samsung merger, accepts $113 ... | https://www.koreajoongangdaily.com/korea/korea-drops-eightyear-elliott-dispute-over-samsung-merger-accepts-113-million-payout-to-us-hedge-fund/12943392 | a2
+2026-10-28 18:44 | 매일경제 | The first thing to consider in reconstruction and redevelopment investment is location. However, if | google:매일경제#ec2ce0d8 | aen1
+2026-10-28 18:41 | 매일경제 | Honoring the Spirit of Serving the Nation Through Culture ... Memorial Concert Marks the Sixth Anniversary of Former Chairman Lee Kun-hee’s Death | google:매일경제#0065feb5 | aen2
+2026-10-28 18:36 | hankyung.com | 삼성에피스홀딩스, 3분기 영업익 1051억원…전망치 초과 | https://www.hankyung.com/article/202610281496i | a9,ax3,ax4
+2026-10-28 18:32 | fnnews.com | '엘리엇 ISDS' 최종 패소… 韓정부, 1530억 배상해야 | https://www.fnnews.com/news/202610281830127354 | a1
+2026-10-28 18:32 | segye.com | 정부 ‘엘리엇 ISDS’ 최종 패소… 배상액 1530억여원 | https://www.segye.com/newsView/20261028516709?OutUrl=naver | a1
+2026-10-28 18:31 | biz.sbs.co.kr | 삼성바이오에피스, 3분기까지 영업익 3천632억원…지난해 97% 육박 | https://biz.sbs.co.kr/article_hub/20000342812?division=NAVER | a10,ax2,ax5
+2026-10-28 18:27 | fnnews.com | 반도체공장 일감 늘자 실적 웃었다…삼성물산 건설 영업익 2.5배 '껑충' | https://www.fnnews.com/news/202610281825323504 | a1
+2026-10-28 18:22 | TradingView | Samsung C&T: Higher earnings and order guidance accompany expansion into SMRs, data centers and solar operations | google:TradingView#41f76d26 | aen1
+2026-10-28 18:22 | news2day.co.kr | 삼성물산 건설부문, 3분기 영업익 2770억…전년比 150% ↑ | https://www.news2day.co.kr/article/20261028500372 | a1,a3
+2026-10-28 18:20 | industrynews.co.kr | 삼성바이오에피스, 3분기 영업익 1326억원…전년比 2.8%↑ | https://www.industrynews.co.kr/news/articleView.html?idxno=88426 | a10,ax2,ax3,ax5
+2026-10-28 18:18 | 1conomynews.co.kr | 삼성물산, 3Q 영업익 15％↑…레저 빼고 다 웃었다 | https://www.1conomynews.co.kr/news/articleView.html?idxno=51025 | a1
+2026-10-28 18:18 | donga.com | 삼성물산, 3분기 영업이익 1조 1430억…반도체 공사 확대에 건설 수익 2... | https://www.donga.com/news/Economy/article/all/20261028/134927111/1 | a1
+2026-10-28 18:18 | fetv.co.kr | [IR 분석] 삼성물산, 수주목표 상향에 담긴 '플랜트·토목' 성장 의지 | https://www.fetv.co.kr/news/articleView.html?idxno=312627 | a1
+2026-10-28 18:18 | kukinews.com | 삼성물산 건설부문, 3분기 영업익 2.5배↑ …하이테크·해외 공정 순항 | https://www.kukinews.com/article/view/kuk202610280202 | a1,a3
+2026-10-28 18:17 | 아시아경제 | Samsung Biologics: "Bispecific Antibody Development Time Cut by 3.5 Months" | google:아시아경제#7af7de4a | aen3
+2026-10-28 18:17 | view.asiae.co.kr | 삼성바이오로직스 "이중항체 개발 기간 3.5개월 단축" | https://view.asiae.co.kr/article/2026102818175731617 | a7,ax2
+2026-10-28 18:16 | fnnews.com | 삼성물산, 全 사업부문이 실적 날았다 | https://www.fnnews.com/news/202610281813572464 | a1
+2026-10-28 18:16 | newsworks.co.kr | "이중항체 IND까지 9.5개월"…삼성바이오, 개발 기간 3.5개월 단축 제안 | https://www.newsworks.co.kr/news/articleView.html?idxno=901171 | ax2
+2026-10-28 18:15 | sedaily.com | 삼성바이오, BIX 코리아서 이중항체 맞춤형 제조·품질관리 역량 선봬 | https://www.sedaily.com/article/20107397?ref=naver | ax2
+2026-10-28 18:14 | Seoul Economic Daily | Samsung Biologics Unveils Custom Bispecific Antibody Development Platform | google:Seoul Economic Daily#8901001b | aen3
+2026-10-28 18:12 | mdtoday.co.kr | 삼성바이오로직스 노사, 11월 3일 '끝장교섭'…"결렬 시 순차 파업" | https://www.mdtoday.co.kr/news/articleView.html?idxno=621542 | a7,ax2
+2026-10-28 18:10 | goodkyung.com | 삼성물산, 평택 반도체 공사에 영업익 2.5배…건설 수주 목표액 '30조' | https://www.goodkyung.com/news/articleView.html?idxno=292861 | a1
+2026-10-28 18:08 | dealsite.co.kr | [BIX 2026] 이태희 삼성바이오로직스 상무 “이중항체 개발, 맞춤형 전략... | https://dealsite.co.kr/articles/171589 | a7,ax2
+2026-10-28 18:08 | newsway.co.kr | 삼성바이오로직스, 이중항체 맞춤형 CMC로 '9.5개월 패스트트랙' 승부수... | https://www.newsway.co.kr/news/view?ud=2026102816483069965 | a7,ax2
+2026-10-28 18:08 | joongangenews.com | 삼성바이오로직스 주가, 10월 28일 애프터마켓 1,368,000원 0.44% 하락 | https://www.joongangenews.com/news/articleView.html?idxno=559288 | a7,ax2
+2026-10-28 18:07 | sedaily.com | 삼성물산, 영업익 1.1조…건설이 실적 견인 | https://www.sedaily.com/article/20107378?ref=naver | a1
+2026-10-28 18:06 | Seoul Economic Daily | Samsung C&T Posts 1.1 Trillion Won Operating Profit on Construction Surge | google:Seoul Economic Daily#bdf8b332 | aen1
+2026-10-28 18:06 | tfmedia.co.kr | [3Q 실적] 삼성물산, 반도체 공사에 실적 급증…영업익 150% 늘어 | https://www.tfmedia.co.kr/news/article.html?no=208455 | a1
+2026-10-28 18:04 | dealsite.co.kr | 삼성물산 상사, 트레이딩 호조에 3Q 영업익 30.3%↑ | https://dealsite.co.kr/articles/171582 | a1
+2026-10-28 18:03 | Sawit Indonesia | Jangan Tunggu Api Muncul, Kementan Perketat Regulasi Pengolahan Lahan Tanpa Membakar dan Kesiapsiagaan Karhutla | google:Sawit Indonesia#ddd4e5f6 | aid6
+2026-10-28 18:02 | news1.kr | 삼성바이오로직스, 이중항체 개발 기간 27% 단축…CDO 경쟁력 강화 | https://www.news1.kr/bio/pharmaceutical-bio/6335378 | a7,ax2
+2026-10-28 18:01 | Aju Press | Unionized workers at Samsung Biologics to resume wage talks next week | google:Aju Press#cb1b2728 | aen3
+2026-10-28 18:00 | Seoul Economic Daily | Hyundai Leads Redevelopment Race as Samsung Closes In | google:Seoul Economic Daily#7197e1a4 | aen1
+2026-10-28 17:58 | koreastocknews.com | 삼성물산, 3분기 건설 영업익 149.5% 증가···하이테크·해외공사 호조 | http://www.koreastocknews.com/news/articleView.html?idxno=121982 | a1
+2026-10-28 17:58 | todaykorea.co.kr | 삼성물산, 3Q 매출 12조80억원···전년比 18.3%↑ | https://www.todaykorea.co.kr/news/articleView.html?idxno=407800 | a1
+2026-10-28 17:56 | BigGo Finance | South Korea's Samsung C&T Fashion Q3 Operating Profit 200 Billion Won (approximately $15 Million), Up 67% Even in Off-Season | google:BigGo Finance#0a0a5843 | aen1
+2026-10-28 17:55 | hankyung.com | 반도체 공사 본궤도…3분기 삼성물산 건설부문 영업익 150% 증가 | https://www.hankyung.com/article/202610281555i | a1,a3
+2026-10-28 17:55 | BigGo Finance | South Korea's Samsung C&T Q3 Operating Profit approximately $853.9 Million, Up 15% on High-Tech Construction | google:BigGo Finance#754c28a1 | aen1,aen3
+2026-10-28 17:54 | dealsite.co.kr | [BIX 2026] 김경아 삼성바이오에피스 사장 “내년 신약 임상 진입 자신” | https://dealsite.co.kr/articles/171570 | a10,ax2,ax5
+2026-10-28 17:53 | bloter.net | 삼성물산, '모듈러 양산'으로 美 데이터센터 겨냥 | https://www.bloter.net/news/articleView.html?idxno=677012 | a1
+2026-10-28 17:52 | weeklytoday.com | [위클리오늘] 삼성물산, 3분기 영업이익 1조1430억···전년比 15.0% 증가 | http://www.weeklytoday.com/news/articleView.html?idxno=800051 | a1
+2026-10-28 17:52 | biospectator.com | 삼성바이오에피스, 3Q 매출 4422억·영업이익 1326억 | https://www.biospectator.com/view/news_view.php?varAtcId=30227 | a10,ax2,ax5
+2026-10-28 17:50 | sateconomy.co.kr | 삼성물산 건설, 3분기 영업익 2770억원…연간 수주목표 30조1000억으로 상... | https://sateconomy.co.kr/news/view/1065602270335589 | a1
+2026-10-28 17:50 | newsis.com | "이중항체 맞춤설계"…삼성바이오, CMC 역량 소개 | https://www.newsis.com/view/NISX20261028_0003845348 | ax2
+2026-10-28 17:49 | news.tvchosun.com | 정부, 엘리엇 국제투자분쟁 최종패소…"1530억원 배상해야" | https://news.tvchosun.com/site/data/html_dir/2026/10/28/2026102890225.html | a1
+2026-10-28 17:48 | smartbizn.com | 삼성물산 3분기 실적 '건설이 살렸다'···영업익 1.1조 돌파 | https://www.smartbizn.com/news/articleView.html?idxno=157835 | a1
+2026-10-28 17:48 | dealsite.co.kr | 삼성바이오에피스, ‘솔리리스·스텔라라’ 시밀러 덕 봤다 | https://dealsite.co.kr/articles/171560 | a10,ax2,ax5
+2026-10-28 17:48 | newsworks.co.kr | 삼성바이오에피스, 효자 'SB12·SB17'…3분기 영업익 1326억 누적 3632억 | https://www.newsworks.co.kr/news/articleView.html?idxno=901167 | a10,ax2,ax5
+2026-10-28 17:47 | health.chosun.com | 삼성바이오에피스부터 머크까지… 제약·바이오기업 한자리에 | https://health.chosun.com/site/data/html_dir/2026/10/28/2026102803138.html | a10,ax2,ax5
+2026-10-28 17:46 | newspost.kr | 삼성물산 건설부문, 3분기 영업이익 149.5%↑…연간 수주 목표 상향 | https://www.newspost.kr/news/articleView.html?idxno=226806 | a1,a3
+2026-10-28 17:45 | mk.co.kr | 삼성전기·삼성물산 "생큐, AI"…3분기 매출도 영업이익도 '쑥' | https://www.mk.co.kr/article/12188740 | a1
+2026-10-28 17:44 | 매일경제 | Samsung Electro-Mechanics and Samsung C&T have achieved significant external growth and profit e.. | google:매일경제#cde76f49 | aen1
+2026-10-28 17:44 | thepublic.kr | 삼성물산 건설부문, 하이테크 타고 '실적 질주'…3분기 영업익 2.5배 껑... | https://www.thepublic.kr/news/articleView.html?idxno=324163 | a1,a3
+2026-10-28 17:40 | biz.newdaily.co.kr | 삼성바이오로직스 노사, 내달 3일 교섭 재개 … 노조 "결렬 시 순차 파업... | https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800244.html | a7,ax2
+2026-10-28 17:36 | it.chosun.com | 삼성물산 패션부문, 3분기 영업익 200억…전년비 66.7% 증가 | https://it.chosun.com/news/articleView.html?idxno=2023092173013 | a1,a5
+2026-10-28 17:36 | etoday.co.kr | 삼성바이오로직스, 이중항체 개발 맞춤형 CMC 역량 선봬 | https://www.etoday.co.kr/news/view/2641316 | a7,ax2
+2026-10-28 17:36 | financialreview.co.kr | 삼성바이오에피스, 마일스톤 감소에도 선방…누적매출 1.2조원 | http://www.financialreview.co.kr/news/articleView.html?idxno=45905 | a10,ax2,ax5
+2026-10-28 17:34 | SBS 뉴스 | South Korea Loses Final International Investment Dispute Against Elliott, Ordered to Pay W153 Billion | google:SBS 뉴스#952bd693 | aen2
+2026-10-28 17:32 | seoulfn.com | 삼성물산 건설부문, 3Q 영업익 2770억원···전년比 149.6%↑ | https://www.seoulfn.com/news/articleView.html?idxno=641263 | a1,a3
+2026-10-28 17:32 | apsk.co.kr | 삼성바이오에피스, 3Q 영업이익 1326억…전년 연간 실적 97% 달성 | https://www.apsk.co.kr/news/articleView.html?idxno=540895 | a10,ax2,ax5
+2026-10-28 17:32 | econovill.com | 삼성바이오에피스, 외형 키우고 내실 다졌다 | https://www.econovill.com/news/articleView.html?idxno=755226 | a10,ax2,ax5
+2026-10-28 17:31 | Investing.com | Samsung C&T Q3 2026 slides: profit rises, order target lifted 28% | google:Investing.com#bd599f64 | aen1
+2026-10-28 17:30 | popcornnews.net | '전사 실적 견인' 삼성물산 건설부문...3분기 영업익, 전년比 150%↑ | http://www.popcornnews.net/news/articleView.html?idxno=137739 | a1,a3
+2026-10-28 17:28 | peoplewatch.co.kr | 패션 살아나고 리조트 웃었다…삼성물산, 영업익 1.1조 돌파 | https://www.peoplewatch.co.kr/article/view/ppw202610280018 | a1
+2026-10-28 17:26 | lkp.news | 삼성물산 전대식 팀장 "SMR 성공하려면 설계부터 모듈화 전제해야… 규... | http://www.lkp.news/news/articleView.html?idxno=85541 | a1
+2026-10-28 17:26 | ttlnews.com | 건설 하이테크·상사 트레이딩 견인…삼성물산 3분기 매출 12조원 돌파 | http://www.ttlnews.com/news/articleView.html?idxno=3156398 | a1
+2026-10-28 17:26 | newsway.co.kr | 삼성물산 건설부문, 3분기 영업이익 두 배↑...하이테크 프로젝트 견인 | https://www.newsway.co.kr/news/view?ud=2026102817201238806 | a1,a3
+2026-10-28 17:25 | BigGo Finance | South Korea's Samsung Bioepis Posts Q3 Operating Profit of 132.6 Billion Won, Already at 97% of Last Year's Full-Year Result | google:BigGo Finance#d1bebc1d | aen4
+2026-10-28 17:24 | ddaily.co.kr | 삼성바이오로직스, 이중항체 개발 속도 높인다…9.5개월 패스트트랙 제... | https://www.ddaily.co.kr/page/view/2026102817174301546 | a7,ax2
+2026-10-28 17:23 | news1.kr | 삼성바이오로직스 노사, 내달 3일 임단협 교섭 재개 | https://www.news1.kr/bio/pharmaceutical-bio/6335328 | a7,ax2
+2026-10-28 17:22 | financialpost.co.kr | [3Q실적] 삼성물산 패션부문, '주력 브랜드 호조' 매출·영업익 동반성... | https://www.financialpost.co.kr/news/articleView.html?idxno=283132 | a1,a5
+2026-10-28 17:22 | newsway.co.kr | 김경아 사장, '실적·신약' 두 토끼 잡았다…삼성에피스, 3Q 영업익 1326억... | https://www.newsway.co.kr/news/view?ud=2026102816311489891 | ax3
+2026-10-28 17:21 | sedaily.com | 삼성물산, 3분기 영업익 1.1조…건설 호조에 15% 증가 | https://www.sedaily.com/article/20107308?ref=naver | a1
+2026-10-28 17:20 | Seoul Economic Daily | Samsung C&T Q3 Operating Profit Rises 15% to 1.1 Trillion Won on Construction | google:Seoul Economic Daily#1793e32a | aen1
+2026-10-28 17:20 | news2day.co.kr | 삼성물산 패션부문, 3Q 매출 4980억…주력 브랜드 호조에 11.9% 증가 | https://www.news2day.co.kr/article/20261028500317 | a1,a5
+2026-10-28 17:18 | sisacast.kr | 삼성물산, 3분기 연결기준 매출 12조억 기록…전년 동기 대비 18.29% 증가 | http://www.sisacast.kr/news/articleView.html?idxno=101403 | a1
+2026-10-28 17:16 | kukinews.com | 에버랜드 말고 급식이 효자…삼성물산 리조트, 3Q 영업익 16.4%↑ | https://www.kukinews.com/article/view/kuk202610280188 | a1
+2026-10-28 17:16 | hankookilbo.com | 정부, 엘리엇 1530억 원 배상 판정 수용… 추가 소송 포기 | https://www.hankookilbo.com/news/article/A2026102815110002235?did=NA | a1
+2026-10-28 17:16 | megaeconomy.co.kr | "3분기 만에 작년 영업익 97% 육박"…삼성바이오에피스, 글로벌 판매 효... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600748660753 | a10,ax2,ax5
+2026-10-28 17:15 | joseilbo.com | 정부, 엘리엇 ISDS 최종 패소...'1530억 배상판정' 취소소송 않기로 | http://www.joseilbo.com/news/news_read.php?uid=578379&class=32&grp= | a1
+2026-10-28 17:14 | Chosunbiz | Samsung C&T fashion unit lifts Q3 profit 67% on strong flagship sales | google:Chosunbiz#cd84c01e | aen1
+2026-10-28 17:13 | sedaily.com | 삼성바이오에피스, 3분기 영업익 1326억…전분기보다 53% 증가 | https://www.sedaily.com/article/20107303?ref=naver | a10,ax2,ax5
+2026-10-28 17:12 | Seoul Economic Daily | Samsung Bioepis Q3 Operating Profit Jumps 53% From Prior Quarter | google:Seoul Economic Daily#6f81570f | aen4
+2026-10-28 17:12 | kizmom.com | 삼성물산, 건설 실적 뛰었다…영업이익 1조1430억원 달성 | https://www.kizmom.com/news/articleView.html?idxno=113596 | a1
+2026-10-28 17:12 | digitalchosun.dizzo.com | 바이오 실적 덮친 환율 변수…삼성바이오에피스, 영업이익 2.8%↑·세전... | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/28/2026102880180.html | a10,ax2,ax5
+2026-10-28 17:10 | meconomynews.com | 삼성바이오에피스, 3Q 영업익 1326억... 전분기 대비 53% 증가 | https://www.meconomynews.com/news/articleView.html?idxno=203039 | a10,ax2,ax5
+2026-10-28 17:10 | pharmnews.com | 삼성바이오에피스, 3분기 매출 4422억·영업익 1326억원 기록 | https://www.pharmnews.com/news/articleView.html?idxno=307386 | a10,ax2,ax5
+2026-10-28 17:10 | moneystorm.kr | 삼성바이오에피스, 3분기 영업익 1326억 전년比 2.8%↑…글로벌 판매 호... | https://www.moneystorm.kr/news/articleView.html?idxno=7775 | a10,ax2,ax5
+2026-10-28 17:08 | public25.com | 삼성물산 3분기 영업익 1조 1000억... 15% 상승에 "건설이 이끌었다" | https://www.public25.com/news/articleView.html?idxno=57422 | a1
+2026-10-28 17:08 | whitepaper.co.kr | 삼성물산 3분기 영업이익 1.1조···건설 부문이 실적 견인 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268232 | a1,a3
+2026-10-28 17:08 | asiaa.co.kr | 삼성물산, 3분기 영업익 1조 돌파...전 사업 부문 실적 개선 | https://www.asiaa.co.kr/news/articleView.html?idxno=268343 | a1
+2026-10-28 17:07 | en.yna.co.kr | (LEAD) Samsung C&T Q3 net falls 9.5 pct on FX losses | https://en.yna.co.kr/view/AEN20261028008451320?input=2106m | a2,aen1
+2026-10-28 17:06 | catchnews.kr | '건설부문 고성장' 삼성물산, 3Q 영업익 1조1428억·전년동기比 15%↑ | https://www.catchnews.kr/news/articleView.html?idxno=129907 | a1,a3
+2026-10-28 17:06 | m-i.kr | 삼성물산 상사 3분기 영업익 990억, 30.3%↑…트레이딩·테크 호조 | https://www.m-i.kr/news/articleView.html?idxno=2011545 | a1
+2026-10-28 17:04 | womentimes.co.kr | 삼성물산, 2026년 3분기 매출 12조80억원 영업이익 1조1430억원 | https://www.womentimes.co.kr/news/articleView.html?idxno=107384 | a1
+2026-10-28 17:03 | 머니투데이 | Samsung C&T bets on modular construction to cut SMR build times and costs | google:머니투데이#1c07938a | aen1
+2026-10-28 17:03 | mt.co.kr | "SMR 경제성 열쇠는 건설기간 단축"..삼성물산, 모듈화 승부 | https://www.mt.co.kr/industry/2026/10/28/2026102814510960844 | a1
+2026-10-28 17:02 | topstarnews.net | 삼성물산 주가, 10월 28일 애프터마켓 324,000원 7.64% 상승 | https://www.topstarnews.net/news/articleView.html?idxno=16260798 | a1
+2026-10-28 17:01 | magazine.hankyung.com | 삼성물산 건설부문, 3분기 영업익 2770억원…하이테크 공사 본격화 영향 | https://magazine.hankyung.com/business/article/202610281248b | a1,a3
+2026-10-28 17:00 | niceeconomy.co.kr | [건설 브리핑] 삼성물산·현대건설·태영건설·LH | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91587 | a1
+2026-10-28 17:00 | ajunews.com | 삼성물산 건설부문 3분기 영업이익 2770억… 1년 새 2.5배 | https://www.ajunews.com/view/20261028165545199 | a1,a3
+2026-10-28 16:59 | biz.sbs.co.kr | 삼성물산 건설 3분기 영업익 2천770억원…전년비 150% 증가 | https://biz.sbs.co.kr/article_hub/20000342765?division=NAVER | a1
+2026-10-28 16:57 | 조선일보 | South Korea to Pay Elliott 153 Billion Won in Samsung Merger Dispute | google:조선일보#8b7e038e | aen1,aen2
+2026-10-28 16:57 | biz.chosun.com | 삼성바이오에피스, 3분기 영업익 1326억…제품 판매 영업익 21%↑ | https://biz.chosun.com/science-chosun/bio/2026/10/28/2SCG5PG75FCBBIEXICNP6FBREY/?utm_source=naver&utm_medium=original&utm_campaign=biz | a10,ax2,ax5
+2026-10-28 16:56 | kukinews.com | 삼성물산 패션, 비수기 이겨냈다…3분기 영업익 66.7%↑ | https://www.kukinews.com/article/view/kuk202610280182 | a1
+2026-10-28 16:56 | moneystorm.kr | 삼성물산, 3분기 영업익 1조1430억 전년比 15% 증가...건설부문 호조 | https://www.moneystorm.kr/news/articleView.html?idxno=7774 | a1,a3
+2026-10-28 16:56 | Chosunbiz | Samsung Bioepis lifts Q3 profit on global biosimilar sales, advances pipeline | google:Chosunbiz#4172c2b2 | aen4,aen5
+2026-10-28 16:54 | megaeconomy.co.kr | 삼성물산 패션, 비수기에도 웃었다…3분기 영업익 67% 급증 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599373144506 | a1
+2026-10-28 16:54 | topdaily.kr | 삼성물산 패션·레저·식음, 3Q 영업익 전년比 11.9%↑ | https://www.topdaily.kr/articles/112560 | a1
+2026-10-28 16:52 | newscj.com | 삼성물산, 3분기 영업익 1조 1428억원… 전년比 15%↑ | https://www.newscj.com/news/articleView.html?idxno=3443947 | a1
+2026-10-28 16:52 | ftoday.co.kr | '뻥튀기 제재' 논란…공정위, 법정에서 연전연패 | http://www.ftoday.co.kr/news/articleView.html?idxno=368380 | a12,ax6
+2026-10-28 16:51 | dailian.co.kr | 삼성바이오에피스, 3분기 영업익 전년비 2.8%↑ | https://www.dailian.co.kr/news/view/1707540/?sc=Naver | a10,ax2,ax5
+2026-10-28 16:50 | sisajournal-e.com | 삼성물산, 쌍용1차 이어 우성1차·쌍용2차도 '눈독'···대치동 '래미안... | https://www.sisajournal-e.com/news/articleView.html?idxno=424636 | a1
+2026-10-28 16:49 | newsis.com | '반도체 효과' 삼성물산 건설부문, 3분기 영업익 150% 증가 | https://www.newsis.com/view/NISX20261028_0003845218 | a1,a3
+2026-10-28 16:47 | fnnews.com | 삼성물산 패션, 영업익 200억·67%↑...매출·수익 모두 확대 | https://www.fnnews.com/news/202610281557394635 | a1
+2026-10-28 16:47 | sidae.com | 삼성물산 3분기 영업이익 1조원 돌파…"건설, 하이테크 견인" | https://www.sidae.com/article/2026102816174010442 | a1
+2026-10-28 16:46 | 머니투데이 | Samsung Biologics Epix: Solid Similar Performance… On Track for Leap to 'World-Class' Status | google:머니투데이#c7a11f99 | aen3
+2026-10-28 16:46 | yna.co.kr | 삼성물산 3분기 영업익 1조1천억원으로 15%↑…건설, 실적 견인(종합2보... | https://www.yna.co.kr/view/AKR20261028139452527?input=1195m | a1
+2026-10-28 16:46 | segyebiz.com | “땡큐 반도체” 삼성물산 건설, 3분기 영업익 150% 급증 | http://www.segyebiz.com/newsView/20261028516638?OutUrl=naver | a1
+2026-10-28 16:46 | mt.co.kr | 삼성바이오에피스, 시밀러 실적 "탄탄"… '초일류' 도약 순항 | https://www.mt.co.kr/thebio/2026/10/29/2026102816024799659 | a10,ax2,ax5
+2026-10-28 16:44 | TradingView | Samsung C&T: E&C and Bio growth lifted operating profit as net income declined YoY | google:TradingView#6e602157 | aen1
+2026-10-28 16:44 | financialpost.co.kr | [3Q실적] 삼성물산 영업익 1조원 돌파…건설·상사·패션 전 부문 호조 | https://www.financialpost.co.kr/news/articleView.html?idxno=283117 | a1
+2026-10-28 16:44 | newsgn.com | 정부, 엘리엇 ISDS 패소 최종 확정…배상액 약 1530억원 확정 | https://www.newsgn.com/news/articleView.html?idxno=582094 | a1
+2026-10-28 16:44 | news.einfomax.co.kr | 삼성물산, 삼성바이오 유증에 9천190억원 출자 | https://news.einfomax.co.kr/news/articleView.html?idxno=4441683 | a1,ax2
+2026-10-28 16:43 | news.tf.co.kr | 삼성바이오에피스 3분기 영업익 2.8% 증가…바이오시밀러 매출 상승 | https://news.tf.co.kr/read/economy/2382039.htm | a10,ax2,ax5
+2026-10-28 16:42 | www.marketscreener.com | Samsung Epis Holdings Logs KRW96.3 Billion in Q3 Attributable Net Income | google:www.marketscreener.com#53f47198 | aen5
+2026-10-28 16:42 | dnews.co.kr | 삼성물산 3분기 영업익 1조1430억원으로 15%↑ | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281624088560624 | a1
+2026-10-28 16:42 | financialpost.co.kr | [3Q실적] 삼성물산 건설, 영업익 2770억원 250%↑…하이테크 해외건축 쌍... | https://www.financialpost.co.kr/news/articleView.html?idxno=283114 | a1
+2026-10-28 16:42 | the-biz.co.kr | 삼성물산 건설부문, 3분기 영업익 2770억원… 수익성 개선 | http://www.the-biz.co.kr/news/articleView.html?idxno=730161 | a1,a3
+2026-10-28 16:42 | asiatoday.co.kr | 삼성바이오에피스, 美 매출 37% 성장…연매출 10% 증가 목표는 '4분기 관... | https://www.asiatoday.co.kr/kn/view.php?key=20261028010010045 | a10,ax2,ax5
+2026-10-28 16:40 | businesskorea.co.kr | 삼성바이오로직스, 마지막 노사교섭…결렬 시 순차파업 돌입 | https://www.businesskorea.co.kr/news/articleView.html?idxno=279897 | a7,ax2
+2026-10-28 16:40 | smedaily.co.kr | 삼성바이오에피스, 3분기 매출 4422억원 | http://www.smedaily.co.kr/news/articleView.html?idxno=365358 | a10,ax2,ax5
+2026-10-28 16:40 | s-journal.co.kr | '일단 최대치' 때리고 보는 공정위 과징금에 기업들 '멍'… 법원 가면 과... | https://www.s-journal.co.kr/news/articleView.html?idxno=44879 | a12,ax6
+2026-10-28 16:39 | seoultimes.news | 삼성물산 3분기 영업이익 1조1430억원…건설부문 실적 견인 | https://www.seoultimes.news/news/article.html?no=2000101487 | a1,a3
+2026-10-28 16:38 | marketscreener.com | Samsung C&T Posts Lower Q3 Attributable Net Income; Sales Up | google:marketscreener.com#050508c9 | aen1
+2026-10-28 16:38 | asiatime.co.kr | 삼성물산, 3Q 영업익 2770억원…전년 比 150% 증가 | https://www.asiatime.co.kr/article/20261028500356 | a1
+2026-10-28 16:38 | kormedi.com | 삼성바이오에피스, 9개월 만에 3632억 벌었다⋯지난해 1년치 영업이익의... | https://kormedi.com/?p=2894063 | a10,ax2,ax5
+2026-10-28 16:37 | news.bizwatch.co.kr | 삼성바이오에피스, 3Q 마일스톤 줄었지만 영업익 늘어 | https://news.bizwatch.co.kr/article/healthcare/2026/10/28/0039 | a10,ax2,ax5
+2026-10-28 16:36 | ezyeconomy.com | 삼성물산, 3분기 영업익 1조1430억…건설 호조에 실적 개선 | https://www.ezyeconomy.com/news/articleView.html?idxno=241299 | a1
+2026-10-28 16:36 | biz.newdaily.co.kr | 삼성물산 상사부문, 3분기 영업익 990억원 … 전년比 30.3% 증가 | https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800338.html | a1,a4
+2026-10-28 16:36 | sateconomy.co.kr | 삼성물산 패션·리조트, 3분기 동반 성장…패션 영업익 66.7% 증가 | https://sateconomy.co.kr/news/view/1065597808632318 | a1
+2026-10-28 16:34 | financialpost.co.kr | [3Q실적] 삼성물산 상사 영업익 990억원…'산업재 트레이딩' 호조 | https://www.financialpost.co.kr/news/articleView.html?idxno=283112 | a1
+2026-10-28 16:34 | g-enews.com | 삼성물산 패션, 3분기 외형·수익성 동반 성장 | https://www.g-enews.com/view.php?ud=202610281630317805740eacf404_1 | a1
+2026-10-28 16:34 | news.einfomax.co.kr | 삼성물산, 3Q 예상 웃돈 영업익…건설 매출 호조(종합) | https://news.einfomax.co.kr/news/articleView.html?idxno=4441681 | a1
+2026-10-28 16:34 | financialpost.co.kr | 삼성바이오로직스 노사, 11월 3일 재교섭…노조 "결렬 땐 단계적 파업" | https://www.financialpost.co.kr/news/articleView.html?idxno=283120 | a7,ax2
+2026-10-28 16:33 | biz.heraldcorp.com | ‘반도체 효과’ 삼성물산 건설부문, 3분기 영업익 2770억원…전년比 1... | https://biz.heraldcorp.com/article/10917978?ref=naver | a1,a3
+2026-10-28 16:32 | 헤럴드경제 | Samsung C&T construction unit posts W277b operating profit in Q3, up 149% on year | google:헤럴드경제#27ca1500 | aen1
+2026-10-28 16:32 | ekn.kr | 삼성물산 건설부문, 3분기 영업익 150% 급증…수주 목표 30조 상향 | https://www.ekn.kr/web/view.php?key=20261028026202332 | a1,a3
+2026-10-28 16:32 | news.dealsitetv.com | 삼성바이오에피스, 3분기 만에 지난해 영업익 97% 달성 | https://news.dealsitetv.com/articles/177662 | a10,ax2,ax5
+2026-10-28 16:30 | newsinside.kr | 삼성물산, 영업익 1.1조 '깜짝 실적'…시장 전망 18% 웃돌았다 | https://www.newsinside.kr/news/articleView.html?idxno=5035252 | a1
+2026-10-28 16:28 | inthenews.co.kr | [2026 3분기 실적] 삼성물산, 3분기 영업이익 1조1430억원…건설·리조트... | https://www.inthenews.co.kr/news/article.html?no=93674 | a1
+2026-10-28 16:28 | edaily.co.kr | 삼성물산, 3분기 영업익 1.14조…건설·상사 고른 성장세(종합) | https://www.edaily.co.kr/News/Read?newsId=05287366645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
+2026-10-28 16:28 | edaily.co.kr | 삼성바이오 노사, 내달 3일 교섭 재개…노조 “결렬 땐 파업” | https://www.edaily.co.kr/News/Read?newsId=05290646645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a7,ax2
+2026-10-28 16:28 | sentv.co.kr | 삼성바이오에피스, 3분기 영업익 1326억…마일스톤 제외 21% 증가 | https://www.sentv.co.kr/article/view/sentv202610280182 | a10,ax2,ax5
+2026-10-28 16:28 | kmedinfo.co.kr | 삼성바이오에피스, 3분기 영업익 1,326억 원 달성 | http://www.kmedinfo.co.kr/news/articleView.html?idxno=98532 | a10,ax2,ax5
+2026-10-28 16:28 | etoday.co.kr | 삼성바이오에피스, 누적 영업익 작년 수준 육박⋯ADC 신약도 순항 | https://www.etoday.co.kr/news/view/2641265 | a10,ax2,ax5
+2026-10-28 16:24 | TradingView | Samsung Epis Holdings: Q3 growth continued, while non-cash charges reduced consolidated operating profit | google:TradingView#7ea7a186 | aen5
+2026-10-28 16:24 | financialpost.co.kr | [3Q 실적] 삼성바이오에피스, 영업익 1326억원⋯바이오시밀러 글로벌 판... | https://www.financialpost.co.kr/news/articleView.html?idxno=283110 | a10,ax2,ax5
+2026-10-28 16:23 | Chosunbiz | Samsung C&T trading unit lifts Q3 profit 30% on stronger industrial materials | google:Chosunbiz#e61a23a4 | aen1
+2026-10-28 16:21 | 매일경제 | Samsung C&T achieved an operating profit of more than KRW 1 trillion in the third quarter of thi.. | google:매일경제#f5a2bf04 | aen1
+2026-10-28 16:20 | news2day.co.kr | 삼성바이오에피스, 3분기 실적 성장...바이오시밀러 판매 확대 | https://www.news2day.co.kr/article/20261028500278 | a10,ax2,ax5
+2026-10-28 16:19 | yna.co.kr | 삼성바이오에피스, 3분기 영업익 2.8%↑…시밀러 판매 호조(종합) | https://www.yna.co.kr/view/AKR20261028143751527?input=1195m | a10,ax2,ax5
+2026-10-28 16:18 | iminju.net | 삼성물산 건설부문, 3분기 영업이익 149.5%↑…하이테크·해외공사 호조 | http://www.iminju.net/news/articleView.html?idxno=171570 | a1,a3
+2026-10-28 16:18 | businesspost.co.kr | 삼성물산 건설부문 3분기 영업이익 2770억 150% 급증, "연간 수주 목표 ... | https://www.businesspost.co.kr/BP?command=article_view&num=450537 | a1,a3
+2026-10-28 16:18 | econovill.com | 삼성물산 건설부문, 3분기 영업익 2770억원...전년 동기 대비 149.55% 급등 | https://www.econovill.com/news/articleView.html?idxno=755200 | a1,a3
+2026-10-28 16:17 | view.asiae.co.kr | 삼성물산 3분기 영업익 1조1430억…건설부문 150%↑ | https://view.asiae.co.kr/article/2026102816170987682 | a1,a3
+2026-10-28 16:16 | mt.co.kr | 반도체 공사에 실적 뛰었다…삼성물산 건설, 3분기 영업익 149.5%↑ | https://www.mt.co.kr/estate/2026/10/28/2026102816051913762 | a1
+2026-10-28 16:16 | digitalchosun.dizzo.com | ‘10년 물량 보장’ 설명한 삼성바이오에피스 브라질 계약, 실제 공급량... | http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/28/2026102880159.html | a10,ax2,ax5
+2026-10-28 16:14 | the-biz.co.kr | 삼성물산 패션부문, 3분기 영업익 200억원… 수익 개선 성공 | http://www.the-biz.co.kr/news/articleView.html?idxno=730152 | a1,a5
+2026-10-28 16:14 | pointdaily.co.kr | 삼성바이오에피스, 3분기 영업익 1326억…매출은 4422억 | https://www.pointdaily.co.kr/news/articleView.html?idxno=323998 | a10,ax2,ax5
+2026-10-28 16:13 | dt.co.kr | 삼성바이오, 노사 11월 3일 ‘끝장 교섭’…결렬시 파업 돌입 | https://www.dt.co.kr/article/12091845?ref=naver | a7,ax2
+2026-10-28 16:12 | wowtv.co.kr | 삼성물산, 건설이 이끈 어닝서프라이즈…건설 이익 두 배 넘게 증가 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280150&t=NN | a1
+2026-10-28 16:12 | inthenews.co.kr | [2026 3분기 실적] 삼성바이오에피스, 영업이익 1326억원…53% 급증 | https://www.inthenews.co.kr/news/article.html?no=93668 | a10,ax2,ax5
+2026-10-28 16:10 | viva100.com | 삼성물산 건설부문, 3분기 영업익 149.5%↑… 해외 프로젝트 공정 호조 | https://www.viva100.com/article/20261028501318 | a1,a3
+2026-10-28 16:10 | socialvalue.kr | 삼성물산, 3분기 영업익 1조1430억 전년비 15% 증가…"전 사업 부문 고른... | https://www.socialvalue.kr/news/view/1065595937032256 | a1
+2026-10-28 16:10 | newsian.co.kr | 삼성바이오에피스, 3Q 영업익 1326억 원…'솔리리스·스텔라라' 견인 | https://www.newsian.co.kr/news/articleView.html?idxno=100131 | a10,ax2,ax5
+2026-10-28 16:10 | newspim.com | 삼성바이오에피스, 3분기 만에 작년 연간 영업익 97% 달성 | https://www.newspim.com/news/view/20261028001380 | a10,ax2,ax5
+2026-10-28 16:10 | biz.newdaily.co.kr | 삼성바이오에피스, 3Q 영업익 전분기比 53% 증가 … 제품판매 확대 | https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800322.html | a10,ax2,ax5
+2026-10-28 16:09 | joseilbo.com | '반도체·데이터센터 공사 호조'…삼성물산, 3분기 영업익 15%↑ | http://www.joseilbo.com/news/news_read.php?uid=578373&class=17&grp= | a1
+2026-10-28 16:09 | news.tvchosun.com | 삼바 노사, 다음달 3일 끝장교섭 나선다…노조 "결렬되면 파업 돌입" | https://news.tvchosun.com/site/data/html_dir/2026/10/28/2026102890203.html | a7,ax2
+2026-10-28 16:08 | 헤럴드경제 | Samsung C&T posts W1.14tr operating profit in Q3, up 15% | google:헤럴드경제#199e8ab6 | aen1
+2026-10-28 16:08 | Korea JoongAng Daily | Korea to pay Elliott $48.49 million plus interest over Samsung merger dispute | google:Korea JoongAng Daily#6e4e4e50 | aen1,aen2
+2026-10-28 16:08 | wsobi.com | 현대건설·삼성물산, 한국콘크리트학회 기술인증 획득...3분기 매출 12조... | http://www.wsobi.com/news/articleView.html?idxno=320557 | a1
+2026-10-28 16:08 | businessplus.kr | [비즈+]삼성물산 3분기 영업이익 1조1430억원…건설부문 영업익 전년比... | https://www.businessplus.kr/news/articleView.html?idxno=118874 | a1,a3
+2026-10-28 16:08 | businesspost.co.kr | 삼성바이오에피스 3분기 영업이익 1326억으로 2.8% 증가, "바이오시밀러... | https://www.businesspost.co.kr/BP?command=article_view&num=450540 | a10,ax2,ax5
+2026-10-28 16:06 | ebn.co.kr | 삼성물산 상사, 3분기 영업익 30%↑…"트레이딩이 실적 견인" | https://www.ebn.co.kr/news/articleView.html?idxno=1729549 | a1
+2026-10-28 16:06 | daily.hankooki.com | 삼성물산, 3분기 영업익 전년比 15% ↑…건설부문이 성장세 견인 | https://daily.hankooki.com/news/articleView.html?idxno=1419372 | a1,a3
+2026-10-28 16:05 | The Korea Times | Korea accepts int'l arbitration in favor of Elliott in Samsung merger case | google:The Korea Times#7db204ad | aen1
+2026-10-28 16:04 | joongangenews.com | 삼성물산, 3분기 영업익 1조1430억원...건설 실적 개선에 전년比 15% ↑ | https://www.joongangenews.com/news/articleView.html?idxno=559224 | a1
+2026-10-28 16:04 | news.dealsitetv.com | 삼성물산 건설, 하이테크·해외공사 실적 개선 | https://news.dealsitetv.com/articles/177658 | a1
+2026-10-28 16:04 | 4th.kr | 삼성물산 3분기 영업익 1.1조 전년비 15%↑…건설 150% 급증 | http://www.4th.kr/news/articleView.html?idxno=2120609 | a1
+2026-10-28 16:04 | news.dealsitetv.com | 삼성물산 상사, 트레이딩 ‘밀고’ 테크 ‘당기고’ | https://news.dealsitetv.com/articles/177655 | a1
+2026-10-28 16:04 | e-science.co.kr | 삼성바이오에피스, 제품 매출·수익성 동반 성장...후속 바이오시밀러 ... | https://www.e-science.co.kr/news/articleView.html?idxno=138393 | a10,ax2,ax5
