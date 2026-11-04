@@ -1,245 +1,171 @@
-# collected: 2026-11-03 10:29 KST
-# window: 2026-11-02 00:00 ~ 2026-11-03 10:29 KST
-# part 1 of 1, lines: 239
+# collected: 2026-11-04 08:55 KST
+# window: 2026-11-03 00:00 ~ 2026-11-04 08:55 KST
+# part 1 of 1, lines: 165
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-03 10:28 | pv magazine Australia | Samsung C&T acquires WA engineering firm Powertech in $100 million BESS play | google:pv magazine Australia#66bb5672 | aen1
-2026-11-03 10:24 | fntoday.co.kr | [조우석 칼럼] 중앙일보 삼키는 CJ그룹, 왜 논란일까? | https://www.fntoday.co.kr/news/articleView.html?idxno=396886 | a1
-2026-11-03 10:24 | press9.kr | 삼성바이오로직스, 4343억 신규 CMO 수주…누적 223억달러 | http://www.press9.kr/news/articleView.html?idxno=85473 | a7,ax2
-2026-11-03 10:24 | safetimes.co.kr | 삼성바이오로직스 '끝장 교섭' 앞두고 사측 연기 제안 | https://www.safetimes.co.kr/news/articleView.html?idxno=247118 | a7,ax2
-2026-11-03 10:24 | biz.chosun.com | 삼성바이오, 4343억원 규모 글로벌 제약사 일감 따냈다 | https://biz.chosun.com/science-chosun/bio/2026/11/03/4ABUPAWQN5C3JOCZ6ZVW4ULKHQ/?utm_source=naver&utm_medium=original&utm_campaign=biz | ax2
-2026-11-03 10:18 | delighti.co.kr | 삼성바이오로직스, 글로벌 제약사와 4343억원 CMO 계약 체결 | https://www.delighti.co.kr/news/articleView.html?idxno=124270 | a7,ax2
-2026-11-03 10:18 | daily.hankooki.com | 고소·구제신청 쏟아낸 삼성바이오 노조…잇단 불기소·기각 | https://daily.hankooki.com/news/articleView.html?idxno=1421090 | a7,ax2
-2026-11-03 10:15 | 조선일보 | Samsung Biologics Secures 434.3 Billion Won Contract, Cumulative Orders Exceed 30 Trillion | google:조선일보#d5162d81 | aen3
-2026-11-03 10:12 | businesskorea.co.kr | Samsung Biologics Wins 434.3 Billion Won Biopharma Order | https://www.businesskorea.co.kr/news/articleView.html?idxno=280291 | a8,aen3
-2026-11-03 10:12 | chosun.com | 삼성바이오, 4343억 계약 체결…누적 수주 30조 돌파 | https://www.chosun.com/economy/science/2026/11/03/KXZ7XAEO2FDVTEN2DGBNKH5TDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | ax2
-2026-11-03 10:10 | yonhapnewstv.co.kr | 삼성바이오, 글로벌 제약사와 4천억 원대 규모 위탁생산 계약 | http://www.yonhapnewstv.co.kr/news/AKR20261103100914ouQ | ax2
-2026-11-03 10:06 | financialpost.co.kr | 삼성바이오로직스, 4343억원 신규 수주…기존 계약도 303억원↑ | https://www.financialpost.co.kr/news/articleView.html?idxno=284254 | a7,ax2
-2026-11-03 10:06 | whitepaper.co.kr | 삼성바이오, 글로벌 제약사와 4343억 규모 위탁생산 신규 계약 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268370 | ax2
-2026-11-03 10:02 | ftoday.co.kr | 삼성물산 구호, 공간 디자이너 샬롯 테일러와 콘텐츠 공개 | http://www.ftoday.co.kr/news/articleView.html?idxno=368777 | a1
-2026-11-03 10:02 | nocutnews.co.kr | 삼성바이오로직스, 글로벌 제약사와 위탁생산 계약…4343억원 규모 | https://www.nocutnews.co.kr/news/6601123?utm_source=naver&utm_medium=article&utm_campaign=20261103100122 | a7,ax2
-2026-11-03 10:00 | econovill.com | 삼성바이오, 4343억 규모 신규 위탁생산 계약 | https://www.econovill.com/news/articleView.html?idxno=755800 | ax2
-2026-11-03 09:58 | widedaily.com | 삼성바이오로직스, 4343억 규모 글로벌 CMO 잭팟…장기 수익원 굳혔다 | https://www.widedaily.com/news/articleView.html?idxno=302662 | a7,ax2
-2026-11-03 09:56 | jasm.co.kr | 삼성바이오로직스, 글로벌 제약사와 4343억 규모 계약 | https://www.jasm.co.kr/news/view/323931/?sc=Naver | a7,ax2
-2026-11-03 09:56 | wowtv.co.kr | 삼성바이오, 글로벌 제약사와 4300억원 규모 신규 계약 체결 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030023&t=NN | ax2
-2026-11-03 09:56 | BigGo Finance | KOSPI Plunges Over 3% as AI Profitability Doubts Reignite; Samsung Electronics and SK Hynix Tumble Together | google:BigGo Finance#8378fe9d | aen3
-2026-11-03 09:55 | finance.biggo.com | South Korea's Samsung Biologics Signs $324.8 Million CMO Deal With Global Pharma; Cumulative Orders Top $22.3 Billion | google:finance.biggo.com#6ac4f6d5 | aen3
-2026-11-03 09:47 | fnnews.com | 삼성물산 패션 구호, 캐시미어 코트로 겨울 공략 | https://www.fnnews.com/news/202611030901043316 | a1
-2026-11-03 09:42 | ebn.co.kr | 삼성바이오로직스, 4343억 규모 CMO 계약…누적 수주 30조 | https://www.ebn.co.kr/news/articleView.html?idxno=1730218 | a7,ax2
-2026-11-03 09:42 | joongangenews.com | 삼성바이오, 5년짜리 4343억 CMO 계약…누적 수주 223억달러 | https://www.joongangenews.com/news/articleView.html?idxno=560628 | ax2
-2026-11-03 09:40 | bloter.net | [정비사업 스케치] 목동9단지, 고급화로 공사비 증액...삼성물산·현대... | https://www.bloter.net/news/articleView.html?idxno=677478 | a1
-2026-11-03 09:40 | newstomato.com | 삼성바이오로직스, 글로벌 제약사와 4343억원 위탁생산 계약 | http://www.newstomato.com/ReadNews.aspx?no=1319022&inflow=N | a7,ax2
-2026-11-03 09:35 | news.bizwatch.co.kr | 삼성바이오, 글로벌 제약사와 4300억 계약…'올해 최대규모' | https://news.bizwatch.co.kr/article/healthcare/2026/11/03/0006 | ax2
-2026-11-03 09:33 | Prohealth.id | Konsesi Sawit Anggota RSPO Terdeteksi Terbakar, Geopix Desak Sanksi Tegas | google:Prohealth.id#c30e4436 | aid1,aid4
-2026-11-03 09:33 | news1.kr | 삼성바이오로직스, 글로벌 제약사와 4300억 규모 위탁생산 계약 | https://www.news1.kr/bio/pharmaceutical-bio/6340853 | a7,ax2
-2026-11-03 09:32 | press9.kr | 삼성바이오 노조, 소송 남발 논란…처리 7건 모두 불발 | http://www.press9.kr/news/articleView.html?idxno=85464 | a7,ax2
-2026-11-03 09:30 | view.asiae.co.kr | 서안 설계에 삼성물산 리조트부문 시공… 르엘 어퍼하우스, 숲의 품격을... | https://view.asiae.co.kr/article/2026110309015337221 | a1,a6
-2026-11-03 09:30 | asiatoday.co.kr | 삼성바이오로직스, 이틀 새 수주 4646억 확대…신규 계약·증액 잇따라 | https://www.asiatoday.co.kr/kn/view.php?key=20261103010000859 | a7,ax2
-2026-11-03 09:27 | 매일경제 | Samsung Biologics has signed a consignment production (CMO) contract worth KRW 434.3 billion with a | google:매일경제#957913c3 | aen3
-2026-11-03 09:27 | hankyung.com | 삼성바이오, 4300억원짜리 계약 또 따냈다 | https://www.hankyung.com/article/202611031981i | ax2
-2026-11-03 09:22 | Chosunbiz | AI funding fears sink South Korea stocks despite oil price slide | google:Chosunbiz#7ef549ac | aen3
-2026-11-03 09:21 | bloomingbit | Kospi Drops 3.19% in Early Trade to 5,600 Level; Samsung Electronics, SK Hynix Weaken | google:bloomingbit#d539e233 | aen3
-2026-11-03 09:17 | mk.co.kr | Samsung Biologics nears full takeover of PolyPeptide | https://www.mk.co.kr/article/12194350 | a8,aen3
-2026-11-03 09:14 | news.mtn.co.kr | 삼성바이오, 글로벌 제약사와 4343억원 규모 CMO 계약 | https://news.mtn.co.kr/article/2026110309010339788 | ax2
-2026-11-03 09:10 | Seoul Economic Daily | Samsung Biologics Wins $324.8 Million Drug Manufacturing Deal | google:Seoul Economic Daily#7f93239d | aen3
-2026-11-03 09:10 | biospectator.com | 삼성바이오, 글로벌 제약사와 3.24억弗 "CMO 계약" | https://www.biospectator.com/view/news_view.php?varAtcId=30279 | ax2
-2026-11-03 09:04 | 파이낸셜뉴스 | Samsung Biologics signs 434.3 billion won contract manufacturing deal with global pharmaceutical company | google:파이낸셜뉴스#95de56ff | aen3
-2026-11-03 09:04 | hansbiz.co.kr | 삼성바이오로직스, 4343억 규모 의약품 CMO 계약 | http://www.hansbiz.co.kr/news/articleView.html?idxno=879143 | a7,ax2
-2026-11-03 09:04 | cbci.co.kr | 삼성바이오로직스, 4343억원 규모 의약품 위탁생산계약 체결…지난해 매... | https://www.cbci.co.kr/news/articleView.html?idxno=622459 | a7,ax2
-2026-11-03 09:04 | news.einfomax.co.kr | 삼성바이오, 글로벌 제약사와 신규 CMO 계약…4천343억 규모 | https://news.einfomax.co.kr/news/articleView.html?idxno=4442663 | ax2
-2026-11-03 09:03 | 아시아경제 | Samsung Biologics Signs New 434.3 Billion Won Contract with Global Pharma Company | google:아시아경제#e51a74c5 | aen3
-2026-11-03 09:03 | newsis.com | 삼성바이오, 글로벌제약사와 4343억 계약체결 | https://www.newsis.com/view/NISX20261103_0003852105 | ax2
-2026-11-03 09:02 | ajunews.com | 삼성바이오로직스, 글로벌 빅파마와 CMO 계약… 4343억원 규모 | https://www.ajunews.com/view/20261103085647052 | a7,ax2
-2026-11-03 09:02 | joongangenews.com | 삼성바이오, 폴리펩타이드 공개매수 98% 확보…2조7000억 인수 눈앞 | https://www.joongangenews.com/news/articleView.html?idxno=560597 | ax2
-2026-11-03 08:57 | 헤럴드경제 | Samsung Biologics signs new CMO deal worth W434.3b with global pharma firm | google:헤럴드경제#dc54b4fb | aen4
-2026-11-03 08:56 | news1.kr | Samsung Bioepis Launches SB27: Will This Keytruda Biosimilar Transform Ca... | https://www.news1.kr/bio/pharmaceutical-bio/6340785 | a11
-2026-11-03 08:54 | 머니투데이 | Samsung Biologics Signs New Contract Worth 434.3 Billion Won with Global Pharmaceutical Company…Cumulative Orders Reach 30 Trillion Won | google:머니투데이#f131d7b5 | aen3,aen4
-2026-11-03 08:54 | sentv.co.kr | 삼성바이오로직스, 글로벌 제약사서 4343억원 추가 수주 | https://www.sentv.co.kr/article/view/sentv202611030033 | a7,ax2
-2026-11-03 08:54 | mt.co.kr | 삼성바이오, 글로벌 제약사와 4343억원 신규 계약…누적 30조 수주 | https://www.mt.co.kr/thebio/2026/11/03/2026110308515059945 | ax2
-2026-11-03 08:44 | datanews.co.kr | 도시정비 10조 클럽…현대건설·삼성물산 1위 경쟁 | http://www.datanews.co.kr/news/article.html?no=147257 | a1
-2026-11-03 08:34 | Jambi Ekspres | Samsung Galaxy A18 Hadirkan Kemudahan Bikin Konten Hingga Menyusun Rencana Kegiatan - https://jambiekspres.disway.id/ | google:Jambi Ekspres#ee09c688 | aid12
-2026-11-03 07:50 | lkp.news | 삼성바이오로직스, 노조 리스크 뚫고 폴리펩타이드 100% 자회사 편입 '9... | http://www.lkp.news/news/articleView.html?idxno=85703 | a7,ax2
-2026-11-03 07:10 | thetracker.co.kr | 삼성물산, 호주 HV 엔지니어링 기업 '파워테크' 940억에 인수 | https://thetracker.co.kr/View.aspx?No=4294356 | a1
-2026-11-03 07:01 | Betahita | Tumbang Akasia, Berganti Pembangkit Surya | google:Betahita#9e984b38 | aid9
-2026-11-03 07:00 | Forbes | Forbes Asia’s Power Businesswomen 2026 | google:Forbes#ab635167 | aen4
-2026-11-03 06:37 | Jambi Ekspres | Berkat RAM Besar dan Kamera Jernih, Samsung Galaxy A Series Jadi Favorit di Jambi - https://jambiekspres.disway.id/ | google:Jambi Ekspres#defd5776 | aid12
-2026-11-03 06:34 | the-today.com | [단독] 삼성물산 건설부문, 호주 전력 시공사 '파워테크' 938억에 인수…... | https://www.the-today.com/news/articleView.html?idxno=92915 | a1,a3
-2026-11-03 06:34 | labortoday.co.kr | 삼성바이오 파업을 금지한 법원의 결정과 노조법에 대하여 | https://www.labortoday.co.kr/news/articleView.html?idxno=237541 | a7,ax2
-2026-11-03 06:34 | labortoday.co.kr | 삼성바이오로직스 임단협 교섭 '파행' | https://www.labortoday.co.kr/news/articleView.html?idxno=237532 | a7,ax2
-2026-11-03 06:33 | 헤럴드경제 | Samsung SDS breaks ground on AI data center in Gumi | google:헤럴드경제#cbe6b00b | aen4
-2026-11-03 06:02 | newsmp.com | 삼성바이오로직스ㆍ셀트리온ㆍ유한양행, 개인 vs 기관 온도차 | http://www.newsmp.com/news/articleView.html?idxno=259067 | a7,ax2
-2026-11-03 06:00 | newspim.com | 반도체 공장 지으니 건설사 이익 '쑥'…삼성물산·삼성E&A 수혜 톡톡 | https://www.newspim.com/news/view/20261102001521 | a1
-2026-11-03 06:00 | pharmnews.com | 6천억 키트루다 시장...삼성에피스-셀트리온 홈그라운드 왕좌 도전장 | https://www.pharmnews.com/news/articleView.html?idxno=307486 | ax3
-2026-11-03 05:54 | Tech Times | Celltrion Adds Safety-Syringe Yuflyma Biosimilar to Korean Formulary at Lowest Adalimumab Price | google:Tech Times#f493b00b | aen4
-2026-11-03 05:50 | pharmnews.com | [사설] 삼성바이오로직스 노사, 권리와 책임의 균형 | https://www.pharmnews.com/news/articleView.html?idxno=307484 | a7,ax2
-2026-11-03 04:56 | Fierce Pharma | Hansoh, Samsung Biologics hit with FDA write-ups after inspections | google:Fierce Pharma#79274302 | aen3
-2026-11-03 00:29 | The Pharma Letter | Fresenius inks biosimilars deal with WuXi Biologics | google:The Pharma Letter#8cd36ee1 | aen4
-2026-11-03 00:29 | Law360 | Samsung Biologics Wins Backing For $1.8B PolyPeptide Buy | google:Law360#1e4b3d3d | aen3
-2026-11-03 00:26 | cbci.co.kr | 코스피·코스닥 동반↑…SK하이닉스·HLB·심텍 등 강세, 삼성바이오로... | https://www.cbci.co.kr/news/articleView.html?idxno=622356 | ax2
-2026-11-03 00:25 | SKI Nusantara Post | BBKSDA Temukan Jejak Kaki Harimau di Kampar | google:SKI Nusantara Post#689931c6 | aid9
-2026-11-03 00:16 | paxetv.com | 삼성바이오로직스, 폴리펩타이드 공개매수 97.98% 확보...잔여지분 강제... | http://www.paxetv.com/news/articleView.html?idxno=285901 | a7,ax2
-2026-11-02 23:43 | Fierce Pharma | Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market | google:Fierce Pharma#4c38bb4d | aen4
-2026-11-02 21:54 | ekn.kr | 삼성바이오에피스, 바이오시밀러 포트폴리오 확장…“미래 성장동력 확... | https://www.ekn.kr/web/view.php?key=20261102028313402 | a10,ax2,ax5
-2026-11-02 21:02 | businesskorea.co.kr | Samsung Biologics Secures Nearly 98% Stake in PolyPeptide | https://www.businesskorea.co.kr/news/articleView.html?idxno=280261 | a8,aen3
-2026-11-02 21:00 | Yahoo! Finance Canada | Can-Fite Announces Eurasian Patent Allowance Supporting Piclidenoson Development and Commercialization in Lowe Syndrome | google:Yahoo! Finance Canada#db7e064a | aen4
-2026-11-02 20:40 | incheonilbo.com | 삼성바이오 노사갈등 격화…파국 치닫나 | https://www.incheonilbo.com/news/articleView.html?idxno=1335749 | ax2
-2026-11-02 20:15 | Lintas Nasional | Geopix Kritik Penyelenggaraan RT RSPO 2026, Minta Buka Data Perusahaan Terlibat Karhutla | google:Lintas Nasional#bfae3483 | aid4
-2026-11-02 20:04 | m-i.kr | 삼성바이오로직스, 폴리펩타이드그룹 공개매수 97.98% 확보 | https://www.m-i.kr/news/articleView.html?idxno=2013374 | a7,ax2
-2026-11-02 19:52 | g-enews.com | 삼성바이오 노사 교섭 난항…“교섭 연기” vs “공정별 파업” | https://www.g-enews.com/view.php?ud=20261102194933451238169980b3_1 | a7,ax2
-2026-11-02 19:38 | koreareport.co.kr | 삼성바이오로직스, 폴리펩타이드그룹 지분 98% 응모 | https://www.koreareport.co.kr/news/articleView.html?idxno=54206 | a7,ax2
-2026-11-02 18:48 | biz.newdaily.co.kr | 삼성바이오 '끝장 교섭' 하루 앞두고 파행 … 사측 연기 제안에 노조 "순... | https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200377.html | ax2
-2026-11-02 18:42 | hani.co.kr | 삼성바이오 교섭 난항…다음주 ‘초정밀 공정별 파업’ 할까 | https://www.hani.co.kr/arti/economy/marketing/1285415.html | a7,ax2
-2026-11-02 18:27 | etnews.com | 삼성바이오, 폴리펩타이드 지분 97.98% 확보…완전자회사 추진 | https://www.etnews.com/20261102000452 | ax2
-2026-11-02 18:24 | dailymedi.com | 삼성바이오로직스 사측 "교섭 2주 연기" 요청 | https://www.dailymedi.com/news/news_view.php?wr_id=942155 | a7,ax2
-2026-11-02 18:14 | kdfnews.com | 삼성바이오로직스, 폴리펩타이드그룹 지분 100% 확보 추진 | http://www.kdfnews.com/news/articleView.html?idxno=190318 | a7,ax2
-2026-11-02 18:10 | hankyung.com | 비만약 시장 정조준…삼성바이오, 2.7조원 빅딜에 마침표 | https://www.hankyung.com/article/202611021147i | ax2
-2026-11-02 18:04 | ngetnews.com | 삼성바이오로직스, 1.4조 폴리펩타이드 공개매수 성료…연내 인수 마무... | https://www.ngetnews.com/news/articleView.html?idxno=555434 | a7,ax2
-2026-11-02 18:00 | biz.newdaily.co.kr | 삼성바이오로직스, '2.7조' 폴리펩타이드 인수 눈앞 … 지분 98% 확보 | https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200354.html | a7,ax2
-2026-11-02 18:00 | hitnews.co.kr | [HIT알공] 삼성바이오, 320억대 위탁생산계약 '더블'로 올려 | https://www.hitnews.co.kr/news/articleView.html?idxno=80438 | ax2
-2026-11-02 17:56 | ngetnews.com | 삼성바이오로직스, 노사 교섭 2주 연기 제안…'신뢰 훼손·일방적 압박... | https://www.ngetnews.com/news/articleView.html?idxno=555430 | a7,ax2
-2026-11-02 17:54 | ajunews.com | 삼성바이오, 폴리펩타이드 지분 97.98% 확보… 펩타이드 기업 인수 눈앞 | https://www.ajunews.com/view/20261102174757378 | ax2
-2026-11-02 17:53 | mk.co.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 97.98% 응모…완전자회사 추... | https://www.mk.co.kr/article/12193847 | a7,ax2
-2026-11-02 17:52 | 매일경제 | Samsung Biologics has secured a 97.98% stake in the bid for Polypeptide Group, a global peptide cons.. | google:매일경제#355b6209 | aen3
-2026-11-02 17:52 | sedaily.com | 삼성바이오, 폴리펩타이드 공개매수 98% 응모…완전인수 눈앞 | https://www.sedaily.com/article/20109266?ref=naver | ax2
-2026-11-02 17:51 | Seoul Economic Daily | Samsung Biologics Wins 98% of PolyPeptide Shares in Tender Offer | google:Seoul Economic Daily#a218c29a | aen3
-2026-11-02 17:38 | dt.co.kr | 삼성바이오 교섭 난항…노조, 사측 연기 제안에 “파업 예고” | https://www.dt.co.kr/article/12092693?ref=naver | a7,ax2
-2026-11-02 17:38 | dt.co.kr | 삼성바이오, 폴리펩타이드 공개매수 마감…“응모지분 90% 넘어…‘100% ... | https://www.dt.co.kr/article/12092692?ref=naver | ax2
-2026-11-02 17:36 | thepublic.kr | 삼성바이오로직스, 폴리펩타이드 지분 97.98% 확보 수순…2조원대 인수... | https://www.thepublic.kr/news/articleView.html?idxno=324793 | a7,ax2
-2026-11-02 17:34 | 뉴스웍스 | Samsung Biologics closes public tender offer for the Polypeptide Group…Over 90% of the shares submitted | google:뉴스웍스#725e3416 | aen3
-2026-11-02 17:25 | greened.kr | 목동9단지 현장설명회 삼성물산 등 4곳…GS건설 불참에 수주 구도 변화 | https://www.greened.kr/news/articleView.html?idxno=353660 | a1
-2026-11-02 17:20 | pharmnews.com | 삼성바이오로직스, 폴리펩타이드 기업 인수 '청신호' 켜져 | https://www.pharmnews.com/news/articleView.html?idxno=307541 | a7,ax2
-2026-11-02 17:16 | insight.co.kr | 삼성바이오, 2.7조 펩타이드 기업 인수 막바지... 지분 97.98% 확보 | https://www.insight.co.kr/news/580295 | ax2
-2026-11-02 17:14 | businessplus.kr | 삼성바이오로직스, 폴리펩타이드그룹 공개매수 마감…응모 지분 90% 넘어 | https://www.businessplus.kr/news/articleView.html?idxno=119161 | a7,ax2
-2026-11-02 17:10 | KED Global | Samsung Biologics wins nearly full backing in PolyPeptide tender offer | google:KED Global#1f7cfdce | aen3
-2026-11-02 17:04 | 머니투데이 | Samsung Biologics closes tender offer for PolyPeptide Group, with 98% of shares tendered | google:머니투데이#30dfa1ac | aen3,aen4
-2026-11-02 17:04 | Prohealth.id | RSPO Certified to Burn? Komitmen Keberlanjutan yang Terbakar | google:Prohealth.id#c6d45317 | aid4
-2026-11-02 17:04 | whitepaper.co.kr | 삼성바이오, 폴리펩타이드 공개매수 마감 "응모지분 97.98%" | http://www.whitepaper.co.kr/news/articleView.html?idxno=268361 | ax2
-2026-11-02 17:01 | news.tf.co.kr | 삼성바이오로직스 "폴리펩타이드 공개매수 98% 확보, 강제매수 요건도 ... | https://news.tf.co.kr/read/economy/2383855.htm | a7,ax2
-2026-11-02 16:54 | newsway.co.kr | 삼성바이오, '폴리펩타이드' 지분 98% 확보…2조 '메가 딜' 초읽기 | https://www.newsway.co.kr/news/view?ud=2026110216384325827 | ax2
-2026-11-02 16:52 | newsway.co.kr | 삼성바이오로직스, 노조에 교섭 '2주 연기' 제안…"신뢰 회복 선행돼야... | https://www.newsway.co.kr/news/view?ud=2026110216311966864 | a7,ax2
-2026-11-02 16:51 | AFR | Samsung C&T buys Perth’s Powertech in $100m deal | google:AFR#c93eefec | aen1
-2026-11-02 16:50 | sentv.co.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 98% 응모 | https://www.sentv.co.kr/article/view/sentv202611020215 | a7,ax2
-2026-11-02 16:50 | thevaluenews.co.kr | [데이터 줌인] 삼성바이오로직스, 연구개발비율 3%대 하위권…신사업 확... | http://www.thevaluenews.co.kr/news/view.php?idx=202874 | a7,ax2
-2026-11-02 16:50 | newsian.co.kr | [Biz 포커스] 삼성바이오, '폴리펩타이드' 인수 9부 능선…'지분 98%' 확... | https://www.newsian.co.kr/news/articleView.html?idxno=100456 | ax2
-2026-11-02 16:48 | biz.chosun.com | 삼성바이오, 2.4兆 펩타이드 기업 인수 눈앞…공개매수 98% 확보 | https://biz.chosun.com/science-chosun/bio/2026/11/02/K3DLOTASMBEKXKVGUH34S4LCEA/?utm_source=naver&utm_medium=original&utm_campaign=biz | ax2
-2026-11-02 16:47 | Chosunbiz | Samsung Biologics secures 98% of PolyPeptide, moves to full takeover in Korea push | google:Chosunbiz#d9ec29f7 | aen3
-2026-11-02 16:46 | medicopharma.co.kr | 삼성바이오로직스, 폴리펩타이드 100% 인수 수순…응모율 97.98% | https://www.medicopharma.co.kr/news/articleView.html?idxno=70158 | a7,ax2
-2026-11-02 16:38 | businesspost.co.kr | 삼성바이오로직스 노조에 교섭 2주 연기 요청, 노조 "파업 준비 예정대... | https://www.businesspost.co.kr/BP?command=article_view&num=450940 | a7,ax2
-2026-11-02 16:36 | datanews.co.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 응모율 97.98% | http://www.datanews.co.kr/news/article.html?no=147300 | a7,ax2
-2026-11-02 16:32 | sedaily.com | 삼성바이오 노사 교섭 또 난항…사측 2주 연기 제안에 노조 파업 예고 | https://www.sedaily.com/article/20109192?ref=naver | a7,ax2
-2026-11-02 16:32 | kyeongin.com | 삼성바이오로직스, 단체교섭 2주 연기 제안… 노조 반발 | https://www.kyeongin.com/article/1773901 | a7,ax2
-2026-11-02 16:32 | financialpost.co.kr | 삼성바이오로직스, 폴리펩타이드그룹 100% 인수 추진…공개매수 97.98% 응... | https://www.financialpost.co.kr/news/articleView.html?idxno=284128 | a7,ax2
-2026-11-02 16:31 | Seoul Economic Daily | Samsung Biologics Labor Talks Stall Again as Union Vows Strike | google:Seoul Economic Daily#b6f448a3 | aen3
-2026-11-02 16:28 | dealsite.co.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 응모지분 98% 달성 | https://dealsite.co.kr/articles/171882 | a7,ax2
-2026-11-02 16:26 | kbmaeil.com | 삼성SDS 구미 AI데이터센터 첫 삽…산업지도 바꿀 AI 인프라 거점 부상 | https://www.kbmaeil.com/article/20261102500105 | a1
-2026-11-02 16:25 | finance.biggo.com | Samsung Biologics' PolyPeptide Tender Offer Draws 97.98% Acceptance, Closing In on approximately $1.8 Billion Deal | google:finance.biggo.com#b9f8d6e8 | aen3
-2026-11-02 16:24 | news.mtn.co.kr | 압구정2구역, 사업시행인가 신청한다…내년 관리처분 목표 | https://news.mtn.co.kr/article/2026110216174641881 | a1
-2026-11-02 16:20 | medicaltimes.com | 삼성바이오로직스, 폴리펩타이드 인수 속도 | https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171574&ref=naverpc | a7,ax2
-2026-11-02 16:17 | 뉴스웍스 | Samsung Biologics proposes a two-week delay one day before negotiations…Labor Union Opposes 'Unilateral Termination' | google:뉴스웍스#6755e618 | aen3
-2026-11-02 16:16 | medipana.com | 삼성바이오로직스, 폴리펩타이드 지분 97.98% 확보 눈앞 | https://www.medipana.com/news/articleView.html?idxno=420697 | a7,ax2
-2026-11-02 16:16 | edaily.co.kr | 삼성바이오로직스, 교섭 2주 연기 제안…노조 “쟁의 준비 예정대로” | https://www.edaily.co.kr/News/Read?newsId=03939286645641784&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a7,ax2
-2026-11-02 16:14 | newsis.com | 삼성바이오 노사 다시 전운…"교섭 연기" vs "파업 진행"(종합) | https://www.newsis.com/view/NISX20261102_0003851428 | a7,ax2
-2026-11-02 16:14 | goodkyung.com | 삼성바이오, 美 'SITC 2026' 참가…오가노이드 경쟁력 알린다 | https://www.goodkyung.com/news/articleView.html?idxno=293004 | ax2
-2026-11-02 16:12 | 4th.kr | 항체에서 펩타이드로…삼성바이오, 비만약 원료 위탁생산 진출 가시권 | http://www.4th.kr/news/articleView.html?idxno=2120960 | ax2
-2026-11-02 16:10 | etoday.co.kr | 삼성바이오로직스, 펩타이드 사업 본격화…폴리펩타이드그룹 응모 지분... | https://www.etoday.co.kr/news/view/2643122 | a7,ax2
-2026-11-02 16:08 | kizmom.com | 삼성바이오로직스, 비만약 원료 시장으로…폴리펩타이드 100% 인수 추진 | https://www.kizmom.com/news/articleView.html?idxno=113706 | a7,ax2
-2026-11-02 16:06 | daily.hankooki.com | 목동9단지 재건축 시공사 윤곽…현설에 삼성물산 등 4개사 참석 | https://daily.hankooki.com/news/articleView.html?idxno=1420856 | a1
-2026-11-02 16:04 | smartbizn.com | 삼성바이오로직스, 폴리펩타이드 지분 100% 확보 나선다 | https://www.smartbizn.com/news/articleView.html?idxno=158214 | a7,ax2
-2026-11-02 16:04 | mydaily.co.kr | 삼성바이오로직스 “폴리펩타이드 공개매수 97.98% 응모…100% 인수 추진... | https://www.mydaily.co.kr/page/view/2026110216031811183 | a7,ax2
-2026-11-02 16:02 | businesspost.co.kr | '경제성·기술적 한계' SMR 회의론 커져, 현대건설·삼성물산·대우건설... | https://www.businesspost.co.kr/BP?command=article_view&num=450911 | a1
-2026-11-02 16:02 | mkhealth.co.kr | 삼성바이오, 폴리펩타이드 인수 9부 능선…공개매수 98% 육박 | https://www.mkhealth.co.kr/news/articleView.html?idxno=80727 | ax2
-2026-11-02 16:00 | hitnews.co.kr | 삼성바이오, 폴리펩타이드 공개매수 97.98%…강제매수 요건 충족 | https://www.hitnews.co.kr/news/articleView.html?idxno=80433 | ax2
-2026-11-02 16:00 | dailian.co.kr | 삼성바이오, 폴리펩타이드 지분 98% 확보…인수 마무리 수순 | https://www.dailian.co.kr/news/view/1709701/?sc=Naver | ax2
-2026-11-02 15:58 | pinpointnews.co.kr | [거래소 외국인] 삼성전자 사고 SK하이닉스 팔았다…반도체 대형주 엇갈... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=500647 | a1
-2026-11-02 15:57 | news1.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 97.98% 확보…인수 청신호 | https://www.news1.kr/bio/pharmaceutical-bio/6340195 | a7,ax2
-2026-11-02 15:54 | pinpointnews.co.kr | 삼성바이오 '끝장 교섭' 제동…노조, 파업 예고 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=500641 | a7,ax2
-2026-11-02 15:54 | weekly.hankooki.com | 삼성바이오로직스, 폴리펩타이드 공개매수 잠정 결과 발표…5일 확정 | https://weekly.hankooki.com/news/articleView.html?idxno=7191787 | a7
-2026-11-02 15:51 | 머니투데이 | KOSPI closes up 2.24% as other corporations join institution-led buying | google:머니투데이#c892b7dd | aen3
-2026-11-02 15:50 | The Korea Times | GS E&C data breach exposes blind spots in Korea's smart apartments | google:The Korea Times#b36d504c | aen2
-2026-11-02 15:50 | biz.sbs.co.kr | 삼성바이오 노사교섭 난항…사측 '2주 연기' 요청 | https://biz.sbs.co.kr/article_hub/20000343657?division=NAVER | ax2
-2026-11-02 15:46 | smartbizn.com | 삼성바이오로직스, 노조 파업 예고에 교섭 2주 연기 제안 | https://www.smartbizn.com/news/articleView.html?idxno=158199 | a7,ax2
-2026-11-02 15:45 | newsis.com | 삼성바이오 "폴리펩타이드 '공개매수' 98% 확보" | https://www.newsis.com/view/NISX20261102_0003851350 | ax2
-2026-11-02 15:44 | econovill.com | [이슈+] 삼성바이오 노사 안 만난다…"신뢰 회복 우선" | https://www.econovill.com/news/articleView.html?idxno=755710 | ax2
-2026-11-02 15:40 | TipRanks | Samsung Biologics Secures 97.66% of PolyPeptide Shares Tendered | google:TipRanks#b817d1b4 | aen3
-2026-11-02 15:40 | e-science.co.kr | 삼성바이오로직스, 폴리펩타이드그룹 지분 97.98% 확보...인수 9부 능선 | https://www.e-science.co.kr/news/articleView.html?idxno=138751 | a7,ax2
-2026-11-02 15:40 | job-post.co.kr | 삼성바이오로직스 4.37% 조정…수주잔고의 매출 전환이 관건 | https://www.job-post.co.kr/news/articleView.html?idxno=235984 | a7,ax2
-2026-11-02 15:39 | ddaily.co.kr | 삼성바이오로직스, 폴리펩타이드 공개매수 97.98% 응모…인수 마무리 수... | https://www.ddaily.co.kr/page/view/2026110215365707008 | a7,ax2
-2026-11-02 15:38 | beyondpost.co.kr | 체코 원전 시공사 교체 논란...대우건설 "8년 협력·사업 연속성 고려해... | http://www.beyondpost.co.kr/view.php?ud=202611021532103229205868f676_30 | a1
-2026-11-02 15:38 | mdtoday.co.kr | 삼성바이오로직스, 3일 교섭 연기 요청…노조 "쟁의 준비 예정대로" | https://www.mdtoday.co.kr/news/articleView.html?idxno=622387 | a7,ax2
-2026-11-02 15:38 | newsworks.co.kr | 삼성바이오로직스, 교섭 하루 전 2주 연기 제안…노조 '일방적 파기' 반... | https://www.newsworks.co.kr/news/articleView.html?idxno=901644 | a7,ax2
-2026-11-02 15:36 | it.chosun.com | 삼성바이오로직스, 2.4조원 폴리펩타이드 인수 눈앞… 공개매수 지분 9... | https://it.chosun.com/news/articleView.html?idxno=3000000000042 | a7,ax2
-2026-11-02 15:36 | pointdaily.co.kr | 삼성바이오로직스, 폴리펩타이드그룹 공개매수 마감 | https://www.pointdaily.co.kr/news/articleView.html?idxno=324519 | a7,ax2
-2026-11-02 15:34 | 헤럴드경제 | Samsung Biologics secures 98% of PolyPeptide Group in tender offer, acquisition near complete | google:헤럴드경제#8048a748 | aen3
-2026-11-02 15:29 | Chosunbiz | Samsung Biologics labor talks stall as union plans job-by-job strikes in Korea | google:Chosunbiz#15da7048 | aen3
-2026-11-02 15:28 | newsdream.kr | 삼성바이오, 스위스 '폴리펩타이드' 인수 청신호…공개매수 흥행 | http://www.newsdream.kr/news/articleView.html?idxno=121320 | ax2
-2026-11-02 15:26 | 아시아경제 | Samsung Biologics Secures 97.98% of Polypeptide Group in Tender Offer | google:아시아경제#25b0db30 | aen3
-2026-11-02 15:26 | businesskorea.co.kr | 삼성바이오, 폴리펩타이드 지분 98% 확보…강제매수 요건 달성 | https://www.businesskorea.co.kr/news/articleView.html?idxno=280230 | ax2
-2026-11-02 15:24 | sentv.co.kr | 삼성바이오, 교섭 2주 연기 제안…노조 "파업 준비 이어갈 것" | https://www.sentv.co.kr/article/view/sentv202611020186 | a7,ax2
-2026-11-02 15:24 | pointdaily.co.kr | 삼성바이오 노조 "교섭 연장 제안 유감"…기존 쟁의 진행키로 | https://www.pointdaily.co.kr/news/articleView.html?idxno=324514 | a7,ax2
-2026-11-02 15:18 | daily.hankooki.com | 삼성바이오로직스, 노사 교섭 2주 연기 제안..."상호 신뢰 훼손 우려" | https://daily.hankooki.com/news/articleView.html?idxno=1420807 | a7,ax2
-2026-11-02 15:17 | yonhapnewstv.co.kr | 삼성바이오 교섭 난항…사측은 연기 제안·노조는 파업 예고 | http://www.yonhapnewstv.co.kr/news/AKR20261102151659xh9 | a7,ax2
-2026-11-02 15:14 | meconomynews.com | GS건설 불참... 목동9단지 현설에 삼성물산 등 4개사 참석 | https://www.meconomynews.com/news/articleView.html?idxno=203176 | a1
-2026-11-02 15:10 | TradingView | PolyPeptide says Samsung Biologics holds 97.99% after offer | google:TradingView#77b977bf | aen3
-2026-11-02 15:05 | TradingView | PolyPeptide Group: Provisional end result of the public tender offer of Samsung Biologics Co., Ltd. | google:TradingView#bf9c1b37 | aen3
-2026-11-02 15:05 | TradingView | PolyPeptide Group AG (PPGN) Tender Offer Closing Deferred; Delisting, Squeeze-Out Planned | google:TradingView#9d21358f | aen3
-2026-11-02 15:00 | whitepaper.co.kr | 삼성바이오 노사 교섭 난항···사측, 노조에 2주 연기 제안 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268350 | ax2
-2026-11-02 14:58 | hansbiz.co.kr | 삼성바이오로직스, 또 파업 위기…노사 '끝장 교섭' 불발 | http://www.hansbiz.co.kr/news/articleView.html?idxno=878847 | a7,ax2
-2026-11-02 14:58 | viva100.com | 삼성바이오 사측, ‘끝장교섭’ 앞두고 2주 연기 요청⋯노조 “쟁의 준... | https://www.viva100.com/article/20261102501008 | a7,ax2
-2026-11-02 14:55 | dailian.co.kr | 삼성바이오 사측, 임단협 교섭 '연기' 요청…노조 "쟁의 준비" | https://www.dailian.co.kr/news/view/1709644/?sc=Naver | a7,ax2
-2026-11-02 14:54 | ebn.co.kr | 삼성바이오 노사 갈등 '최고조'…사측 '교섭 연기' 제안에 노조 '파업 예... | https://www.ebn.co.kr/news/articleView.html?idxno=1730136 | a7,ax2
-2026-11-02 14:52 | JPNN.com | CBA Tanggapi Konflik Lahan Antara Ozzy Sudiro vs Sentul City | google:JPNN.com#ddb072e7 | aid9
-2026-11-02 14:50 | megaeconomy.co.kr | GS건설 빠진 목동9단지 현설에 4개사 참석…삼성물산에 무게 실리나 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591427424065 | a1
-2026-11-02 14:48 | joongangenews.com | 삼성바이오 노사 교섭 또 불발 위기…사측 2주 연기 제안에 노조 파업 ... | https://www.joongangenews.com/news/articleView.html?idxno=560413 | a7,ax2
-2026-11-02 14:44 | 아시아경제 | 'KRW 2.6 Trillion' Mokdong Complex 9 Draws Four Firms, Including Samsung C&T; GS E&C Absent | google:아시아경제#20def772 | aen1
-2026-11-02 14:44 | view.asiae.co.kr | '2.6조' 목동9단지에 삼성물산 등 4개사 집결…GS건설 불참 | https://view.asiae.co.kr/article/2026110214443007515 | a1
-2026-11-02 14:38 | jnilbo.com | 사측 "교섭 2주 연기" vs 노조 "파업 돌입"…삼성바이오 노사 또 파행 | https://www.jnilbo.com/news/articleView.html?idxno=90000078825 | a7,ax2
-2026-11-02 14:32 | digitimes | South Korea builds SMR ecosystem as SK Innovation advances Natrium tech, Samsung C&T pushes modular construction | google:digitimes#cbfd23ef | aen1
-2026-11-02 14:28 | etoday.co.kr | 삼성바이오로직스 노사 교섭 무산⋯사측 “신뢰 회복”vs노조 “쟁의 준... | https://www.etoday.co.kr/news/view/2643040 | a7,ax2
-2026-11-02 14:22 | hitnews.co.kr | 교섭 하루 전 다시 충돌한 삼성바이오 노사…파업 불씨 재점화 | https://www.hitnews.co.kr/news/articleView.html?idxno=80427 | a7,ax2
-2026-11-02 14:13 | newspim.com | 삼성바이오, 노사 교섭 2주 연기 제안…노조 "쟁의 준비 계속" | https://www.newspim.com/news/view/20261102001079 | a7,ax2
-2026-11-02 14:11 | The Korea Times | Everland invites visitors to enjoy fall foliage, baby animals, special shows | google:The Korea Times#6bd1ebba | aen1
-2026-11-02 14:08 | news.einfomax.co.kr | 삼성바이오, 노조에 교섭 재개 2주 연기 제안 | https://news.einfomax.co.kr/news/articleView.html?idxno=4442540 | ax2
-2026-11-02 14:03 | inews24.com | 체코 두코바니 원전 새 시공사 찾는다…삼성물산·현대건설 '물망' | http://www.inews24.com/view/2021560 | a1
-2026-11-02 14:02 | dnews.co.kr | 해외건설 플랜트의 날 기념식…나승일 삼성물산 상무 은탑산업훈장 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020957031450115 | a1
-2026-11-02 14:02 | news.mtn.co.kr | 목동9단지 현장설명회에 삼성물산 등 4개사…GS건설은 ‘불참’ | https://news.mtn.co.kr/article/2026110211211749303 | a1
-2026-11-02 14:00 | cwn.kr | 삼성바이오로직스, 노사 교섭 2주 유예 제안..."상호 신뢰 회복 우선" | https://www.cwn.kr/news/articleView.html?idxno=60755 | a7,ax2
-2026-11-02 14:00 | inews24.com | 삼성바이오 노사, 교섭 재개 앞두고 또 삐걱⋯사측 "2주 연기" 제안 | http://www.inews24.com/view/2021457 | ax2
-2026-11-02 13:59 | mydaily.co.kr | 삼성바이오로직스 노사 교섭 또 삐걱…사측 연기 요청에 노조 반발 | https://www.mydaily.co.kr/page/view/2026110213580503568 | a7,ax2
-2026-11-02 13:40 | m-i.kr | 삼성물산, '반도체 낙수효과'에 3분기 호실적…iM증권 "배당·원전 가치... | https://www.m-i.kr/news/articleView.html?idxno=2013103 | a1
-2026-11-02 13:38 | HaiSawit | Diplomasi Sapu Lidi Sawit, Syahrul Aidi Maazat Dorong UMKM Deli Serdang Tembus Pasar Global | google:HaiSawit#f5bb3649 | aid6
-2026-11-02 13:28 | 아시아경제 | Samsung Biologics: "Proposes Two-Week Delay in Labor Talks, Deems Dialogue Impossible" | google:아시아경제#32ab4362 | aen3
-2026-11-02 13:28 | view.asiae.co.kr | 삼성바이오로직스 "노사 교섭 2주 연기 제안…대화 불가 판단" | https://view.asiae.co.kr/article/2026110213283606101 | a7,ax2
-2026-11-02 13:24 | m-i.kr | 삼성바이오로직스, 노사 교섭 2주 연기 제안…파업 갈등 장기화 전망 | https://www.m-i.kr/news/articleView.html?idxno=2013169 | a7,ax2
-2026-11-02 13:02 | etoday.co.kr | 삼성바이오로직스, 3일 노사 교섭 2주 연기 요청…“신뢰 회복 필요” | https://www.etoday.co.kr/news/view/2642958 | a7,ax2
-2026-11-02 12:57 | Haluan Riau | Sempat Keluhkan Kondisi Tubuh, Pria 58 Tahun Ditemukan Meninggal di Lokasi Pemancingan - Haluan Riau | google:Haluan Riau#2f1b0966 | aid6
-2026-11-02 12:42 | theguru.co.kr | 노조 '벼랑 끝 독단'에…삼성바이오로직스, 연기 제안 "2주간 신뢰 회복... | https://www.theguru.co.kr/news/article.html?no=109122 | a7,ax2
-2026-11-02 12:24 | kukinews.com | 삼성바이오로직스, 교섭 재개 앞두고 노조에 “2주간 신뢰 회복하자” | https://www.kukinews.com/article/view/kuk202611020094 | a7,ax2
-2026-11-02 11:48 | dealsite.co.kr | 삼성바이오로직스, 노사 교섭 2주 연기 제안…“상호 존중·신뢰 절실” | https://dealsite.co.kr/articles/171861 | a7,ax2
-2026-11-02 11:40 | financialpost.co.kr | 삼성바이오로직스, 3일 교섭 앞두고 노조 측에 2주 연기 제안 | https://www.financialpost.co.kr/news/articleView.html?idxno=284000 | a7,ax2
-2026-11-02 11:30 | pointdaily.co.kr | 삼성바이오로직스, 노조에 교섭 연기 요청…"신뢰 회복이 우선" | https://www.pointdaily.co.kr/news/articleView.html?idxno=324459 | a7,ax2
-2026-11-02 11:17 | news.sbs.co.kr | Samsung Biologics Labor-Management Negotiations Likely Delayed... Company Proposes 2-Week Postponement | google:news.sbs.co.kr#0537f98e | aen3
-2026-11-02 11:16 | etnews.com | 삼성바이오로직스, 노조에 교섭 연기 통보…“2주간 신뢰회복 필요” | https://www.etnews.com/20261102000193 | a7,ax2
-2026-11-02 11:15 | news.sbs.co.kr | 삼성바이오 노사 교섭 미뤄지나…사측 "2주 연기 제안" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008826118&plink=ORI&cooper=NAVER | ax2
-2026-11-02 11:10 | newsis.com | 삼성바이오 "3일 교섭연기…신뢰회복 기간 필요" | https://www.newsis.com/view/NISX20261102_0003850750 | ax2
-2026-11-02 11:08 | newsian.co.kr | 삼성바이오 3일 교섭 무산…노조 '파업 압박·비방'에 사측 "신뢰 훼손" | https://www.newsian.co.kr/news/articleView.html?idxno=100435 | a7,ax2
-2026-11-02 11:06 | startuptoday.co.kr | [이슈] 삼성바이오로직스, 3분기 뜨거운 방망이...수주는 '숙제' | https://www.startuptoday.co.kr/news/articleView.html?idxno=817713 | a7,ax2
-2026-11-02 11:05 | news1.kr | 교섭 전 비방…삼성바이오 "노조 신뢰훼손에 실질적 대화 불가능" | https://www.news1.kr/bio/pharmaceutical-bio/6339695 | ax2
-2026-11-02 11:02 | edaily.co.kr | 나승일 삼성물산 상무, 은탑 산업훈장…해외건설 수주 성과 | https://www.edaily.co.kr/News/Read?newsId=02781446645641784&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
-2026-11-02 11:00 | news1.kr | 해외건설 3조 신전략펀드 추진…삼성물산 등 7곳 '해외건설의 탑' | https://www.news1.kr/realestate/general/6339350 | a1
-2026-11-02 11:00 | bizwork.co.kr | '해외건설 플랜트의 날' 3일 개최…나승일 삼성물산 상무 은탑훈장 | https://www.bizwork.co.kr/news/articleView.html?idxno=420416 | a1
-2026-11-02 11:00 | 헤럴드경제 | South Korea holds overseas construction day, unveils 'Team Korea' vision | google:헤럴드경제#b103e8e7 | aen13
-2026-11-02 10:53 | biz.heraldcorp.com | 삼성바이오로직스, 노조 ‘교섭위원 교체·파업 압박’에 교섭 2주 연기... | https://biz.heraldcorp.com/article/10922494?ref=naver | a7,ax2
-2026-11-02 10:32 | news.bizwatch.co.kr | 삼성바이오, 미국 제약사와 628억원 공급계약…추가 물량 이어져 | https://news.bizwatch.co.kr/article/healthcare/2026/11/02/0004 | ax2
-2026-11-02 10:30 | Chosunbiz | Drugmakers race to capture Keytruda biosimilars as MSD shifts to SC | google:Chosunbiz#08e9e055 | aen4,aen5
-2026-11-02 10:20 | shinailbo.co.kr | 물 만난 삼성물산, 3분기 외형·수익성 '쑥'…수주 기대감은 '덤' | https://www.shinailbo.co.kr/news/articleView.html?idxno=5078442 | a1
-2026-11-02 09:56 | press9.kr | 삼성바이오에피스 하드리마, 3Q 글로벌 매출 35% 성장…미국 수요 확대 | http://www.press9.kr/news/articleView.html?idxno=85350 | a10,ax2,ax5
-2026-11-02 09:45 | Portibi Online | 1 Orang DPO Curat Dana ATM Viral di Ukui Diciduk Tim Polsek Ukui di Medan | google:Portibi Online#5f577813 | aid5
-2026-11-02 09:42 | ad-hoc-news.de | Samsung Biologics stock: 20% sales growth target after Q3 beat | google:ad-hoc-news.de#9df2313a | aen3
-2026-11-02 09:37 | Waroeng Berita | PT IIS Eko II Diultimatum 5×24 Jam, Aktivis Pertanyakan HGU hingga Pengelolaan DAS Sungai Kerinci | google:Waroeng Berita#bbcb44a7 | aid6
-2026-11-02 09:12 | newspim.com | [모닝 리포트] 삼성물산, 반도체 수주 호조에 3분기 영업익 15%↑ | https://www.newspim.com/news/view/20261102000122 | a1
-2026-11-02 09:05 | Chosunbiz | KICT deploys AI to predict toxic gas risks in South Korea’s underground sites | google:Chosunbiz#20f7cae8 | aen13
-2026-11-02 08:50 | g-enews.com | [개장 전 주요 공시] 한국철강·삼성바이오로직스·삼성전자·한화시스... | https://www.g-enews.com/view.php?ud=202611020842139184923c501012_1 | a7,ax2
-2026-11-02 08:46 | theguru.co.kr | 첫 원전 건설 나선 베트남, 잇달아 삼성물산·현대건설 등 만나 | https://www.theguru.co.kr/news/article.html?no=109082 | a1
-2026-11-02 07:58 | biz.heraldcorp.com | 삼성바이오로직스, 美 제약사 공급계약 628억으로 증액…고객사 수요 확... | https://biz.heraldcorp.com/article/10922021?ref=naver | a7,ax2
-2026-11-02 05:06 | 조선일보 | Mixed Q3 Profits for Construction Giants | google:조선일보#99e7e3ad | aen1,aen13
+2026-11-04 08:51 | view.asiae.co.kr | 삼성바이오로직스, ESG 리스크 평가서 최상위 등급 | https://view.asiae.co.kr/article/2026110408513706776 | a7,ax2
+2026-11-04 08:50 | pointdaily.co.kr | 삼성물산 홈닉, 금성백조 '예미지'에 도입…건설사 21곳과 협력 | https://www.pointdaily.co.kr/news/articleView.html?idxno=324718 | a1
+2026-11-04 08:49 | news1.kr | 삼성바이오로직스, 글로벌 ESG 평가 최상위 등급 획득 | https://www.news1.kr/bio/pharmaceutical-bio/6342217 | a7,ax2
+2026-11-04 08:48 | mt.co.kr | 삼성바이오, 서스테이널리틱스 ESG 평가 최상위 등급…'글로벌 4위' | https://www.mt.co.kr/thebio/2026/11/04/2026110408465298889 | ax2
+2026-11-04 08:43 | biz.chosun.com | 삼성물산-금성백조, 주거 서비스 홈닉 도입 업무협약 | https://biz.chosun.com/real_estate/real_estate_general/2026/11/04/INBMBNOEAFDBJJZUEOWTJYFDRY/?utm_source=naver&utm_medium=original&utm_campaign=biz | a1
+2026-11-04 08:39 | biz.heraldcorp.com | 삼성바이오로직스, 서스테이널리틱스 ESG 최상위 ‘네글리저블’ 등급 ... | https://biz.heraldcorp.com/article/10924858?ref=naver | a7,ax2
+2026-11-04 08:38 | hbnpress.com | 삼성물산 '홈닉', 금성백조 단지에 적용...건설사 21곳과 협력 | https://hbnpress.com/news/view/1065569752028361 | a1
+2026-11-04 08:38 | yna.co.kr | 삼성물산 패션, SSF샵서 '블랙프라이데이'…"최대 80% 할인" | https://www.yna.co.kr/view/AKR20261104024400030?input=1195m | a1
+2026-11-04 08:30 | Yahoo Finance | Samsung Biologics Achieves 'Negligible Risk' Rating in Sustainalytics ESG Assessment | google:Yahoo Finance#2d191cb1 | aen3
+2026-11-04 08:22 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Swadaya Riau Periode 4-10 November 2026 Turun Rp10,36 per Kg Jadi Rp3.729,47 per Kg | google:Warta Suluh#1f4fea57 | aid6
+2026-11-04 08:20 | g-enews.com | [개장 전 주요 공시] 네이버·삼성에피스홀딩스·크래프톤·이앤플러스... | https://www.g-enews.com/view.php?ud=2026110408100644923c501012_1 | a9,ax3,ax4
+2026-11-04 08:16 | koreareport.co.kr | 삼성물산 패션부문 SSF샵, 16일까지 '블랙프라이데이' 아우터 대전 | https://www.koreareport.co.kr/news/articleView.html?idxno=54275 | a1,a5
+2026-11-04 08:12 | mdtoday.co.kr | 삼성바이오에피스, 테바와 최대 5632억원 규모 바이오시밀러 미국 판매... | https://www.mdtoday.co.kr/news/articleView.html?idxno=622741 | a10,ax2,ax5
+2026-11-04 08:03 | biz.sbs.co.kr | 삼성바이오에피스, 테바와 최대 5천632억원 규모 파트너십 | https://biz.sbs.co.kr/article_hub/20000344095?division=NAVER | a10,ax2,ax5
+2026-11-04 08:02 | The Korea News Plus | Samsung C&T’s SSF Shop launches Black Friday sale | google:The Korea News Plus#db303f73 | aen1
+2026-11-04 08:02 | youthdaily.co.kr | "SMR·데이터센터 육성에 전력"…삼성물산 건설부문, 사업영역 다각화 ... | https://www.youthdaily.co.kr/news/article.html?no=229296 | a1,a3
+2026-11-04 07:58 | public25.com | [코스피·코스닥, 삼성바이오로직스 엔비디아 엘앤에프 LG에너지솔루션... | https://www.public25.com/news/articleView.html?idxno=57827 | a7,ax2
+2026-11-04 07:26 | sateconomy.co.kr | 삼성바이오에피스·네이버, 공시금액의 두 얼굴 | http://sateconomy.co.kr/news/view/1065565411109516 | a10,ax2,ax5
+2026-11-04 07:02 | news2day.co.kr | 삼성바이오로직스, 신규 계약 확대...공급 안정성 주목 | https://www.news2day.co.kr/article/20261103500330 | a7,ax2
+2026-11-04 07:01 | BigGo Finance | South Korea's 'Earnings Growers' Hidden by Chip Stock Concentration: 19 Stocks Post 3 Years of Profit Gains but Lag KOSPI | google:BigGo Finance#5512917a | aen3
+2026-11-04 06:42 | dailymedi.com | 삼성바이오에피스, 테바사와 5632억원 계약 | https://www.dailymedi.com/news/news_view.php?wr_id=942204 | a10,ax2,ax5
+2026-11-04 06:00 | ziksir.com | "하자 싹부터 자른다"…건설업계, AI 검측·실명제 품질 총력전 | https://www.ziksir.com/news/articleView.html?idxno=151819 | a1
+2026-11-04 06:00 | hitnews.co.kr | [경력채용] 한미약품, 제일약품, 삼성바이오에피스, 동국제약 | https://www.hitnews.co.kr/news/articleView.html?idxno=80477 | a10,ax2,ax5
+2026-11-04 06:00 | pointdaily.co.kr | 키트루다 바이오시밀러 선점 경쟁…삼성에피스·셀트리온 "글로벌 40조원... | https://www.pointdaily.co.kr/news/articleView.html?idxno=324642 | ax3
+2026-11-04 05:54 | BioPharm International | Shilpa CDMO Commits $50 Million to Scale Peptide Capacity in India | google:BioPharm International#182b9643 | aen3
+2026-11-04 05:30 | econovill.com | [돋보기] '출범 1년' 삼성에피스홀딩스, 미래 기반 다지기 '착착' | https://www.econovill.com/news/articleView.html?idxno=755897 | a9,ax3,ax4
+2026-11-04 04:07 | Jambi Ekspres | Tak Perlu Takut Kehilangan Data, Samsung Galaxy S26 FE Hadir Manjakan Pengguna - https://jambiekspres.disway.id/ | google:Jambi Ekspres#00391604 | aid12
+2026-11-04 03:38 | The Pharma Letter | Teva gains rights to biosimilars from Samsung Bioepis | google:The Pharma Letter#99366625 | aen4
+2026-11-04 03:04 | vegannews.co.kr | 삼성바이오에피스, 테바와 최대 5632억 미국 상업화 계약 | https://www.vegannews.co.kr/news/article.html?no=400116 | a10,ax2,ax5
+2026-11-04 02:53 | The News International | Samsung targets second Texas plant to produce HBM base dies for AMD and Nvidia: report | google:The News International#c81306d8 | aen13
+2026-11-04 01:28 | BioPharm International | Teva Licenses US Rights to Samsung Bioepis TNF Inhibitor Biosimilars | google:BioPharm International#12fe6eb8 | aen4
+2026-11-04 00:42 | grafa.com | Teva signs deal for two FDA-approved biosimilars | google:grafa.com#398e1420 | aen4
+2026-11-04 00:31 | donga.com | 삼성바이오, 글로벌제약사와 4343억원 신규 계약 | https://www.donga.com/news/Economy/article/all/20261103/134960258/2 | ax2
+2026-11-04 00:02 | topstarnews.net | 삼성바이오로직스, 4,343억원 규모 의약품 위탁생산 계약 체결 | https://www.topstarnews.net/news/articleView.html?idxno=16267527 | a7,ax2
+2026-11-04 00:01 | mk.co.kr | 삼성물산 건설부문, 맞춤형 주거에 생활 서비스 더해 … 고객 만족 12년... | https://www.mk.co.kr/article/12194874 | a1,a3
+2026-11-04 00:01 | mk.co.kr | 삼성물산 리조트부문, 27년째 테마파크 1위 … 멤버십·콘텐츠로 차별화 | https://www.mk.co.kr/article/12194890 | a1,a6
+2026-11-04 00:00 | 매일경제 | Samsung C&T's construction division (CEO Oh Se-cheol) has maintained the top spot in the apartme.. | google:매일경제#2c945289 | aen1
+2026-11-04 00:00 | 매일경제 | Samsung C&T's resort division (CEO Song Kyu-jong) ranked first in the theme park category of the.. | google:매일경제#2e62839f | aen1
+2026-11-03 23:48 | Pharmaceutical Executive | Teva Licenses U.S. Rights to Infliximab, Etanercept Biosimilars | google:Pharmaceutical Executive#8603e3de | aen4
+2026-11-03 23:26 | newsworks.co.kr | 삼성바이오에피스, 테바와 美 바이오시밀러 2종 상업화 계약…최대 5632... | https://www.newsworks.co.kr/news/articleView.html?idxno=901743 | a10,ax2,ax5
+2026-11-03 23:16 | Seeking Alpha | Teva to buy U.S. rights to two Samsung Bioepis biosimilars | google:Seeking Alpha#e2e7e683 | aen4
+2026-11-03 21:58 | biztribune.co.kr | 삼성바이오에피스, 테바와 자가면역질환 치료제 2종 미국 판권 계약 체... | http://www.biztribune.co.kr/news/articleView.html?idxno=361838 | a10,ax2,ax5
+2026-11-03 21:54 | The Jakarta Post | Village head in Riau nabbed in forest sale for oil palm plantation | google:The Jakarta Post#df962c28 | aen15
+2026-11-03 21:46 | dt.co.kr | 삼성바이오에피스, 테바와 파트너십…“최대 5632억원 규모” | https://www.dt.co.kr/article/12093003?ref=naver | a10,ax2,ax5
+2026-11-03 21:36 | RRI.co.id | Tolitoli Susun Ranperbup Kelapa Sawit Berkelanjutan | google:RRI.co.id#77b69646 | aid9
+2026-11-03 21:32 | biz.newdaily.co.kr | 삼성에피스, 테바와 5600억 판권 계약…美 바이오시밀러 판매망 재편 | https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300364.html | ax3
+2026-11-03 21:05 | katakabar.com | Konflik Eks Torganda Memanas, Abdul Aziz Fokus Perjuangkan Hak Warga | google:katakabar.com#1bfeeeb4 | aid9
+2026-11-03 20:56 | insights.citeline.com | Samsung Bioepis Ramps Up Profits As It Confirms US Keytruda Biosimilar Filing | google:insights.citeline.com#09336f44 | aen4
+2026-11-03 20:55 | segye.com | 삼성바이오에피스, 美 테바와 최대 5632억원 규모 판매 계약 | https://www.segye.com/newsView/20261103519823?OutUrl=naver | a10,ax2,ax5
+2026-11-03 20:48 | megaeconomy.co.kr | "사실상 인수 9부 능선"…삼성바이오로직스, 폴리펩타이드 지분 97.98% 응... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065613508526760 | a7,ax2
+2026-11-03 20:40 | metroseoul.co.kr | 삼성바이오에피스, "계약금만 1000억·최대 5600억"..."美 면역질환 시장... | http://www.metroseoul.co.kr/article/20261103500538 | a10,ax2,ax5
+2026-11-03 20:22 | livebiz.today | 삼성바이오에피스, 美 테바와 파트너십…미국서 자가면역질환 치료제 2... | https://www.livebiz.today/news/articleView.html?idxno=206176 | a10,ax2,ax5
+2026-11-03 19:39 | Yahoo Finance | Teva, Samsung Bioepis Sign US Biosimilar Commercialization Deal | google:Yahoo Finance#3e6e8f6f | aen4
+2026-11-03 19:20 | businesskorea.co.kr | Teva and Samsung Bioepis Commercialize Two FDA-Approved Biosimilars in th... | https://www.businesskorea.co.kr/news/articleView.html?idxno=280372 | a11
+2026-11-03 19:12 | edaily.co.kr | 삼성바이오에피스, 테바와 5632억 계약…美면역질환 시장 공략 | https://www.edaily.co.kr/News/Read?newsId=05589126645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a10,ax2,ax5
+2026-11-03 19:00 | GlobeNewswire | Teva and Samsung Bioepis Announce Agreement to Commercialize Two FDA-Approved Biosimilars in the U.S. | google:GlobeNewswire#4652afda | aen4,aen5
+2026-11-03 18:52 | biz.newdaily.co.kr | 삼성바이오로직스, 글로벌 제약사와 4343억원 규모 CMO 계약 | https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300096.html | a7,ax2
+2026-11-03 18:51 | news.bizwatch.co.kr | 삼성바이오에피스, 테바와 5600억 규모 시밀러 2종 판매 계약 | https://news.bizwatch.co.kr/article/healthcare/2026/11/03/0041 | a10,ax2,ax5
+2026-11-03 18:38 | hitnews.co.kr | [HIT알공] 삼성바이오로직스는 위탁생산, 에피스는 시밀러 판매 계약 | https://www.hitnews.co.kr/news/articleView.html?idxno=80480 | a7,ax2
+2026-11-03 18:38 | edaily.co.kr | 삼성바이오, 4343억 위탁생산 계약 상대는 셀트리온...양사 "확인불가" | https://www.edaily.co.kr/News/Read?newsId=05477606645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | ax2
+2026-11-03 18:29 | fnnews.com | 삼성물산 구호, 캐시미어 코트로 겨울 스타일 제안 | https://www.fnnews.com/news/202611031827342929 | a1
+2026-11-03 18:26 | fnnews.com | 삼성바이오, 4343억 규모 CMO 계약 따내 | https://www.fnnews.com/news/202611031825313014 | ax2
+2026-11-03 18:24 | dailymedi.com | 삼성바이오로직스, 4343억원 규모 위탁생산 수주 | https://www.dailymedi.com/news/news_view.php?wr_id=942184 | a7,ax2
+2026-11-03 18:16 | medical-tribune.co.kr | 삼성바이오에피스, 테바와 바이오시밀러 2종 美 판매 계약 | http://www.medical-tribune.co.kr/news/articleView.html?idxno=215737 | a10,ax2,ax5
+2026-11-03 18:12 | newsway.co.kr | 삼성바이오에피스, 테바와 5600억 규모 파트너십 맺어 | https://www.newsway.co.kr/news/view?ud=2026110317440854477 | a10,ax2,ax5
+2026-11-03 18:09 | 아시아경제 | Samsung Bioepis Signs U.S. Sales Deal With Teva Worth Up to 563.2 Billion Won | google:아시아경제#eb8fc076 | aen4,aen5
+2026-11-03 18:06 | hankyung.com | [단독] '의약품 맞수' 삼성바이오·셀트리온 손잡았다 | https://www.hankyung.com/article/2026110337331 | ax2
+2026-11-03 17:58 | 삼성물산 뉴스룸 | Everland’s Youngest Panda, Shubao, Makes Her Public Debut at Panda World | google:삼성물산 뉴스룸#d012c5bb | aen1
+2026-11-03 17:58 | INIRIAU.COM | Harga Sawit Swadaya Riau Periode 4–10 November Melemah, Ini Penyebabnya | google:INIRIAU.COM#b96bb56e | aid2
+2026-11-03 17:56 | businesskorea.co.kr | 삼성바이오에피스, 테바와 미국 상업화 계약 체결 | https://www.businesskorea.co.kr/news/articleView.html?idxno=280369 | a10,ax2,ax5
+2026-11-03 17:54 | biotimes.co.kr | 삼성바이오에피스, 테바와 5,632억 원 규모 美 바이오시밀러 판권 계약 | https://www.biotimes.co.kr/news/articleView.html?idxno=35881 | a10,ax2,ax5
+2026-11-03 17:50 | ziksir.com | 삼성바이오에피스, 테바 손잡고 美 바이오시밀러 판매 확대 | https://www.ziksir.com/news/articleView.html?idxno=151929 | a10,ax2,ax5
+2026-11-03 17:49 | Chosunbiz | Samsung Bioepis teams with Teva to sell two US biosimilars | google:Chosunbiz#69e5538a | aen4,aen5
+2026-11-03 17:48 | ngetnews.com | 삼성바이오에피스, 테바와 5632억원 규모 계약…美 시장 공략 확대 | https://www.ngetnews.com/news/articleView.html?idxno=555516 | a10,ax2,ax5
+2026-11-03 17:48 | smartbizn.com | 삼성바이오에피스, 테바와 美 바이오시밀러 판매 계약···최대 5632억 | https://www.smartbizn.com/news/articleView.html?idxno=158359 | a10,ax2,ax5
+2026-11-03 17:46 | medipana.com | 삼성바이오에피스, 테바와 美 판매 계약…최대 5632억 규모 | https://www.medipana.com/news/articleView.html?idxno=420840 | a10,ax2,ax5
+2026-11-03 17:39 | KED Global | Samsung Biologics lands $325 mn Celltrion order in first major production tie-up | google:KED Global#4c20a781 | aen3,aen4
+2026-11-03 17:38 | apsk.co.kr | 삼성바이오에피스, 테바와 5632억원 美 판매 제휴…자가면역질환 2종 추... | https://www.apsk.co.kr/news/articleView.html?idxno=540955 | a10,ax2,ax5
+2026-11-03 17:35 | edaily.co.kr | 삼성바이오에피스, 테바와 5632억 규모 미국 판권 계약 체결 | https://www.edaily.co.kr/News/Read?newsId=05231606645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a10,ax2,ax5
+2026-11-03 17:32 | Seoul Economic Daily | North Korea's Workers' Party Envoy Heads to China After Beijing Plenum | google:Seoul Economic Daily#2c238ccd | aen5
+2026-11-03 17:32 | g-enews.com | 삼성바이오에피스, 글로벌 연 매출 42조 원 ‘키트루다’ 美 시장 공략... | https://www.g-enews.com/view.php?ud=20261103154119443b065b72042_1 | a10,ax2,ax5
+2026-11-03 17:32 | koreabiomed.com | Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US unde... | https://www.koreabiomed.com/news/articleView.html?idxno=33720 | a11,aen4
+2026-11-03 17:30 | newsis.com | 삼성에피스 "테바와 시밀러 2종 파트너십 계약" | https://www.newsis.com/view/NISX20261103_0003853371 | ax3
+2026-11-03 17:27 | Seoul Economic Daily | Samsung Bioepis Signs Up to $420 Million U.S. Biosimilar Deal With Teva | google:Seoul Economic Daily#086b0757 | aen4,aen5
+2026-11-03 17:27 | mk.co.kr | 김경아 삼성에피스 사장 … '아시아 파워 女기업인' | https://www.mk.co.kr/article/12195043 | ax3
+2026-11-03 17:26 | businesspost.co.kr | 삼성바이오에피스, 글로벌 제약사 테바와 5632억 규모 바이오시밀러 사... | https://www.businesspost.co.kr/BP?command=article_view&num=451071 | a10,ax2,ax5
+2026-11-03 17:26 | digitalchosun.dizzo.com | 삼성바이오에피스, 테바와 최대 5632억 계약…64%는 매출 연동 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380182.html | a10,ax2,ax5
+2026-11-03 17:25 | etnews.com | 삼성바이오에피스, 테바와 최대 5632억원 계약…美 판매 협력↑ | https://www.etnews.com/20261103000412 | a10,ax2,ax5
+2026-11-03 17:24 | elaeis.co | Mediasi Lahan Eks Torganda Memanas, Warga Minta Hak Tanah Dibahas Sebelum Plasma | google:elaeis.co#c61e443d | aid9
+2026-11-03 17:22 | hitnews.co.kr | 삼성바이오에피스, 시밀러 미국 판매망 확대…테바와 5632억 계약 | https://www.hitnews.co.kr/news/articleView.html?idxno=80475 | a10,ax2,ax5
+2026-11-03 17:19 | dailian.co.kr | 삼성에피스, 美서 테바와 5632억 규모 시밀러 판매 계약 | https://www.dailian.co.kr/news/view/1710285/?sc=Naver | ax3
+2026-11-03 17:18 | news.einfomax.co.kr | 삼성바이오에피스, 글로벌 제약사와 자가면역질환 치료제 美서 판매 | https://news.einfomax.co.kr/news/articleView.html?idxno=4442812 | a10,ax2,ax5
+2026-11-03 17:18 | viva100.com | 삼성바이오에피스,테바와 자가면역질환 치료제 2종 상업화 계약 체결 | https://www.viva100.com/article/20261103501246 | a10,ax2,ax5
+2026-11-03 17:14 | ppss.kr | 삼성바이오로직스, 누적 수주 30조원 돌파…4,343억 신규 계약에 해외 인... | https://www.ppss.kr/news/articleView.html?idxno=318859 | a7,ax2
+2026-11-03 17:14 | hankyung.com | 삼성바이오에피스, 테바와 최대 5630억원 규모 상업화 파트너십 체결 | https://www.hankyung.com/article/202611033548i | a10,ax2,ax5
+2026-11-03 17:11 | joseilbo.com | 삼성바이오에피스, 5632억 규모 바이오시밀러 판매 계약 [공시pick] | http://www.joseilbo.com/news/news_read.php?uid=578820&class=17&grp= | a10,ax2,ax5
+2026-11-03 17:10 | joseilbo.com | 삼성바이오에피스, 테바와 5632억 바이오시밀러 美 상업화 계약 [공시pi... | http://www.joseilbo.com/news/news_read.php?uid=578818&class=17&grp= | a10,ax2,ax5
+2026-11-03 17:01 | TradingView | Samsung Epis Holdings Unit Signs Agreement On US Sales Of Its Remicade, Enbrel Biosimilars With Teva Worth As Much As $420 Million | google:TradingView#a8fb0895 | aen5
+2026-11-03 16:58 | cbci.co.kr | [속보] 삼성에피스홀딩스 자회사 삼성바이오에피스, 테바와 최대 5632억... | https://www.cbci.co.kr/news/articleView.html?idxno=622718 | a10,a9,ax2,ax3,ax4,ax5
+2026-11-03 16:48 | mt.co.kr | 하루 만에 '반등 반납'…美 선거·AMD 실적발표 후 투심 회복할까 | https://www.mt.co.kr/stock/2026/11/04/2026110316141267646 | a1?,a7?,ax2?
+2026-11-03 16:41 | GoRiau.com | Harga CPO Turun, Nilai Jual Sawit Mitra Swadaya Riau Terkoreksi Rp10,36 per Kilogram | google:GoRiau.com#d5344712 | aid2
+2026-11-03 16:34 | job-post.co.kr | 삼성바이오로직스 강세…3분기 매출 1조4903억원 뒷받침 | https://www.job-post.co.kr/news/articleView.html?idxno=236228 | a7,ax2
+2026-11-03 16:33 | HALLORIAU.COM | Harga TBS Sawit Mitra Swadaya Riau Turun Rp10,36 per Kg, CPO Jadi Pemicu | google:HALLORIAU.COM#2605a31d | aid2
+2026-11-03 16:30 | weekly.hankooki.com | 삼성바이오로직스 노사, 교섭 재개 앞두고 충돌…노조 "쟁의 준비 계속... | https://weekly.hankooki.com/news/articleView.html?idxno=7192043 | a7,ax2
+2026-11-03 16:26 | biotimes.co.kr | 삼성바이오로직스, 신규 수주 4,343억 원…미국 규제 반사이익 가시화 | https://www.biotimes.co.kr/news/articleView.html?idxno=35864 | a7,ax2
+2026-11-03 16:24 | ekn.kr | [똑똑한패션] 삼성물산 패션 구호, 노스페이스, 영원무역그룹, K2 | https://www.ekn.kr/web/view.php?key=20261103021074924 | a1
+2026-11-03 16:24 | dailysmart.co.kr | "반포에 첫 선 보이는 넥스트 리모델링"… 삼성물산 건설부문, '래미안... | http://www.dailysmart.co.kr/news/articleView.html?idxno=131938 | a1,a3
+2026-11-03 16:22 | Media Center Riau | Harga TBS Sawit Mitra Swadaya Riau Turun Rp10,36 per Kg, Ini Penyebabnya | google:Media Center Riau#c62b7f19 | aid2
+2026-11-03 16:12 | digitalchosun.dizzo.com | [ESG] 삼성바이오에피스, 바이오시밀러로 ‘지속 가능한 의료’ 만든다 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380131.html | a10,ax2,ax5
+2026-11-03 16:09 | dt.co.kr | 수주 가뭄 속 의미있는 한 건…삼성바이오, 4343억 규모 신규수주 | https://www.dt.co.kr/article/12092905?ref=naver | ax2
+2026-11-03 16:00 | hansbiz.co.kr | 삼성물산 패션·한섬 3분기 수익성 '껑충' | http://www.hansbiz.co.kr/news/articleView.html?idxno=879313 | a1
+2026-11-03 16:00 | newsis.com | 삼성물산 천억불 해외건설의 탑 수상 | https://www.newsis.com/view/NISI20261103_0021517169 | a1
+2026-11-03 15:58 | pinpointnews.co.kr | [거래소 기관] SK하이닉스·삼성전자 매도 봇물…대한항공·삼성바이오... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=500987 | ax2
+2026-11-03 15:46 | GeneOnline | Samsung Biologics Executes 97.99% PolyPeptide Takeover to Claim Peptide Dominance | google:GeneOnline#1ad97b72 | aen3
+2026-11-03 15:40 | namdonews.com | [특징주]삼성바이오로직스, 글로벌 제약사 위탁생산 계약에 기관 순매수... | https://www.namdonews.com/news/articleView.html?idxno=928047 | a7,ax2
+2026-11-03 15:33 | SKI Nusantara Post | Prediksi BMKG Hujan Petir Akan Mengguyur Sebagian Wilayah Riau Hari Ini | google:SKI Nusantara Post#72ad4bfd | aid6,aid8
+2026-11-03 15:32 | 매일경제 | During a massive sell-off by foreigners in the local stock market last month, pension funds made a c.. | google:매일경제#c912b885 | aen3
+2026-11-03 15:24 | mediapen.com | 파업 압박에 대화 가능?…삼성바이오로직스, "신뢰 회복이 우선" | https://www.mediapen.com/news/view/1134740 | a7,ax2
+2026-11-03 15:10 | koreabiomed.com | Samsung Biologics shares up 1.7% after $325 mil. CMO deal | https://www.koreabiomed.com/news/articleView.html?idxno=33713 | a8,aen3
+2026-11-03 15:07 | BIDIKKASUSNEWS.COM | Pak Presiden RI Tolong Bantu Masyarakat Aceh Singkil Konflik Agraria Tak Kunjung Tuntas | google:BIDIKKASUSNEWS.COM#9d01c285 | aid9
+2026-11-03 15:04 | shinailbo.co.kr | 삼성물산 패션 구호, 콘텐츠로 아우터 선봬 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5079200 | a1
+2026-11-03 14:58 | inews24.com | 삼성바이오, '노사 갈등'에도 유상증자 순항⋯흥행 변수는 우리사주 | http://www.inews24.com/view/2022066 | a1,a7,ax2
+2026-11-03 14:14 | fnnews.com | 삼성바이오 노조, 올해 법적 대응 15건 넘어…결론 난 7건 모두 노조 주... | https://www.fnnews.com/news/202611030928162528 | ax2
+2026-11-03 14:12 | apsk.co.kr | 삼성바이오로직스, 4343억원 위탁생산 수주…글로벌 제약사와 2031년까지 | https://www.apsk.co.kr/news/articleView.html?idxno=540952 | a7,ax2
+2026-11-03 14:10 | theguru.co.kr | 삼성물산, 호주 BESS 시장 공략 속도...고전압 엔지니어링 기업 '파워텍... | https://www.theguru.co.kr/news/article.html?no=109135 | a1
+2026-11-03 14:02 | m-economynews.com | 삼성바이오, 4343억 신규 수주…누적액 223억 달러 돌파 | https://www.m-economynews.com/news/article.html?no=72516 | ax2
+2026-11-03 13:53 | ddaily.co.kr | 삼성바이오로직스, 4343억원 추가 수주…글로벌 제약사와 5년 계약 | https://www.ddaily.co.kr/page/view/2026110313512655928 | a7,ax2
+2026-11-03 13:48 | vegannews.co.kr | 삼성바이오로직스, 2031년까지 4343억원 생산계약 | https://www.vegannews.co.kr/news/article.html?no=399843 | a7,ax2
+2026-11-03 13:40 | autodaily.co.kr | 삼성바이오로직스, 글로벌제약사와 대규모 의약품 위탁생산 계약 | https://www.autodaily.co.kr/news/articleView.html?idxno=601731 | a7,ax2
+2026-11-03 13:37 | biz.sbs.co.kr | 삼성바이오, 4300억원대 계약 추가…누적 수주 30조원 | https://biz.sbs.co.kr/article_hub/20000343928?division=NAVER | ax2
+2026-11-03 13:26 | Seoul Economic Daily | Top Traders Buy Dip in Samsung Electronics, Add KEPCO | google:Seoul Economic Daily#262b3345 | aen5
+2026-11-03 13:10 | shinailbo.co.kr | 구내식당에서 만나는 가을 문학…삼성웰스토리, 120여 곳서 '가을책방' | https://www.shinailbo.co.kr/news/articleView.html?idxno=5078708 | a12,ax6
+2026-11-03 12:44 | newsdream.kr | [특징주] 삼성바이오로직스, 글로벌 제약사와 위탁생산 계약…주가 2.5%... | http://www.newsdream.kr/news/articleView.html?idxno=121382 | a7,ax2
+2026-11-03 12:44 | newsian.co.kr | "교섭은 뒤로, 쟁송은 연속 기각"…삼성바이오 노조, 표류하는 '명분과... | https://www.newsian.co.kr/news/articleView.html?idxno=100517 | ax2
+2026-11-03 12:26 | 아시아경제 | Samsung SDS Breaks Ground on 60-MW AI Data Center in Gumi | google:아시아경제#99ce8d4a | aen1
+2026-11-03 12:05 | BigGo Finance | South Korea's KOSPI Plunges to 5,638 Intraday Before Rebounding; Retail Investors Buy the Dip With 946.5 Billion Won | google:BigGo Finance#14b56dae | aen3
+2026-11-03 12:02 | SuaraLira.com | Desa Rantau Bakung Disambangi Oleh Babinsa Koramil 01/Rengat Gelar Patroli dan Sosialisasi Tentang Karhutla | google:SuaraLira.com#0580268a | aid8
+2026-11-03 11:56 | medicaltimes.com | 삼성바이오, 4343억원 규모 수주…바이오 생산능력 입증 | https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171584&ref=naverpc | ax2
+2026-11-03 11:32 | finomy.com | [공시]삼성바이오로직스, 글로벌 제약사와 4343억원 공급계약 | http://www.finomy.com/news/articleView.html?idxno=265424 | a7,ax2
+2026-11-03 11:30 | cwn.kr | 삼성바이오로직스, 4천343억원 규모 글로벌 위탁생산 계약...'수주액 223... | https://www.cwn.kr/news/articleView.html?idxno=60848 | a7,ax2
+2026-11-03 11:26 | dealsite.co.kr | 삼성바이오로직스, 글로벌 제약사와 4300억 규모 CMO 계약 체결 | https://dealsite.co.kr/articles/171947 | a7,ax2
+2026-11-03 11:16 | ziksir.com | 삼성바이오로직스, 글로벌 제약사와 4343억 CMO 계약…누적 수주 30조 | https://www.ziksir.com/news/articleView.html?idxno=151807 | a7,ax2
+2026-11-03 11:16 | theguru.co.kr | 김경아 삼성바이오에피스 사장, 포브스 '아시아 파워 여성경제인 20人' ... | https://www.theguru.co.kr/news/article.html?no=109173 | a10,ax2,ax5
+2026-11-03 11:11 | biz.heraldcorp.com | 삼성바이오, 美제약사 공급 규모 2배 늘었다 | https://biz.heraldcorp.com/article/10923905?ref=naver | ax2
+2026-11-03 11:10 | wikitree.co.kr | 햇빛으로 원단 색 바꾸는 지용킴, 푸마 셀 지오 재해석 | https://www.wikitree.co.kr/articles/1171296 | a1
+2026-11-03 11:10 | Riau24.com | WALHI Telusuri Jejaring Korporasi dan Tokoh di Balik Dalang dan Risiko Karhutla 2026 | google:Riau24.com#b6825eab | aid6
+2026-11-03 11:10 | CAKAPLAH.com | CAKAP RAKYAT Menjaga Marwah di Tanah Basah | google:CAKAPLAH.com#f1df9492 | aid9
+2026-11-03 11:08 | joongboo.com | 삼성바이오·셀트리온, 차세대 치료제 '원료' 확보 사활...수천억·수조... | https://www.joongboo.com/news/articleView.html?idxno=363741285 | ax2
+2026-11-03 11:06 | smartbizn.com | 삼성물산 구호, 건축적 미니멀리즘 입힌 캐시미어 코트로 겨울 공략 | https://www.smartbizn.com/news/articleView.html?idxno=158271 | a1
+2026-11-03 11:04 | insight.co.kr | 노사 갈등 속에도... 삼성바이오로직스, 4343억 CMO 계약 | https://www.insight.co.kr/news/580387 | a7,ax2
+2026-11-03 11:01 | 파이낸셜뉴스 | KOSPI falls in the 2% range on AI profitability concerns; Samsung Electronics and SK hynix both weaken [fn Morning Market Update] | google:파이낸셜뉴스#2a70e871 | aen3
+2026-11-03 11:00 | mediapen.com | 삼성물산은 반도체로 성장하고, 현대건설은 주택으로 벌었다 | https://www.mediapen.com/news/view/1134642 | a1
+2026-11-03 10:50 | etoday.co.kr | 삼성바이오로직스, 글로벌 제약사와 4343억원 신규 계약…올해 9번째 수... | https://www.etoday.co.kr/news/view/2643361 | a7,ax2
+2026-11-03 10:48 | newstnt.com | [특징주] 삼성바이오로직스, 글로벌 제약사와 4343억원 규모 위탁생산 ... | https://www.newstnt.com/news/articleView.html?idxno=726400 | a7,ax2
+2026-11-03 10:42 | 조선일보 | Samsung Biologics Cumulative Orders Surpass 30 Trillion Won | google:조선일보#d5162d81 | aen3
+2026-11-03 10:34 | businesspost.co.kr | 삼성물산 호주 전력 EPC 기업 940억에 인수, 현지 에너지 시장 공략 속도 | https://www.businesspost.co.kr/BP?command=article_view&num=451001 | a1
+2026-11-03 10:30 | news2day.co.kr | [공시 Pick] 삼성바이오로직스, 글로벌 제약사와 4300억원대 계약…2%대... | https://www.news2day.co.kr/article/20261103500082 | a7,ax2
+2026-11-03 10:23 | Chosunbiz | Samsung Biologics secures $325 million CDMO deal, boosts Korea’s biotech reach | google:Chosunbiz#a936624a | aen3
+2026-11-03 09:30 | 아시아경제 | Seoan Designs, Samsung C&T Resort Group Builds... LE-EL Upper House Extends the Forest's Elegance Through Landscaping | google:아시아경제#910d06c4 | aen1
+2026-11-03 09:04 | pointdaily.co.kr | 삼성바이오로직스, 글로벌 제약사와 4343억 규모 신규 계약 체결 | https://www.pointdaily.co.kr/news/articleView.html?idxno=324572 | a7,ax2
+2026-11-03 09:02 | Seoul Economic Daily | KOSPI Opens 2.46% Lower at 5,715.19 | google:Seoul Economic Daily#d4ba96f4 | aen5
+2026-11-03 08:36 | Seoul Economic Daily | Kim Min-seok Calls Merger Push an Internal Power Play | google:Seoul Economic Daily#57f407af | aen5
+2026-11-03 08:35 | BigGo Finance | AI Profitability Doubts Reignite: Samsung Electronics, SK Hynix Plunge 3% in Pre-Market Trading | google:BigGo Finance#c64a5012 | aen3
+2026-11-03 04:56 | Fierce Pharma | Hansoh hit with FDA write-up after inspection | google:Fierce Pharma#79274302 | aen3
+2026-11-03 03:29 | BioPharm International | Samsung Biologics Secures 97.66% of PolyPeptide Shares in Tender Offer | google:BioPharm International#73d67f05 | aen3
