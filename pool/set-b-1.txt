@@ -1,256 +1,256 @@
-# collected: 2026-11-04 08:55 KST
-# window: 2026-11-03 00:00 ~ 2026-11-04 08:55 KST
+# collected: 2026-11-05 09:15 KST
+# window: 2026-11-04 00:00 ~ 2026-11-05 09:15 KST
 # part 1 of 5, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-04 08:50 | 뉴시스 | [그래픽] 10월 외환보유액 4431.6억 달러…한 달 만에 증가 전환 | google:뉴시스#78f32693 | sw
-2026-11-04 08:50 | imaeil.com | 고준위 방폐장 부지 2038년 확정…내년 상반기 공모 | https://www.imaeil.com/page/view/2026110316151048210 | b5
-2026-11-04 08:50 | metroseoul.co.kr | 공급은 속도전, 현장은 교섭전…주택 공급 일정 변수는 | http://www.metroseoul.co.kr/article/20261104500026 | b17
-2026-11-04 08:47 | 헤럴드경제 | 경기중 골키퍼와 충돌…30세 스페인 축구선수 사망 | google:헤럴드경제#bfda3432 | sw
-2026-11-04 08:47 | 스포츠경향 | 33년간 부부싸움 ‘NO’…최수종·하희라 부부가 사는 법 (옥문아) | google:스포츠경향#3b6a1370 | sw
-2026-11-04 08:43 | 아주경제 | [포토] 이성윤 의원, 피지컬 AI·로봇 글로벌 최강국 전북 대토론회 참석 | google:아주경제#b84d3df5 | sw
-2026-11-04 08:43 | 이투데이 | 삼성전자서비스, 한국서비스품질지수 에어컨 AS 2년 연속 1위 | google:이투데이#2ae69bef | sw
-2026-11-04 08:42 | biz.chosun.com | 호반, 한진칼 최대주주 되면 오히려 불리?…감사위원 표 ‘3% 대 15%’ 역... | https://biz.chosun.com/stock/stock_general/2026/11/04/QL2OIZ52L5DQVIEZT5NW2UW7XY/?utm_source=naver&utm_medium=original&utm_campaign=biz | b27
-2026-11-04 08:40 | 매일경제 | ‘최종면접’ 비밀과 폭로 속 빛나는 청춘 배우들의 앙상블 [MK무비] | google:매일경제#a32b6f00 | sw
-2026-11-04 08:40 | 아주경제 | [포토] 이원택 도지사, 피지컬 AI·로봇 글로벌 최강국 전북 대토론회 참석 | google:아주경제#349d6f04 | sw
-2026-11-04 08:39 | 아주경제 | [포토] 인사말 하는 이원택 전북특별자치도지사 | google:아주경제#d3f64d30 | sw
-2026-11-04 08:38 | 아주경제 | [포토] ​​​​​​​한병도 원내대표, 피지컬 AI·로봇 글로벌 최강국 전북 대토론회 참석 | google:아주경제#23a50643 | sw
-2026-11-04 08:36 | 아주경제 | [포토] 인사말 하는 한병도 더불어민주당 원내대표 | google:아주경제#3c0ef883 | sw
-2026-11-04 08:35 | 아주경제 | [포토] 인사말 하는 ​​​​​​​윤준병 더불어민주당 전북특별자치도당 위원장 | google:아주경제#28d34b14 | sw
-2026-11-04 08:34 | 아주경제 | [포토] 피지컬 AI·로봇 글로벌 최강국 전북 대토론회 | google:아주경제#8320a042 | sw
-2026-11-04 08:34 | jeonmae.co.kr | 서울시의회, 지방의회법 제정 촉구 결의안 가결…"연내 국회 통과해야" | https://www.jeonmae.co.kr/news/articleView.html?idxno=1308216 | b42
-2026-11-04 08:33 | 아주경제 | [포토] 축사하는 ​​​​​​​곽영길 전북도민회 중앙회장 | google:아주경제#12ce8541 | sw
-2026-11-04 08:32 | 아주경제 | [포토] 인사 나누는 곽영길 전북도민회 중앙회장과 윤준병 전북특별자치도당 위원장 | google:아주경제#a4870a35 | sw
-2026-11-04 08:32 | 헤럴드경제 | 기보, 소방산업 중소기업 기술보증 확대…보증료 감면 | google:헤럴드경제#f79c5623 | sw
-2026-11-04 08:30 | 헤럴드경제 | 충남도, ‘2026년 충남일자리 박람회’ 개최 | google:헤럴드경제#08342b2a | sw
-2026-11-04 08:30 | 이투데이 | 카카오뱅크, 3분기 누적 순익 4698억원…전년比 25.2%↑ | google:이투데이#42e40206 | sw
-2026-11-04 08:29 | 아주경제 | [포토] 축사하는 신승규 현대자동차그룹 부사장 | google:아주경제#d32911b0 | sw
-2026-11-04 08:26 | thelec.kr | 도우인시스, '글라코어'로 사명 변경 추진 | https://www.thelec.kr/news/articleView.html?idxno=64823 | b27
-2026-11-04 08:24 | view.asiae.co.kr | "주식시장 다 망가졌네…이제 이해할 수 없는 수준" 경고장 날린 월가 ... | https://view.asiae.co.kr/article/2026110408232875709 | b6?
-2026-11-04 08:22 | 아주경제 | [포토] 전북 피지컬 AI 중심도시 조성을 위한 1조 3천억원 국가예산 반영 건의문 낭독 | google:아주경제#657bf09e | sw
-2026-11-04 08:22 | econovill.com | '농협중앙회장 직선제', 與 주도로 법안소위 통과 | https://www.econovill.com/news/articleView.html?idxno=755939 | b42
-2026-11-04 08:22 | 이투데이 | 신한證, “LG생활건강, 실적 회복세지만 비용 부담 여전⋯목표가 유지” | google:이투데이#bc9dd79e | sw
-2026-11-04 08:20 | 이투데이 | 투표 대체로 순조⋯일부 지역 투표기 오류·악천후 차질 [美 중간선거] | google:이투데이#e0f7600b | sw
-2026-11-04 08:19 | 이투데이 | 빗썸, 신세계와 쇼핑ㆍ가상자산 제휴 확대⋯이마트24까지 넓힌다 | google:이투데이#673dd7f3 | sw
-2026-11-04 08:18 | 이투데이 | [속보] 수도권제1순환고속도로 사패산터널 사고 발생 | google:이투데이#2352db63 | sw
-2026-11-04 08:16 | autodaily.co.kr | BYD 직원 100만명 돌파, 현대차 8배⋯판매 감소에도 10개월 새 15만명 늘... | https://www.autodaily.co.kr/news/articleView.html?idxno=601753 | b32
-2026-11-04 08:15 | Kalkine | HMC Capital Releases Sustainability Update 2026 Covering ESG Strategy and 652MW Operating Capacity | google:Kalkine#6274c59c | bgb4
-2026-11-04 08:14 | 이투데이 | IPO, 경쟁률 착시 | google:이투데이#a95fb55e | sw
-2026-11-04 08:14 | 아주경제 | [포토] 굿모닝! 수요 정책 아카데미 | google:아주경제#9796a60c | sw
-2026-11-04 08:14 | m-i.kr | 영암군, 식품 창업기업 온라인 판로 지원…6개 업체 시장 진출 | https://www.m-i.kr/news/articleView.html?idxno=2014034 | b6
-2026-11-04 08:14 | wikitree.co.kr | "내가 왜 전과자 돼요?" 비상 걸린 10대들 | https://www.wikitree.co.kr/articles/1171615 | b42
-2026-11-04 08:13 | 아주경제 | [포토] 굿모닝! 수요 정책 아카데미 참석한 장동혁 대표 | google:아주경제#1a54c75f | sw
-2026-11-04 08:13 | 경향신문 | 박지원 “울먹인 김민석에 진정성…공개 사과 요구 당 위하는 길 아냐” | google:경향신문#e35e1ae8 | sw
-2026-11-04 08:13 | 이투데이 | SK "한국항공우주, 내년 완제기 납품 본격 확대⋯KF-21 수출 모멘텀 기대" | google:이투데이#71604f7a | sw
-2026-11-04 08:11 | 이투데이 | [증시키워드] 美 반도체 반등에 삼전·SK하닉 재도전…한진칼·ESS 강세 지속 주목 | google:이투데이#8c9a491b | sw
-2026-11-04 08:05 | 이투데이 | 하버드대 "민주 하원 승리 확률 96%⋯상원은 78%" [美 중간선거] | google:이투데이#9b7272aa | sw
-2026-11-04 08:05 | 이투데이 | 한국투자證, “하이브, BTS 공백보다 중장기 성장에 주목⋯목표가 27만원” | google:이투데이#41b16cbc | sw
-2026-11-04 08:04 | 뉴시스 | 영암 조선소서 20대 노동자 작업준비중 숨져…경찰조사 | google:뉴시스#ffe43ed4 | sw
-2026-11-04 08:03 | 이투데이 | 방탄소년단, 이탈리아 음반산업협회 ‘플래티넘’ 인증⋯K팝 최초 | google:이투데이#27ba30aa | sw
-2026-11-04 08:02 | impacton.net | 【리스크 모니터링】LG엔솔 미시간 공장 폭발 소송, 현대제철·포스코 합작 제철소 배출 허가 반발 | https://www.impacton.net/news/articleView.html?idxno=30517 | sw
-2026-11-04 08:02 | ferrotimes.com | 철강協, '스틸 코리아 2026' 개최…2027년 산업 전망·정책·기술 진단 | http://www.ferrotimes.com/news/articleView.html?idxno=51274 | b3,b4
-2026-11-04 08:02 | 이투데이 | 트럼프 “생각보다 좋을 것”⋯민주당도 상원 탈환 자신 [美 중간선거] | google:이투데이#abc7793c | sw
-2026-11-04 08:02 | 이투데이 | 문체부 장관 “서울·전북 올림픽 공동개최 합의시 적극 지원” | google:이투데이#8f777a4c | sw
-2026-11-04 08:01 | 헤럴드경제 | 슈퍼모델 출신 김자연, ‘25살 연상’ 손영권 전 삼성전자 사장과 결혼 | google:헤럴드경제#3c5b8f36 | sw
-2026-11-04 08:01 | 스포츠경향 | Kwon Hyuk heads to divorce court with Jang Na-ra…‘Good Partner 2’ joins | google:스포츠경향#a13cde96 | sw
-2026-11-04 08:00 | ekn.kr | 강원도의회, 제350회 정례회 개회…내년도 예산안 심사 돌입 | https://www.ekn.kr/web/view.php?key=20261104024554509 | b42
-2026-11-04 07:58 | 이투데이 | 美 상원 경합 4곳, 오후 당선자 윤곽⋯다수당 판가름 1차 분수령 [美 중간선거] | google:이투데이#7071cfb9 | sw
-2026-11-04 07:56 | 이투데이 | 장학기금·고향사랑 기부금...해남군 향우 등 잇단 기탁 | google:이투데이#50249db4 | sw
-2026-11-04 07:55 | view.asiae.co.kr | 추락사 1년 만에 또 압수수색…GS건설 덮친 사법 리스크 | https://view.asiae.co.kr/article/2026110217134516874 | b20,b21?
-2026-11-04 07:53 | 이투데이 | 하나증권 “심텍, 3분기 깜짝 실적에 가격 협상력 강화…목표가 ↑” | google:이투데이#a67da8f9 | sw
-2026-11-04 07:52 | 이투데이 | 밀린 국제 금값…국내 금시세는? | google:이투데이#ced7a79b | sw
-2026-11-04 07:49 | 이투데이 | 유럽 여객기 7대 폭파 위협⋯전투기 출격하고 비상착륙 | google:이투데이#a8f09e4f | sw
-2026-11-04 07:48 | 이투데이 | 국제 금값, 달러ㆍ국채금리 상승에 소폭 하락⋯중간선거 주시 | google:이투데이#860086c2 | sw
-2026-11-04 07:45 | 이투데이 | NBC 출구조사서 트럼프 심판론 부각⋯유권자 43% “반대 위해 투표” [美 중간선거] | google:이투데이#ae2e7856 | sw
-2026-11-04 07:44 | ngonews.kr | RE100 기업 재생에너지 조달률 '12%'…전력계획 전면 손질 요구 | https://www.ngonews.kr/news/articleView.html?idxno=242247 | b5
-2026-11-04 07:42 | wikitree.co.kr | 수사 대상 12건 중 8건이 이 대통령 사건... 공소취소 수순? | https://www.wikitree.co.kr/articles/1171587 | b42
-2026-11-04 07:41 | 이투데이 | [오늘의 증시일정] SK가스·카카오뱅크·LX인터내셔널 등 | google:이투데이#e0f7bccc | sw
-2026-11-04 07:40 | e-platform.net | [오늘의 국회 에너지 입법 : 자발적 탄소시장 활성화 지원 근거 마련돼... | http://www.e-platform.net/news/articleView.html?idxno=106682 | b11,b2
-2026-11-04 07:39 | 헤럴드경제 | ‘10년째 공백’ 고소영 “일 안 하니 돈 너무 많이 쓰더라” | google:헤럴드경제#abe8a43b | sw
-2026-11-04 07:33 | 이투데이 | [오늘의 IR] SK텔레콤ㆍ한화ㆍ제이브이엠 등 | google:이투데이#079e2181 | sw
-2026-11-04 07:32 | legaltimes.co.kr | [2026 Best Law Firms in Korea] 법무법인 화우 | http://www.legaltimes.co.kr/news/articleView.html?idxno=96753 | b15
-2026-11-04 07:31 | ohmynews.com | "더 많은 대중 분노해야" 영국인들은 한국의 무엇을 보았나 | https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277091&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news | b26,b27
-2026-11-04 07:30 | lawtimes.co.kr | 【오늘의 법조】 2026년 11월 4일 | https://www.lawtimes.co.kr/news/articleView.html?idxno=228825 | b15
-2026-11-04 07:30 | 이투데이 | 상상인증권 "하이브, BTS 투어 호조에도 수익성 아쉬워…목표가 15%↓" | google:이투데이#dd4bc24a | sw
-2026-11-04 07:30 | 이투데이 | HT로보틱스, 두산로보틱스와 AI 디버링 실증…협동로봇 50대 이상 확대 추진 | google:이투데이#43b1994a | sw
-2026-11-04 07:29 | 이투데이 | 부산, 동북아 수산물 물류 허브 전략 모색…제21회 수산정책포럼 개최 | google:이투데이#800d1464 | sw
-2026-11-04 07:27 | 뉴시스 | 밤새 부산 모 대학 창고서 불…인명 피해 없어 | google:뉴시스#1bf506a5 | sw
-2026-11-04 07:19 | 이투데이 | 챔스 리그페이즈 4차전 결과…이강인·김민재 맞대결 | google:이투데이#8f640921 | sw
-2026-11-04 07:16 | queen.co.kr | [오늘의 주요일정] 정치·정부 (4일, 수) | http://www.queen.co.kr/news/articleView.html?idxno=465755 | b42
-2026-11-04 07:13 | 이투데이 | [BZ포토] 러블리즈 이미주, 무대에서 | google:이투데이#bf893f85 | sw
-2026-11-04 07:13 | 이투데이 | AMD, 3분기 매출 45%↑⋯시간외서 8%↑[마켓핫] | google:이투데이#ddf82333 | sw
-2026-11-04 07:12 | 헤럴드경제 | 로또 대신 산 즉석복권 ‘5억’ 당첨…“막상 1등 되니 생각보다 덤덤” | google:헤럴드경제#5d83cc5c | sw
-2026-11-04 07:11 | 이투데이 | 노화는삶이다 | google:이투데이#5893aff1 | sw
-2026-11-04 07:10 | 아시아경제 | [단독]동원산업, 배당소득세 35억원 취소 소송…대법원, 패소 확정 | google:아시아경제#72528839 | sw
-2026-11-04 07:09 | Leigh Day | North London cafe operator gets legal challenge green light | google:Leigh Day#2f39550a | bgb6
-2026-11-04 07:07 | 이투데이 | 러시아 “한미 군사훈련 도발적⋯즉각 중단해야” | google:이투데이#b3446706 | sw
-2026-11-04 07:06 | socialvalue.kr | [SV 리포트] 정의선號 현대차그룹, 바다서 ESG 답을 찾다 | https://www.socialvalue.kr/news/view/1065598238182915 | b11,b20,b6
-2026-11-04 07:06 | cstimes.com | 코트라, 조선해양 사절단 남아시아 파견…'세계이슈톡톡' 우수사례 선정 | https://www.cstimes.com/news/articleView.html?idxno=726501 | b8
-2026-11-04 07:05 | 아시아경제 | "CEO까지 직접 면접 보더니"…8조4000억 규모 해킹으로 번진 '가짜 채용'[크립토 레이더] | google:아시아경제#f1d930bb | sw
-2026-11-04 07:05 | 이투데이 | 골키퍼와 충돌한 데 미겔 끝내 사망…향년 30세 | google:이투데이#4a45bb23 | sw
-2026-11-04 07:04 | ESG News | ESG Rating Providers Face FCA Authorisation From June 2027 Under New Conflict-of-Interest Rules | google:ESG News#6b1c7c3b | bgb11,bgb4
-2026-11-04 07:04 | incheonin.com | 메가시티 인천, 갯벌은 빈 땅이 아니다 | http://www.incheonin.com/news/articleView.html?idxno=121965 | b2
-2026-11-04 07:04 | safetimes.co.kr | [오늘의 주요일정·4일] 우재준 의원 건설안전보건 교육제도 개편 토론... | https://www.safetimes.co.kr/news/articleView.html?idxno=247147 | b14,b42
-2026-11-04 07:04 | dealsite.co.kr | [농협 개혁 진단] 8개월 만에 '첫 관문' 넘었지만…핵심 쟁점 여전한 '반... | https://dealsite.co.kr/articles/171974 | b42
-2026-11-04 07:03 | 헤럴드경제 | 쿠팡Inc, 3분기 매출은 늘었지만…6423억원 영업손실 | google:헤럴드경제#f33e3da9 | sw
-2026-11-04 07:02 | 연합뉴스 | 이강인의 아틀레티코, 김민재의 뮌헨과 UCL 대결 0-2 완패 | google:연합뉴스#5509a887 | sw
-2026-11-04 07:02 | investchosun.com | [Invest]전력망에 73조 쏟아야 하는 한전…'알짜 발전소' 팔아도 빚더미 | https://www.investchosun.com/site/data/html_dir/2026/11/03/2026110380098.html | b5
-2026-11-04 07:02 | theviewers.co.kr | [건설안전 규제 강화①] 과징금 높이면 건설현장은 안전해질까 | https://theviewers.co.kr/View.aspx?No=4279092 | b20,b42
-2026-11-04 07:02 | investchosun.com | [Invest]한진칼 내년 이사 3석도 산은 몫…'최대주주' 호반은 감사위원 ... | https://www.investchosun.com/site/data/html_dir/2026/11/03/2026110380093.html | b27
-2026-11-04 07:02 | newscj.com | 민주당 '조작기소 특검법' 오늘 법사위 상정… 정치적 논란 불가피 | https://www.newscj.com/news/articleView.html?idxno=3445708 | b42
-2026-11-04 07:02 | 이투데이 | 김여정, 바이낸스 사태에 “대화도 선택지”…美 적대정책 철회 압박 | google:이투데이#62f61fb2 | sw
-2026-11-04 07:00 | dailian.co.kr | "결혼은 혼자 하나"…합당론 선 그은 신장식, 민주당과 2028년 총선 경쟁... | https://www.dailian.co.kr/news/view/1710261/?sc=Naver | b42
-2026-11-04 07:00 | 경향신문 | [점선면]“다시 돌아가도 그들을 숨겨주겠어요”…야만에 맞서 서로를 구하다 | google:경향신문#9efd4ad8 | sw
-2026-11-04 07:00 | 뉴시스 | 美 '블루웨이브' 현실화하면…AI·데이터센터 투자 위축될까 | google:뉴시스#ed37d540 | sw
-2026-11-04 07:00 | 이투데이 | “유럽 기대수명·건강수명 격차, 세계 최고 수준” | google:이투데이#a6479bcc | sw
-2026-11-04 07:00 | 이투데이 | SOOP, 컴투스홀딩스와 게임 개발 협력⋯스트리머 IP 활용 | google:이투데이#7517673a | sw
-2026-11-04 06:58 | 연합뉴스 | 김여정, 바이낸스사태에 "선택지 대화 있지만 국익 동일시 아냐" | google:연합뉴스#8d27297d | sw
-2026-11-04 06:58 | munhwa.com | 인천 검단2산단, ‘연구에서 생산까지’ 환경산업 완결형 거점으로 | https://www.munhwa.com/article/11628566?ref=naver | b3,b4
-2026-11-04 06:53 | 아시아경제 | 李 "튀르키예와 원전·방산 협력 확대"…에르도안 "FTA 개선 협의 조속 마무리" | google:아시아경제#2a22fcec | sw
-2026-11-04 06:52 | 이투데이 | “미국 상무부, SK하이닉스 중국 공장 장비 반입 승인 보류⋯뉴욕 투자 차질” | google:이투데이#c97471bf | sw
-2026-11-04 06:51 | 뉴시스 | 헤이지니 측 "급여 정상 지급…사실 왜곡 법적 대응" | google:뉴시스#1bcee661 | sw
-2026-11-04 06:50 | safetimes.co.kr | [안전상황실·4일] 은마아파트서 '화재' … 인명피해는 없어 | https://www.safetimes.co.kr/news/articleView.html?idxno=247002 | b20
-2026-11-04 06:46 | 헤럴드경제 | 외교2차관 “아태, 중동 위기에 취약…에너지 공급망 구축 필요” | google:헤럴드경제#7032d9a7 | sw
-2026-11-04 06:46 | biz.heraldcorp.com | 근무 시간에 해외 여행 간 코레일 기관사…정직 징계에 억울하다며 소송... | https://biz.heraldcorp.com/article/10924402?ref=naver | b17?
-2026-11-04 06:45 | 이투데이 | DB증권, 11월 2일 부산 탄소감축 사 | google:이투데이#d2db4026 | sw
-2026-11-04 06:44 | 이투데이 | 영광군, 민선9기 공약 55건 추진 | google:이투데이#11ba8690 | sw
-2026-11-04 06:41 | 이투데이 | 전남광주교육청, 교육혁신선도지역 전국 최다 8곳 선정 | google:이투데이#af11e944 | sw
-2026-11-04 06:40 | news2day.co.kr | [투데이 Pick]'지배구조 개선안' 발표 초읽기…금융권은 "의사결정 지연... | https://www.news2day.co.kr/article/20261103500242 | b27
-2026-11-04 06:38 | rcast.co.kr | 삼성증권, '발행어음 CMA 이벤트' 실시 外 | https://www.rcast.co.kr/news/articleView.html?idxno=31973 | b27
-2026-11-04 06:38 | 이투데이 | 국제유가, 미국ㆍ이란 종전 기대감에 연이틀 하락 [상보] | google:이투데이#96a0b328 | sw
-2026-11-04 06:37 | 헤럴드경제 | [속보] 北김여정 “美와 선택지에 대화 있지만, 반드시는 아냐” | google:헤럴드경제#882ad64a | sw
-2026-11-04 06:36 | 뉴시스 | 대전시, 방치 빈집 정비에 8억원 투입…주민 안전·생활환경 | google:뉴시스#59d1574a | sw
-2026-11-04 06:35 | 이투데이 | 오늘 'kt vs 삼성' 한국시리즈 2차전…중계 어디서? | google:이투데이#11515d6c | sw
-2026-11-04 06:34 | labortoday.co.kr | "이주민 혐오 부추겨" 이주노동단체, 대통령 사과 촉구 | https://www.labortoday.co.kr/news/articleView.html?idxno=237555 | b14,sw
-2026-11-04 06:34 | labortoday.co.kr | 일하는 사람 기본법, 국회가 답할 차례다 | https://www.labortoday.co.kr/news/articleView.html?idxno=237567 | b14,sw
-2026-11-04 06:34 | labortoday.co.kr | 정년연장 법안 곧 발의, '변곡점' 맞은 연내 입법 | https://www.labortoday.co.kr/news/articleView.html?idxno=237549 | b15,sw
-2026-11-04 06:34 | labortoday.co.kr | 지방 노동감독 시행 한 달 앞, 과제는 '산적' | https://www.labortoday.co.kr/news/articleView.html?idxno=237566 | b18,b20,b46,sw
-2026-11-04 06:34 | labortoday.co.kr | 금속노조 "금호타이어 중대재해 3년간 6건" | https://www.labortoday.co.kr/news/articleView.html?idxno=237551 | b20,sw
-2026-11-04 06:31 | 헤럴드경제 | 러 외무부 “한미 군사훈련은 도발…北 군사력 강화는 정당” | google:헤럴드경제#e691dbac | sw
-2026-11-04 06:30 | labortoday.co.kr | 주요일정(11월4일) | https://www.labortoday.co.kr/news/articleView.html?idxno=237569 | sw
-2026-11-04 06:30 | labortoday.co.kr | 민주노총 산별연맹·노조 임원선거 본격화 | https://www.labortoday.co.kr/news/articleView.html?idxno=237568 | sw
-2026-11-04 06:30 | labortoday.co.kr | 현행 노조법 43조에 대한 단상 | https://www.labortoday.co.kr/news/articleView.html?idxno=237565 | sw
-2026-11-04 06:30 | labortoday.co.kr | 노동위원회 일정 | https://www.labortoday.co.kr/news/articleView.html?idxno=237564 | sw
-2026-11-04 06:30 | labortoday.co.kr | MBC 기상캐스터의 근로자성을 인정한 판정 | https://www.labortoday.co.kr/news/articleView.html?idxno=237563 | sw
-2026-11-04 06:30 | labortoday.co.kr | 최저임금 인상에 요양시설, 간호사 대신 간호조무사 채용 | https://www.labortoday.co.kr/news/articleView.html?idxno=237562 | sw
-2026-11-04 06:30 | labortoday.co.kr | 교육교부금 개편 반대 ‘100만 서명운동’ | https://www.labortoday.co.kr/news/articleView.html?idxno=237561 | sw
-2026-11-04 06:30 | labortoday.co.kr | 우리는 노동력을 불렀지만, 사람이 왔다 | https://www.labortoday.co.kr/news/articleView.html?idxno=237560 | sw
-2026-11-04 06:30 | labortoday.co.kr | 이 대통령 “합리성 없는 약자 지원, 혐오선동 빌미” | https://www.labortoday.co.kr/news/articleView.html?idxno=237559 | sw
-2026-11-04 06:30 | labortoday.co.kr | [플랫폼공제회 5주년] “앞으로 5년, 더 많은 일하는 사람 삶에 뿌리내릴 것” | https://www.labortoday.co.kr/news/articleView.html?idxno=237558 | sw
-2026-11-04 06:30 | labortoday.co.kr | 노동이 주도, 직무 중심 ‘대안임금체계’ 첫발 | https://www.labortoday.co.kr/news/articleView.html?idxno=237557 | sw
-2026-11-04 06:30 | labortoday.co.kr | ‘쿠팡 블랙리스트’ 공익제보자 송치에 노동계 반발 | https://www.labortoday.co.kr/news/articleView.html?idxno=237556 | sw
-2026-11-04 06:30 | labortoday.co.kr | 공공기관 다수 여성임원 비율 20% 밑돌아 | https://www.labortoday.co.kr/news/articleView.html?idxno=237554 | sw
-2026-11-04 06:30 | labortoday.co.kr | 서울시설공단노조 “재난 땐 최전선, 처우는 뒷전” | https://www.labortoday.co.kr/news/articleView.html?idxno=237553 | sw
-2026-11-04 06:30 | labortoday.co.kr | 직장내 성희롱한 법인 대표·친족도 과태료 | https://www.labortoday.co.kr/news/articleView.html?idxno=237552 | sw
-2026-11-04 06:30 | labortoday.co.kr | “청년 노동자 ‘공짜 야근’ 근절” 노동부 사업장 100곳 기획감독 | https://www.labortoday.co.kr/news/articleView.html?idxno=237550 | sw
-2026-11-04 06:30 | labortoday.co.kr | 국민 70% “노동교육 필요”, 실제 교육경험은 8.8% | https://www.labortoday.co.kr/news/articleView.html?idxno=237548 | sw
-2026-11-04 06:30 | labortoday.co.kr | 현대차 라인 정지 해소, 생산량 협의 재개할 듯 | https://www.labortoday.co.kr/news/articleView.html?idxno=237547 | sw
-2026-11-04 06:30 | labortoday.co.kr | 대불산단 1년9개월간 11명 사망, 노동부 불시점검 | https://www.labortoday.co.kr/news/articleView.html?idxno=237546 | sw
-2026-11-04 06:30 | 이투데이 | 뉴욕증시, 중간선거 앞서 기술주 반등⋯나스닥 0.83%↑ [상보] | google:이투데이#ece2317a | sw
-2026-11-04 06:27 | 白鲸出海 | one betrayal one night with my boss short drama | google:白鲸出海#243e6dd0 | bgb10
-2026-11-04 06:20 | 뉴시스 | 쿠팡Inc, 3분기 영업손 6423억…전년비 적자 전환 | google:뉴시스#70ac9867 | sw
-2026-11-04 06:20 | 대한경제 | [1보] 쿠팡Inc, 3분기 영업손실 6423억원…전년 동기 대비 적자 전환 | google:대한경제#097f293c | sw
-2026-11-04 06:20 | 이투데이 | 롤 점검 시간…26.22 패치노트 | google:이투데이#c534728b | sw
-2026-11-04 06:15 | 아주경제 | [속보] 쿠팡, 3분기 6423억원 영업손실...3개 분기 연속 적자 | google:아주경제#160096d8 | sw
-2026-11-04 06:14 | Snopes | Claim Vivek Ramaswamy was 'booed off stage' after making remark about millennials is missing context | google:Snopes#95f1b1cc | bgb6
-2026-11-04 06:11 | 아시아경제 | [속보]뉴욕증시, 선거 당일 반도체주 반등…혼조 마감 | google:아시아경제#dcdc34c5 | sw
-2026-11-04 06:11 | 연합뉴스 | "세금은 내는데 건보료는 제외"…분리과세소득에 건보료 부과 검토 | google:연합뉴스#5e358258 | sw
-2026-11-04 06:10 | 연합뉴스 | [美중간선거] 트럼프 "생각보다 좋을 것"…野상원대표 "다수당 예상" | google:연합뉴스#50ec2d0b | sw
-2026-11-04 06:10 | ccreview.co.kr | 1인 회계 23년…공무원노조 청주시지부 조합비 횡령 의혹 경위는 | https://www.ccreview.co.kr/news/articleView.html?idxno=361726 | b17?
-2026-11-04 06:09 | 이투데이 | [속보] 국제유가, 하락⋯WTI 0.38%↓ | google:이투데이#01270514 | sw
-2026-11-04 06:07 | 이투데이 | [속보] 뉴욕증시, 혼조⋯나스닥 0.83%↑ | google:이투데이#bb69bce6 | sw
-2026-11-04 06:03 | 아시아경제 | 정부지원 대출 컨설팅 빙자…50억 불법 수수료 챙긴 일당 송치 | google:아시아경제#4b142473 | sw
-2026-11-04 06:02 | kgnews.co.kr | [이 사람] 신윤관 한국바이오가스협회 대표이사…“협회 출범, 탄소중립... | http://www.kgnews.co.kr/news/article.html?no=917832 | b1
-2026-11-04 06:02 | etoday.co.kr | [논현광장-김상경의 Nature Finance] ⑨ 자연공시, IFRS의 문을 열다 | https://www.etoday.co.kr/news/view/2643691 | b34
-2026-11-04 06:02 | dailypharm.com | 허가 전 제조약 판매 요구 빗발…식약처 "약사법 개정 먼저" | https://www.dailypharm.com/user/news/344146?REFERER=NP | b42
-2026-11-04 06:02 | ajunews.com | [오가타 요시히로의 한일 풍경] 외국인 근로자 …인력은 환영 인권은 반... | https://www.ajunews.com/view/20261102221103663 | b16?
-2026-11-04 06:00 | 대한경제 | [후진국형 레미콘 타설 구조]③ 권고라더니 현장 감시…관내 레미콘 활용 압박 | google:대한경제#722224eb | sw
-2026-11-04 06:00 | 대한경제 | [후진국형 레미콘 타설 구조]④ 공사비 치솟는데 생산성 저하…피해는 ‘국민 몫’ | google:대한경제#8a597fc8 | sw
-2026-11-04 06:00 | 연합뉴스 | 국힘 397억 걸린 尹 선거법 사건 오늘 2심 선고…방송 생중계 | google:연합뉴스#cc7c19bf | sw
-2026-11-04 06:00 | newspim.com | 서울 리모델링도 사업장별 온도 차…정부·서울시 지원책에 돌파구 찾나 | https://www.newspim.com/news/view/20261103001177 | b41,b46
-2026-11-04 06:00 | news1.kr | '조작기소 특검법' 오늘 법사위 상정…與 속도전 vs 野 총력저지 | https://www.news1.kr/politics/assembly/6341972 | b42
-2026-11-04 06:00 | 경향신문 | [금융, 사다리를 놓자] 빚에도 ‘숨 쉴 틈’이 필요하다···전세계도 ‘포용금융’ 실험 중 | google:경향신문#4c77617c | sw
-2026-11-04 06:00 | 뉴시스 | 온실서 즐기는 밤의 음악…서울식물원 10일간 야간개장 | google:뉴시스#8333e525 | sw
-2026-11-04 06:00 | 이투데이 | "나만 은퇴했나?" 은퇴 시기 달라 친구와 어긋나는 순간 5 | google:이투데이#194f23fc | sw
-2026-11-04 06:00 | 이투데이 | 코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑ | google:이투데이#d053df2b | sw
-2026-11-04 06:00 | 이투데이 | [60+ 궁금증] 황혼연애, 자녀에게 알려야 할까? | google:이투데이#bfe2c628 | sw
-2026-11-04 06:00 | 이투데이 | “행복은 어디에 숨어있나?” 7인의 스토리 | google:이투데이#29d0c557 | sw
-2026-11-04 06:00 | 아주경제 | [단독] 中 BYD 전기택시 1년 새 15배 증가…현대차·기아 추격 3위 등극 | google:아주경제#612fe51a | sw
-2026-11-04 06:00 | 아시아경제 | "운용수익·외화예수금 증가" 10월 외환보유액 4년5개월來 최대 | google:아시아경제#37d953ca | sw
-2026-11-04 06:00 | 아시아경제 | 을지로 안주부터 해장국까지…이마트, 간편식 출시 | google:아시아경제#9fbe1f4f | sw
-2026-11-04 06:00 | 아시아경제 | "3대 메가프로젝트 투자하세요"…서울서 '국내 최대' 외투 유치행사 | google:아시아경제#3693fd12 | sw
-2026-11-04 05:53 | Investment & Pensions Europe | UK watchdog sets new rules for ESG ratings providers | google:Investment & Pensions Europe#ad69b4f8 | bgb11
-2026-11-04 05:52 | 스포츠경향 | Filmed a ‘hidden camera’ for two days and said “You are sensitive”… 32nd cohort Yeong-su apologizes: “I wanted to give a surprise gift” | google:스포츠경향#1e25dfb5 | sw
-2026-11-04 05:50 | mt.co.kr | "재생에너지 확보가 기업경쟁력…100GW 목표, 이제 실행 계획으로" | https://www.mt.co.kr/industry/2026/11/04/2026110309331939921 | b5
-2026-11-04 05:37 | sidae.com | 정년연장 논의 재개…"청년 일자리 고려해 신중하게" | https://www.sidae.com/article/2026110314384479741 | b15
-2026-11-04 05:34 | 아시아경제 | [美 중간선거, 운명의 날]하버드대 "민주당, 양원 다수당 탈환 가능성 높아" | google:아시아경제#1a5a45b6 | sw
-2026-11-04 05:33 | RotoWire | Best Packers Sportsbook Promos: Claim Over $3,000 for Packers Odds | google:RotoWire#b072a051 | bgb6
-2026-11-04 05:30 | 뉴시스 | 점점⠿ 문장이 손에 잡혔다 [훈맹정음 100년] | google:뉴시스#262b2e94 | sw
-2026-11-04 05:30 | yna.co.kr | '조작기소 특검법안' 통과되면…12건 중 8건이 李대통령 관련 | https://www.yna.co.kr/view/AKR20261103164100004?input=1195m | b42,sw
-2026-11-04 05:25 | newsis.com | [오늘의 주요일정]경기남부(11월4일 수요일) | https://www.newsis.com/view/NISX20261104_0003853590 | b6
-2026-11-04 05:23 | Carbon Trust | EUDR unpacked: Six priorities for businesses | google:Carbon Trust#cd3856c2 | bgb1
-2026-11-04 05:20 | cstimes.com | 인태연 소진공 이사장 "제주 소공인 안전·금융 지원 확대"…서귀포 현... | https://www.cstimes.com/news/articleView.html?idxno=726509 | b20
-2026-11-04 05:20 | dnews.co.kr | [정비톡] 정비사업, 용적률만 풀면 속도 붙나 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031131016930382 | b42
-2026-11-04 05:16 | 아시아경제 | [美 중간선거]투표 시작…트럼프 정부 역대 최대 감시단 투입 | google:아시아경제#26a90291 | sw
-2026-11-04 05:01 | edaily.co.kr | [목멱칼럼]사외이사의 면책 조건 | https://www.edaily.co.kr/News/Read?newsId=01633446645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b26,b27
-2026-11-04 05:01 | nongmin.com | [남성현 칼럼] 한국형 녹색전환 시대, 산림의 가치를 깨우자 | https://www.nongmin.com/article/20261102500521 | b2
-2026-11-04 05:00 | 대한경제 | 앤트로픽에 날아온 94조 청구서…AI 군비 경쟁, 돈줄 시험대 | google:대한경제#ea1203f9 | sw
-2026-11-04 05:00 | newspim.com | [오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 11... | https://www.newspim.com/news/view/20261103001398 | b42
-2026-11-04 05:00 | newsis.com | [오늘의 주요일정]정치(11월4일 수요일) | https://www.newsis.com/view/NISX20261103_0003853542 | b42
-2026-11-04 05:00 | newspim.com | [오늘의 정치일정] 11월 4일 (수) | https://www.newspim.com/news/view/20261103001426 | b42
-2026-11-04 05:00 | joongang.co.kr | [단독] 도주범에 “추적 중” 알리는 황당 법안…형소법 졸속 개정 참사 | https://www.joongang.co.kr/article/25475543 | b42
-2026-11-04 05:00 | 뉴시스 | [오늘의 주요일정]과기정통부·방미통위·개보위(11월4일 수요일) | google:뉴시스#be859f38 | sw
-2026-11-04 05:00 | 뉴시스 | 뜻밖의 학맥…'이병헌♥' 이민정 "노홍철, 저랑 같은 학교 다녀" | google:뉴시스#13cba34a | sw
-2026-11-04 04:58 | 연합뉴스 | 바이낸스 창업자 "코인 해킹당할 정도면 은행은 더 위험한 상황" | google:연합뉴스#bcd8bf5c | sw
-2026-11-04 04:37 | news.sbs.co.kr | 남아공 "미국 무관세 특혜 중단 영향 제한적" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008829306&plink=ORI&cooper=NAVER | b17?
-2026-11-04 04:26 | Oklahoma Energy Today | Judge blocks AG from enforcing law against proxy advisory firms | google:Oklahoma Energy Today#129af5dc | bgb11
-2026-11-04 04:21 | NYU Stern Center for Business & Human Rights | Forced Labor Goes to the International Trade Commission: The Nekkanti Shrimp Case | google:NYU Stern Center for Business & Human Rights#d883ffa3 | ben2
-2026-11-04 04:20 | dnews.co.kr | [사설] 가덕도신공항 공사비 매듭, 이제는 속도 낼 때다 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031758159160498 | b42
-2026-11-04 04:12 | 경향신문 | 긴장 속 미 중간선거 투표 시작···역대 최대 감시단에 투표기 오작동·악천후까지 | google:경향신문#39a289c8 | sw
-2026-11-04 04:10 | wikitree.co.kr | 가짜 거래소, 수익률 화면은 늘어도 출금은 막힌다…경찰청 ‘사업자·... | https://www.wikitree.co.kr/articles/1171568 | b42
-2026-11-04 04:07 | HITC | Khaman Maluach breaks silence on his altercation with Draymond Green | google:HITC#3f8243b9 | bgb6
-2026-11-04 04:05 | Mashable | Krispy Kreme Halloween Deal: Get the $13 All Jacked Up Dozen Through Oct. 29 | google:Mashable#a141679a | bgb6
-2026-11-04 04:04 | The Independent | King Charles brands UK slave trade ‘monstrous’ – but stops short of offering apology | google:The Independent#bff03cc7 | bgb2
-2026-11-04 03:40 | Asset Publishing and Research | Asia-Pacific leads world on sustainability reporting | google:Asset Publishing and Research#c230d3ca | bgb4
-2026-11-04 03:34 | Investment Executive | Equity perpetual futures approved by U.S. regs | google:Investment Executive#ca0e6349 | bgb11
-2026-11-04 03:30 | Investment Executive | FCA finalizes ESG ratings rules | google:Investment Executive#48e53ed9 | bgb11
-2026-11-04 03:29 | Deccan Chronicle | DC Edit I Green Crackers, Grey Skies: Delhi’s Annual Diwali Tryst | google:Deccan Chronicle#034a5fae | bgb6
-2026-11-04 03:26 | 연합뉴스 | 유럽 하늘길도 불안…여객기 7대 폭파 위협 신고(종합2보) | google:연합뉴스#c5573060 | sw
-2026-11-04 03:21 | Urban Acres | Delhi AQI Data Manipulation Claim Raises Serious Public-Health Questions | google:Urban Acres#18311d5a | bgb6
-2026-11-04 03:10 | sheffieldtelegraph.co.uk | Greens to submit 'urgent question' at full council meeting over "lies" from Labour | google:sheffieldtelegraph.co.uk#40fbd536 | bgb6
-2026-11-04 03:09 | 연합뉴스 | [美중간선거] 하버드대 "민주 승리 확률 하원 96%·상원 78%" | google:연합뉴스#cd73bd98 | sw
-2026-11-04 02:55 | 뉴시스 | [르포]트럼프 심판 기로…美유권자들 "나라 분열시켜"vs"적임자" | google:뉴시스#2626738c | sw
-2026-11-04 02:34 | The Sun Nigeria | Deforestation: Cross River moves to meet EU regulation after losing 200,000 hectares of forest | google:The Sun Nigeria#1a407517 | bgb1
-2026-11-04 02:33 | ESG Today | Isometric Launches New CBAM Data Preparation and Reporting Service for Exporters | google:ESG Today#67362f2e | bgb8
-2026-11-04 02:33 | Fox 10 News | Greene & Phillips: Accepting an insurance company offer | google:Fox 10 News#eeebeb48 | bgb6
-2026-11-04 02:11 | Armenpress | Pashinyan outlines realistic timeframe for Armenia to apply for EU membership | google:Armenpress#356a52cd | bgb8
-2026-11-04 02:04 | farminsight.net | [시론] 역사의 죄인이 되지 않기 위해서는 | https://www.farminsight.net/news/articleView.html?idxno=17164 | b42
-2026-11-04 01:58 | TechTrendsKE | Kenya’s banking roadmap puts ESG reporting and climate risk data in focus | google:TechTrendsKE#eed6452d | bgb4
-2026-11-04 01:45 | 연합뉴스 | [美중간선거] 투표 대체로 순조…일부서 투표기 이상·투표소 변경 | google:연합뉴스#7b60a9c9 | sw
-2026-11-04 01:41 | yna.co.kr | 남아공, 美 무관세 특혜 중단에 "영향 제한적"…일자리 감소 우려 | https://www.yna.co.kr/view/AKR20261104002000099?input=1195m | b17?
-2026-11-04 01:34 | https://defence.newsd.in/ | Baltic States May Renew €500 Million EU Funding Request for Anti-Drone Defence | google:https://defence.newsd.in/#58db4c6d | bgb8
-2026-11-04 01:15 | A to Z Sports | Jerry Jones' tone-deaf claim about paying NFL coaches ignores everything Dallas Cowboys fans have watched unfold since 2025 | google:A to Z Sports#25c5443b | bgb6
-2026-11-04 01:14 | vegannews.co.kr | 영풍 석포제련소 황산가스 감지기 조업정지 취소 | https://www.vegannews.co.kr/news/article.html?no=400109 | b13?
-2026-11-04 01:07 | hankyung.com | [데스크 칼럼] 해외에 팔리는 韓 기업들 | https://www.hankyung.com/article/2026110336621 | b27
-2026-11-04 01:06 | hankyung.com | [시론] 너무나 편향적인 한국형 베어허그 | https://www.hankyung.com/article/2026110337701 | b26,b27
-2026-11-04 01:04 | PA Future | UK businesses prioritise affordability over ESG despite support for sustainable finance | google:PA Future#76cc83b9 | bgb11
-2026-11-04 01:04 | news - Mongabay | Afghanistan's Taliban officials will attend a UN climate summit for the second time as observers | google:news - Mongabay#953968ba | bgb1
-2026-11-04 01:04 | asiatoday.co.kr | 서울시의회, 국회·행안부에 지방의회법 제정 촉구…“연내 제정해야” | https://www.asiatoday.co.kr/kn/view.php?key=20261104000059198 | b42
-2026-11-04 01:04 | insight.co.kr | 개식용부터 동물 학대·유기까지…도로와 산속으로 내몰린 유기견들의... | https://www.insight.co.kr/news/580425 | b42
-2026-11-04 01:02 | Advancing American Freedom | Understanding the European Union’s Export of ESG through the CSDDD | google:Advancing American Freedom#03337186 | bgb11,bgb5
-2026-11-04 01:00 | Microsoft | Bringing sustainability into the Dynamics 365 ERP portfolio | google:Microsoft#1aa53e87 | bgb4
-2026-11-04 00:55 | ytn.co.kr | 민주, '조작기소 특검법' 내일 처리 추진...국힘 "총력 저지" | https://www.ytn.co.kr/_ln/0101_202611040055574391 | b42
-2026-11-04 00:49 | CBS Sports | Polymarket promo code CBSSPORTS: Claim $25 bonus for Buffalo-Miami (OH), Tuesday college football predictions | google:CBS Sports#f8713756 | bgb6
-2026-11-04 00:49 | chosun.com | 與 “5일 조작기소 특검 처리”… 野 “공소취소 발톱 드러내” | https://www.chosun.com/politics/assembly/2026/11/04/5O63E5RULZAG3NXSZCGZIT7X6U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | b42
-2026-11-04 00:48 | chosun.com | 김민석 직격한 한노총 “청와대 지시 없으면 아무 결정도 못 하나” | https://www.chosun.com/politics/assembly/2026/11/04/IOCOHRYFQFGRLNPNLBSNILGTNM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | b15
-2026-11-04 00:38 | news1.kr | 英·EU, 18~34세 청년 상호 3년 체류·취업 허용 추진…20일 정상회의서... | https://www.news1.kr/world/europe/6342051 | b2
-2026-11-04 00:33 | Legis1 | Section 301 Investigations Up as Congress Eyes Trade Authority | google:Legis1#b22f9716 | ben2
-2026-11-04 00:32 | PA Future | Nine in ten businesses back tougher modern slavery rules | google:PA Future#6905b7af | bgb2
-2026-11-04 00:32 | news2day.co.kr | [ESG 인사이드 (99)] 공시 체계와 데이터 연결로 의사결정을 업그레이드... | https://www.news2day.co.kr/article/20261103500189 | b32
-2026-11-04 00:30 | Yahoo Sports | Kedon Slovis signs with Baltimore | google:Yahoo Sports#c6d84d80 | bgb6
-2026-11-04 00:28 | Investment & Pensions Europe | NBIM urges EU reporting changes to prevent duplicate sustainability disclosures | google:Investment & Pensions Europe#98ca23d8 | bgb3,bgb4
-2026-11-04 00:23 | 3News | Forestry Commission partners Africa Forest Forum and AGRA to host dialogue on Deforestation-Free Value Chains | google:3News#6e3f7910 | bgb1
-2026-11-04 00:23 | Valor International | Embrapa tool tracks agricultural production | google:Valor International#bfb3eb84 | bgb1
-2026-11-04 00:20 | kmib.co.kr | [금융뒷담] “토론하자”더니… 말 문 막은 대통령 X | https://www.kmib.co.kr/article/20261103502256 | b42
-2026-11-04 00:18 | FirstShowing.net | Dystopian Sci-Fi Japanese Gameshow Thriller 'Quiztopia' Full Trailer | google:FirstShowing.net#b257ad26 | ben2
+2026-11-05 09:15 | view.asiae.co.kr | 장동혁 "공소취소 특검, 정권취소 특검된다…국민이 책임물을 것" | https://view.asiae.co.kr/article/2026110509154915842 | b42
+2026-11-05 09:14 | gokorea.kr | 조작기소 특검법안 처리 vs 필리버스터, 국회 대립 격화 예상 | https://www.gokorea.kr/news/articleView.html?idxno=884174 | b42
+2026-11-05 09:12 | impacton.net | 【데일리 ESG 정책 브리핑】외국기업 3조원 투자 신고·중소기업 녹색금... | https://www.impacton.net/news/articleView.html?idxno=30537 | b3,b4,sw
+2026-11-05 09:12 | biz.newdaily.co.kr | "기업 물적 분할 주매청 과잉규제 … 사업 재편 가로막아" | https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500044.html | b27
+2026-11-05 09:10 | 임팩트온 | 【데일리 ESG 정책 브리핑】외국기업 3조원 투자 신고·중소기업 녹색금융 확대 논의·EU 탄소국경규제 대응 | google:임팩트온#aa6dcd41 | sw
+2026-11-05 09:09 | 뉴시스 | 밤중 사찰 침입해 불전함 속 현금 훔친 60대 구속송치 | google:뉴시스#e66ccd42 | sw
+2026-11-05 09:08 | nongaek.com | [오늘의 사설] "조작기소 특검 강행, '대통령 면죄부' 아닌가" | http://www.nongaek.com/news/articleView.html?idxno=97359 | b42
+2026-11-05 09:07 | 이투데이 | 기보, R&D 사업화 보증 3400억원 조기 달성…4대 신성장 분야 지원 | google:이투데이#f0e6794c | sw
+2026-11-05 09:07 | 이투데이 | 현대차그룹, 글로벌 모빌리티 기술 리더와 AI·전동화 미래 전략 논의 | google:이투데이#0d7cdf42 | sw
+2026-11-05 09:06 | m-i.kr | 그린테크얼라이언스, 기후테크 사업화 협력 확대…투자 연계 모색 | https://www.m-i.kr/news/articleView.html?idxno=2014665 | b6
+2026-11-05 09:06 | ngonews.kr | 경실련 "주가누르기 방지법 조속히 제정해야"…재벌 지배주주 사익추구... | https://www.ngonews.kr/news/articleView.html?idxno=242316 | b26,b27
+2026-11-05 09:06 | 이투데이 | 두산연강재단, 2026 두산연강환경학술상 시상 | google:이투데이#cc107d10 | sw
+2026-11-05 09:06 | 이투데이 | 삼성E&A, 세계 최대 에너지 행사 '아디펙 2026' 참가…글로벌 사업 확대 모색 | google:이투데이#47500408 | sw
+2026-11-05 09:05 | 헤럴드경제 | 삼립호빵, 찬바람 부니 잘 나가네…편의점 매출 전년比 44% ↑ | google:헤럴드경제#1c8735a6 | sw
+2026-11-05 09:05 | 이투데이 | 호반건설, 동절기 안전관리 강화⋯경영진 합동점검 실시 | google:이투데이#6bd34427 | sw
+2026-11-05 09:05 | 이투데이 | 현대건설, AI·빅데이터 활용해 건설 현장 품질관리 고도화 | google:이투데이#86109411 | sw
+2026-11-05 09:04 | dream.kotra.or.kr | 2026 한-인도 에너지 라운드테이블 현장: 인도 에너지 전환, 이제는 '저... | http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=244984 | b2
+2026-11-05 09:04 | daily.hankooki.com | 글로벌 전력화 서약, 제로 웨이스트, 해양도서국 보호…COP31 의제는 | https://daily.hankooki.com/news/articleView.html?idxno=1421677 | b4,b6
+2026-11-05 09:04 | magazine.hankyung.com | 美 민주당 의회 장악…트럼프 기후정책 제동 [ESG 뉴스 5] | https://magazine.hankyung.com/business/article/202611057262b | b27,b35?
+2026-11-05 09:03 | 아주경제 | [속보] 코스피 103.71포인트(1.82%) 내린 5580.09 출발 | google:아주경제#160e7af0 | sw
+2026-11-05 09:02 | choicenews.co.kr | 트럼프 '완패'...美 대외 경제 통상·외교안보 대수술 예고 | http://www.choicenews.co.kr/news/articleView.html?idxno=172922 | b4
+2026-11-05 09:01 | biz.heraldcorp.com | 정년 후 같은 직장 돌아가도 월급 39.5만원↓…재고용 임금 기준이 쟁점 | https://biz.heraldcorp.com/article/10926438?ref=naver | b16
+2026-11-05 09:01 | 이투데이 | [속보] 코스닥 1.46p(0.20%) 내린 713.49(개장) | google:이투데이#15e830da | sw
+2026-11-05 09:00 | sisunnews.co.kr | [정책브리핑] 2026년 11월 05일 목요일 주요 정책 | http://www.sisunnews.co.kr/news/articleView.html?idxno=249086 | b12,b13,b46
+2026-11-05 08:58 | 뉴시스 | "리어카 돌려달라" 종로구청 방화 협박한 70대 노점상 검거 | google:뉴시스#50d051ed | sw
+2026-11-05 08:58 | 이투데이 | 기아, 42번째 ‘그랜드 마스터’ 탄생…주인공은 조두환 선임 | google:이투데이#d420e145 | sw
+2026-11-05 08:58 | 이투데이 | 기보, 공공기관 내부통제 협력체계 구축…준법경영 강화 | google:이투데이#f6b11c8b | sw
+2026-11-05 08:56 | shinailbo.co.kr | 국회, 오늘 본회의…與, 조작기소 특검법 등 6건 상정 추진 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5079971 | b42
+2026-11-05 08:56 | shinailbo.co.kr | 국민의힘, 與 '조작기소 특검법' 강행에 "입법 사기극" | https://www.shinailbo.co.kr/news/articleView.html?idxno=5079955 | b42
+2026-11-05 08:54 | 이투데이 | 홍은철, 경로당 두 곳 불편 해결…8월 약속이 시설개선으로 | google:이투데이#248a793d | sw
+2026-11-05 08:54 | 이투데이 | LS일렉트릭, 한전 전력설비 고장 예측 기술 도입 | google:이투데이#38f52634 | sw
+2026-11-05 08:53 | 헤럴드경제 | 타이거부킹, NH농협·신한 마스터카드 결제 할인 | google:헤럴드경제#48c6f9b7 | sw
+2026-11-05 08:53 | 대한경제 | 삼성물산 ‘홈닉’, 금성백조와 협약…제휴 건설사 21곳으로 늘어 | google:대한경제#6a78ed1d | sw
+2026-11-05 08:52 | 매일경제 | ‘최종면접’ 브래드 피트 꺾고 개봉 첫날 1위 [MK박스오피스] | google:매일경제#9b4d564e | sw
+2026-11-05 08:51 | news.jtbc.co.kr | 조작기소 특검법 본회의 상정…국힘 필리버스터 예고 | https://news.jtbc.co.kr/article/NB12326549?influxDiv=NAVER | b42
+2026-11-05 08:51 | 이투데이 | 한국타이어, WRC 미국 랠리 첫 타이틀 스폰서…북미 시장 공략 강화 | google:이투데이#1a046376 | sw
+2026-11-05 08:50 | 이투데이 | 대한항공, 美 USA투데이 ‘10베스트 어워즈’ 3관왕…기내식·승무원 등 1위 | google:이투데이#af780382 | sw
+2026-11-05 08:50 | 이투데이 | 노재원, '메이드 인 코리아'로 영평상 남우조연상 수상⋯현빈에 감사 | google:이투데이#2093fc48 | sw
+2026-11-05 08:50 | 이투데이 | 현대제철, 70년 역사 담은 디지털 아카이브 구축…임직원 참여로 기록 보존 | google:이투데이#6f4a9f67 | sw
+2026-11-05 08:49 | 대한경제 | 아이디어정보기술, ‘2026 이데아플랫폼 파트너스 데이’ 성료 | google:대한경제#f83a5947 | sw
+2026-11-05 08:48 | busanmbc.co.kr | 반얀트리 화재 참사..′8년 구형′ 중처법 엄벌? | https://busanmbc.co.kr/01_new/new01_view.asp?idx=290725 | b20,b21
+2026-11-05 08:48 | safetynews.co.kr | 영동 콘크리트 제품 공장서 이주노동자 끼임사 발생 | https://www.safetynews.co.kr/news/articleView.html?idxno=251378 | b20
+2026-11-05 08:47 | 이투데이 | 현대차·기아, 차량용 반도체 개발 프로세스 국제 인증 획득 | google:이투데이#79fba813 | sw
+2026-11-05 08:47 | 이투데이 | 파라타항공, 고객 만족도 93% 기록…객실 환경 평가도 개선 | google:이투데이#8aed5651 | sw
+2026-11-05 08:47 | 이투데이 | '인스파이어드', 집 부서지는데 바텀에⋯젠지, 2세트 승리 | google:이투데이#a31a17dc | sw
+2026-11-05 08:45 | 헤럴드경제 | 롯데마트, 햇굴 물량 1.5배 늘렸다…“최대 35% 할인” | google:헤럴드경제#dc90b69f | sw
+2026-11-05 08:45 | segye.com | 與, 오늘 ‘조작기소 특검법’ 처리 추진…국힘 모든 법안 필리버스터 ... | https://www.segye.com/newsView/20261105503476?OutUrl=naver | b42
+2026-11-05 08:45 | 이투데이 | [속보] 우이신설 경전철 전 구간 운행 지연 | google:이투데이#1787456f | sw
+2026-11-05 08:43 | 이투데이 | 한유원, 취약계층 80여가구에 빵 전달…임직원 봉사활동 | google:이투데이#70251c99 | sw
+2026-11-05 08:42 | 뉴시스 | [부산소식]창신, 팔란티어와 파트너십 체결 등 | google:뉴시스#d974660f | sw
+2026-11-05 08:42 | 이투데이 | 하나증권 "현대백화점, 사업 구조조정 마무리…4분기 전 부문 흑자 전망" | google:이투데이#54670645 | sw
+2026-11-05 08:42 | 이투데이 | 전도연, 영평상 여우주연상 수상⋯‘밀양’ 이후 20년 만 | google:이투데이#4e4199b3 | sw
+2026-11-05 08:41 | 이투데이 | 한투운용, ‘투자플러스’ 앱 이벤트⋯네이버페이 최대 3000원 | google:이투데이#8a925868 | sw
+2026-11-05 08:40 | 헤럴드경제 | “이제 장바구니에 넣어볼까?”…사과·감귤 출하량 늘었다 | google:헤럴드경제#63f493fd | sw
+2026-11-05 08:40 | klnews.co.kr | 한국해법학회, 5일 가을철 학술발표회 개최 | https://www.klnews.co.kr/news/articleView.html?idxno=323376 | b20
+2026-11-05 08:40 | eroun.net | 美 새의회는 두 달 뒤...서둘러 확정할 일과 서두르면 독이 될 일 | https://www.eroun.net/news/articleView.html?idxno=94439 | b42
+2026-11-05 08:38 | 뉴시스 | [교육소식]부산교육청, 스쿨 AI 리빙랩 부트캠프 등 | google:뉴시스#58dfd028 | sw
+2026-11-05 08:38 | kmecnews.co.kr | 중금속·가스 중독사고 잇따라…공장 환기설비 관리 '엉망' | https://www.kmecnews.co.kr/news/articleView.html?idxno=52642 | b24?
+2026-11-05 08:37 | mbn.mk.co.kr | 윤석열 '당선 무효형'에 조국 "박수칠 때 아냐"…왜? | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5229132 | b42
+2026-11-05 08:37 | 이투데이 | 한화에어로스페이스 순천사업장 가동...순천시서 만들고 고흥군서 쏜다 | google:이투데이#66bca79a | sw
+2026-11-05 08:36 | kmecnews.co.kr | 타워크레인 월례비 '노골적 부활'…불법행위 단속 '공염불' | https://www.kmecnews.co.kr/news/articleView.html?idxno=52641 | b17
+2026-11-05 08:35 | 이투데이 | 혈액 끓이려 한 해커들⋯佛 혈액은행 냉장시설까지 공격 | google:이투데이#0a231c91 | sw
+2026-11-05 08:34 | 헤럴드경제 | 신세계百 명동 본점, 크리스마스 영상 띄운다 | google:헤럴드경제#64c63d2a | sw
+2026-11-05 08:34 | 서울경제 | 안재욱 “아이들 뛰어노는 게 소음이냐”…딸 학교 운동회 소음 민원에 ‘작심 발언’ | google:서울경제#a70eb84c | sw
+2026-11-05 08:32 | 이투데이 | 네타냐후 재집권 가시밭길⋯이스라엘 연정 주도권 야권으로 | google:이투데이#22a61f69 | sw
+2026-11-05 08:30 | 이투데이 | [아파트값 상승 톱10] 서울 강남구 ‘도곡한라비발디’ 등 | google:이투데이#3efe741c | sw
+2026-11-05 08:30 | 이투데이 | 오리엔트정공, 경기 ‘피지컬 AI 확산센터’ 실증기업 선정…자율제조 혁신 가속 | google:이투데이#101ba8e8 | sw
+2026-11-05 08:28 | 이투데이 | 파워넷, 로봇 핵심 구동모듈 사업 본격화…모터·액추에이터 상용화 추진 | google:이투데이#b8214d1b | sw
+2026-11-05 08:26 | 서울경제 | ‘12월 재혼’ 서인영, 사회자로 ‘대세’ 이재율에 러브콜…“축가·꽃·안 좋은 기억 다 뺐다” | google:서울경제#f4c8cc9e | sw
+2026-11-05 08:25 | 아시아경제 | 이녹스첨단소재, 모바일 OLED용 'OCA' 초도 양산 돌입 | google:아시아경제#ddf8d8f5 | sw
+2026-11-05 08:24 | 아시아경제 | 두산연강재단, 환경학술상에 장암·김형일 교수 선정 | google:아시아경제#d3b3fdaf | sw
+2026-11-05 08:24 | 아시아경제 | 삼성서울병원, 수술 간호사 역량 분석 기술 美 특허 등록 | google:아시아경제#caa449bb | sw
+2026-11-05 08:24 | 헤럴드경제 | 노원구, 소나무·수국·폭포 품은 ‘불암산 솔마루공원’ 11일 개장 | google:헤럴드경제#1818d6b5 | sw
+2026-11-05 08:22 | 서울경제 | 현진영, 전성기 시절 어마어마한 수입 공개…“하루 7000만원 벌어, 반포 아파트 전셋값” | google:서울경제#fe995c5d | sw
+2026-11-05 08:22 | thebell.co.kr | [더벨]제네시스PE, 2호 블라인드펀드 8500억까지 키웠다 | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611030946359680101545 | b6
+2026-11-05 08:22 | mt.co.kr | 국힘 "조작기소 특검, 초유의 법치 농단…혈세로 李 방탄 로펌" | https://www.mt.co.kr/politics/2026/11/05/2026110508055427209 | b42
+2026-11-05 08:22 | 이투데이 | 고흥군·사천시 공동대응...우주항공복합도시 특별법 제정 촉구 | google:이투데이#14e41f51 | sw
+2026-11-05 08:21 | 아시아경제 | 기보, 공공기관 5곳과 내부통제 협력체계 구축 | google:아시아경제#939ac4b4 | sw
+2026-11-05 08:21 | 아시아경제 | 씨앤엠, 오픈패스로보틱스와 로봇 액추에이터 공급계약 | google:아시아경제#37d3793c | sw
+2026-11-05 08:21 | 이투데이 | 수은, 탄자니아 AI 교육기관 건립에 1억7000만 달러 지원 | google:이투데이#18f51431 | sw
+2026-11-05 08:20 | 아시아경제 | 서울시, 김장철 원산지 둔갑 특별단속…전문기관 과학 검정 병행 | google:아시아경제#251f70f3 | sw
+2026-11-05 08:20 | ESG경제 | - ESG경제 | google:ESG경제#fb71882c | sw
+2026-11-05 08:20 | 이투데이 | [BioS]HLB 베리스모, 'MSLN CAR-T' 전임상 "SITC 초록공개" | google:이투데이#aa9c0c62 | sw
+2026-11-05 08:19 | 이투데이 | 미 중간선거 '블루 쓰나미'에 달러 약세⋯"1330원 후반 하락 시도" [환율전망] | google:이투데이#68321b5e | sw
+2026-11-05 08:17 | 이투데이 | iM "중간선거 불확실성 해소됐지만⋯AI 인프라 규제 우려에 반도체 부담" | google:이투데이#98b9c718 | sw
+2026-11-05 08:16 | 아시아경제 | 미스터블루, 온라인 굿즈샵 '블랙프라이데이' 개최…"매출 성장 기대" | google:아시아경제#a810e72b | sw
+2026-11-05 08:16 | 이투데이 | ‘나는 솔로’ 34기 영철, 옥순에 돌연 관심 표현하더니⋯“여정 끝난 느낌” 눈물 | google:이투데이#3a0d853a | sw
+2026-11-05 08:15 | 이투데이 | 애플, 민주당 압승에 최고가 경신⋯5%대 상승 [뉴욕증시 무버] | google:이투데이#90b31e0d | sw
+2026-11-05 08:14 | esgeconomy.com | 美 민주당 압승에 에너지 정책 변화 전망…한국, LNG·원전 투자 늦출까 | https://www.esgeconomy.com/news/articleView.html?idxno=17240 | sw
+2026-11-05 08:13 | imnews.imbc.com | 여당, 오늘 조작기소 특검법 본회의 처리 추진‥야당 필리버스터 예고 | https://imnews.imbc.com/news/2026/politics/article/6863321_36911.html | b42
+2026-11-05 08:10 | cstimes.com | '마이닝 5.0' 시대 연다…한국광해광업공단, 'KOMIR 국제심포지엄' 개최 | https://www.cstimes.com/news/articleView.html?idxno=726679 | b6
+2026-11-05 08:10 | 이투데이 | 청도군, 정부에 ‘대경선 경산~청도 연장’ 건의 | google:이투데이#ac63c3d9 | sw
+2026-11-05 08:10 | 이투데이 | 한국투자證, “SK텔레콤, AI 데이터센터 성장 본격화 기대⋯목표가 유지” | google:이투데이#3b9f5a39 | sw
+2026-11-05 08:10 | 이투데이 | [증시키워드] 美 빅테크 웃고 반도체 울었다…삼전·SK하닉 수급 시험대 | google:이투데이#8c924606 | sw
+2026-11-05 08:09 | 헤럴드경제 | [속보] 카카오 3분기 영업익 2403억, 전년 比 7%↑…플랫폼-커머스 실적 견인 | google:헤럴드경제#63d72dbd | sw
+2026-11-05 08:09 | 아시아경제 | 오리엔트정공, 경기도 '피지컬 AI 확산센터' 실증기업 선정 | google:아시아경제#e5574c05 | sw
+2026-11-05 08:09 | 이투데이 | 경상수지 역대 첫 600억달러 벽 넘었다⋯9월 614억6000만달러 흑자 [상보] | google:이투데이#fe3736c2 | sw
+2026-11-05 08:08 | 이투데이 | 시민소통폰 현장대응 만족도...여수시 90% 긍정 평가 | google:이투데이#abf0c149 | sw
+2026-11-05 08:07 | 이투데이 | 신한투자證 "LG유플러스, 파주 데이터센터 조기 오픈…방어주 매력 유효" | google:이투데이#64035422 | sw
+2026-11-05 08:07 | 이투데이 | [오늘의 투자전략]AI주 엇갈린 흐름…반도체 조정 땐 분할매수 | google:이투데이#5b0755a1 | sw
+2026-11-05 08:06 | 이투데이 | [오늘의 증시일정] 에코프로·넷마블, 모아데이타 등 | google:이투데이#445adb3a | sw
+2026-11-05 08:05 | mbn.co.kr | [투데이 라인업] 유튜브 대담 '대통령의 Y' 첫 공개 / 국회 본회의…'조... | http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229111 | b42
+2026-11-05 08:04 | g-enews.com | EU 배터리 독자 규제에 배터리 업계 반발 폭발… 253개 기존 목록 즉각 ... | https://www.g-enews.com/view.php?ud=2026110507580998892bd56fbc3c_1 | b6
+2026-11-05 08:02 | news.dealsitetv.com | [기업認] [더블유게임즈] 김가람 대표, 보수 증액 시도...국민연금 '브레... | https://news.dealsitetv.com/articles/177764 | b26,b27
+2026-11-05 08:02 | dealsite.co.kr | 3연임 문턱 75%로 높인다지만…김정태·윤종규·김기홍 모두 통과 | https://dealsite.co.kr/articles/171959 | b27
+2026-11-05 08:01 | Law360 | 7th Circ. Probes Milwaukee Tool's Forced-Labor Liability | google:Law360#9be14bea | ben2
+2026-11-05 08:01 | view.asiae.co.kr | "달라지는 경제 사건 수사, 기업도 초기부터 대응전략 세워야"[최석진의... | https://view.asiae.co.kr/article/2026110321043570367 | b20
+2026-11-05 08:01 | 이투데이 | KB證 “美 원전 부지 공개 임박⋯현대건설·두산에너빌리티 수혜 본격화” | google:이투데이#3f469afe | sw
+2026-11-05 08:00 | esgeconomy.com | 한국ESG평가원, KB금융 이재근 차기회장 후보 찬성 의결 권고 | https://www.esgeconomy.com/news/articleView.html?idxno=17239 | sw
+2026-11-05 08:00 | apnews.kr | 이찬진 강조 'CEO 승계 눈높이'…우리은행式 '외부 검증'이 해법 | https://www.apnews.kr/news/articleView.html?idxno=3052803 | b26
+2026-11-05 08:00 | 뉴시스 | 9월 경상수지 614.6억 달러…3개월만 역대 최대 경신 | google:뉴시스#00b2c8c7 | sw
+2026-11-05 08:00 | 이투데이 | [속보] 9월 경상수지 614억6000만달러 흑자⋯또 역대 1위 경신 | google:이투데이#c0d5e46a | sw
+2026-11-05 08:00 | 이투데이 | [전일 주요공시] 한진칼·DL케미칼·사람인·다우기술 등 | google:이투데이#ab3d9b09 | sw
+2026-11-05 08:00 | 이투데이 | 젠지, LYON 꺾고 월즈 8강 1세트 선취 | google:이투데이#97414265 | sw
+2026-11-05 07:56 | Courthouse News | Ex-prisoner argues liability of US companies over slave labor abroad | google:Courthouse News#bc99465e | ben2
+2026-11-05 07:56 | 헤럴드경제 | ‘올해의 출판인’ 본상에 이광호 문학과지성사 대표 | google:헤럴드경제#efa85785 | sw
+2026-11-05 07:56 | kukinews.com | ‘조작기소 특검법’ 법사위 통과…오늘 본회의 앞두고 野 대응 논의 | https://www.kukinews.com/article/view/kuk202611050004 | b42
+2026-11-05 07:54 | 이투데이 | 뉴욕증시, 중간선거 랠리⋯유가, 이란전 종식 기대로 급락 [글로벌마켓 모닝 브리핑] | google:이투데이#8cd73bad | sw
+2026-11-05 07:53 | 이투데이 | [전날 애프터마켓] 한진칼우 상한가…삼전·SK하닉 추가 상승 | google:이투데이#aa37e271 | sw
+2026-11-05 07:51 | newsis.com | 한동훈 "'내 죄를 내가 심판'…李대통령, 루이14세 흉내" | https://www.newsis.com/view/NISX20261105_0003855473 | b42
+2026-11-05 07:51 | 이투데이 | 원·달러 NDF 0.05원 상승, 블루웨이브 vs 수급 | google:이투데이#a9300a91 | sw
+2026-11-05 07:51 | 이투데이 | 급등한 국제 금값…국내 금시세는? | google:이투데이#cd482edd | sw
+2026-11-05 07:50 | 헤럴드경제 | “구민 안전이 우선” 도봉구, 지역치안협의회 정기회의 개최 | google:헤럴드경제#de680623 | sw
+2026-11-05 07:49 | 한국경제 | 6조 호남반도체 예산 심의하는데…민간위원에 디저트카페 사장 | google:한국경제#1b7ea723 | sw
+2026-11-05 07:45 | news.tvchosun.com | '조작기소 특검' 與 주도 법사위 통과…野 "모든 안건에 필리버스터" | https://news.tvchosun.com/site/data/html_dir/2026/11/05/2026110590011.html | b42
+2026-11-05 07:44 | ytn.co.kr | 곽규택 "조작기소특검법, 위헌법률심판 제청 검토... 필버 이어 장외투... | https://www.ytn.co.kr/_ln/0101_202611050744055510 | b42
+2026-11-05 07:42 | 이투데이 | 유안타증권 “미래산업, 중국 반도체 투자 확대 수혜…하반기 실적 개선 기대” | google:이투데이#1564c149 | sw
+2026-11-05 07:36 | yonhapnewstv.co.kr | [이시각헤드라인] 11월 5일 라이브투데이 | http://www.yonhapnewstv.co.kr/news/MYH20261105073522X7Z | b42
+2026-11-05 07:34 | 헤럴드경제 | ‘재혼’ 서인영, 12월 26일 교회서 스몰웨딩…“축가·꽃 다 뺐다” | google:헤럴드경제#06a60027 | sw
+2026-11-05 07:34 | wikitree.co.kr | 민주당, 오늘 '조작기소 특검법' 처리 추진…국민의힘 '필리버스터' 예... | https://www.wikitree.co.kr/articles/1171954 | b42
+2026-11-05 07:34 | 이투데이 | 대구시, 제2차 대구첨단산업발전전략 자문회의’ 개최 | google:이투데이#8935c832 | sw
+2026-11-05 07:33 | INSIGHT EU MONITORING | EU Commission sets accession roadmaps for four frontrunners in enlargement review | google:INSIGHT EU MONITORING#50ae7e7a | bgb8
+2026-11-05 07:32 | popcornnews.net | 하나證 "넥센타이어, 실적 회복 지연 주가에 반영…목표가↓" | http://www.popcornnews.net/news/articleView.html?idxno=138788 | b9
+2026-11-05 07:31 | KTAR News 92.3 FM | FACT FOCUS: False claims of rigged elections are limited as midterm vote heavily favors Democrats | google:KTAR News 92.3 FM#5abe9f12 | bgb6
+2026-11-05 07:30 | hansbiz.co.kr | 외산 자본에 넘어간 가비아, 행동주의 펀드의 명암 | http://www.hansbiz.co.kr/news/articleView.html?idxno=879797 | b27
+2026-11-05 07:30 | digitaltoday.co.kr | [크립토핫이슈] 美 '블루쓰나미' 암호화폐 영향은? | https://www.digitaltoday.co.kr/news/articleView.html?idxno=712690 | b42
+2026-11-05 07:29 | Investing.com India | Form 8K GRI Bio Inc For: 4 November By Investing.com | google:Investing.com India#3dd71d23 | bgb10
+2026-11-05 07:28 | the-today.com | [단독] HD현대 굴착기, 이스라엘군 '팔레스타인 철거' 투입 논란…인권... | https://www.the-today.com/news/articleView.html?idxno=93073 | b37
+2026-11-05 07:24 | Investing.com UK | GRI Bio shareholders approve equity plan changes and board elections at annual meeting | google:Investing.com UK#60980f55 | bgb10
+2026-11-05 07:23 | 뉴시스 | 김대호, 9세 연상 김숙과 동거설에 입 열었다 | google:뉴시스#b29a21fc | sw
+2026-11-05 07:21 | 이투데이 | 키움증권 "휴젤, 추가 상승은 검증 필요…목표가 8%↓" | google:이투데이#4c2037dc | sw
+2026-11-05 07:20 | nocutnews.co.kr | '이란戰 심판' 트럼프·네타냐후 선거 참패[오늘아침] | https://www.nocutnews.co.kr/news/6602359?utm_source=naver&utm_medium=article&utm_campaign=20261105073044 | b42
+2026-11-05 07:19 | 뉴시스 | 달라진 서인영, 직접 담근 김치 기부…가족과 선행 | google:뉴시스#cff71f11 | sw
+2026-11-05 07:17 | 헤럴드경제 | 한중일 환경과학원장 한자리에…동북아 환경협력 방안 모색 | google:헤럴드경제#76fdbd78 | sw
+2026-11-05 07:17 | 이투데이 | 코인 동반 반등…비트코인 3%·이더리움 5.4% 상승 | google:이투데이#291f426f | sw
+2026-11-05 07:14 | 헤럴드경제 | 北 “김정식 대장 지도로 신형 대공미사일 시험…장거리순항미사일 훈련도” | google:헤럴드경제#8c6bd8c7 | sw
+2026-11-05 07:10 | newsway.co.kr | 전자주총 내년 의무화…대기업 한정에 '반쪽짜리' 우려 | https://www.newsway.co.kr/news/view?ud=2026110413515585046 | b27
+2026-11-05 07:08 | 뉴시스 | [단독]횡성터널 앞 오토바이 참변…동호회 "블박엔 트럭 유턴 정황" | google:뉴시스#25276193 | sw
+2026-11-05 07:07 | 이투데이 | 닥나무로 빚은 한지, 유네스코 평가기구서 ‘등재 권고’ | google:이투데이#e8d4708f | sw
+2026-11-05 07:02 | thebell.co.kr | [더벨][하우스 분석 / 리딩투자증권] 창사이래 첫 자사주 매입…주주환... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611031411348800104424 | b27
+2026-11-05 07:01 | mk.co.kr | 매경이 전하는 세상의 지식 (매-세-지, 11월 5일) | https://www.mk.co.kr/article/12196696 | b42
+2026-11-05 07:01 | hankyung.com | 로봇 도입을 두고 파업할 수 있는가 [율촌의 노동법 라운지] | https://www.hankyung.com/article/202611044510i | b17?
+2026-11-05 07:00 | TradingView | Avino Reports Q3 2026 Financial Results | google:TradingView#edb03c6b | bgb4
+2026-11-05 07:00 | businesspost.co.kr | [Who Is ?] 김상균 LF 대표이사 사장 | https://www.businesspost.co.kr/BP?command=article_view&num=450983 | b6
+2026-11-05 07:00 | fetv.co.kr | [파두사태 이후 IPO] ②리더십 잃은 NH투자증권, 미래 실적 '불안감' 높... | https://www.fetv.co.kr/news/articleView.html?idxno=313085 | b27
+2026-11-05 07:00 | daejonilbo.com | [여백] 11일 행정수도법 축조심의는 | https://www.daejonilbo.com/news/articleView.html?idxno=2311534 | b42
+2026-11-05 06:58 | 헤럴드경제 | 배상면주가, 홈술닷컴 6주년 이벤트 연다 | google:헤럴드경제#2fd2fa71 | sw
+2026-11-05 06:57 | 이투데이 | ‘골키퍼 니킥’ 비극 이후…오워노가 전한 첫 심경 | google:이투데이#6914202e | sw
+2026-11-05 06:56 | 경향신문 | 윤석열 내란 항소심 오늘 최후진술···6개월 만에 변론 종결 | google:경향신문#5402c074 | sw
+2026-11-05 06:53 | yonhapnewstv.co.kr | [AM-PM] 尹 내란혐의 2심 최후진술…재판 마무리 外 | http://www.yonhapnewstv.co.kr/news/MYH20261105065254A0V | b42
+2026-11-05 06:50 | 헤럴드경제 | “딸은 메타, 아들은 엔비디아”…김보연, 두 자녀 근황 깜짝 공개 | google:헤럴드경제#df789de3 | sw
+2026-11-05 06:48 | sedaily.com | 선거 패배 트럼프, 관세 카드 다시 만지나…북미대화도 시도할 듯[Pick코... | https://www.sedaily.com/article/20110415?ref=naver | b24
+2026-11-05 06:45 | Foreign Policy Journal | Kazakh Steppe Holds Ghosts Of Stalin's Gulag As Ethnic Germans Fight To Keep Memory Alive | google:Foreign Policy Journal#f70442bc | ben2
+2026-11-05 06:40 | 뉴시스 | [美중간선거] '흑인' 제프리스, 하원의장 출마 공식화…"트럼프 견제" | google:뉴시스#a8cb3a88 | sw
+2026-11-05 06:36 | 이투데이 | 밴스 “이란 전쟁 때문에 공화당 졌다”⋯국제유가 8%대 급락 [상보] | google:이투데이#174730d8 | sw
+2026-11-05 06:35 | 아시아경제 | 바이낸스 해킹 사태로 주목받는 코인거래소 건전성 지표는 | google:아시아경제#cad51b82 | sw
+2026-11-05 06:34 | labortoday.co.kr | ["모두에 근기법 적용하라"] 청와대로 간 특고·플랫폼 노동자 | https://www.labortoday.co.kr/news/articleView.html?idxno=237571 | b14,sw
+2026-11-05 06:34 | labortoday.co.kr | 12년간 교대근무에 뇌출혈 사망, 7년 만에야 "산재" 판결 | https://www.labortoday.co.kr/news/articleView.html?idxno=237588 | b16?,sw
+2026-11-05 06:32 | financialpost.co.kr | 농협중앙회장 '조합원 직선제' 법안소위 통과...농업계 '의견 갈려' | https://www.financialpost.co.kr/news/articleView.html?idxno=284786 | b42
+2026-11-05 06:31 | 이투데이 | 서인영, 12월 26일 결혼 발표 | google:이투데이#df70cddc | sw
+2026-11-05 06:30 | Mongabay | Revealing Amazon land grabs targeting an uncontacted community | google:Mongabay#dc590540 | bgb1
+2026-11-05 06:30 | labortoday.co.kr | [메가특구에 진정 필요한 것 ④] 메가특구, 국제기준 부합하게 설계해야 | https://www.labortoday.co.kr/news/articleView.html?idxno=237591 | sw
+2026-11-05 06:30 | labortoday.co.kr | 사랑이 비행이 되는 사회 | https://www.labortoday.co.kr/news/articleView.html?idxno=237590 | sw
+2026-11-05 06:30 | labortoday.co.kr | 여성 노동자의 병은 어떻게 산재 통계에 남을까 | https://www.labortoday.co.kr/news/articleView.html?idxno=237589 | sw
+2026-11-05 06:30 | labortoday.co.kr | 주요일정(11월5일) | https://www.labortoday.co.kr/news/articleView.html?idxno=237586 | sw
+2026-11-05 06:30 | labortoday.co.kr | 대통령의 차별 정치 | https://www.labortoday.co.kr/news/articleView.html?idxno=237585 | sw
+2026-11-05 06:30 | labortoday.co.kr | HD현대중공업, 원청교섭 요구 8개월 만에 상견례 | https://www.labortoday.co.kr/news/articleView.html?idxno=237584 | sw
+2026-11-05 06:30 | labortoday.co.kr | 노동계 “미래대응기금은 일자리·복지 확대에” | https://www.labortoday.co.kr/news/articleView.html?idxno=237583 | sw
+2026-11-05 06:30 | labortoday.co.kr | 윤석열 공직선거법 위반 항소심도 ‘당선무효형’ | https://www.labortoday.co.kr/news/articleView.html?idxno=237582 | sw
+2026-11-05 06:30 | labortoday.co.kr | 이 대통령 “대통령 주도 개헌 국민 수용성 낮아” | https://www.labortoday.co.kr/news/articleView.html?idxno=237581 | sw
+2026-11-05 06:30 | labortoday.co.kr | [김대중부터 이재명까지] 민주당 정부 만든 발전 경로 ‘포용·평화·자치’ | https://www.labortoday.co.kr/news/articleView.html?idxno=237580 | sw
+2026-11-05 06:30 | labortoday.co.kr | 금속노조 “현대차, 중노위 결정에도 교섭 해태” | https://www.labortoday.co.kr/news/articleView.html?idxno=237579 | sw
+2026-11-05 06:30 | labortoday.co.kr | 공공기관 정규직 채용 목표 달성 ‘빨간불’ | https://www.labortoday.co.kr/news/articleView.html?idxno=237578 | sw
+2026-11-05 06:30 | labortoday.co.kr | ‘원하는 일자리 없어 쉬었다’는 젊은층 늘어 | https://www.labortoday.co.kr/news/articleView.html?idxno=237577 | sw
+2026-11-05 06:30 | labortoday.co.kr | 비임금근로자 662만5천명, 3년 만에 증가 | https://www.labortoday.co.kr/news/articleView.html?idxno=237576 | sw
+2026-11-05 06:30 | labortoday.co.kr | 20년 전 임금체계가 발목 잡은 공기업 자녀수당 | https://www.labortoday.co.kr/news/articleView.html?idxno=237575 | sw
+2026-11-05 06:30 | labortoday.co.kr | 위험성평가 안 하면 과태료 최대 1천만원 | https://www.labortoday.co.kr/news/articleView.html?idxno=237574 | sw
+2026-11-05 06:30 | labortoday.co.kr | [천안논산고속도로 대표] 여성에게 “외로워 여사친 필요” 발언 | https://www.labortoday.co.kr/news/articleView.html?idxno=237573 | sw
+2026-11-05 06:30 | labortoday.co.kr | “초광역특구법 사회적 대화로” 민주노총·노동부 재확인 | https://www.labortoday.co.kr/news/articleView.html?idxno=237572 | sw
+2026-11-05 06:30 | 이투데이 | 폭염속 농업인 안전 지킨 장수군, 농촌진흥청장상 수상 | google:이투데이#47a19907 | sw
+2026-11-05 06:30 | 아시아경제 | 아이폰 시리 AI의 한계…카톡·네이버 앞에선 무용지물 | google:아시아경제#d6d400e4 | sw
+2026-11-05 06:26 | news2day.co.kr | [이태희의 JOB채(102)] 한국남동발전 이현빈 사장, 발전 5사 통합 주도하... | https://www.news2day.co.kr/article/20261104500411 | b5
+2026-11-05 06:23 | view.asiae.co.kr | 딱지 붙었는데 "오히려 좋아"…113개 종목 주가 '껑충', 웃은 건 잠깐이... | https://view.asiae.co.kr/article/2026110415520691894 | b27
+2026-11-05 06:23 | 아시아경제 | 저PBR 딱지 붙자 주가 들썩였지만…"현금 없는 저평가주 피해야" | google:아시아경제#4ece88ba | sw
+2026-11-05 06:20 | 헤럴드경제 | [인사]경북대병원 | google:헤럴드경제#c21ee44a | sw
+2026-11-05 06:20 | 대한경제 | ④ 17개월 끈 공사비 분쟁…“정부, 대화 테이블 마련해야” | google:대한경제#7e47ca76 | sw
+2026-11-05 06:18 | imnews.imbc.com | '조작기소 특검법' 법사소위 통과‥야당은 반발 | https://imnews.imbc.com/replay/2026/nwtoday/article/6863280_37012.html | b42
+2026-11-05 06:13 | 연합뉴스 | [김길원의 헬스노트] 단맛 즐긴 여성, 유방암 위험 28% 높았다…과일은? | google:연합뉴스#2e9e604d | sw
+2026-11-05 06:11 | 뉴시스 | [美중간선거]민주, 하원 237석 확보…상원 경합주 싹쓸이 겨냥 | google:뉴시스#9c389531 | sw
+2026-11-05 06:10 | Business and Human Rights Centre | Dominican Republic: 48 organisations allege forced labour continues at Central Romana, urge Dominican and US governments to act; company responds | google:Business and Human Rights Centre#0d68a414 | ben2,bgb2
+2026-11-05 06:08 | 서울경제 | [속보] 美중간선거 끝나자 다우지수 3% 급등…18개월만에 최대폭 상승 | google:서울경제#939f2e2d | sw
+2026-11-05 06:05 | 뉴시스 | 의대 신설로 증원 구상 마무리…과제는 '교육 역량 확보' | google:뉴시스#1dbd697c | sw
+2026-11-05 06:04 | joseilbo.com | '조작기소 특검법' 與, 오늘 본회의 상정 추진 vs 野 "필리버스터" | http://www.joseilbo.com/news/news_read.php?uid=578935&class=32&grp= | b42
+2026-11-05 06:03 | sedaily.com | [목요일 아침에] 파르테논의 미소, 에펠탑의 눈물 | https://www.sedaily.com/article/20110341?ref=naver | b15
+2026-11-05 06:03 | newsis.com | 정년 후 같은 직장 계속 다니는데…"월급 40만원 줄었다" | https://www.newsis.com/view/NISX20261104_0003855350 | b15,b16
+2026-11-05 06:02 | 헤럴드경제 | 이란 안보수장 “전장·정치서 모두 트럼프 꺾었다” | google:헤럴드경제#aee0da1c | sw
+2026-11-05 06:02 | yakup.com | [직장 문화 탐방] "직원의 도전이 성장으로"…제뉴원사이언스, 기회와 ... | https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334757 | b20
+2026-11-05 06:02 | kukinews.com | 美 민주 양원 탈환의 ‘관세 역설’…트럼프 압박 되레 거세지나 [美 중... | https://www.kukinews.com/article/view/kuk202611040229 | b24
+2026-11-05 06:02 | imnews.imbc.com | 1부 오늘의 주요뉴스 | https://imnews.imbc.com/replay/2026/nwtoday/article/6863273_37012.html | b42
+2026-11-05 06:00 | 대한경제 | 카드사, 가맹점 결제 데이터 마케팅…다양한 분석 서비스로 수익 노린다 | google:대한경제#af70d3e3 | sw
+2026-11-05 06:00 | 대한경제 | 건협 강원도회, 춘천시ㆍ철원군 방문해 이웃돕기 성금 전달 | google:대한경제#24c89757 | sw
+2026-11-05 06:00 | 대한경제 | [Con&Tech] (2) 57년 ‘토목맨’의 기술 집념…“지하 시공정보도 데이터로” | google:대한경제#958174c7 | sw
+2026-11-05 06:00 | 연합뉴스 | [소셜＋] "애를 가져가?" 부모들 갸웃…초등생 휩쓴 'L 챌린지' | google:연합뉴스#0e92bdcd | sw
+2026-11-05 06:00 | 헤럴드경제 | 한일미래파트너십재단, 양국 청년 상호 취업 지원 ‘잡페어’ 개최 | google:헤럴드경제#15d0dedd | sw
+2026-11-05 06:00 | news1.kr | '조작기소 특검법' 본회의 상정 기로…與 '강행' 野 '전면전' 예고 | https://www.news1.kr/politics/assembly/6343439 | b42
+2026-11-05 06:00 | yeongnam.com | [박규완 칼럼] 대구경북 반도체 팹, 이게 ‘균형’이다. | https://www.yeongnam.com/web/view.php?key=20261104025028851 | b26,b27,b29
+2026-11-05 06:00 | news1.kr | 검찰미래위 조사단, 李 연루 '위례 사건' 등 보완조사 결론…오늘 보고 | https://www.news1.kr/society/court-prosecution/6343440 | b42
+2026-11-05 06:00 | 경향신문 | ‘723억원’ 막대한 예산 들이고도 미달·미달·미달···여수섬박람회 61일 만에 폐막 | google:경향신문#f33ced6d | sw
+2026-11-05 06:00 | 뉴시스 | 서울한옥위크 8만5000여 명 참여…전년보다 15%↑ | google:뉴시스#b633eb78 | sw
+2026-11-05 06:00 | 뉴시스 | 단풍숲서 즐기는 무료 공연…매헌시민의숲 음악회 개최 | google:뉴시스#c46156c7 | sw
+2026-11-05 06:00 | 이투데이 | 장수 연구 현장에서 찾은 행복의 조건 | google:이투데이#7273a8d4 | sw
+2026-11-05 06:00 | 이투데이 | [알기 쉬운 생활금융⑪] 따로 사는 부모님, 연말정산에 올려도 될까? | google:이투데이#e1ef39ca | sw
+2026-11-05 05:46 | g-enews.com | 中 고철·재활용업계, 중동 전쟁發 원자재 폭등에 순익 63% 급증 | https://www.g-enews.com/view.php?ud=2026110415493672190c8c1c064d_1 | b6
+2026-11-05 05:24 | 아시아경제 | [속보]美민주당 압승에 국제유가 8%대 급락 | google:아시아경제#c57b2c38 | sw
+2026-11-05 05:20 | 대한경제 | 식품사 '앱'도 AI 서비스 경쟁... CJ더마켓, 월간활성이용자 1위 | google:대한경제#98750c60 | sw
+2026-11-05 05:14 | news1.kr | '커피 3잔 횡령' 고소당한 빽다방 알바생 무혐의…"그 매장 아직 영업" | https://www.news1.kr/society/general-society/6342999 | b16?
+2026-11-05 05:13 | seoul.co.kr | [데스크 시각] 민주당에 기대하는 것들 | https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/05/20261105027004?wlog_tag3=naver | b15
+2026-11-05 05:12 | busan.com | [사설] 수사·기소 분리해 놓고… '조작기소 특검' 강행 이중성 | https://www.busan.com/view/busan/view.php?code=2026110417594837672 | b42
+2026-11-05 05:08 | newsis.com | [오늘의 주요일정]경기남부(11월5일 목요일) | https://www.newsis.com/view/NISX20261105_0003855394 | b6
+2026-11-05 05:06 | ENDS Europe | PPWR CH02 - The history of the PPWR | google:ENDS Europe#1a804d95 | bgb7
+2026-11-05 05:05 | Bond Buyer | Texas election puts Democrats in charge of anti-ESG laws | google:Bond Buyer#c0124edf | bgb11
+2026-11-05 05:02 | seoul.co.kr | [기고] 안정적 전력, 3대 메가프로젝트 열쇠 | https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/11/05/20261105026001?wlog_tag3=naver | b5
+2026-11-05 05:02 | seoul.co.kr | 與 ‘조작기소 특검법’ 강행… 공소 취소 조항은 삭제 | https://www.seoul.co.kr/news/politics/2026/11/05/20261105001005?wlog_tag3=naver | b42
+2026-11-05 05:01 | nongmin.com | [농협법 개정안] 중앙회장선거 ‘조합원 직선제’ 전환…감사위 ‘외부... | https://www.nongmin.com/article/20261104500576 | b26
+2026-11-05 05:01 | nocutnews.co.kr | 與, 조작기소 특검법 속도전…'공소취소' 빼고 논란 정면돌파 | https://www.nocutnews.co.kr/news/6602337?utm_source=naver&utm_medium=article&utm_campaign=20261105073144 | b42
+2026-11-05 05:00 | sedaily.com | [열린송현] 기술 규제장벽 넘어서려면 | https://www.sedaily.com/article/20110183?ref=naver | b3,b4
+2026-11-05 05:00 | nongmin.com | 농협법 개정 강행…여당 독주 ‘후폭풍’ | https://www.nongmin.com/article/20261104500666 | b42
+2026-11-05 05:00 | 뉴시스 | [오늘의 주요일정]과기정통부·방미통위·개보위(11월5일 목요일) | google:뉴시스#2e79c4a7 | sw
+2026-11-05 04:32 | donga.com | 與, ‘조작기소 특검법’ 법사위 소위→전체회의 하루에 일방 처리 | https://www.donga.com/news/Politics/article/all/20261105/134968684/2 | b42
+2026-11-05 04:23 | SMH.com.au | US Democrats claim historic midterms victory | google:SMH.com.au#01716acd | bgb6
+2026-11-05 03:57 | 뉴시스 | [美중간선거]트럼프 "이란 전쟁 탓 패배…그럴만한 가치 있다" | google:뉴시스#f2ccc443 | sw
+2026-11-05 03:14 | The Times | Crunch time for ‘meaty’ crisps under EU food agreement | google:The Times#c8534f39 | bgb8
+2026-11-05 03:05 | Bookies.com | Betfred Casino Bonus Code UK November 2026: Get up to 200 Free Spins | google:Bookies.com#5ec26d73 | bgb6
+2026-11-05 03:00 | 서울경제 | “공민지 맞아?”…2NE1 막내 티 벗고 몰라보게 성숙해진 근황 | google:서울경제#362286a0 | sw
+2026-11-05 02:58 | Undercurrent News | Complaint alleging forced labor in Indian shrimp industry lodged with US trade commission | google:Undercurrent News#80210bd3 | ben2
+2026-11-05 02:52 | 연합뉴스 | [美중간선거] "트럼프의 패인은 트럼프"…'마가'의 부메랑에 지지층 와해 | google:연합뉴스#25b81fef | sw
+2026-11-05 02:28 | Anti-Slavery International | Statement on the UK Government’s commitment to introduce mandatory human rights due diligence and forced labour import bans | google:Anti-Slavery International#93692073 | bgb2
+2026-11-05 02:22 | Bloomberg Law News | Seventh Circuit Probes Right to Sue US Entity for China Work (1) | google:Bloomberg Law News#86a89f9f | ben2
+2026-11-05 02:08 | kmib.co.kr | 대미 투자·조선 협력 불확실성 커져… 관세 정책은 유지될 듯 | https://www.kmib.co.kr/article/20261104502436 | b24
+2026-11-05 01:58 | Oracle Red Bull Racing | Oracle Virtual Laps: Sao Paulo Grand Prix 2026 | google:Oracle Red Bull Racing#efa25681 | bgb2
