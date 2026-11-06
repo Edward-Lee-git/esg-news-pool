@@ -300,6 +300,13 @@ def to_lines(items):
 
 
 # ---------------------------------------------------------------
+def already_collected_today(state, today):
+    """오늘 이미 정기(advance) 수집이 저장되어 있고 이번 실행도 정기·advance 실행이면 True.
+    늦게 도착한 예약 실행이나 중복 호출이 목록을 교체하고 제외 기준을 다시 저장하면,
+    그 사이에 리포트가 보지 못한 기사가 영구히 누락되므로 건너뛴다."""
+    return bool(advance_state() and state and state.get("date") == today)
+
+
 def main():
     key_id = os.environ.get("NAVER_API_KEY_ID", "")
     key = os.environ.get("NAVER_API_KEY", "")
@@ -318,6 +325,10 @@ def main():
 
     today = end.strftime("%Y-%m-%d")
     state = load_state(ROOT)
+    if already_collected_today(state, today):
+        print(f"[SKIP] 오늘({today}) 이미 정기 수집이 저장되어 있어 이번 실행은 건너뜁니다 "
+              f"(수집 목록·제외 기준을 바꾸지 않음).")
+        return
     exclude, ex_src = exclusion_sets(ROOT, state, today)
     print(f"제외 기준: {ex_src} (부정기사 {len(exclude['a'])} / 규제동향 {len(exclude['b'])} / "
           f"일반동향 {len(exclude['c'])}개 키)\n")
