@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "7 19 * * 0-4"   # KST 04:07
   workflow_dispatch:
+    inputs:
+      advance:
+        description: "true면 정기 수집처럼 제외 기준을 저장 (외부 스케줄러가 호출할 때만 true, 직접 실행할 때는 false)"
+        required: false
+        default: "false"
+        type: string
 
 permissions:
   contents: write
@@ -33,6 +39,7 @@ jobs:
           QUERIES_JSON: ${{ secrets.QUERIES_JSON }}
           EXTRA_QUERIES_JSON: ${{ secrets.EXTRA_QUERIES_JSON }}
           PYTHONUNBUFFERED: "1"
+          ADVANCE_STATE: ${{ github.event.inputs.advance }}
         run: python scripts/collect.py
 
       - name: Commit
