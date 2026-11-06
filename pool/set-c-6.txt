@@ -1,24 +1,97 @@
-# collected: 2026-11-06 09:00 KST
-# window: 2026-11-05 00:00 ~ 2026-11-06 09:00 KST
+# collected: 2026-11-06 19:03 KST
+# window: 2026-11-05 00:00 ~ 2026-11-06 19:03 KST
 # part 6 of 6, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-05 13:39 | news.tf.co.kr | "주주 얼마나 챙겼나"…내년부터 배당·자사주 공시 깐깐해진다 | https://news.tf.co.kr/read/economy/2385268.htm | c41
+2026-11-05 13:38 | hapt.co.kr | 위험성평가 미실시 최대 1000만 원 과태료 | https://www.hapt.co.kr/news/articleView.html?idxno=169897 | c21
+2026-11-05 13:38 | etoday.co.kr | 카카오, 자사주 1500억 매입·소각…인적분할 전 주주환원 조기 이행 | https://www.etoday.co.kr/news/view/2644607 | c41
+2026-11-05 13:33 | mt.co.kr | 카카오 인적분할 1월1일→2월1일…자사주 1500억 소각 조기 이행 | https://www.mt.co.kr/tech/2026/11/05/2026110513084679989 | c41
+2026-11-05 13:32 | mk.co.kr | “생태공원 된 아파트 놀이터”… 삼성물산, IFLA 글로벌 조경 우수상 | https://www.mk.co.kr/article/12198248 | c7
+2026-11-05 13:30 | thebigdata.co.kr | 하나금융그룹, 스텔란티스와 금융 시너지 확대 '맞손'...관심도 상승 | https://www.thebigdata.co.kr/view.php?ud=202611051141476500df3c2a17b7_23 | c38
+2026-11-05 13:30 | jasm.co.kr | 삼전닉스, 지난 10월 44조 배당…37곳 기업가치 제고 첫 공시 | https://www.jasm.co.kr/news/view/324276/?sc=Naver | c38
+2026-11-05 13:28 | thepowernews.co.kr | 이사 수 줄여 집중투표제 피하면 이유 공개…상장사 지배구조 공시 강화 | https://www.thepowernews.co.kr/view.php?ud=202611051325554583de3f0aa1be_7 | c35
+2026-11-05 13:28 | kdfnews.com | 가스공사∙한전KDN, AI∙디지털 전환 협력…안전관리 공동 대응 | http://www.kdfnews.com/news/articleView.html?idxno=190494 | c16
+2026-11-05 13:22 | Corrs Chambers Westgarth | ASIC’s verdict on Australia’s first mandated sustainability reports under the CRFD | google:Corrs Chambers Westgarth#fdbc8f34 | cgb2
+2026-11-05 13:18 | ajunews.com | 군산시·중국 옌타이, 녹색산업 협력 본격화…새만금 연계 모색 | https://www.ajunews.com/view/20261105130709683 | c5
+2026-11-05 13:15 | economist.co.kr | 카카오, 1500억 규모 자사주 조기 매입·소각…분할 일정 한 달 연기 | https://economist.co.kr/article/view/ecn202611050016 | c41
+2026-11-05 13:14 | newsclaim.co.kr | [DB손해보험 인사 전망] 내부통제위 상반기 '0회'·자동차 민원 55%↑… ... | https://www.newsclaim.co.kr/news/articleView.html?idxno=3081458 | c42
+2026-11-05 13:14 | newsclaim.co.kr | [삼성화재 인사 전망] 승진 7개월 만에 한호규 부사장 책무 삭제… 이문... | https://www.newsclaim.co.kr/news/articleView.html?idxno=3081457 | c42
+2026-11-05 13:14 | newsclaim.co.kr | [현대해상 인사 전망] 인사총무 출신 CCO 첫해 자동차 민원 17%↑… 정경... | https://www.newsclaim.co.kr/news/articleView.html?idxno=3081459 | c42
+2026-11-05 13:14 | etoday.co.kr | 트럼프 ‘연준 장악’ 야심에 찬물⋯금리 인하 압박도 힘 빠지나 [美 중... | https://www.etoday.co.kr/news/view/2644590 | c44
+2026-11-05 13:12 | magazine.hankyung.com | “통 크게 쐈다” 삼전닉스 주주환원 확대 | https://magazine.hankyung.com/business/article/202611058121b | c38
+2026-11-05 13:12 | segyebiz.com | 동서발전, 정부 ‘AI 프렌즈’ 대상… ‘업무자동화 시스템’ 내달 도입 | http://www.segyebiz.com/newsView/20261105509795?OutUrl=naver | c16
+2026-11-05 13:10 | samdailbo.com | 물영아리 습지문화제 7일 개최 | http://www.samdailbo.com/news/articleView.html?idxno=272346 | c7
+2026-11-05 13:08 | sateconomy.co.kr | 한국가스공사 홍의락, 취임 100일…가스와 전력 잇는 수급혁신 시동 | http://sateconomy.co.kr/news/view/1065585930783031 | c16
+2026-11-05 13:06 | hani.co.kr | HD현대중공업, 노란봉투법 8개월 만에 하청노조와 교섭 시작 | https://www.hani.co.kr/arti/area/yeongnam/1285903.html | c19
+2026-11-05 13:06 | newsworker.co.kr | [진단_저축은행 ①OK저축은행] 순익 급증에도 자산건전성 부담... 본업 ... | https://www.newsworker.co.kr/news/articleView.html?idxno=512467 | c44
+2026-11-05 13:04 | pinpointnews.co.kr | 카카오, 1500억원 자사주 매입·소각…인적분할 앞두고 주주환원 조기 ... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=501551 | c41
+2026-11-05 13:02 | naeil.com | 기후적응 재원 3배 늘려도 ‘태부족’ | https://www.naeil.com/news/read/607641?ref=naver | c3
+2026-11-05 13:02 | naeil.com | 에기평, 기술확산 전략로드맵 공개 | https://www.naeil.com/news/read/607716?ref=naver | c3
+2026-11-05 13:02 | naeil.com | 안전·보건관리자 선임 20명 이상 사업장으로 확대 | https://www.naeil.com/news/read/607671?ref=naver | c20
+2026-11-05 13:00 | breaknews.com | “자사주 담고 현금배당 수십조원”..상장사 주주환원 바람 거세졌다 | http://www.breaknews.com/1248601 | c38,c41
+2026-11-05 13:00 | public25.com | 신한라이프, 소비자권익보호위원회 외부 전문위원 위촉…독립성 강화 | https://www.public25.com/news/articleView.html?idxno=57949 | c44
+2026-11-05 12:56 | kpenews.com | 삼성전자 노동조합 여섯 갈래로..임금교섭 앞두고 교섭력 약화 우려 | https://kpenews.com/View.aspx?No=4299182 | c19
+2026-11-05 12:54 | e-platform.net | 예스코, 도시가스업계 최초 '통합 SHE 시스템' 가동 | http://www.e-platform.net/news/articleView.html?idxno=106729 | c20
+2026-11-05 12:54 | namdonews.com | [특징주]카카오, 1천500억 원 자사주 소각 결정에 10.99% 뛰어…분할 전... | https://www.namdonews.com/news/articleView.html?idxno=928270 | c41
+2026-11-05 12:52 | safetimes.co.kr | 상장사 '주주권 침해' 감시 강화 … 유상증자·자사주 공시 확대 | https://www.safetimes.co.kr/news/articleView.html?idxno=247220 | c41
+2026-11-05 12:50 | dailypop.kr | 신한라이프, 보험금 분쟁 심의에 외부 전문가 위촉…내부 위원과 같은 ... | http://www.dailypop.kr/news/articleView.html?idxno=104196 | c44
+2026-11-05 12:48 | ajunews.com | 어린이 자연 학습 공간 '트윈 버블스', 국제 무대에서 인정 | https://www.ajunews.com/view/20261105124607658 | c7
+2026-11-05 12:46 | esgeconomy.com | 밸류업 공시 기업 801곳…전체 시가총액의 83.8% 차지 | https://www.esgeconomy.com/news/articleView.html?idxno=17253 | c38,sw
+2026-11-05 12:46 | medicaltimes.com | 블루엠텍, 3분기 매출 73% 껑충…자사주 1.4% 소각 | https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171644&ref=naverpc | c41
+2026-11-05 12:46 | sateconomy.co.kr | 롯데호텔, 100여개 업무 자동화로 연 4만5220시간 절감…AX/DX 서비스 어... | https://sateconomy.co.kr/news/view/1065584306407837 | c51
+2026-11-05 12:44 | sports.donga.com | 인천 부평구, ‘되살아난 굴포천, 주민 일상까지 바꿨다’…생태복원 만... | https://sports.donga.com/region/article/all/20261105/134970850/1 | c7
+2026-11-05 12:44 | electimes.com | (ESG, 우린 여기까지 합니다) ①삼표시멘트 | https://www.electimes.com/news/articleView.html?idxno=374399 | c7
+2026-11-05 12:40 | koreareport.co.kr | 저PBR 개선계획 낸 62곳…37곳은 밸류업 첫 공시 | https://www.koreareport.co.kr/news/articleView.html?idxno=54335 | c38
+2026-11-05 12:40 | tournews21.com | 인천도시철도 2호선 집중호우 사면유실 위험 줄인다…20일 보강공사 준... | https://www.tournews21.com/news/articleView.html?idxno=147609 | c20
+2026-11-05 12:38 | vegannews.co.kr | MH머트리얼즈 77만주 자사주 취득…6일 장내매수 | https://www.vegannews.co.kr/news/article.html?no=400889 | c41
+2026-11-05 12:36 | esgeconomy.com | ‘블루 웨이브’로 미국 에너지 관련 핵심 입법 불확실성 커져 | https://www.esgeconomy.com/news/articleView.html?idxno=17251 | sw
+2026-11-05 12:36 | thelec.kr | 카카오, 분할 전 자사주 1500억원 매입·소각…분할은 내년 2월로 | https://www.thelec.kr/news/articleView.html?idxno=64943 | c41
+2026-11-05 12:28 | vegannews.co.kr | 카카오, 1500억원 자사주 매입 뒤 전량 소각 | https://www.vegannews.co.kr/news/article.html?no=400886 | c41
+2026-11-05 12:20 | enewstoday.co.kr | "햇빛으로 일구는 에너지 자립 마을"… 봉화군, 정부 '농업·농촌 RE100 실... | http://www.enewstoday.co.kr/news/articleView.html?idxno=2488716 | c4
+2026-11-05 12:20 | bizhankook.com | [K컬처 리포트] '꽃밭에 100억' 송도 K팝 콘텐츠시티 부지 되살릴 방법 | https://bizhankook.com/articles/songdo-k-pop-content-city-revival.html | c15
+2026-11-05 12:20 | busan.com | 고려아연, 자사주 절반 소각…멈췄던 액면분할 재개 | https://www.busan.com/view/busan/view.php?code=2026110512175824314 | c41
+2026-11-05 12:19 | polinews.co.kr | [김능구·차재원의 정국진단 11월①][전문] 李대통령 SNS 종횡무진… 지... | https://www.polinews.co.kr/news/articleView.html?idxno=747751 | c27
+2026-11-05 12:18 | lak.co.kr | 삼성물산 리조트부문, 2026 IFLA 글로벌 조경상 수상 | http://www.lak.co.kr/news/boardview.php?id=24260 | c7
+2026-11-05 12:16 | thegolftimes.co.kr | 편리한 생활 인프라에 녹지까지 품다…'롯데캐슬 넥스티엘Ⅱ', 쾌적한 ... | https://www.thegolftimes.co.kr/news/articleView.html?idxno=82269 | c15
+2026-11-05 12:16 | newstomato.com | 저PBR 낙인 앞두고…막판 벼락치기 공시 '우르르' | http://www.newstomato.com/ReadNews.aspx?no=1319378&inflow=N | c38
+2026-11-05 12:14 | news2day.co.kr | 제약·바이오업계, 생태계 보전부터 어린이 안전까지...ESG 활동 확대 | https://www.news2day.co.kr/article/20261105500113 | c7
+2026-11-05 12:12 | netongs.com | 이석주 특별시의원, "반도체 유치, 여수 소재 공급망 연계 전략 병행해... | http://www.netongs.com/news/articleView.html?idxno=336278 | c25
+2026-11-05 12:12 | newstnt.com | [특징주] 매커스, 자사주 40만주 취득·소각 결정…주주가치 제고 | https://www.newstnt.com/news/articleView.html?idxno=726874 | c41
+2026-11-05 12:10 | bloter.net | 카카오, 1500억원 자사주 소각…주총 한 달 연기 | https://www.bloter.net/news/articleView.html?idxno=677798 | c41
+2026-11-05 12:08 | munhwa.com | 10층 외벽에 매달려… 민노총 간부, 음식·배변봉투 받아쓰며 두달째 농... | https://www.munhwa.com/article/11629061?ref=naver | c18
+2026-11-05 12:08 | financialpost.co.kr | [경영전략] 영업익 2403억 거둔 카카오, 분할 전 자사주 1500억 태운다 | https://www.financialpost.co.kr/news/articleView.html?idxno=284914 | c41
+2026-11-05 12:06 | thefairnews.co.kr | "자사주 1500억 조기 소각"…카카오, 주주가치 제고·인적분할 구조 재편... | https://www.thefairnews.co.kr/news/articleView.html?idxno=93144 | c41
+2026-11-05 12:04 | weekly.hankooki.com | SK쉴더스, 현장 출동대원 안전 위해 사고 예방 체계 강화 | https://weekly.hankooki.com/news/articleView.html?idxno=7192367 | c33
+2026-11-05 12:04 | financialpost.co.kr | 지배구조 틀 깨고 판 바뀌는 K-게임…'2027 체질개선' 사활 | https://www.financialpost.co.kr/news/articleView.html?idxno=284903 | c35
+2026-11-05 12:04 | munhwa.com | 태권도, 결국 北에 뺏겼다… 유네스코 유산 단독등재 유력 | https://www.munhwa.com/article/11629046?ref=naver | c15
+2026-11-05 12:04 | econonews.co.kr | 카카오, 1500억원 규모 자사주 매입·소각 결정에 10% 가까이 급등 | http://www.econonews.co.kr/news/articleView.html?idxno=446775 | c41
+2026-11-05 12:04 | newsway.co.kr | 상장사 '꼼수' 집중투표제 회피 막는다…배당·자사주 공시도 강화 | https://www.newsway.co.kr/news/view?ud=2026110511191834226 | c41
+2026-11-05 12:02 | financialpost.co.kr | 한강물 품은 현대차그룹 'GBC', 친환경 수열에너지 빌딩 혁신 | https://www.financialpost.co.kr/news/articleView.html?idxno=284913 | c15
+2026-11-05 12:00 | newscj.com | HD현대삼호 노동자 사망에 민주노총 "중대재해 책임 물어야" | https://www.newscj.com/news/articleView.html?idxno=3446143 | c20
+2026-11-05 12:00 | view.asiae.co.kr | "'집중투표 우회' 이사 수 조정 사유 공시해야"…금융위, 지배구조보고... | https://view.asiae.co.kr/article/2026110511452090285 | c35
+2026-11-05 12:00 | taxtimes.co.kr | 지방 미분양 취득세 중과 1년 연장…고급주택 가격기준 12억으로 완화 | https://www.taxtimes.co.kr/news/article.html?no=277620 | c15
+2026-11-05 12:00 | newsis.com | 당국, 상장사 주주보호 공시 강화한다…배당·자사주 정보도 확대 | https://www.newsis.com/view/NISX20261105_0003856123 | c41
+2026-11-05 11:58 | imaeil.com | 음료 3잔에 '횡령' 고소당한 알바생…1년 시달린 끝에 결국 | https://www.imaeil.com/page/view/2026110511003342917 | c18
+2026-11-05 11:58 | newsway.co.kr | 카카오, 1500억 자사주 매입·소각 추진…AI 매출 키워 2028년 흑자 목표... | https://www.newsway.co.kr/news/view?ud=2026110511060687026 | c41
+2026-11-05 11:57 | munhwa.com | 유통·식품업계, 低PBR 탈출 안간힘… 자사주 소각·배당 확대에도 ‘역... | https://www.munhwa.com/article/11629026?ref=naver | c41
+2026-11-05 11:56 | hansbiz.co.kr | 美 민주당 상·하원 장악…트럼프 반ESG 정책 제동 걸리나 | http://www.hansbiz.co.kr/news/articleView.html?idxno=880196 | c46
+2026-11-05 11:55 | impacton.net | 전기차 시장 성장에도…현대차·기아 등 완성차 6곳 전동화 목표 조정 | https://www.impacton.net/news/articleView.html?idxno=30544 | sw
+2026-11-05 11:55 | polinews.co.kr | 한국 기업지배구조 평가 아태지역 5위…2023년보다 3계단 상승 | https://www.polinews.co.kr/news/articleView.html?idxno=747730 | c35,c44
+2026-11-05 11:54 | financialpost.co.kr | 삼성물산, 당진 아파트 조경 프로젝트로 IFLA 글로벌 어워즈 수상 | https://www.financialpost.co.kr/news/articleView.html?idxno=284930 | c7
+2026-11-05 11:54 | socialvalue.kr | 대원제약, 15년째 '아름다운데이' 통해 임직원 물품 기증…누적 1만5682점... | https://www.socialvalue.kr/news/view/1065581505526430 | c14
 2026-11-05 11:54 | kdfnews.com | 고려아연, 자사주 절반 내년 소각…액면분할 재추진 | http://www.kdfnews.com/news/articleView.html?idxno=190489 | c41
 2026-11-05 11:52 | impacton.net | 저탄소 공장 투자 36건 중 23건 중국에…재생전력 따라 생산거점 이동 | https://www.impacton.net/news/articleView.html?idxno=30545 | c2,sw
 2026-11-05 11:52 | sisafocus.co.kr | 카카오, 자사주 1500억원 규모 매입 후 소각 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367219 | c41
-2026-11-05 11:50 | 아시아경제 | "지역 상권 살린다"…광주 서구, 양동시장서 '착한 소비' | google:아시아경제#d85fa6dc | sw
 2026-11-05 11:50 | worktoday.co.kr | 카카오, 인적분할 앞두고 자사주 1500억원 매입·소각 | http://www.worktoday.co.kr/news/articleView.html?idxno=91510 | c41
 2026-11-05 11:50 | updownnews.co.kr | 신한라이프, 소비자권익보호위원회 법률·의료·소비자경제 분야 외부 ... | https://www.updownnews.co.kr/news/articleView.html?idxno=319443 | c44
 2026-11-05 11:49 | enewstoday.co.kr | 신한라이프, 외부 위원 3명 소비자권익위에 위촉 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2488790 | c44
-2026-11-05 11:49 | 이투데이 | [2026 한일시니어포럼] 박재만 복지부 통합돌봄지원관 “돌봄기본권 논의 필요해” | google:이투데이#bb4b847e | sw
 2026-11-05 11:48 | imwood.co.kr | 수목원이 교실이 된다…국립수목원, 우수교육프로그램 8점 시상 | https://www.imwood.co.kr/news/articleView.html?idxno=42274 | c7
 2026-11-05 11:48 | kdpress.co.kr | 하이멕, '제1회 HIMEC AI 활용 아이디어 공모전' 시상식 진행…엔지니어... | https://www.kdpress.co.kr/news/articleView.html?idxno=209745 | c15
-2026-11-05 11:48 | kpenews.com | 카카오, 분할 앞두고 주주환원 앞당겨..자사주 1500억 매입·소각 | https://kpenews.com/View.aspx?No=4298737 | c41
 2026-11-05 11:48 | metroseoul.co.kr | [특징주] 카카오, 1500억원 자사주 소각 카드에 급등 | http://www.metroseoul.co.kr/article/20261105500148 | c41
-2026-11-05 11:47 | 연합뉴스 | kt 힐리어드의 '특수 고무공' 훈련…달라진 스윙 궤도로 맹활약 | google:연합뉴스#46389a43 | sw
+2026-11-05 11:48 | kpenews.com | 카카오, 분할 앞두고 주주환원 앞당겨..자사주 1500억 매입·소각 | https://kpenews.com/View.aspx?No=4298737 | c41
 2026-11-05 11:46 | energy-news.co.kr | OX퀴즈로 안전수칙 익힌다…해양에너지, '안전골든벨' | https://www.energy-news.co.kr/news/articleView.html?idxno=229530 | c20
-2026-11-05 11:45 | 뉴시스 | 삼성 원태인 선발 복귀? 이승민·배찬승 있기에…견고함 과시[KS] | google:뉴시스#2c4d84b2 | sw
 2026-11-05 11:45 | biz.sbs.co.kr | 한진칼 최대주주 호반그룹으로…요동치는 주가 속 주총 변수는 | https://biz.sbs.co.kr/article_hub/20000344433?division=NAVER | c37,c40
 2026-11-05 11:44 | worktoday.co.kr | 한국ESG평가원, KB금융 이재근 회장 선임 찬성 권고 … "이사회 독립성... | http://www.worktoday.co.kr/news/articleView.html?idxno=91509 | c36,c44
 2026-11-05 11:44 | newspim.com | 소규모 사업장 안전관리자·보건관리자 둔다…경사노위 첫 합의 | https://www.newspim.com/news/view/20261105000737 | c20
@@ -30,12 +103,10 @@
 2026-11-05 11:38 | ilyo.co.kr | ‘엑셀방송’ 못 버린 SOOP, 이익 반토막에 주주들 ‘부글부글’ | https://ilyo.co.kr/?ac=article_view&entry_id=513453 | c48
 2026-11-05 11:36 | electimes.com | 김동철 한전 사장 "전력망 투자 지속하려면 전기요금 현실화 필요" | https://www.electimes.com/news/articleView.html?idxno=374382 | c16
 2026-11-05 11:36 | newspim.com | HD현대삼호서 또 하청 노동자 참변…민주노총 "원청 책임 물어야" | https://www.newspim.com/news/view/20261105000698 | c20
-2026-11-05 11:34 | platum.kr | 카카오, 인적분할 앞두고 자사주 절반 먼저 사들여 소각한다 | https://platum.kr/archives/297857 | c41
 2026-11-05 11:34 | ebn.co.kr | 카카오, 자사주 1500억원 매입·소각…인적분할 비율·일정도 변경 | https://www.ebn.co.kr/news/articleView.html?idxno=1730587 | c41
-2026-11-05 11:33 | ET Government | Allocate 25% of corporate CSR funds to agriculture to improve farmer incomes: Jagjeet Kandal | google:ET Government#93f2c5ab | cgb1,cgb2
+2026-11-05 11:34 | platum.kr | 카카오, 인적분할 앞두고 자사주 절반 먼저 사들여 소각한다 | https://platum.kr/archives/297857 | c41
 2026-11-05 11:32 | newsprime.co.kr | 10월 밸류업 공시기업 누적 801곳…전체 시총 83.8% 차지 | http://www.newsprime.co.kr/news/article.html?no=753827 | c38
 2026-11-05 11:32 | gukjenews.com | 연천군 청산면, 파머스마켓 바자회 개최…취약계층 난방비 지원 | https://www.gukjenews.com/news/articleView.html?idxno=3743033 | c5
-2026-11-05 11:30 | news2day.co.kr | 삼성바이오로직스 노조, 오는 6일부터 2차 파업...400명 규모로 시작 | https://www.news2day.co.kr/article/20261105500079 | c19?
 2026-11-05 11:29 | esgeconomy.com | LG유플러스, AI 데이터센터 성장에 실적 개선 기대감 확대 | https://www.esgeconomy.com/news/articleView.html?idxno=17250 | sw
 2026-11-05 11:29 | esgeconomy.com | 따뜻한동행·육군, 에티오피아 6·25 참전용사 주거환경 개선 | https://www.esgeconomy.com/news/articleView.html?idxno=17247 | sw
 2026-11-05 11:28 | safetimes.co.kr | 보은군, 산업단지 입주기업 중대재해 예방교육 | https://www.safetimes.co.kr/news/articleView.html?idxno=247211 | c20
@@ -56,17 +127,17 @@
 2026-11-05 11:14 | popcornnews.net | 카카오, 2028년 AI 사업 손익분기점 목표…1500억 자사주 매입·소각 | http://www.popcornnews.net/news/articleView.html?idxno=138869 | c41
 2026-11-05 11:12 | todayenergy.kr | 에기평, 에너지 기술확산 전략로드맵 전문 공개 | https://www.todayenergy.kr/news/articleView.html?idxno=305131 | c3
 2026-11-05 11:12 | discoverynews.kr | 인천교통공사 노·사·전, 현장 안전관리 강화 위한 합동점검 | https://www.discoverynews.kr/news/articleView.html?idxno=1105869 | c20
-2026-11-05 11:12 | news1.kr | 美연준에 트럼프 외풍 막아줄 민주당…워시엔 새로운 압박 등장 | https://www.news1.kr/world/usa-canada/6343870 | c44
 2026-11-05 11:12 | pointdaily.co.kr | 신한라이프, 소비자권익보호위에 외부 전문가 위촉 | https://www.pointdaily.co.kr/news/articleView.html?idxno=324893 | c44
+2026-11-05 11:12 | news1.kr | 美연준에 트럼프 외풍 막아줄 민주당…워시엔 새로운 압박 등장 | https://www.news1.kr/world/usa-canada/6343870 | c44
 2026-11-05 11:12 | consumernews.co.kr | 신한라이프, 소비자권익보호위원회 외부 전문가 3명 위촉…민원 심의 전... | http://www.consumernews.co.kr/news/articleView.html?idxno=767645 | c44
 2026-11-05 11:11 | edaily.co.kr | 밸류업 공시기업 801곳…코스닥 426곳으로 코스피 추월 | https://www.edaily.co.kr/News/Read?newsId=04542806645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c38
 2026-11-05 11:10 | aptn.co.kr | 대주관 제11대 협회장 선거 3파전…후보별 핵심 공약은? | http://www.aptn.co.kr/news/articleView.html?idxno=113203 | c44
+2026-11-05 11:08 | ET Government | Allocate 25% of corporate CSR funds to agriculture to improve farmer incomes: Jagjeet Kandal | google:ET Government#500a21f0 | cgb1,cgb2
 2026-11-05 11:08 | chungnamilbo.co.kr | 부여군, 탄소중립 가속화… 규암면 수소충전소 준공 | http://www.chungnamilbo.co.kr/news/articleView.html?idxno=918956 | c1
 2026-11-05 11:08 | pinpointnews.co.kr | 해양에너지, 임직원 안전 역량 강화를 위한 '2026 안전골든벨' 성황리에... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=501529 | c20
 2026-11-05 11:08 | edaily.co.kr | 본업 힘 키운 카카오, '실행형 AI' 승부…주가 부진에 1500억 자사주 소... | https://www.edaily.co.kr/News/Read?newsId=04516566645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c41
 2026-11-05 11:08 | businesspost.co.kr | 고려아연 주가 장중 8%대 상승, 자사주 소각과 주식분할 재추진 결의 | https://www.businesspost.co.kr/BP?command=article_view&num=451233 | c41
 2026-11-05 11:06 | cstimes.com | 효성티앤씨, '리젠 되돌림' 시민 캠페인으로 확대 | https://www.cstimes.com/news/articleView.html?idxno=726725 | c5
-2026-11-05 11:06 | dkilbo.com | 포항 산림바이오매스, 지역경제 부흥 새 돌파구 연다 | https://www.dkilbo.com/news/articleView.html?idxno=559702 | c15
 2026-11-05 11:06 | g-enews.com | 대구 제2수목원 417억 프로젝트 시동…동부권 관광 지도가 바뀐다 | https://www.g-enews.com/view.php?ud=202611050850598704d2e64277d7_1 | c15
 2026-11-05 11:06 | platum.kr | 미 의회 다수당 바뀌어도 관세는 그대로…코트라 "조선·반도체·전력은... | https://platum.kr/archives/297835 | c43
 2026-11-05 11:04 | news.einfomax.co.kr | 카카오, 3Q 영업익 2천392억…자사주 1천500억 매입(종합2보) | https://news.einfomax.co.kr/news/articleView.html?idxno=4443203 | c41
@@ -83,14 +154,11 @@
 2026-11-05 10:58 | thebell.co.kr | [더벨][Company Watch] 스타벅스, 내년 프로모션 축소 시사…행사 리스크... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611031041561360103169 | c19
 2026-11-05 10:58 | newsis.com | 카카오, AI 비서·1500억원 자사주 승부수…주가 돌려 세울까(종합2보) | https://www.newsis.com/view/NISX20261105_0003855994 | c41
 2026-11-05 10:56 | m-i.kr | 인천교통공사, 운연차량기지·2호선 사면공사 안전점검 | https://www.m-i.kr/news/articleView.html?idxno=2014800 | c20
-2026-11-05 10:56 | inews24.com | [단독] 삼성바이오 노조, 실명으로 파업 참여 조사⋯블랙리스트 '논란' | http://www.inews24.com/view/2022910 | c26?
 2026-11-05 10:54 | pharmnews.com | 시지메드텍, 美 FDA 인체조직 현장 실사 '지적사항 없음' 종결 | https://www.pharmnews.com/news/articleView.html?idxno=307655 | c25
 2026-11-05 10:54 | gukjenews.com | 수목원·식물원 교육프로그램 3개 최우수상…국립수목원 시상식 개최 | https://www.gukjenews.com/news/articleView.html?idxno=3742968 | c7
-2026-11-05 10:54 | delighti.co.kr | 태영건설 성동구 청년주택 현장서 노동자 사망…작업 일부 중지 | https://www.delighti.co.kr/news/articleView.html?idxno=124427 | c23?
 2026-11-05 10:52 | ebn.co.kr | 밸류업 공시 800곳 돌파…상장사 31%가 시총 84% 차지 | https://www.ebn.co.kr/news/articleView.html?idxno=1730572 | c38
 2026-11-05 10:52 | aitimes.kr | AI가 도시를 운영하는 시대…유엔, 시민 중심 스마트시티 국제 지침 첫... | https://www.aitimes.kr/news/articleView.html?idxno=42599 | c16
 2026-11-05 10:52 | newsis.com | 폐기물 작업 중 근로자 사망 회사 대표 항소심 벌금형 | https://www.newsis.com/view/NISX20261105_0003856014 | c21
-2026-11-05 10:51 | biz.heraldcorp.com | 삼성바이오로직스 노조, 6일 ‘2차 파업’ 강행…내부선 ‘탈퇴 속출’... | https://biz.heraldcorp.com/article/10926792?ref=naver | c26?
 2026-11-05 10:49 | newspim.com | 저PBR 기업 합류에 밸류업 공시 확산…800곳 돌파 | https://www.newspim.com/news/view/20261105000572 | c38
 2026-11-05 10:48 | viva100.com | 충북도의회, 도민 체감 성과 검증에 나서다 | https://www.viva100.com/article/20261105500427 | c20
 2026-11-05 10:48 | insight.co.kr | HD현대삼호서 20대 노동자 숨져...건조 선박 내부서 발견 | https://www.insight.co.kr/news/580766 | c20
@@ -108,7 +176,6 @@
 2026-11-05 10:44 | newsis.com | 한진칼 호반 최대주주 '두 달 천하' 되나…'조원태 회장의 반격'으로 재... | https://www.newsis.com/view/NISX20261105_0003855730 | c37
 2026-11-05 10:44 | hankookilbo.com | 정신아 "AI 성과 기대 못 미쳐"… 카카오 1500억 원 자사주 매입·소각 | https://www.hankookilbo.com/news/article/A2026110510080004853?did=NA | c41
 2026-11-05 10:44 | finomy.com | 신한라이프, 소비자보호 외부 전문가 참여 더해 정책 강화 | http://www.finomy.com/news/articleView.html?idxno=265693 | c44
-2026-11-05 10:44 | newsmin.co.kr | “숨쉬기 힘들다”는 말 남기고 사망한 뚜안···“구조적 원인, 단속추... | https://www.newsmin.co.kr/news/138630/ | c26?,c27?
 2026-11-05 10:42 | newsworker.co.kr | 신용보증기금, '3년 실무협의회 결실'... 공공기관 내부통제망 가동 | https://www.newsworker.co.kr/news/articleView.html?idxno=512420 | c42
 2026-11-05 10:42 | gukjenews.com | 울산항만공사, '울산항 작업감독자 대상 안전교육' 실시 | https://www.gukjenews.com/news/articleView.html?idxno=3742946 | c20
 2026-11-05 10:42 | smarttoday.co.kr | [컨콜] 인적분할 앞둔 카카오, 자사주 1500억 매입·소각…AI 신사업 속... | https://www.smarttoday.co.kr/ko-kr/articles/113466 | c41
@@ -121,7 +188,6 @@
 2026-11-05 10:38 | ajunews.com | "女 역무원 지시에만 반발"…원당역 피해자 남편 "계획범죄" 울분 | https://www.ajunews.com/view/20261105094809132 | c18
 2026-11-05 10:38 | sisajournal.com | HD현대삼호 20대 용접공 사망에…민주노총, 특별근로감독 촉구 | https://www.sisajournal.com/news/articleView.html?idxno=392935 | c20,c21
 2026-11-05 10:38 | iminju.net | 카카오, 3분기 매출·영업익 동반 성장…1500억 원 자사주 매입·소각 | http://www.iminju.net/news/articleView.html?idxno=171971 | c41
-2026-11-05 10:38 | ccnnews.co.kr | 천안시, 소통으로 벽 허물고 협업 성과 이끌 우수사례 발굴 경진대회 개... | http://www.ccnnews.co.kr/news/articleView.html?idxno=417292 | c5?
 2026-11-05 10:37 | fnnews.com | 1.5도 초과 눈앞인데…적응재원 3배 늘려도 필요액 29% [UNEP 보고서] | https://www.fnnews.com/news/202611051014136024 | c3
 2026-11-05 10:36 | jeollailbo.com | 군산시, 중국 옌타이와 손잡고 해외 협력 넓힌다 | http://www.jeollailbo.com/news/articleView.html?idxno=815799 | c5
 2026-11-05 10:36 | kfenews.co.kr | 카카오, 영업익 증가·자사주 소각 | https://www.kfenews.co.kr/news/articleView.html?idxno=667563 | c41
@@ -133,7 +199,6 @@
 2026-11-05 10:30 | newsis.com | "20~49인 사업장, 안전보건관리자 선임해야"…노사정 첫 합의 | https://www.newsis.com/view/NISX20261105_0003855678 | c20
 2026-11-05 10:30 | finomy.com | [공시] 카카오, 자사주 515만주 소각 추진···1500억원 규모 | http://www.finomy.com/news/articleView.html?idxno=265706 | c41
 2026-11-05 10:30 | asiaa.co.kr | 신한라이프, 소비자보호 정책 객관성 제고...외부 전문가 위원회 참여 | https://www.asiaa.co.kr/news/articleView.html?idxno=269488 | c44
-2026-11-05 10:30 | greened.kr | LG그룹, AI로 산업재해 막는다…제조부터 화학까지 현장 전환 속도 | https://www.greened.kr/news/articleView.html?idxno=353909 | c16?,c20?
 2026-11-05 10:29 | newspim.com | 목소영 시의원 "아리수 전력요금 891억, 효율화 시급" | https://www.newspim.com/news/view/20261105000473 | c3
 2026-11-05 10:29 | newspim.com | 호반건설, 동절기 건설현장 합동안전점검…화재·한파 선제 예방 | https://www.newspim.com/news/view/20261105000354 | c20
 2026-11-05 10:29 | nocutnews.co.kr | 카카오, 3분기 기준 역대 최대 실적…1500억 자사주 매입·소각 | https://www.nocutnews.co.kr/news/6602481?utm_source=naver&utm_medium=article&utm_campaign=20261105102845 | c41
@@ -144,22 +209,20 @@
 2026-11-05 10:26 | newsian.co.kr | 韓기업지배구조 평가 8위→5위…상장사 평가점수 10.7점 상승 | https://www.newsian.co.kr/news/articleView.html?idxno=100659 | c35
 2026-11-05 10:26 | kukinews.com | HD현대삼호, 또 하청노동자 사망…어지럼 호소 20대 용접 노동자 | https://www.kukinews.com/article/view/kuk202611050048 | c20
 2026-11-05 10:24 | newsway.co.kr | 신한라이프 '민원·분쟁' 판단, 외부 전문가가 내린다 | https://www.newsway.co.kr/news/view?ud=2026110509523121059 | c44
-2026-11-05 10:24 | smedaily.co.kr | 품질·물류까지…더 커지는 삼성바이오 파업 | http://www.smedaily.co.kr/news/articleView.html?idxno=365722 | c19?
 2026-11-05 10:22 | dailian.co.kr | 삼성물산, '2026 IFLA 글로벌 조경상' 우수상 수상 | https://www.dailian.co.kr/news/view/1711127/?sc=Naver | c7
-2026-11-05 10:22 | newsquest.co.kr | "주가 부진 더는 못 본다"…카카오, 1500억 자사주 매입·소각에 8%대 급... | https://www.newsquest.co.kr/news/articleView.html?idxno=304295 | c41
 2026-11-05 10:22 | mbn.mk.co.kr | 카카오, 1,500억원 자사주 매입…대규모 주주환원 | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229153 | c41
+2026-11-05 10:22 | newsquest.co.kr | "주가 부진 더는 못 본다"…카카오, 1500억 자사주 매입·소각에 8%대 급... | https://www.newsquest.co.kr/news/articleView.html?idxno=304295 | c41
 2026-11-05 10:21 | ohmynews.com | "스스로 생각하고 움직인다"... 킨텍스에서 본 대한민국 로봇의 미래 | https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281841&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news | c26
 2026-11-05 10:21 | joseilbo.com | 카카오, 1500억원 자사주 매입 후 전량 소각...8%대 상승 [주가동향] | http://www.joseilbo.com/news/news_read.php?uid=578972&class=53&grp= | c41
 2026-11-05 10:20 | sateconomy.co.kr | 한국 기업지배구조 8→5위…제도개혁 점수 올랐지만 '밸류업 쏠림'은 과... | https://sateconomy.co.kr/news/view/1065573245993206 | c35,c38,c39,c44
 2026-11-05 10:20 | straightnews.co.kr | [인터뷰] 박홍배 의원, 연말 은행장 인선의 공정성을 묻다 | https://www.straightnews.co.kr/news/articleView.html?idxno=314670 | c39,c40,c44,c48
 2026-11-05 10:20 | biztribune.co.kr | [특징주] 고려아연, 자사주 소각·액면분할 추진에 급등 | http://www.biztribune.co.kr/news/articleView.html?idxno=361935 | c41
 2026-11-05 10:20 | daily.hankooki.com | 신한라이프, 소비자권익보호위 외부 전문가 3명 영입…전문성 강화 | https://daily.hankooki.com/news/articleView.html?idxno=1422043 | c44
-2026-11-05 10:20 | newsway.co.kr | "물적분할 아닌 중복상장이 문제"…주식매수청구권 손질론 부상 | https://www.newsway.co.kr/news/view?ud=2026110509570892926 | c16?
 2026-11-05 10:18 | kbsm.net | 봉화군, 농업·농촌 RE100 공모 선정⋯에너지 자립마을 조성한다 | https://www.kbsm.net/news/view.php?idx=540516 | c4
 2026-11-05 10:18 | industrynews.co.kr | 안양시, BIPV 적용한 '친환경 청사' 착공… 2028년 5월 준공 목표 | https://www.industrynews.co.kr/news/articleView.html?idxno=88939 | c14,c15
 2026-11-05 10:16 | m-i.kr | 전남광주교육청 7일 금남로서 생태전환교육 페스티벌 개최 | https://www.m-i.kr/news/articleView.html?idxno=2014759 | c7
-2026-11-05 10:16 | sateconomy.co.kr | 카카오, 톡비즈 성장에 실적 개선…1500억원 자사주 매입·소각 | https://sateconomy.co.kr/news/view/1065572598135678 | c41
 2026-11-05 10:16 | todaykorea.co.kr | [투데이's 특징주] 카카오, 자사주 소각 및 실적 개선세에 '급등' | https://www.todaykorea.co.kr/news/articleView.html?idxno=408154 | c41
+2026-11-05 10:16 | sateconomy.co.kr | 카카오, 톡비즈 성장에 실적 개선…1500억원 자사주 매입·소각 | https://sateconomy.co.kr/news/view/1065572598135678 | c41
 2026-11-05 10:14 | esgeconomy.com | 미국 민주당 의회 장악, 기후·탄소 정책 복귀인가, 프레임 전환인가 | https://www.esgeconomy.com/news/articleView.html?idxno=17244 | c3,sw
 2026-11-05 10:14 | kbmaeil.com | 매일 타지로 달리는 음식물 154t…길바닥에 버려지는 운송비만 年 12억 | https://www.kbmaeil.com/article/20261105500127 | c15
 2026-11-05 10:14 | kado.net | 카카오, 자사주 1500억원 매입·소각…"AI 사업 성과로 주주 기대 부응" | https://www.kado.net/news/articleView.html?idxno=2082842 | c41
@@ -177,80 +240,17 @@
 2026-11-05 10:06 | jasm.co.kr | '한지' 인류무형유산 등재 유력…태권도는 북한 단독 확실시 | https://www.jasm.co.kr/news/view/324230/?sc=Naver | c15
 2026-11-05 10:06 | kpanews.co.kr | 용인세브란스병원, 5년 연속 '월드 그랑프리' 수상 | https://www.kpanews.co.kr/news/articleView.html?idxno=548193 | c33
 2026-11-05 10:06 | kfenews.co.kr | [특징주] 카카오, 자사주 1500억원 취득·소각 공시에 9% 강세 | https://www.kfenews.co.kr/news/articleView.html?idxno=667572 | c41
-2026-11-05 10:06 | news.einfomax.co.kr | 美재무부 차입자문위, AI 순환금융 '결함' 아니다 | https://news.einfomax.co.kr/news/articleView.html?idxno=4443170 | c5?
-2026-11-05 10:04 | etnews.com | 삼성물산 리조트부문, IFLA 글로벌 조경 어워즈 수상…“친환경 조경 역... | https://www.etnews.com/20261105000107 | c7
-2026-11-05 10:03 | yna.co.kr | 카카오, 1천500억원 규모 자사주 매입…"주주가치 제고" | https://www.yna.co.kr/view/AKR20261105060500017?input=1195m | c41
-2026-11-05 10:02 | ilyoseoul.co.kr | 최윤범 고려아연 회장 '주주환원 행보' 가속... 자사주 절반 소각에 배... | https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524637 | c41
 2026-11-05 10:00 | mediafine.co.kr | "예전엔 다 이랬어"... 공무원 직장 내 괴롭힘, 안일한 인식이 징계 부른... | https://www.mediafine.co.kr/news/articleView.html?idxno=94598 | c18
-2026-11-05 10:00 | ggilbo.com | 금양그린파워 주가, 급등세... 왜? | https://www.ggilbo.com/news/articleView.html?idxno=1191256 | c15
-2026-11-05 10:00 | mediapen.com | LG, “안전도 AI가 챙긴다”… 16개 계열사 모여 ‘AX 안전 혁신’ 결집 | https://www.mediapen.com/news/view/1135343 | c20
-2026-11-05 10:00 | 4th.kr | 위험 감지부터 설비 제어까지..LG, AI로 산업현장 안전관리 혁신… | http://www.4th.kr/news/articleView.html?idxno=2121169 | c20
-2026-11-05 10:00 | inews24.com | [특징주] 카카오, 호실적·자사주 소각 타고 10% '급등' | http://www.inews24.com/view/2022878 | c41
 2026-11-05 09:58 | fntoday.co.kr | 미국 민주당 상원 장악에 연준 독립성 강화 전망…워시 의장, 의회 압박... | https://www.fntoday.co.kr/news/articleView.html?idxno=397042 | c44
-2026-11-05 09:58 | electimes.com | 전기연합회, 에코디자인 규제 대응 논의…제50차 전력정책포럼 | https://www.electimes.com/news/articleView.html?idxno=374383 | c5
-2026-11-05 09:58 | headlinejeju.co.kr | 서귀포시, 물영아리 습지문화제 '숨 그리고 쉼' 7일 개최 | https://www.headlinejeju.co.kr/news/articleView.html?idxno=601627 | c7
-2026-11-05 09:58 | newspim.com | 현대삼호서 또 노동자 숨져…당국 불시점검 몇 시간 뒤 비극 | https://www.newspim.com/news/view/20261105000355 | c20
-2026-11-05 09:58 | fnnews.com | "자사주 1500억원 매입·소각"...3만원 깨진 카카오 초강수[종목NOW] | https://www.fnnews.com/news/202611050934164519 | c41
-2026-11-05 09:58 | g-enews.com | 신한라이프, 외부 전문가 참여로 보험금 분쟁 심의 강화 | https://www.g-enews.com/view.php?ud=202611050929234052cd0bfacc1c_1 | c44
-2026-11-05 09:56 | newsdream.kr | 호반건설, 광주 현장서 동절기 합동안전점검… 안전 최우선 경영 지속 | http://www.newsdream.kr/news/articleView.html?idxno=121541 | c20
-2026-11-05 09:56 | klnews.co.kr | UPA, 울산항 작업감독자 대상 안전교육 실시 | https://www.klnews.co.kr/news/articleView.html?idxno=323382 | c20
-2026-11-05 09:56 | opinionnews.co.kr | 호반, 조원태 제치고 한진칼 최대주주로....3월 주총 경영권 분쟁 풍향... | http://www.opinionnews.co.kr/news/articleView.html?idxno=146682 | c40
-2026-11-05 09:56 | lawtv.kr | 309명·최장 200일 '조작기소 특검' 어떻게 굴러갈까... 5대 관전 포인트 | https://www.lawtv.kr/news/articleView.html?idxno=61338 | c19?
 2026-11-05 09:55 | dailian.co.kr | "상법개정 등 제도개선 성과"…한국, ACGA 기업지배구조 순위 5위 | https://www.dailian.co.kr/news/view/1711090/?sc=Naver | c35
-2026-11-05 09:54 | sportschosun.com | 바다가 차려낸 가을 성찬 '맛 따라, 길 따라 흥겨운 '울진'의 이야기 | https://www.sportschosun.com/life/2026-11-05/202611030100021280002008 | c7
-2026-11-05 09:54 | cnbizm.com | 고려아연, 자사주 24만주 소각·액면분할 재추진…주주환원 강화 | https://www.cnbizm.com/news/articleView.html?idxno=320440 | c41
-2026-11-05 09:53 | newsis.com | 호실적에 1500억 자사주 소각…카카오, 9%대 강세 | https://www.newsis.com/view/NISX20261105_0003855775 | c41
-2026-11-05 09:52 | mt.co.kr | '음료 3잔 횡령' 빽다방 알바생, 재수사 끝에 결국…심경 밝힌 부친 | https://www.mt.co.kr/society/2026/11/05/2026110509283073449 | c18
-2026-11-05 09:51 | ohmynews.com | "교실에서 지원하면 특수교육, 통학버스에서 지원하면 아닌가" | https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281822&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news | c18
-2026-11-05 09:50 | ddaily.co.kr | [컨콜] 카카오, 1500억원 자사주 매입·즉시 소각 결정 | https://www.ddaily.co.kr/page/view/2026110509250958698 | c41
 2026-11-05 09:49 | impacton.net | 【ESG Deal】호주, 저전력 수소기술 실증에 자금 지원·에코닐리, 배터리 재활용 투자 유치·카벨림, 미세조류 탄소포집 위한 자금 확보 | https://www.impacton.net/news/articleView.html?idxno=30538 | sw
-2026-11-05 09:48 | yna.co.kr | 호남권생물자원관, 해남 비슬안농촌체험마을 섬학교 지정 | https://www.yna.co.kr/view/AKR20261105052000054?input=1195m | c7
-2026-11-05 09:46 | news1.kr | 고려아연, 영업익 급감에도 8%↑…자사주 소각·액면분할 추진[핫종목] | https://www.news1.kr/finance/general-stock/6343801 | c41
-2026-11-05 09:45 | hankyung.com | 카카오, 1500억 규모 자사주 취득 후 소각 | https://www.hankyung.com/article/202611057479i | c41
-2026-11-05 09:44 | newsquest.co.kr | 삼성물산 '트윈 버블스', 세계조경가협회 글로벌 어워즈 우수상 | https://www.newsquest.co.kr/news/articleView.html?idxno=304273 | c7
-2026-11-05 09:44 | dealsite.co.kr | [제약+] SK바이오팜, 美서 세노바메이트 신규적응증 추가 신청 外 | https://dealsite.co.kr/articles/172145 | c14
-2026-11-05 09:44 | munhwa.com | “평소에도 여자한테만 덤벼왔다” 원당역 피습 역무원 남편의 호소 | https://www.munhwa.com/article/11628943?ref=naver | c18
 2026-11-05 09:42 | kbmaeil.com | 봉화군, 2026년 농업·농촌 RE100 공모사업 선정 | https://www.kbmaeil.com/article/20261105500108 | c4
-2026-11-05 09:42 | ikld.kr | 인천교통공사, 고소작업·선로변 사면 안전관리 집중 점검 | http://www.ikld.kr/news/articleView.html?idxno=343570 | c20
 2026-11-05 09:41 | newsis.com | 신희권 서울시립대 교수, 이코모스 국제이사회 이사 선출 | https://www.newsis.com/view/NISX20261105_0003855793 | c36
-2026-11-05 09:41 | sisajournal.com | [강원 24시] 강원도, 국회서 강원특별법 성과 알린다…미래 발전 비전 홍... | https://www.sisajournal.com/news/articleView.html?idxno=392917 | c20
-2026-11-05 09:41 | hankyung.com | 카카오, 1500억 자사주 매입·소각…10%대 급등 | https://www.hankyung.com/article/2026110573896 | c41
-2026-11-05 09:40 | jeollailbo.com | 김제시, 만경·동진강 철새 보호에 3억2천만원 투입 | http://www.jeollailbo.com/news/articleView.html?idxno=815808 | c7
 2026-11-05 09:38 | kmaeil.com | 인천교통공사, 노사·전문가 합동점검 실시...중대재해 예방 강화 | https://www.kmaeil.com/news/articleView.html?idxno=657074 | c20
-2026-11-05 09:38 | m-i.kr | 성남산업진흥원, 스타트업 혁신경영·성장 전략 공유 | https://www.m-i.kr/news/articleView.html?idxno=2014698 | c5
-2026-11-05 09:38 | news1.kr | 에버랜드서 쌓은 조경 기술, 아파트 놀이터로…국제상 받은 삼성물산 | https://www.news1.kr/industry/hotel-tourism/6343799 | c7
-2026-11-05 09:38 | digitaltoday.co.kr | 비트코인 파는 채굴업체들…AI 데이터센터·자사주 매입에 눈 돌린다 | https://www.digitaltoday.co.kr/news/articleView.html?idxno=712802 | c41
-2026-11-05 09:38 | zdnet.co.kr | 시장 평가·기업 가치 간극 줄인다…카카오, 자사주 1500억원 소각 | https://zdnet.co.kr/view/?no=20261105092901 | c41
-2026-11-05 09:38 | todaykorea.co.kr | 신뢰금융 강화하는 신한라이프, 소비자권익보호위원회 외부 전문위원 위... | https://www.todaykorea.co.kr/news/articleView.html?idxno=408146 | c44
-2026-11-05 09:38 | eroun.net | 평창군, 2026년 하반기 밀폐공간 사고 대비 긴급 구조 교육훈련 | https://www.eroun.net/news/articleView.html?idxno=94450 | c20?
-2026-11-05 09:37 | esgeconomy.com | 효성티앤씨 ‘리젠 되돌림 캠페인’, 시민 참여형 확대 추진 | https://www.esgeconomy.com/news/articleView.html?idxno=17243 | sw
-2026-11-05 09:37 | chosun.com | 트럼프 ‘연준 장악’에 제동…민주 상원, 측근 인사 막는다 | https://www.chosun.com/international/international_general/2026/11/05/3VCXRFXB4BAATL2Y3TUCPIOF3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | c44
+2026-11-05 09:37 | esgeconomy.com | 효성티앤씨 ‘리젠 되돌림 캠페인’, 시민 참여형으로 확대 | https://www.esgeconomy.com/news/articleView.html?idxno=17243 | sw
 2026-11-05 09:34 | USA Today | Leading ESG Data Platform, Gprnt, Urges Singapore SMEs to Take First Step via Green 100 | google:USA Today#795292f2 | cgb2
-2026-11-05 09:34 | newsway.co.kr | 카카오, 1500억원 자사주 매입·소각에 9%대 급등[특징주] | https://www.newsway.co.kr/news/view?ud=2026110509202962638 | c41
-2026-11-05 09:34 | newscj.com | [컨콜] 카카오 "1500억원 규모 자사주 매입·소각 단행" | https://www.newscj.com/news/articleView.html?idxno=3446068 | c41
-2026-11-05 09:34 | globalepic.co.kr | 신한라이프, 분쟁 심의에 외부 전문가 투입…소비자보호 객관성 강화 | https://www.globalepic.co.kr/view.php?ud=2026110509293550517cc35ccc5c_29 | c44
-2026-11-05 09:32 | yna.co.kr | 한국동서발전, 기후부 주관 '인공지능 프렌즈' 공모전 대상 | https://www.yna.co.kr/view/AKR20261105043200057?input=1195m | c16
-2026-11-05 09:32 | sentv.co.kr | [컨콜] 카카오, 자사주 1500억원 매입해 전량 소각 | https://www.sentv.co.kr/article/view/sentv202611050058 | c41
-2026-11-05 09:32 | news1.kr | 카카오, 1500억원 자사주 매입·소각에 8%대 강세[핫종목] | https://www.news1.kr/finance/general-stock/6343768 | c41
-2026-11-05 09:32 | fnnews.com | [컨콜] 카카오 정신아 "AI 서비스 기대 못 미쳐…1500억 자사주 소각" | https://www.fnnews.com/news/202611050924445128 | c41
-2026-11-05 09:32 | ekn.kr | [특징주] 카카오, 1500억원 규모 자사주 취득·소각 예고…8%대 강세 | https://www.ekn.kr/web/view.php?key=20261105020315700 | c41
-2026-11-05 09:30 | asiatime.co.kr | 박수현 충남지사, 공공기관장 탁상공론 지적⋯ 현장 밀착형 도정 주문 | https://www.asiatime.co.kr/article/20261105500010 | c5
-2026-11-05 09:30 | edaily.co.kr | 카카오, 1500억 자사주 사서 전량 소각…정신아 "시장평가·미래가치 괴... | https://www.edaily.co.kr/News/Read?newsId=03788406645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c41
 2026-11-05 09:28 | tournews21.com | 봉화군, 농식품부 RE100 실증지원 공모 사업 선정...마을재생발전소 설... | https://www.tournews21.com/news/articleView.html?idxno=147583 | c4
-2026-11-05 09:28 | dailian.co.kr | [컨콜] 카카오 "자사주 1500억 규모 매입·소각 계획" | https://www.dailian.co.kr/news/view/1711009/?sc=Naver | c41
-2026-11-05 09:28 | it.chosun.com | "법원 제동에도 3주 파업 강행"… 삼성바이오 노조, 6일 400명 규모 2차 ... | https://it.chosun.com/news/articleView.html?idxno=3000000000301 | c26?
 2026-11-05 09:26 | digitaltoday.co.kr | 한국 기업지배구조 아태 5위...3년 만에 3계단 상승 | https://www.digitaltoday.co.kr/news/articleView.html?idxno=712788 | c35
-2026-11-05 09:26 | ggilbo.com | [특징주] 카카오 주가, 3분기 호실적·자사주 소각 발표에 급등... 전망... | https://www.ggilbo.com/news/articleView.html?idxno=1191246 | c41
-2026-11-05 09:26 | viva100.com | [컨콜] 카카오 “AI 성과 기대 못 미쳐⋯1500억 자사주 소각” | https://www.viva100.com/article/20261105500183 | c41
 2026-11-05 09:24 | esgeconomy.com | [해외브리핑] 선진국 기후적응 지원, 개도국 필요액 10분의 1도 안돼 | https://www.esgeconomy.com/news/articleView.html?idxno=17242 | c12,sw
-2026-11-05 09:24 | kbsm.net | 5년여간 은행 여신 업무 소홀로 564건 징계…과반 견책 | https://www.kbsm.net/news/view.php?idx=539369 | c18
-2026-11-05 09:24 | sedaily.com | [속보]카카오, 1500억 원 규모 자사주 매입 후 전량 소각 결정 | https://www.sedaily.com/article/20110478?ref=naver | c41
-2026-11-05 09:23 | news1.kr | 카카오, 1500억 규모 자사주 취득 후 소각…"주주환원 목적" | https://www.news1.kr/it-science/internet-platform/6343757 | c41
 2026-11-05 09:22 | esgeconomy.com | [정책브리핑] 韓, 아시아지배구조협회 기업지배구조 5위…3단계 올라 | https://www.esgeconomy.com/news/articleView.html?idxno=17241 | c35,sw
-2026-11-05 09:22 | kyeongin.com | 이민근 안산시장, 바르셀로나서 투자유치 세일즈… AI·로봇 협력 확대 | https://www.kyeongin.com/article/1774144 | c15
-2026-11-05 09:22 | news1.kr | [IR]카카오 "AI 서비스 시장 기대 못 미쳐…자사주 1500억 소각" | https://www.news1.kr/it-science/internet-platform/6343753 | c41
-2026-11-05 09:22 | view.asiae.co.kr | [콘콜]정신아 "주주환원 위해 1500억원 규모 자사주 매입…즉시 소각" | https://view.asiae.co.kr/article/2026110509223610712 | c41
-2026-11-05 09:21 | news1.kr | "기후적응 재원 3배 늘려도 필요액 29% 충당에 불과" | https://www.news1.kr/economy/env-policy/6343672 | c3
-2026-11-05 09:20 | nongaek.com | 포스코, 실적 부진 더는 없다 …철강·비철강 쌍끌이로 '최우량기업' 명... | http://www.nongaek.com/news/articleView.html?idxno=97355 | c15
-2026-11-05 09:20 | hansbiz.co.kr | 카카오, 1500억 규모 자사주 취득·소각 결정...주주 달래기 나섰다 | http://www.hansbiz.co.kr/news/articleView.html?idxno=880068 | c41
 2026-11-05 06:30 | labortoday.co.kr | 위험성평가 안 하면 과태료 최대 1천만원 | https://www.labortoday.co.kr/news/articleView.html?idxno=237574 | sw

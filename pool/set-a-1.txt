@@ -1,41 +1,173 @@
-# collected: 2026-11-06 09:00 KST
-# window: 2026-11-05 00:00 ~ 2026-11-06 09:00 KST
-# part 1 of 1, lines: 143
+# collected: 2026-11-06 19:03 KST
+# window: 2026-11-05 00:00 ~ 2026-11-06 19:03 KST
+# part 1 of 2, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-06 18:55 | newspim.com | 인천공소청, '삼성바이오 노조 업무방해 불송치' 재수사 요구 | https://www.newspim.com/news/view/20261106001245 | a7,ax2
+2026-11-06 18:54 | beyondpost.co.kr | 장정순 용인시의회 의장, 중국 돌아가는 루이·후이바오에 감사장 전달 | http://www.beyondpost.co.kr/view.php?ud=20261106184425644c878f8fa1_30 | a1,a6
+2026-11-06 18:46 | the-pr.co.kr | 부분파업 들어간 삼성바이오…세 번째 임기 존 림 대표, 소통은 괜찮나 | https://www.the-pr.co.kr/news/articleView.html?idxno=63215 | a7,ax2
+2026-11-06 18:00 | pointdaily.co.kr | 달아나는 현대건설·쫒는 삼성물산…목동이 승부수 | https://www.pointdaily.co.kr/news/articleView.html?idxno=325083 | a1
+2026-11-06 17:56 | obsnews.co.kr | 삼성바이오 노조, 오늘부터 부분파업 돌입 | https://www.obsnews.co.kr/news/articleView.html?idxno=1542913 | a7,ax2
+2026-11-06 17:52 | kyeongin.com | 공소청, 삼성바이오 파업 노조원 ‘불송치’ 뒤집어… 경찰에 재수사 요... | https://www.kyeongin.com/article/1774247 | a7,ax2
+2026-11-06 17:52 | nbntv.co.kr | 삼성바이오로직스 노조 2차 부분 파업 돌입… "임단협 갈등 지속" | https://www.nbntv.co.kr/news/articleView.html?idxno=4027115 | a7,ax2
+2026-11-06 17:52 | srtimes.kr | 삼성바이오 노조, 400명 참여 2차 부분파업 돌입 | http://www.srtimes.kr/news/articleView.html?idxno=216961 | a7,ax2
+2026-11-06 17:51 | marketscreener.com | Samsung Biologics Union Strike Drags On as Talks Stall | google:marketscreener.com#812f4cd7 | aen3
+2026-11-06 17:36 | news1.kr | 장정순 용인시의회 의장, 쌍둥이 루이바오·후이바오에 '시민행복 감사... | https://www.news1.kr/local/gyeonggi/6346102 | a1?,a6?
+2026-11-06 17:26 | goodkyung.com | "삼성물산·현대건설 피하자"…목동 재건축 수주전 '눈치싸움' | https://www.goodkyung.com/news/articleView.html?idxno=293197 | a1,a3
+2026-11-06 17:24 | joongangenews.com | [지방의회 24時] 장정순 용인시의장, '루이·후이바오'에 '시민행복 감사... | https://www.joongangenews.com/news/articleView.html?idxno=561961 | a1,a6
+2026-11-06 17:21 | ohmynews.com | 장정순 용인시의장, 중국 떠나는 쌍둥이 판다에 감사장 전달 | https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282528&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news | a1?,a6?
+2026-11-06 17:20 | kfenews.co.kr | 신세계, 백화점 수장에 이석구 사장…감사 기능 강화 | https://www.kfenews.co.kr/news/articleView.html?idxno=667693 | a1
+2026-11-06 17:16 | dealsite.co.kr | 삼성바이오로직스 노조, 3주간 부분파업 감행 | https://dealsite.co.kr/articles/172294 | a7,ax2
+2026-11-06 17:15 | newspim.com | 삼성바이오 노조, 2차 파업 돌입…사측, 대화 의지 재확인 | https://www.newspim.com/news/view/20261106001113 | a7,ax2
+2026-11-06 17:06 | job-post.co.kr | 삼성바이오로직스 150만원선 지켰다…거래대금 1572억원 | https://www.job-post.co.kr/news/articleView.html?idxno=237005 | a7,ax2
+2026-11-06 16:59 | https://gardapos.com/ | Green Policing Polsek Langgam: Tanam Pohon Kelor, Ingatkan Peron Tolak TBS Diduga Hasil Kejahatan | google:https://gardapos.com/#df2d4fae | aid6
+2026-11-06 16:56 | m-i.kr | 장정순 용인시의회 의장, 루이·후이바오에 시민행복 감사장 전달 | https://www.m-i.kr/news/articleView.html?idxno=2015576 | a1,a6
+2026-11-06 16:55 | hankyung.com | 공소청, '삼성바이오 노조원 불송치'에 "재수사하라" 요구 | https://www.hankyung.com/article/202611061144i | a7,ax2
+2026-11-06 16:38 | news.einfomax.co.kr | 삼성바이오 노조 "파업 407명 참여…500명대로 늘어날 것" | https://news.einfomax.co.kr/news/articleView.html?idxno=4443535 | a7,ax2
+2026-11-06 16:37 | kmib.co.kr | 신세계 백화점부문장에 ‘베테랑’ 이석구 사장…감사·경영관리 강화 | https://www.kmib.co.kr/article/20261106500387 | a1
+2026-11-06 16:36 | gukjenews.com | 용인시의회 장정순 의장, 판다 자매에 '시민행복 감사장'…12월 중국 이... | https://www.gukjenews.com/news/articleView.html?idxno=3744609 | a1,a6
+2026-11-06 16:34 | incheonin.com | 삼성바이오에피스, 테바사와 자가면역질환 치료제 2종 미국 판권 계약 | http://www.incheonin.com/news/articleView.html?idxno=122006 | a10,ax2,ax5
+2026-11-06 16:18 | Kaltim Post | Gandeng Samsung dan LG, Apple Siapkan Teknologi Layar OLED Masa Depan Lebih Murah dan Superior | google:Kaltim Post#10359f9e | aid12
+2026-11-06 16:18 | weekly.hankooki.com | 삼성바이오로직스 노조, 2차 부분파업 돌입…27일까지 쟁의 지속 | https://weekly.hankooki.com/news/articleView.html?idxno=7192665 | a7,ax2
+2026-11-06 16:10 | discoverynews.kr | 용인시의회, 중국 떠나는 쌍둥이 판다에 시민행복 감사장 | https://www.discoverynews.kr/news/articleView.html?idxno=1106054 | a1,a6
+2026-11-06 16:10 | newsis.com | 경찰, '삼성바이오 노조원 업무방해' 재수사 착수 | https://www.newsis.com/view/NISX20261106_0003858276 | a7,ax2
+2026-11-06 16:08 | Kaltim Post | Ingin Layar Samsung Makin Jernih? Coba 5 Pengaturan Tersembunyi Ini | google:Kaltim Post#f0d62a53 | aid12
+2026-11-06 16:06 | en.yna.co.kr | Unionized members at Samsung Biologics stage another partial strike | https://en.yna.co.kr/view/AEN20261106009800320?input=2106m | a8
+2026-11-06 16:02 | safetimes.co.kr | 삼성바이오로직스 노사 갈등 장기화 … 노조 3주간 '부분 파업' | https://www.safetimes.co.kr/news/articleView.html?idxno=247273 | a7,ax2
+2026-11-06 15:59 | 스타뉴스 | 'Kim Yeong-ung moves up to No. 6, Ryu Ji-hyuk drops to No. 8': Samsung adjusts lower batting order! Kang Min-ho, pitching through injury, starts as catcher [KS3 On-site] | google:스타뉴스#e45882fe | aen13
+2026-11-06 15:58 | weekly.hankooki.com | 신세계백화점부문장에 이석구 사장…감사·경영관리 체계 손본다 | https://weekly.hankooki.com/news/articleView.html?idxno=7192641 | a1
+2026-11-06 15:56 | koreatimes.co.kr | Samsung Biologics labor dispute drags on as union stages another strike | https://www.koreatimes.co.kr/path/A2026110615370002926 | a8,aen3
+2026-11-06 15:54 | 4th.kr | 공소청, 삼성바이오 조합원 업무방해 사건 재수사 요구 | http://www.4th.kr/news/articleView.html?idxno=2121325 | a7,ax2
+2026-11-06 15:48 | theguru.co.kr | 삼성바이오 노조, '업무방해 혐의 벗었다'더니... 공소청 재수사 요구로... | https://www.theguru.co.kr/news/article.html?no=109399 | a7,ax2
+2026-11-06 15:46 | daily.hankooki.com | '혐의 벗었다'던 삼성바이오 노조…공소청, 재수사 요구 | https://daily.hankooki.com/news/articleView.html?idxno=1422729 | a7,ax2
+2026-11-06 15:39 | dt.co.kr | 삼성바이오 노조, 3주간 부분파업 돌입…사측 “차질 최소화” | https://www.dt.co.kr/article/12093592?ref=naver | a7,ax2
+2026-11-06 15:38 | biz.sbs.co.kr | "경영진 교섭 나서라"…삼성바이오 노조, 27일까지 부분파업 | https://biz.sbs.co.kr/article_hub/20000344810?division=NAVER | a7?,ax2
+2026-11-06 15:38 | businesskorea.co.kr | 삼성바이오로직스 노조 2차 부분파업 돌입 | https://www.businesskorea.co.kr/news/articleView.html?idxno=280712 | a7,ax2
+2026-11-06 15:36 | businesskorea.co.kr | Samsung Biologics Union Begins Second Partial Strike | https://www.businesskorea.co.kr/news/articleView.html?idxno=280711 | a8,aen3
+2026-11-06 15:34 | the-biz.co.kr | [Biz&Law] 삼성물산, 美 반도체 공장서 하도급 분쟁 합의 종결 | http://www.the-biz.co.kr/news/articleView.html?idxno=730864 | a1
+2026-11-06 15:34 | jasm.co.kr | 삼성바이오 노조, 3주간 부분파업 돌입…사측 "합의 의지 변함없어" | https://www.jasm.co.kr/news/view/324460/?sc=Naver | a7,ax2
+2026-11-06 15:31 | magazine.hankyung.com | “임금 더 올려라” 삼성바이오 또 파업 | https://magazine.hankyung.com/business/article/202611061120b | a7,ax2
+2026-11-06 15:28 | topstarnews.net | 제일테크노스, 199억 규모 삼성물산 평택 P5 데크 설치 공사 수주 | https://www.topstarnews.net/news/articleView.html?idxno=16270014 | a1
+2026-11-06 15:26 | megaeconomy.co.kr | 삼성바이오, 파업에도 '업무 차질 無'…사측 "대화로 해결·요구안 다수... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590573724797 | a7,ax2
+2026-11-06 15:16 | newsian.co.kr | [디깅 인사이드] 삼성바이오 노조 '벼랑 끝'…'파업 반대·탈퇴 행렬' 내... | https://www.newsian.co.kr/news/articleView.html?idxno=100773 | a7,ax2
+2026-11-06 15:15 | news1.kr | 삼성바이오로직스 노조 '혐의 벗었다'더니…업무방해 재수사 | https://www.news1.kr/bio/pharmaceutical-bio/6345777 | a7,ax2
+2026-11-06 15:14 | inews24.com | 공소청, 삼성바이오로직스 노조원 '업무방해 혐의' 재수사 요구 | http://www.inews24.com/view/2023516 | a7,ax2
+2026-11-06 15:08 | yna.co.kr | 삼성바이오 노조, 3주간 부분파업 돌입…"경영진 교섭 나서라"(종합) | https://www.yna.co.kr/view/AKR20261105153751017?input=1195m | a7,ax2
+2026-11-06 15:04 | newsway.co.kr | 공소청 요청에…경찰, 삼성바이오 노조 '업무방해 혐의' 재수사 | https://www.newsway.co.kr/news/view?ud=2026110614514597501 | a7,ax2
+2026-11-06 14:50 | donga.com | 삼성바이오 노조 3주간 부분파업 돌입…“핵심공정은 제외” | https://www.donga.com/news/Economy/article/all/20261106/134978498/1 | a7,ax2
+2026-11-06 14:46 | businesspost.co.kr | 오세철 삼성물산 래미안으로 올해 도시정비 시공권 10조 질주, '해외 전... | https://www.businesspost.co.kr/BP?command=article_view&num=451354 | a1
+2026-11-06 14:43 | biz.sbs.co.kr | 공소청, 삼성바이오 파업 관련 경찰 불송치에 재수사 요구 | https://biz.sbs.co.kr/article_hub/20000344778?division=NAVER | a7?,ax2
+2026-11-06 14:36 | KabarDuri | Advokat Irwanto Betty Gugat PT Darmali Jaya Lestari, Konflik Lahan Warga Bathin Solapan Memanas | google:KabarDuri#374e69cf | aid9
+2026-11-06 14:31 | yna.co.kr | 공소청, '삼성바이오 파업 중 업무방해 불송치'에 재수사 요구 | https://www.yna.co.kr/view/AKR20261106112500065?input=1195m | a7,ax2
+2026-11-06 14:30 | hankookilbo.com | 삼성바이오 노조, 오늘부터 부분파업… 해소 기미 안 보이는 갈등 | https://www.hankookilbo.com/news/article/A2026110613330000901?did=NA | a7,ax2
+2026-11-06 14:20 | megaeconomy.co.kr | 신세계, 백화점부문 수장에 이석구 사장…감사 기능 강화·시스템 경영... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589984938302 | a1
+2026-11-06 14:12 | businesspost.co.kr | 삼성바이오로직스 노조 6일 0시부터 2차 파업 들어가, 400여 명 참여 | https://www.businesspost.co.kr/BP?command=article_view&num=451369 | a7,ax2
+2026-11-06 14:06 | news.mtn.co.kr | 삼성바이오로직스 노조, 2차 파업 돌입…12월 생산공정까지 확대 예고 | https://news.mtn.co.kr/article/2026110614005555368 | a7,ax2
+2026-11-06 14:04 | upkoreanews.kr | [창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]②... | https://www.upkoreanews.kr/news/articleView.html?idxno=101032 | a1
+2026-11-06 13:57 | Aju Press | Samsung Biologics workers launch partial strike | google:Aju Press#5d76e575 | aen3
+2026-11-06 13:56 | marketscreener.com | Samsung Biologics Finalizes Rights Offering Price | google:marketscreener.com#4a998618 | aen3
+2026-11-06 13:46 | vegannews.co.kr | 삼성바이오, 폴리펩타이드 공개매수 성공률 97.98% | https://www.vegannews.co.kr/news/article.html?no=401279 | ax2
+2026-11-06 13:44 | newstomato.com | 삼성바이오 노조, 올해만 두 번째 파업…“예상 손실 산정 어려워” | http://www.newstomato.com/ReadNews.aspx?no=1319528&inflow=N | a7?,ax2
+2026-11-06 13:41 | sisajournal.com | 신세계 백화점부문 신임 부문장에 이석구 사장…'감사 기능·시스템 경... | https://www.sisajournal.com/news/articleView.html?idxno=393141 | a1
+2026-11-06 13:38 | viva100.com | 신세계, 백화점부문장에 이석구 신세계디에프 사장 선임⋯ 감사·경영관... | https://www.viva100.com/article/20261106500373 | a1
+2026-11-06 13:32 | Chosunbiz | Korea stock selloff deepens as semiconductor, fund concentration sparks panic | google:Chosunbiz#081fd705 | aen1
+2026-11-06 13:18 | Invezz | KOSPI crash today: why South Korea halted trading after an 8% plunge | google:Invezz#cfd17b71 | aen13
+2026-11-06 13:05 | mk.co.kr | 엘리베이터까지 차별화…건설사, 특화상품 내세우며 디자인 경쟁 | https://www.mk.co.kr/article/12200369 | a1,a3
+2026-11-06 13:03 | 매일경제 | It was found that the percentage of respondents who considered landscaping facilities when choosing | google:매일경제#c0548985 | aen1
+2026-11-06 12:42 | daily.hankooki.com | 삼성바이오로직스 노조, 400명 부분 파업…사측 "품질 안정성 유지에 최... | https://daily.hankooki.com/news/articleView.html?idxno=1422616 | a7,ax2
+2026-11-06 12:13 | inews24.com | 론자는 美 공장 5곳 사는데⋯삼성바이오 또 '파업 리스크' | http://www.inews24.com/view/2023437 | a7,ax2
+2026-11-06 12:10 | Univest | Kospi Crash Below 5,000: Samsung and SK Hynix Plunge | google:Univest#e7d9c6f8 | aen13
+2026-11-06 12:00 | investchosun.com | [Invest]삼성바이오, 2.7조 폴리펩타이드 인수 사실상 확정…공개매수로... | https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680108.html | ax2
+2026-11-06 11:58 | yonhapnewstv.co.kr | 삼성바이오 노조, 오늘부터 부분 파업…400명 규모 | http://www.yonhapnewstv.co.kr/news/MYH20261106115810bWb | a7,ax2
+2026-11-06 11:51 | biz.sbs.co.kr | 삼성바이오로직스 노조, 400명 부분파업 돌입 | https://biz.sbs.co.kr/article_hub/20000344729?division=NAVER | a7,ax2
+2026-11-06 11:49 | EUROMETAL | Romania’s Otelinox focuses on decarbonisation with new line | google:EUROMETAL#180628e7 | aen6
+2026-11-06 11:48 | popcornnews.net | 건설업계, '디자인 차별화'로 주거 경쟁력 강화...글로벌 어워드 수상도... | http://www.popcornnews.net/news/articleView.html?idxno=139018 | a1,a3
+2026-11-06 11:46 | the-pr.co.kr | 신세계 백화점부문장에 이석구 사장…감사 강화로 '경영 건전성' 다진다 | https://www.the-pr.co.kr/news/articleView.html?idxno=63203 | a1
+2026-11-06 11:46 | hani.co.kr | 삼성바이오 부분파업 돌입…“전면파업 최적화 시점은 3주 뒤” | https://www.hani.co.kr/arti/economy/economy_general/1286099.html | a7,ax2
+2026-11-06 11:44 | beyondpost.co.kr | 한화 건설부문 등 주요 건설사, 주거 디자인 차별화 경쟁 본격화 | http://www.beyondpost.co.kr/view.php?ud=202611061141505279205868f676_30 | a1,a3
+2026-11-06 11:38 | biz.newdaily.co.kr | 신세계 백화점부문장에 관록의 이석구 사장 선임 … 감사·경영관리 강... | https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600128.html | a1
+2026-11-06 11:30 | Forbes Australia | Meet the 20 women pushing boundaries in Asia’s Power Businesswomen 2026 list | google:Forbes Australia#2c9ae68a | aen4
+2026-11-06 11:18 | wolyo.co.kr | 삼성바이오 노조 2차 부분파업...400여명 참여 | https://www.wolyo.co.kr/news/articleView.html?idxno=320136 | a7,ax2
+2026-11-06 11:18 | industrynews.co.kr | 삼성바이오 노조, 27일까지 부분파업…품질·물류 등 400여명 참여 | https://www.industrynews.co.kr/news/articleView.html?idxno=89029 | a7,ax2
+2026-11-06 11:16 | ad-hoc-news.de | Samsung Biologics stock: PolyPeptide offer reaches 97.99% participation | google:ad-hoc-news.de#59253da6 | aen3
+2026-11-06 11:10 | edaily.co.kr | 신세계, 신임 백화점부문장에 이석구 선임…"감사기능 강화" | https://www.edaily.co.kr/News/Read?newsId=04424726645643096&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
+2026-11-06 11:10 | 헬스조선 | Samsung Biologics Union Begins Second Partial Strike as 400 Workers Stop Working | google:헬스조선#d8ef1d03 | aen3
+2026-11-06 11:06 | etoday.co.kr | 삼성바이오로직스 노조, 400명 규모 2차 파업 돌입…사측 “합의 의지 변... | https://www.etoday.co.kr/news/view/2645020 | a7,ax2
+2026-11-06 11:02 | biz.newdaily.co.kr | 삼성바이오로직스 3주간 파업 돌입 … 생산 차질 없다지만 '출하 지연' ... | https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600094.html | a7,ax2
+2026-11-06 11:00 | news1.kr | 2026 여성공학인대회 개최…"내년 첫 여성공학인 실태조사 추진" | https://www.news1.kr/economy/trend/6345322 | ax2?
+2026-11-06 10:56 | ebn.co.kr | 삼성바이오 '임단협 갈등' 재점화…노조, 6개월만에 2차 파업 돌입 | https://www.ebn.co.kr/news/articleView.html?idxno=1730713 | a7,ax2
+2026-11-06 10:48 | kyeonggi.com | 9.5% vs 6.2% 인상률 격차 못 좁혔다…삼성바이오로직스 노조 2차 부분 파... | https://www.kyeonggi.com/article/20261106580160 | a7,ax2
+2026-11-06 10:44 | meconomynews.com | "파업 무력화" vs "순차 파업"... 항고심 향한 삼성바이오 노조의 모순된... | https://www.meconomynews.com/news/articleView.html?idxno=203249 | a7,ax2
+2026-11-06 10:40 | smartbizn.com | 삼성바이오 노조, 영업익 15% 성과급 요구에 2차 파업···임금협상 넘... | https://www.smartbizn.com/news/articleView.html?idxno=158632 | a7,ax2
+2026-11-06 10:39 | biz.sbs.co.kr | 9개월 만에 5천피 붕괴…올해 11번째 서킷브레이커 | https://biz.sbs.co.kr/article_hub/20000344699?division=NAVER | a7?,ax2?
+2026-11-06 10:32 | fntimes.com | [THE COMPASS] 삼성바이오에피스, 오가논 대신 테바 품은 까닭 | https://www.fntimes.com/html/view.php?ud=2026110609474527477fd637f543_18 | a10,ax2,ax5
+2026-11-06 10:28 | pointdaily.co.kr | 삼성바이오 노조, 2차 파업 시작…"사측에 지속 교섭 요구" | https://www.pointdaily.co.kr/news/articleView.html?idxno=325018 | a7,ax2
+2026-11-06 10:26 | dailian.co.kr | 삼성바이오 노조 '2차 파업' 돌입…생산 차질은 아직 없어 | https://www.dailian.co.kr/news/view/1711676/?sc=Naver | a7,ax2
+2026-11-06 10:18 | biz.newdaily.co.kr | "밀려드는 수요 감당 못해" … 셀트리온, 삼성바이오와 손잡고 롯데와 ... | https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500306.html | ax2
+2026-11-06 10:16 | medicopharma.co.kr | 삼성물산 투자 美그레일, 국내 암 조기진단 사업화 협의 진행 | https://www.medicopharma.co.kr/news/articleView.html?idxno=70272 | a1
+2026-11-06 10:13 | 머니투데이 | Samsung Biologics union launches strike, company vows to minimize production disruptions | google:머니투데이#9b3dd517 | aen3
+2026-11-06 10:13 | mt.co.kr | 삼성바이오 노조, 6일 파업 돌입…사측 "생산 차질 최소화할 것" | https://www.mt.co.kr/thebio/2026/11/06/2026110610093928383 | a7,ax2
+2026-11-06 10:12 | straightnews.co.kr | 삼성바이오 노사 갈등 재점화…노조 400명 3주 파업 강행 | https://www.straightnews.co.kr/news/articleView.html?idxno=314777 | a7,ax2
+2026-11-06 10:08 | todaykorea.co.kr | 삼성바이오 노조, 파업 참여 여부 실명 투표 '논란' | https://www.todaykorea.co.kr/news/articleView.html?idxno=408206 | a7,ax2
+2026-11-06 10:04 | sentv.co.kr | 삼성바이오로직스 노조, 400명 규모 2차 파업 돌입 | https://www.sentv.co.kr/article/view/sentv202611060052 | a7,ax2
+2026-11-06 10:00 | joseilbo.com | 삼성바이오로직스 노조, 400명 규모 부분파업 돌입…27일까지 진행 | http://www.joseilbo.com/news/news_read.php?uid=579079&class=17&grp= | a7,ax2
+2026-11-06 09:57 | 아시아경제 | Samsung Biologics Union: "About 400 Took Part in Strike... Calls for Talks with Management" | google:아시아경제#6ff3b7d1 | aen3
+2026-11-06 09:57 | view.asiae.co.kr | 삼성바이오 노조 "파업 참여 400여명…사측에 교섭 요구" | https://view.asiae.co.kr/article/2026110609572385054 | a7,ax2
+2026-11-06 09:56 | biz.heraldcorp.com | 불과 3분 만에 5000선 붕괴…8%대 폭락에 서킷브레이커 발동 [투자360] | https://biz.heraldcorp.com/article/10928098?ref=naver | a7,ax2
+2026-11-06 09:56 | financialpost.co.kr | 삼성바이오 노조, 3주 부분파업… 성장세 속 노사 갈등 장기화 | https://www.financialpost.co.kr/news/articleView.html?idxno=285175 | a7,ax2
+2026-11-06 09:50 | iminju.net | 삼성바이오로직스 노조, 2차 파업 돌입…생산 차질 없어 | http://www.iminju.net/news/articleView.html?idxno=172034 | a7,ax2
+2026-11-06 09:48 | it.chosun.com | 삼성바이오, 오늘부터 3주간 2차 파업… 노조 "교섭 불응 땐 확대" | https://it.chosun.com/news/articleView.html?idxno=3000000000407 | a7,ax2
+2026-11-06 09:46 | delighti.co.kr | 삼성바이오로직스 노조, 오늘부터 3주간 부분파업 돌입 | https://www.delighti.co.kr/news/articleView.html?idxno=124477 | a7,ax2
+2026-11-06 09:46 | mkhealth.co.kr | 론자·삼성바이오, 잇단 M&A…글로벌 CDMO 경쟁 새 국면 | https://www.mkhealth.co.kr/news/articleView.html?idxno=80798 | ax2
+2026-11-06 09:45 | ET Now | South Korea Stock Market Crash: KOSPI plunges over 8% amid tech sell-off; Samsung, SK Hynix tumble | google:ET Now#ee452116 | aen13
+2026-11-06 09:42 | businessplus.kr | 삼성바이오로직스 노조, 이달 27일까지 부분파업 돌입 | https://www.businessplus.kr/news/articleView.html?idxno=119390 | a7,ax2
+2026-11-06 09:41 | 매일경제 | Hello, I'm "MK Signal," an AI reporter who analyzes hot issues in Korea.The hot issue Golden Cross s.. | google:매일경제#ef88422a | aen5
+2026-11-06 09:34 | whitepaper.co.kr | 삼성바이오 노조, 오늘부터 3주간 '부분파업'···400명 참여 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268497 | a7,ax2
+2026-11-06 09:32 | ppss.kr | 삼성바이오로직스 노조, 교섭 공전 속 또 파업…명분 흔들리는 강경 투... | https://www.ppss.kr/news/articleView.html?idxno=319409 | a7,ax2
+2026-11-06 09:30 | widedaily.com | 삼성바이오 노조 400여 명 2차 파업 돌입…사측 "생산 차질 최소화" | https://www.widedaily.com/news/articleView.html?idxno=302974 | a7,ax2
+2026-11-06 09:22 | Seoul Economic Daily | Samsung Biologics Union Begins Three-Week Partial Strike | google:Seoul Economic Daily#6606b4e5 | aen3
+2026-11-06 09:21 | seoul.co.kr | 삼성바이오 노조 2차 파업 돌입…노사 갈등 다시 안갯속 | https://www.seoul.co.kr/news/economy/2026/11/06/20261106500032?wlog_tag3=naver | a7,ax2
+2026-11-06 09:16 | smartbizn.com | 삼성바이오로직스, 2.7조 베팅···스위스 폴리펩타이드 인수 확정 | https://www.smartbizn.com/news/articleView.html?idxno=158615 | a7,ax2
+2026-11-06 09:12 | livebiz.today | 삼성바이오로직스 노조, 6일부터 3주간 부분 파업..."순차 확대 계획" | https://www.livebiz.today/news/articleView.html?idxno=206268 | a7,ax2
+2026-11-06 09:11 | Metro Rakyat News | Program CSR PT.Teso Indah Perbaiki Jalan Berlubang Desa Pekan Heran Inhu | google:Metro Rakyat News#d498c5c2 | aid8
+2026-11-06 09:08 | newsis.com | 삼성바이오 노조, 400여명 파업시작…"차질 최소화" | https://www.newsis.com/view/NISX20261106_0003857368 | a7,ax2
+2026-11-06 09:02 | theviewers.co.kr | [건설 Pick] 삼성물산, 홈닉 협력 건설사 21곳으로 확대 外 | https://theviewers.co.kr/View.aspx?No=4297646 | a1
+2026-11-06 09:02 | youthdaily.co.kr | 삼성바이오 노사 갈등 장기화…노조, 400명 참여 2차 부분파업 돌입 | https://www.youthdaily.co.kr/news/article.html?no=229464 | a7,ax2
 2026-11-06 09:00 | Betahita | Satwa Korban Karhutla di Kebun Anggota RSPO | google:Betahita#b6076b40 | aid4
-2026-11-06 08:56 | hansbiz.co.kr | 삼성바이오, 펩타이드 인수 9부 능선 넘어…지분 97.98% 확보 | http://www.hansbiz.co.kr/news/articleView.html?idxno=880475 | ax2
+2026-11-06 08:59 | news1.kr | 삼성바이오로직스, 스위스 폴리펩타이드 지분 97.98% 확보 | https://www.news1.kr/bio/pharmaceutical-bio/6345083 | a7,ax2
+2026-11-06 08:56 | hansbiz.co.kr | [지분View] 삼성바이오, 펩타이드 인수 눈앞…지분 97.98% 확보 | http://www.hansbiz.co.kr/news/articleView.html?idxno=880475 | ax2
 2026-11-06 08:38 | koreastocknews.com | 글로벌 제약 ESG리스크 평가 4위 삼성바이오, 6일부터 2차 파업 | http://www.koreastocknews.com/news/articleView.html?idxno=122127 | a7,ax2
 2026-11-06 08:34 | g-enews.com | [개장 전 주요 공시] 롯데렌탈·삼성바이오로직스·KT&G·LS·넷마블·코... | https://www.g-enews.com/view.php?ud=202611060820349659923c501012_1 | a7,ax2
 2026-11-06 08:33 | magazine.hankyung.com | 삼성바이오로직스, 오늘부터 '파업'···올해만 네번째 | https://magazine.hankyung.com/business/article/202611069816b | a7,ax2
 2026-11-06 08:32 | news1.kr | 삼성바이오 노조, 오늘부터 2차 파업…사측 "대화 통한 해결 의지" | https://www.news1.kr/bio/pharmaceutical-bio/6345009 | a7?,ax2
 2026-11-06 08:26 | issuenbiz.com | 삼성바이오로직스 노조, 또 파업…바이오 생산·수주 신뢰도 우려 | http://www.issuenbiz.com/news/articleView.html?idxno=81298 | a7,ax2
-2026-11-06 08:24 | insight.co.kr | 삼성바이오로직스 노조, 오늘(6일)부터 3주간 부분파업 | https://www.insight.co.kr/news/580880 | a7,ax2
 2026-11-06 08:20 | mbn.mk.co.kr | 삼성바이오 노조, 오늘부터 부분 파업…집회 없이 '무노동' | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229364 | a7?,ax2
 2026-11-06 08:18 | biz.sbs.co.kr | 삼성바이오로직스 노조, 오늘부터 400명 부분파업 | https://biz.sbs.co.kr/article_hub/20000344658?division=NAVER | a7,ax2
-2026-11-06 08:07 | news.tf.co.kr | 삼성바이오 노조 오늘부터 부분파업 돌입 | https://news.tf.co.kr/read/economy/2385548.htm | a7,ax2
 2026-11-06 08:06 | 4th.kr | 삼성바이오 노조 400명 부분파업…임금협상 평행선 | http://www.4th.kr/news/articleView.html?idxno=2121279 | a7,ax2
-2026-11-06 08:00 | khan.co.kr | 삼성바이오 노조, 오늘부터 부분파업…400명 규모 | https://www.khan.co.kr/article/202611060800011 | a7,ax2
 2026-11-06 07:57 | mydaily.co.kr | 삼성바이오로직스 노조, 3주간 2차 부분 파업 돌입…400명 참여 | https://www.mydaily.co.kr/page/view/2026110607555703092 | a7,ax2
-2026-11-06 07:32 | ngonews.kr | 삼성바이오 노사 갈등 장기화…노조, 3주간 부분 파업 재개 | https://www.ngonews.kr/news/articleView.html?idxno=242458 | a7,ax2
 2026-11-06 07:04 | dealsite.co.kr | [SIAL PARIS] 삼성웰스토리, 글로벌 확장 잰걸음…급식·식품 유통으로 ... | https://dealsite.co.kr/articles/172112 | a12,ax6
 2026-11-06 07:02 | gokorea.kr | 삼성바이오로직스 노조, 임금 갈등으로 3주간 부분 파업 돌입…생산 차... | https://www.gokorea.kr/news/articleView.html?idxno=884291 | a7,ax2
 2026-11-06 07:01 | Seoul Economic Daily | Celltrion in Talks With Lotte Biologics on Contract Manufacturing | google:Seoul Economic Daily#e573e01b | aen3
-2026-11-06 06:13 | megaproject.com | Samsung Biologics moves closer to $1.8B PolyPeptide deal | google:megaproject.com#4754c5b0 | aen3
+2026-11-06 06:13 | https://megaproject.com/ | Samsung Biologics moves closer to $1.8B PolyPeptide deal | google:https://megaproject.com/#4754c5b0 | aen3
 2026-11-06 06:03 | hankyung.com | "3주간 일손 놓는다"…삼성바이오 노조, 오늘부터 부분파업 돌입 | https://www.hankyung.com/article/2026110695987 | a7,ax2
 2026-11-06 04:00 | mt.co.kr | 법원 쟁의금지에… 간접부서 우회 파업 택한 삼성바이오 노조 | https://www.mt.co.kr/thebio/2026/11/06/2026110519394649924 | a7,ax2
 2026-11-06 02:20 | 재경일보 | Samsung Biologics union stages second partial strike with 400 workers : Economy : JKN | google:재경일보#7ab833dc | aen3
+2026-11-06 02:18 | Moomoo | Samsung Biologics Finalizes Issue Price for Paid-in Capital Increase | google:Moomoo#13502da0 | aen3
 2026-11-06 01:09 | Chosunbiz | Samsung Biologics union launches three-week partial strike in South Korea | google:Chosunbiz#30be77db | aen3
-2026-11-05 22:04 | apparelnews.co.kr | [단독] 삼성물산 패션부문, '아디다스키즈' 한국 사업권 확보 | http://www.apparelnews.co.kr/news/news_view/?idx=228795 | a1,a5
+2026-11-05 23:31 | insights.citeline.com | Alembic Eyes US Exclusivity For Venetoclax After FDA Approval | google:insights.citeline.com#cd65c82a | aen4
+2026-11-05 23:27 | Head Topics | Vinilon Group Gelar Pipe Art Exhibition 2026 di TIM Jakarta | google:Head Topics#73ef1a40 | aid8
+2026-11-05 23:23 | BeritaOne.id | CRO-3 Evaluasi Kinerja Kemitraan Pengelolaan Kebun PT Agrinas Palma Nusantara di Riau | google:BeritaOne.id#6a7bf4ff | aid8
+2026-11-05 22:04 | apparelnews.co.kr | [단독] '아디다스키즈' 한국 사업권, 삼성물산 패션부문 품으로 | http://www.apparelnews.co.kr/news/news_view/?idx=228795 | a1,a5
 2026-11-05 20:44 | BeritaOne.id | Wujudkan Ketahanan Pangan, Polsek Kuala Cenaku Aktif Dampingi Warga di Sektor Pertanian | google:BeritaOne.id#220fe24a | aid9
 2026-11-05 20:40 | pinpointnews.co.kr | 美 민주당 승리에 AI 투자 '경고등'...삼성전자·SK하이닉스, 데이터센터... | https://www.pinpointnews.co.kr/news/articleView.html?idxno=501741 | a7,a9,ax2,ax3,ax4
 2026-11-05 20:15 | Dandapala Digital | Beli Motor Tanpa Surat, 2 Terdakwa dengan Korban Berdamai di PN Pelalawan | google:Dandapala Digital#9d90dd33 | aid6
 2026-11-05 19:40 | Simply Wall St | Learn Why The Bull Case For Teva Pharmaceutical Industries (TEVA) Could Change Following Raised Revenue Guidance | google:Simply Wall St#cfc369c3 | aen4
+2026-11-05 19:25 | BukaMata.Co | Bongkar Politik Busuk Adu Domba di Rupat, SEGERA Telanjangi Oknum Kaki Tangan Korporasi Sawit Perampok Hak Rakyat! | google:BukaMata.Co#86b98c14 | aid9
+2026-11-05 18:59 | GoRiau.com | Pemkab Kuansing Kembali Mediasi Masyarakat Kotobaru dan PT RAPP | google:GoRiau.com#34c32319 | aid9
 2026-11-05 18:56 | TipRanks | Samsung Biologics Secures 97.99% of PolyPeptide Shares | google:TipRanks#309860fd | aen3
 2026-11-05 18:54 | biztribune.co.kr | 삼성물산 리조트부문, 세계조경가협회 글로벌 조경상 수상 | http://www.biztribune.co.kr/news/articleView.html?idxno=362020 | a1,a6
 2026-11-05 18:52 | dealsite.co.kr | 북아현2구역, 2400억 사업비 조달…삼성물산 지급보증 | https://dealsite.co.kr/articles/172198 | a1
-2026-11-05 18:10 | marketscreener.com | Samsung Biologics Finalizes Issue Price for Paid-in Capital Increase | google:marketscreener.com#d8bcad86 | aen3
 2026-11-05 18:05 | hankyung.com | 삼성물산, 친환경 놀이공간 'IFLA 조경상' | https://www.hankyung.com/article/2026110589791 | a1
 2026-11-05 18:02 | asiatoday.co.kr | 론자 공세에 파업 전운… 수주경쟁 엎친데 덮친 삼성바이오 | https://www.asiatoday.co.kr/kn/view.php?key=20261106010002290 | a7,ax2
 2026-11-05 18:01 | hankyung.com | 폴리펩타이드 공개매수…삼성바이오 지분 98% 확보 | https://www.hankyung.com/article/2026110591341 | ax2
@@ -84,12 +216,11 @@
 2026-11-05 14:14 | viva100.com | 美 ‘블루 쓰나미’⋯ K-바이오 대미 투자 ‘속도조절론’ 급부상 | https://www.viva100.com/article/20261105500609 | a7,ax2
 2026-11-05 13:46 | upkoreanews.kr | [창간22주년 특집: 식탁의 가치를 바꾸다]③ 삼성웰스토리, 해외 급식 1... | https://www.upkoreanews.kr/news/articleView.html?idxno=101013 | a12,ax6
 2026-11-05 13:37 | Seoul Economic Daily | KOSPI Slides 4% as 'Blue Wave' Hits Chip, Power Equipment Stocks | google:Seoul Economic Daily#29081863 | aen5
-2026-11-05 13:32 | mk.co.kr | “빗물 재활용한 생태 놀이터”… 삼성물산, IFLA 글로벌 조경 우수상 | https://www.mk.co.kr/article/12198248 | a1
+2026-11-05 13:32 | mk.co.kr | “생태공원 된 아파트 놀이터”… 삼성물산, IFLA 글로벌 조경 우수상 | https://www.mk.co.kr/article/12198248 | a1
 2026-11-05 13:31 | 매일경제 | “An ecological playground that reuses rainwater” ... Samsung C&T Corporation wins an IFLA Global Landscape Award of Excellence | google:매일경제#db97e558 | aen1,aen2
 2026-11-05 13:30 | it.chosun.com | 머크 美 공장 5곳 품은 '론자'… 삼성바이오와 글로벌 경쟁 2라운드 | https://it.chosun.com/news/articleView.html?idxno=3000000000308 | ax2
 2026-11-05 13:11 | donga.com | “어르신 넘어지면 AI가 감지”…삼성물산이 만드는 미래의 집 | https://www.donga.com/news/Health/article/all/20261105/134970689/2 | a1
 2026-11-05 12:51 | hankyung.com | 보름새 200명 짐 쌌다…삼성바이오 노조에 직원들 '냉랭' | https://www.hankyung.com/article/202611058084i | ax2
-2026-11-05 12:48 | ajunews.com | 빗물로 물놀이하고 자연도 배운다…삼성물산 조경, 국제무대서 수상 | https://www.ajunews.com/view/20261105124607658 | a1
 2026-11-05 12:32 | ggilbo.com | 삼성에피스홀딩스 주가, 급등세... 이유는? | https://www.ggilbo.com/news/articleView.html?idxno=1191380 | a9,ax3,ax4
 2026-11-05 12:25 | news.jtbc.co.kr | 삼바 노조, 내일부터 400명 규모 2차 파업…"교섭의 문은 열려있다" | https://news.jtbc.co.kr/article/NB12326610?influxDiv=NAVER | a7?,ax2?
 2026-11-05 12:04 | 스타뉴스 | Samsung C&T Wins Excellence Award at World Landscape Architects Association's 'GLA Awards' for 'Twin Bubbles' Project | google:스타뉴스#d26ee8d1 | aen1,aen2
@@ -106,12 +237,11 @@
 2026-11-05 11:17 | Seoul Economic Daily | Samsung C&T Resort Unit Wins IFLA Global Landscape Award | google:Seoul Economic Daily#c54624a7 | aen1,aen2
 2026-11-05 11:01 | sports.donga.com | 삼성물산 놀이터에선 빗물도 놀다 간다 [PS] | https://sports.donga.com/economy/article/all/20261105/134970437/1 | a1
 2026-11-05 10:58 | 매일경제 | SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u.. | google:매일경제#a478dc79 | aen3
-2026-11-05 10:58 | asiaa.co.kr | 삼성웰스토리, 이탈리아 '비토' 론칭...양식 식자재 직소싱 확대 | https://www.asiaa.co.kr/news/articleView.html?idxno=269506 | a12,ax6
 2026-11-05 10:58 | srtimes.kr | 삼성웰스토리, 이탈리안 식자재 브랜드 '비토' 론칭 | http://www.srtimes.kr/news/articleView.html?idxno=216798 | a12,ax6
+2026-11-05 10:58 | asiaa.co.kr | 삼성웰스토리, 이탈리아 '비토' 론칭...양식 식자재 직소싱 확대 | https://www.asiaa.co.kr/news/articleView.html?idxno=269506 | a12,ax6
 2026-11-05 10:56 | inews24.com | [단독] 삼성바이오 노조, 실명으로 파업 참여 조사⋯블랙리스트 '논란' | http://www.inews24.com/view/2022910 | a7,ax2
 2026-11-05 10:56 | BigGo Finance | AI Regulation Risk Triggered by U.S. Blue Wave Sends KOSPI Plunging 5.3%; Foreigners Sell 3.4 Trillion Won | google:BigGo Finance#4903b563 | aen5
 2026-11-05 10:51 | biz.heraldcorp.com | 삼성바이오로직스 노조, 6일 ‘2차 파업’ 강행…내부선 ‘탈퇴 속출’... | https://biz.heraldcorp.com/article/10926792?ref=naver | a7,ax2
-2026-11-05 10:50 | 헤럴드경제 | Samsung Biologics union launches second strike Friday amid member exodus | google:헤럴드경제#b5eeaa84 | aen3
 2026-11-05 10:48 | sedaily.com | 삼성웰스토리, 伊 브랜드 ‘비토’ 론칭…양식 식자재 글로벌서 공급 | https://www.sedaily.com/article/20110560?ref=naver | a12,ax6
 2026-11-05 10:44 | foodnews.co.kr | 삼성웰스토리, 양식 식자재 수요 잡는다…伊 '비토' 라인업 확대 | http://www.foodnews.co.kr/news/articleView.html?idxno=120846 | a12,ax6
 2026-11-05 10:42 | 매일경제 | Celltrion launches three new biosimilars in Brazil | google:매일경제#114dc1e4 | aen4
@@ -124,26 +254,3 @@
 2026-11-05 10:20 | 더바이오 | ﻿﻿﻿Samsung Bioepis signs U.S. marketing rights deal with Teva for two biosimilar autoimmune disease treatments | google:더바이오#4887c8bb | aen4
 2026-11-05 10:20 | dailypop.kr | [건설 브리핑] 삼성물산·SM그룹, 주거·현장에 디지털 기술 도입 外 | http://www.dailypop.kr/news/articleView.html?idxno=104162 | a1
 2026-11-05 10:10 | Hai Sawit | Tiga Kebijakan Ini Dinilai Menambah Ketidakpastian Hukum Industri Sawit Nasional | google:Hai Sawit#ea1f794d | aid6
-2026-11-05 10:08 | thepowernews.co.kr | 삼성웰스토리, 이탈리아 식자재 '비토' 확대…파스타 발주량 4배 증가 | https://www.thepowernews.co.kr/view.php?ud=202611051006353647de3f0aa1be_7 | a12,ax6
-2026-11-05 10:08 | etoday.co.kr | 삼성웰스토리, 이탈리아 식자재 '비토' 국내 공급 확대…파스타 발주량... | https://www.etoday.co.kr/news/view/2644479 | a12,ax6
-2026-11-05 10:07 | sisajournal.com | 삼성바이오 노조, 6일 2차 파업…조합원 10% 참여 전망 | https://www.sisajournal.com/news/articleView.html?idxno=392922 | a7,ax2
-2026-11-05 10:06 | ngetnews.com | 삼성바이오로직스 노조, 교섭 결렬에 6일 2차 파업 돌입 | https://www.ngetnews.com/news/articleView.html?idxno=555597 | a7,ax2
-2026-11-05 10:04 | etnews.com | 삼성물산 리조트부문, IFLA 글로벌 조경 어워즈 수상…“친환경 조경 역... | https://www.etnews.com/20261105000107 | a1,a6
-2026-11-05 09:58 | fntoday.co.kr | "교섭 무산에 결국 터졌다"… 삼성바이오 노조, 6일부터 2차 파업 선언 | https://www.fntoday.co.kr/news/articleView.html?idxno=397057 | a7,ax2
-2026-11-05 09:56 | econovill.com | 삼성바이오 노조, 6일 2차 파업 예고 | https://www.econovill.com/news/articleView.html?idxno=756105 | a7,ax2
-2026-11-05 09:56 | newsis.com | 삼성웰스토리, 伊 식자재 브랜드 '비토' 국내 시장서 선보인다 | https://www.newsis.com/view/NISX20261105_0003855836 | a12,ax6
-2026-11-05 09:52 | financialpost.co.kr | 삼성바이오로직스 노사 교섭 불발...사측 vs 노조 '강대강' 대립 이어질... | https://www.financialpost.co.kr/news/articleView.html?idxno=284807 | a7,ax2
-2026-11-05 09:48 | newsquest.co.kr | 파스타면 잘 팔리자 소스·오일까지…삼성웰스토리 '비토' 확대 | https://www.newsquest.co.kr/news/articleView.html?idxno=304275 | a12,ax6
-2026-11-05 09:44 | newsquest.co.kr | 삼성물산 '트윈 버블스', 세계조경가협회 글로벌 어워즈 우수상 | https://www.newsquest.co.kr/news/articleView.html?idxno=304273 | a1
-2026-11-05 09:44 | financialpost.co.kr | 삼성바이오·론자, 글로벌 위탁생산 경쟁 가열…미국 거점 확대 | https://www.financialpost.co.kr/news/articleView.html?idxno=284817 | ax2
-2026-11-05 09:38 | news1.kr | 에버랜드서 쌓은 조경 기술, 아파트 놀이터로…국제상 받은 삼성물산 | https://www.news1.kr/industry/hotel-tourism/6343799 | a1
-2026-11-05 09:33 | hankyung.com | 삼성에피스홀딩스, 테바와 5632억 규모 협력 계약에 '급등' | https://www.hankyung.com/article/2026110573996 | a9,ax3,ax4
-2026-11-05 09:31 | economist.co.kr | 르엘 어퍼하우스, 정영선 마스터플랜에 삼성물산 조경 시공 더한다 | https://economist.co.kr/article/view/ecn202611040058 | a1
-2026-11-05 09:28 | it.chosun.com | "법원 제동에도 3주 파업 강행"… 삼성바이오 노조, 6일 400명 규모 2차 ... | https://it.chosun.com/news/articleView.html?idxno=3000000000301 | a7,ax2
-2026-11-05 09:28 | newspost.kr | 삼성웰스토리, 글로벌 소싱 확대…이탈리아 식품 브랜드 '비토' 선보여 | https://www.newspost.kr/news/articleView.html?idxno=227068 | a12,ax6
-2026-11-05 09:22 | newsprime.co.kr | 삼성바이오 노조 파업 확대 예고…회사 "대화 이어갈 것" | http://www.newsprime.co.kr/news/article.html?no=753788 | a7,ax2
-2026-11-05 09:18 | ppss.kr | 삼성바이오로직스, 2조7000억 인수 순항…무리한 교섭 요구에 명분 잃어... | https://www.ppss.kr/news/articleView.html?idxno=319185 | a7,ax2
-2026-11-05 09:13 | 헤럴드경제 | Samsung C&T Resort wins distinction award at 2026 IFLA Global Landscape Architecture Awards | google:헤럴드경제#e47550ac | aen1,aen2
-2026-11-05 09:10 | The Korea Times | Despite Lee's hard work, Korea goes nowhere | google:The Korea Times#028c0cb1 | aen13
-2026-11-05 06:15 | BioSpectrum Asia | BIX 2026 Report | google:BioSpectrum Asia#2173f761 | aen4
-2026-11-05 04:04 | Yahoo Finance Singapore | Samsung Biologics Co.,Ltd. (207940.KS) stock price, news, quote and history | google:Yahoo Finance Singapore#78a4ea8e | aen3,aen5
