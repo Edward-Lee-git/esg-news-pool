@@ -1,221 +1,85 @@
-# collected: 2026-11-10 07:30 KST
-# window: 2026-11-09 00:00 ~ 2026-11-10 07:30 KST
-# part 1 of 1, lines: 215
+# collected: 2026-11-11 07:30 KST
+# window: 2026-11-10 00:00 ~ 2026-11-11 07:30 KST
+# part 1 of 1, lines: 79
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-10 07:30 | news.bizwatch.co.kr | '생산 다변화·맞춤형' 삼성바이오에피스, 중소형 바이넥스 '딱' | https://news.bizwatch.co.kr/article/healthcare/2026/11/09/0021 | a10,ax2,ax5
-2026-11-10 07:00 | pointdaily.co.kr | 식자재도 '각자도생'…플랫폼부터 글로벌 직소싱까지 차별화 경쟁 | https://www.pointdaily.co.kr/news/articleView.html?idxno=325333 | a12,ax6
-2026-11-10 06:10 | consumernews.co.kr | "압구정·성수·여의도 잡았다"…삼성물산, 도시정비 수주 13조 '역대 최... | http://www.consumernews.co.kr/news/articleView.html?idxno=767831 | a1
-2026-11-10 04:24 | hitnews.co.kr | Samsung Biologics Secures 87.88% Stake in PolyPeptide | https://www.hitnews.co.kr/news/articleView.html?idxno=80634 | a8
-2026-11-10 02:34 | kjdaily.com | 삼성물산 주가 1.46% 하락…외국인 304억원 순매도 | http://www.kjdaily.com/article.php?aid=1794245505691754276 | a1
-2026-11-10 00:44 | kjdaily.com | 삼성물산, 2조3천763억원 규모 목동13단지 재건축 수주 | http://www.kjdaily.com/article.php?aid=1794238941691635276 | a1
-2026-11-10 00:37 | 조선일보 | Samsung Bioepis Biosimilar Equivalent to Keytruda in Phase 3 | google:조선일보#cfb12625 | aen4
-2026-11-10 00:34 | chosun.com | 삼성바이오 ‘키트루다’ 복제약, 임상 3상서 오리지널과 동등 효과 | https://www.chosun.com/economy/science/2026/11/10/G3MCH32MCJFQRLXGRNCEAFHQPU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | ax2
-2026-11-09 23:50 | sentv.co.kr | 삼성물산, 목동13단지 재건축 시공사 선정…2.3조 규모 | https://www.sentv.co.kr/article/view/sentv202611090238 | a1
-2026-11-09 22:54 | vegannews.co.kr | 목동13단지 재건축에 삼성물산…예정 공사비 2조3763억원 | https://www.vegannews.co.kr/news/article.html?no=402674 | a1
-2026-11-09 22:52 | mediawatch.kr | [금주의 건설 톡톡] 삼성물산·대우건설·현대건설, 3Q 영업益 2배 이상... | https://www.mediawatch.kr/news/article.html?no=261661 | a1
-2026-11-09 22:42 | 00news.co.kr | [산업 콕!] 윤곽 나온 목동 재건축 키워드는 '차별화' | http://www.00news.co.kr/news/articleView.html?idxno=107839 | a1,a3
-2026-11-09 21:59 | PMLiVE | Teva and Samsung Bioepis to commercialise two FDA-approved biosimilars in the US | google:PMLiVE#b1af6b26 | aen4
-2026-11-09 21:48 | 매일경제 | Samsung C&T has secured the right to construct the Mokdong 13 complex reconstruction project in | google:매일경제#e1319079 | aen1
-2026-11-09 20:55 | enewstoday.co.kr | 충북도, 삼성물산·삼성전자와 손잡고 '청년 성장 및 자립 지원' 위한 업... | http://www.enewstoday.co.kr/news/articleView.html?idxno=2490283 | a1
-2026-11-09 20:28 | news.kbs.co.kr | [간추린 단신] 충북도·삼성물산·삼성전자, 청년 성장·자립 지원 업무... | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707944&ref=A | a1
-2026-11-09 19:44 | PharmaTimes | Teva expands biosimilars alliance with Samsung Bioepis | google:PharmaTimes#173b02b4 | aen4
-2026-11-09 18:41 | Metro Rakyat News | Sinergi DLHKP Pemkab Inhu, PT Teso Indah Bantu Alat Berat Revitalisasi TPA | google:Metro Rakyat News#d56c474d | aid8
-2026-11-09 18:27 | fnnews.com | 목동에 첫 래미안… 삼성물산, 13단지 재건축 수주 | https://www.fnnews.com/news/202611091825519181 | a1
-2026-11-09 18:20 | dailypop.kr | [부동산 소식] 삼성물산 '목동13단지' 재건축 수주, 현대건설 '힐스테이... | http://www.dailypop.kr/news/articleView.html?idxno=104333 | a1
-2026-11-09 18:14 | fnnews.com | [기고] 시장 활력 꺾는 무차별 과징금 손봐야 | https://www.fnnews.com/news/202611091813464182 | a12,ax6
-2026-11-09 18:10 | housingherald.co.kr | 목동13단지 재건축, 삼성물산 시공자 선정…'목동 첫 래미안' | https://www.housingherald.co.kr/news/articleView.html?idxno=63390 | a1
-2026-11-09 18:00 | dt.co.kr | 삼성바이오에피스, 미국면역항암학회서 ‘SB27’ 임상 3상 연구결과 발... | https://www.dt.co.kr/article/12094069?ref=naver | a10,ax2,ax5
-2026-11-09 18:00 | hitnews.co.kr | [HIT알공] 셀리드, 110만주 신주발행 무효 소송 피소 | https://www.hitnews.co.kr/news/articleView.html?idxno=80625 | ax2?
-2026-11-09 17:54 | hankyung.com | [단독] 삼성화재, 英 특수보험사 3조원에 인수 | https://www.hankyung.com/article/2026110958471 | a1
-2026-11-09 17:51 | Aju Press | KOSPI barely holds above 5,000 amid heavy foreign selling | google:Aju Press#200625ee | aen3
-2026-11-09 17:32 | ccdailynews.com | 충북도·삼성물산·삼성전자, 청년단체 자립 지원 '맞손' | https://www.ccdailynews.com/news/articleView.html?idxno=2450464 | a1
-2026-11-09 17:26 | newsworker.co.kr | [CEO 레이더] 삼성바이오로직스_존 림 대표이사 사장, 인수자금 412억 부... | https://www.newsworker.co.kr/news/articleView.html?idxno=513004 | a7,ax2
-2026-11-09 17:24 | megaeconomy.co.kr | "46조원 키트루다 시장 도전장"…삼성바이오에피스, 바이오시밀러 임상... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601277917593 | a10,ax2,ax5
-2026-11-09 17:23 | hankyung.com | [단독] 삼성화재, KKR·KIC와 함께 英 보험사 3조에 인수 | https://www.hankyung.com/article/202611094728r | a1?
-2026-11-09 17:22 | businesspost.co.kr | 삼성물산 서울 목동아파트13단지 재건축 시공사로 뽑혀, 2조3763억 규모 | https://www.businesspost.co.kr/BP?command=article_view&num=451547 | a1
-2026-11-09 17:21 | news1.kr | 충북도-삼성전자·삼성물산 '청년 성장·자립 지원' 협약 | https://www.news1.kr/local/sejong-chungbuk/6348145 | a1
-2026-11-09 17:20 | Bioprocess Online | High-Throughput Binding Affinity Assessment Using Octet® HTX | google:Bioprocess Online#3c95c2c1 | aen3
-2026-11-09 17:17 | 더바이오 | Samsung Bioepis confirms Phase 3 equivalence of Keytruda biosimilar ‘SB27’ at SITC 2026 | google:더바이오#2a387651 | aen4
-2026-11-09 17:16 | fieldnews.kr | 신용한 충북지사, 삼성전자·삼성물산과 청년지원 맞손…자립·취업 기... | http://www.fieldnews.kr/news/articleView.html?idxno=32951 | a1
-2026-11-09 17:11 | mk.co.kr | 목동 첫 래미안 짓는다 … 삼성물산, 13단지 수주 | https://www.mk.co.kr/article/12202670 | a1
-2026-11-09 17:08 | snmnews.com | 에스와이스틸텍, 삼성물산서 94억 원 수주…데크플레이트 사업 경쟁력 ... | http://www.snmnews.com/news/articleView.html?idxno=577133 | a1
-2026-11-09 17:06 | Potret24.com | Disperindag Pekanbaru Gencarkan Gotong Royong Bersihkan Pasar Tradisional | google:Potret24.com#ee67c431 | aid1
-2026-11-09 17:06 | lkp.news | 에스와이스틸텍, 삼성물산 94억 수주…사업 기반 확대 | http://www.lkp.news/news/articleView.html?idxno=85914 | a1
-2026-11-09 17:04 | tipikorinvestigasinews | Harga TBS Sawit di Kecamatan Rengat Anjlok Jadi Rp2.500/Kg, Petani Desak Disbun Inhu Turun ke Lapangan | google:tipikorinvestigasinews#09f42a99 | aid8
-2026-11-09 17:04 | asiaa.co.kr | 삼성물산, 2조3763억원 규모 목동13단지 재건축 수주...'첫 래미안' 들어... | https://www.asiaa.co.kr/news/articleView.html?idxno=270160 | a1
-2026-11-09 17:03 | Dealroom | Samsung Bioepis' Keytruda biosimilar SB27 meets equivalence in Phase 3 lung cancer trial | google:Dealroom#29bab0c8 | aen4
-2026-11-09 16:56 | tournews21.com | 삼성물산, 목동13단지 재건축 시공권 확보… 목동 첫 '래미안' | https://www.tournews21.com/news/articleView.html?idxno=147907 | a1
-2026-11-09 16:52 | shinailbo.co.kr | [바이오 브리핑] 삼성바이오에피스, 대웅제약, 동국제약 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5081391 | a10,ax2,ax5
-2026-11-09 16:47 | Potret24.com | Maling TBS Sawit Eks PT Gandaerah Hendana, Puluhan Warga Kecamatan Lirik Terancam Pidana | google:Potret24.com#12119a62 | aid1,aid8
-2026-11-09 16:46 | sateconomy.co.kr | 삼성물산 리조트부문, IFLA 글로벌 조경상 우수상 수상 | https://sateconomy.co.kr/news/view/1065597946140102 | a1,a6
-2026-11-09 16:44 | niceeconomy.co.kr | [건설 브리핑] 현대건설·삼성물산·IPARK현대산업개발·금호건설 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91762 | a1
-2026-11-09 16:44 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·SK에코플랜트·현대건설·IPARK현대산업개... | https://sports.hankooki.com/news/articleView.html?idxno=6943195 | a1,a3
-2026-11-09 16:38 | niceeconomy.co.kr | [제약 브리핑] 종근당·대웅제약·삼성바이오에피스 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91761 | a10,ax2,ax5
-2026-11-09 16:37 | yna.co.kr | 충북도, 삼성물산·삼성전자와 청년 성장·자립 지원 협약 | https://www.yna.co.kr/view/AKR20261109127700064?input=1195m | a1
-2026-11-09 16:26 | goodkyung.com | 현대건설, 삼성물산 막판 추격에도 '도시정비 8년 연속 1위' 유력 | https://www.goodkyung.com/news/articleView.html?idxno=293262 | a1
-2026-11-09 16:26 | the-biz.co.kr | [삼성물산 메르데카118 분쟁①] 외벽공사 지연 책임 공방… 갈등은 왜 커... | http://www.the-biz.co.kr/news/articleView.html?idxno=730327 | a1
-2026-11-09 16:24 | magazine.hankyung.com | 목동에 첫 래미안 들어선다…삼성물산, 2.4조 재건축 수주 | https://magazine.hankyung.com/business/article/202611095496b | a1
-2026-11-09 16:21 | news.tvchosun.com | 목동에 첫 '래미안' 들어선다…삼성물산, 목동13단지 재건축 수주 | https://news.tvchosun.com/site/data/html_dir/2026/11/09/2026110990184.html | a1
-2026-11-09 16:17 | Demokratis.co.id | Petani Sawit Minta Pemerintah Perkuat Pencegahan Karhutla | google:Demokratis.co.id#2d72bedd | aid11
-2026-11-09 16:13 | 파이낸셜뉴스 | Foreign investors sell for 7 straight trading days... KOSPI retreats after touching 5,100 [fn closing market] | google:파이낸셜뉴스#44baefc7 | aen3
-2026-11-09 16:12 | ngetnews.com | 삼성바이오에피스, 휴미라 복제약 특허 분쟁서 반격…경쟁사 특허 무효... | https://www.ngetnews.com/news/articleView.html?idxno=555708 | a10,ax2,ax5
-2026-11-09 16:07 | BeritaOne.id | Negara Terancam Rugi, Dugaan Penjarahan TBS Eks Gandaerah Seret Sejumlah Nama dan Kendaraan | google:BeritaOne.id#7b0695a0 | aid1,aid8
-2026-11-09 16:06 | hansbiz.co.kr | 삼성바이오에피스, '키트루다' 시밀러 3상서 동등성 입증…상용화 성큼 | http://www.hansbiz.co.kr/news/articleView.html?idxno=881366 | a10,ax2,ax5
-2026-11-09 16:00 | bizwnews.com | 삼성물산, 스마트 주거 서비스 강화 박차…금성백조와 홈닉 도입 위한 ... | http://www.bizwnews.com/news/articleView.html?idxno=151328 | a1
-2026-11-09 16:00 | pinpointnews.co.kr | [거래소 기관] 삼성전자 삼성바이오로직스 NAVER 삼성물산 쓸어 담았다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=502460 | a1,a7,ax2
-2026-11-09 15:58 | 매일경제 | The KOSPI, which had recently been on a downward trend, closed down on the 9th despite a turnaround | google:매일경제#7c6ceaaa | aen3
-2026-11-09 15:56 | pinpointnews.co.kr | [거래소 외국인] 효성중공업·삼성전자우 사고 삼성전자 팔았다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=502457 | a1,a7,ax2
-2026-11-09 15:56 | businesspost.co.kr | [오늘Who] 송규종 삼성물산 리조트·삼성웰스토리 경영 1년 '반쪽 성적표... | https://www.businesspost.co.kr/BP?command=article_view&num=451519 | a1,a12,ax6
-2026-11-09 15:46 | 조선일보 | Samsung Honors Hyundai in Rare Gratitude Event | google:조선일보#e385c124 | aen3
-2026-11-09 15:46 | srtimes.kr | 목동13단지 품은 삼성물산, 목동 첫 '래미안' 짓는다 | http://www.srtimes.kr/news/articleView.html?idxno=217077 | a1
-2026-11-09 15:44 | thevaluenews.co.kr | [건설 레이더] 삼성물산·IPARK·BS한양, 목동·고양 정비사업 품고 세종... | http://www.thevaluenews.co.kr/news/view.php?idx=203081 | a1
-2026-11-09 15:44 | financialreview.co.kr | [오늘의 제약리뷰] 삼성바이오에피스·셀트리온·제일약품·시지바이오... | http://www.financialreview.co.kr/news/articleView.html?idxno=46128 | a10,ax2,ax5
-2026-11-09 15:41 | International Business Times Australia | KOSPI Rebounds 1.5% as Samsung and SK Hynix Recover From Friday's Rout, but Foreign Selling Clouds Outlook | google:International Business Times Australia#29ab2043 | aen3
-2026-11-09 15:38 | mediapen.com | 삼성바이오 노조, 파업에 비상운영까지 압박…'품질관리 강화' 요구 논... | https://www.mediapen.com/news/view/1136213 | a7,ax2
-2026-11-09 15:37 | newsis.com | 13조 현대건설·12조 삼성물산 '역대 최대'…도시정비 수주 호황 | https://www.newsis.com/view/NISX20261109_0003860669 | a1
-2026-11-09 15:36 | theguru.co.kr | 삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보 | https://www.theguru.co.kr/news/article.html?no=109474 | a1
-2026-11-09 15:32 | edaily.co.kr | 삼성물산, 2.4조 목동13단지 재건축 수주…목동 첫 래미안 | https://www.edaily.co.kr/News/Read?newsId=03437446645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1
-2026-11-09 15:28 | asiatime.co.kr | 목동13단지 품은 삼성물산…5·9단지까지 '5조+α수주' 노린다 | https://www.asiatime.co.kr/article/20261109500331 | a1
-2026-11-09 15:22 | sentv.co.kr | 노동자 2명 사망한 아워홈…안전조치 미흡 등 92건 적발돼 | https://www.sentv.co.kr/article/view/sentv202611090173 | a12,ax6
-2026-11-09 15:19 | elaeis.co | WALHI Bongkar Sisi Gelap Sertifikasi RSPO, Label Sawit Berkelanjutan Diduga Cuma Kedok | google:elaeis.co#58032c21 | aid9
-2026-11-09 15:14 | news.dealsitetv.com | 삼성물산, 목동13단지 수주…AI 주차 적용 | https://news.dealsitetv.com/articles/178251 | a1
-2026-11-09 15:02 | ccreview.co.kr | 충북도·삼성물산·삼성전자, 청년단체·자립준비청년 지원 협약 | https://www.ccreview.co.kr/news/articleView.html?idxno=362173 | a1
-2026-11-09 15:02 | daily.hankooki.com | 파업으로 비상운영인데…"품질 위반 제보" 압박한 삼성바이오로직스 노... | https://daily.hankooki.com/news/articleView.html?idxno=1423167 | a7,ax2
-2026-11-09 14:52 | biz.sbs.co.kr | [반도체 따라잡기] 젠슨황 사적 일탈 일파만파 '中스파이 의혹' 엔비디... | https://biz.sbs.co.kr/article_hub/20000345114?division=NAVER | ax2?
-2026-11-09 14:49 | mk.co.kr | 삼성물산, 목동 13단지 재건축 시공사 선정… 목동 첫 ‘래미안 | https://www.mk.co.kr/article/12202429 | a1
-2026-11-09 14:46 | job-post.co.kr | 삼성바이오로직스 152만원…수주잔고 매출 전환 주목 | https://www.job-post.co.kr/news/articleView.html?idxno=237294 | a7,ax2
-2026-11-09 14:42 | financialpost.co.kr | 목동13단지 품은 삼성물산...'래미안 모브13'으로 목동 첫 진출 | https://www.financialpost.co.kr/news/articleView.html?idxno=285606 | a1
-2026-11-09 14:41 | marketscreener.com | Samsung C&T Bags Apartment Complex Reconstruction Project | google:marketscreener.com#3188c61b | aen1
-2026-11-09 14:40 | dnews.co.kr | 에스와이스틸텍, 삼성물산과 94억원 규모 공급계약 체결 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611091244292870200 | a1
-2026-11-09 14:38 | wikileaks-kr.org | 삼성에피스 '키트루다' 바이오시밀러 글로벌 3상 결과 발표 | https://www.wikileaks-kr.org/news/articleView.html?idxno=194391 | ax3
-2026-11-09 14:36 | theviewers.co.kr | [건설 Pick] 삼성물산, 목동13단지 재건축 시공사 선정 外 | https://theviewers.co.kr/View.aspx?No=4303797 | a1
-2026-11-09 14:36 | m-i.kr | 반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재' | https://www.m-i.kr/news/articleView.html?idxno=2016154 | a1
-2026-11-09 14:25 | 재경일보 | Samsung C&T wins 2.3763 trillion won contract for Mok-dong Complex 13 reconstruction : Real Estate : JKN | google:재경일보#265617b0 | aen1
-2026-11-09 14:16 | Invezz | Why are Samsung and SK Hynix stocks surging after South Korea's market crash? | google:Invezz#13363a77 | aen13
-2026-11-09 14:14 | kukinews.com | 삼성바이오 비상운영…노조 “품질 문제 생기면 규제기관 제보” | https://www.kukinews.com/article/view/kuk202611090102 | ax2
-2026-11-09 14:10 | Bengkulu Ekspress | Harga TBS di 11 Pabrik Mukomuko Kompak Tak Berubah, Tertinggi Rp2.950 per Kg - bengkuluekspress.disway.id | google:Bengkulu Ekspress#6f76591e | aid12
-2026-11-09 14:04 | dealsite.co.kr | [제약+] 삼성바이오에피스, 美 SITC서 키트루다 시밀러 3상 결과 발표 | https://dealsite.co.kr/articles/172346 | a10,ax2,ax5
-2026-11-09 13:56 | finomy.com | [공시]에스와이스틸텍, 삼성물산과 95억원 규모 공사계약 | http://www.finomy.com/news/articleView.html?idxno=266030 | a1
-2026-11-09 13:54 | e-science.co.kr | 삼성물산, 목동13단지 재건축 수주…대규모 공원·복합 커뮤니티 조성 | https://www.e-science.co.kr/news/articleView.html?idxno=139276 | a1
-2026-11-09 13:54 | ziksir.com | 삼성바이오에피스, '키트루다 시밀러' 3상 성공…SITC서 동등성 입증 | https://www.ziksir.com/news/articleView.html?idxno=152508 | a10,ax2,ax5
-2026-11-09 13:38 | vegannews.co.kr | 삼성물산, 목동13단지 시공사 선정…예정액 2조3763억원 | https://www.vegannews.co.kr/news/article.html?no=402430 | a1
-2026-11-09 13:30 | press9.kr | 삼성바이오 노조, 품질부서 파업시키고 "규제기관 신고" 압박 | http://www.press9.kr/news/articleView.html?idxno=85861 | a7,ax2
-2026-11-09 13:22 | datasom.co.kr | 삼성물산, 목동13단지 재건축 수주···2조3763억 규모 | https://www.datasom.co.kr/news/articleView.html?idxno=210710 | a1
-2026-11-09 13:20 | sateconomy.co.kr | 삼성물산, 서소문빌딩 재개발 데크공사 계약…에스와이스틸텍에 94억700... | https://sateconomy.co.kr/news/view/1065586488856270 | a1
-2026-11-09 13:08 | g-enews.com | ‘목동 첫 래미안’ 설계·기술 집약…삼성물산, 13단지서 새 주거 기준... | https://www.g-enews.com/view.php?ud=202611091301362245d6c92cbcc5_1 | a1
-2026-11-09 13:04 | naeil.com | 삼성물산 목동 재건축 첫 진출 | https://www.naeil.com/news/read/608067?ref=naver | a1
-2026-11-09 12:44 | paxetv.com | 삼성바이오에피스, '키트루다 바이오시밀러' 동등성 및 안전성 입증...美... | http://www.paxetv.com/news/articleView.html?idxno=286378 | a10,ax2,ax5
-2026-11-09 12:14 | newsprime.co.kr | [카드] "삼성물산과의 동행" 목동13단지, 래미안 모브13으로 재탄생 | http://www.newsprime.co.kr/news/article.html?no=754126 | a1
-2026-11-09 11:54 | newstnt.com | [특징주] 에스와이스틸텍, 서소문빌딩 재개발 공사 수주…삼성물산과 9... | https://www.newstnt.com/news/articleView.html?idxno=727391 | a1
-2026-11-09 11:54 | e-science.co.kr | 삼성바이오에피스, 키트루다 바이오시밀러 임상 3상 동등성 확인 | https://www.e-science.co.kr/news/articleView.html?idxno=139241 | a10,ax2,ax5
-2026-11-09 11:50 | tfmedia.co.kr | 삼성물산, 목동13단지 재건축 시공사 선정…2조3763억원 규모 | https://www.tfmedia.co.kr/news/article.html?no=208739 | a1
-2026-11-09 11:50 | goodkyung.com | [굿모닝! 9일 제약바이오 소식] 삼성바이오에피스·세라젬·셀트리온·동... | https://www.goodkyung.com/news/articleView.html?idxno=293256 | a10,ax2,ax5
-2026-11-09 11:48 | munhwa.com | 삼성바이오에피스 ‘SB27’, 임상3상서 키트루다 동등성 확인 | https://www.munhwa.com/article/11629866?ref=naver | a10,ax2,ax5
-2026-11-09 11:46 | queen.co.kr | 삼성물산 목동 첫 진출, 2.4조원 13단지 재건축 수주 … 최고 49층·3757가... | http://www.queen.co.kr/news/articleView.html?idxno=465981 | a1
-2026-11-09 11:40 | straightnews.co.kr | 삼성물산, 2조3700억짜리 목동 13단지 재건축 품었다 | https://www.straightnews.co.kr/news/articleView.html?idxno=314915 | a1
-2026-11-09 11:34 | econovill.com | 삼성물산, 서울 양천구 목동13단지 '깃발' ...목동 첫 '래미안' | https://www.econovill.com/news/articleView.html?idxno=756486 | a1
-2026-11-09 11:30 | chosun.com | 협력사 수천개 삼성, 왜 유독 현대차 위해 ‘감사의날’ 행사 열까? | https://www.chosun.com/economy/industry-company/2026/11/09/5W7WLPAMA5CB3OPYU3AATQIN3M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a7?,ax2?
-2026-11-09 11:27 | dt.co.kr | ‘목동 첫 래미안’ 깃발 꽂았다… 삼성물산, 2.4조 목동13단지 재건축 ... | https://www.dt.co.kr/article/12093925?ref=naver | a1
-2026-11-09 11:24 | biz.newdaily.co.kr | 목동에 첫 '래미안' 뜬다 … 삼성물산, 2.4조원 13단지 재건축 수주 | https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900145.html | a1
-2026-11-09 11:24 | incheonin.com | 삼성바이오에피스, '키트루다' 바이오시밀러 임상 3상 결과 발표 | http://www.incheonin.com/news/articleView.html?idxno=122127 | a10,ax2,ax5
-2026-11-09 11:24 | ajunews.com | 삼성바이오에피스, 키트루다 시밀러 3상서 오리지널과 동등성 입증 | https://www.ajunews.com/view/20261109111523059 | a10,ax2,ax5
-2026-11-09 11:22 | updownnews.co.kr | 삼성물산, 목동13단지 2.4조 규모 재건축 수주…목동 첫 래미안 | https://www.updownnews.co.kr/news/articleView.html?idxno=319479 | a1
-2026-11-09 11:20 | 매일경제 | Samsung Bioepis confirmed its equivalence to the original drug in phase 3 biosimilar clinical trials.. | google:매일경제#e10113a3 | aen4
-2026-11-09 11:20 | cnbizm.com | 삼성물산, 목동13단지 재건축 수주… 목동에 첫 '래미안' 들어서 | https://www.cnbizm.com/news/articleView.html?idxno=320715 | a1
-2026-11-09 11:20 | huffingtonpost.kr | 삼성물산 건설부문 래미안 서울 목동아파트 재건축 수주 첫 발 : 공중 산... | https://www.huffingtonpost.kr/article/261897 | a1,a3
-2026-11-09 11:16 | newsian.co.kr | '1111 대축제' 다시 열리나…삼성, 12년 만 프로야구 우승에 '팬 감사제... | https://www.newsian.co.kr/news/articleView.html?idxno=100858 | a1,a5
-2026-11-09 11:16 | news.dealsitetv.com | [제약+] 삼성바이오에피스, ‘키트루다 바이오시밀러’ 3상 공개 外 | https://news.dealsitetv.com/articles/178250 | a10,ax2,ax5
-2026-11-09 11:14 | 4th.kr | 삼성바이오에피스 키트루다 시밀러 임상 3상서 동등성 입증 | http://www.4th.kr/news/articleView.html?idxno=2121417 | a10,ax2,ax5
-2026-11-09 11:14 | ngetnews.com | 삼성바이오에피스, 바이넥스와 208억원 규모 CMO 계약 | https://www.ngetnews.com/news/articleView.html?idxno=555689 | a10,ax2,ax5
-2026-11-09 11:14 | koreatimes.co.kr | Samsung Bioepis' Keytruda biosimilar demonstrates equivalence in global P... | https://www.koreatimes.co.kr/path/A2026110910380003233 | a11,aen4
-2026-11-09 11:06 | cstimes.com | 삼성물산, 목동13단지 재건축 수주…3757세대 랜드마크로 | https://www.cstimes.com/news/articleView.html?idxno=727118 | a1
-2026-11-09 11:06 | ngetnews.com | 삼성바이오에피스, SITC서 키트루다 시밀러 'SB27' 3상 입증 | https://www.ngetnews.com/news/articleView.html?idxno=555686 | a10,ax2,ax5
-2026-11-09 11:04 | Seoul Economic Daily | Samsung C&T Wins Mokdong Complex 13 Rebuilding Deal | google:Seoul Economic Daily#ce659c3d | aen1
-2026-11-09 11:04 | businesspost.co.kr | 삼성바이오에피스, 미국 면역항암학회서 '키트루다' 바이오시밀러 임상... | https://www.businesspost.co.kr/BP?command=article_view&num=451495 | a10,ax2,ax5
-2026-11-09 11:00 | hankyung.com | 목동에 래미안 '첫발'…13단지 시공사에 삼성물산 최종 선정 | https://www.hankyung.com/article/202611094539i | a1
-2026-11-09 11:00 | smedaily.co.kr | 삼성물산, 2.3조 목동13단지 수주…도시정비 13조 눈앞 | http://www.smedaily.co.kr/news/articleView.html?idxno=365865 | a1
-2026-11-09 11:00 | thevaluenews.co.kr | [제약 레이더] 삼성바이오에피스·셀트리온·시지바이오, 항암제 임상부... | http://www.thevaluenews.co.kr/news/view.php?idx=203069 | a10,ax2,ax5
-2026-11-09 10:56 | ebn.co.kr | 삼성물산, 목동 재건축 첫발…2.4조 목동13단지 시공권 확보 | https://www.ebn.co.kr/news/articleView.html?idxno=1730899 | a1
-2026-11-09 10:55 | kormedi.com | 삼성바이오에피스, 키트루다 시밀러 3상 중간분석서 동등성 확인 | https://kormedi.com/?p=2901178 | a10,ax2,ax5
-2026-11-09 10:52 | moneystorm.kr | 삼성물산 목동13단지 수주로 올해 수주누계 현대건설 바짝 추격...이변 ... | https://www.moneystorm.kr/news/articleView.html?idxno=8206 | a1
-2026-11-09 10:52 | new.dailypharm.com | 삼성바이오에피스, 키트루다 시밀러 3상 결과 공개 | https://new.dailypharm.com/user/news/344332?REFERER=NP | a10,ax2,ax5
-2026-11-09 10:50 | 헤럴드경제 | Mokdong 13 complex to become first Raemian project in Mokdong | google:헤럴드경제#77737db6 | aen1
-2026-11-09 10:50 | globalepic.co.kr | 삼성물산, 목동13단지 시공사 선정…최고 49층 3757세대 ‘래미안 모브... | https://www.globalepic.co.kr/view.php?ud=2026110910463432504ee4ea3d05_29 | a1
-2026-11-09 10:48 | newsworks.co.kr | 삼성물산, 목동13단지 재건축 수주…공사비 2조3763억·단지명 '래미안 ... | https://www.newsworks.co.kr/news/articleView.html?idxno=902373 | a1
-2026-11-09 10:46 | biz.sbs.co.kr | 삼성물산, 목동13단지 재건축 수주…목동 재건축 첫 '래미안' | https://biz.sbs.co.kr/article_hub/20000345062?division=NAVER | a1
-2026-11-09 10:45 | seoulfn.com | [건설브리핑] 삼성물산, 목동13단지 재건축 시공사 선정 | https://www.seoulfn.com/news/articleView.html?idxno=642260 | a1
-2026-11-09 10:39 | elaeis.co | Uang Premi Sertifikasi RSPO Bisa Jadi Modal Usaha Petani Sawit, Ini yang Harus Dilakukan! | google:elaeis.co#fd0c8f30 | aid8
-2026-11-09 10:36 | koreaittimes.com | 삼성물산, 목동13단지 재건축 수주… '래미안 모브13' 첫선 | https://www.koreaittimes.com/news/articleView.html?idxno=158933 | a1
-2026-11-09 10:34 | popcornnews.net | 삼성물산, 2.37조 '목동13단지' 수주...단지명 '래미안 모브13' 제안 | http://www.popcornnews.net/news/articleView.html?idxno=139206 | a1
-2026-11-09 10:32 | whitepaper.co.kr | 삼성물산, 2조3763억 규모 목동13단지 재건축 시공권 확보 | http://www.whitepaper.co.kr/news/articleView.html?idxno=268558 | a1
-2026-11-09 10:32 | koreabiomed.com | Samsung Bioepis' SB27 shows phase 3 equivalence to pembrolizumab in metas... | https://www.koreabiomed.com/news/articleView.html?idxno=33773 | a11,aen4
-2026-11-09 10:30 | dizzotv.com | 삼성물산, 2.3조 규모 서울 목동13단지 재건축 시공사 선정 | https://www.dizzotv.com/site/data/html_dir/2026/11/09/2026110980054.html | a1
-2026-11-09 10:30 | newsis.com | '12년 만에 KS 우승' 삼성, 또다시 대국민 감사 행사 나서나 | https://www.newsis.com/view/NISX20261109_0003860080 | a1,a5
-2026-11-09 10:28 | techholic.co.kr | 삼성물산, 공사비 2조 3763억원 규모 서울 목동13단지 재건축 시공사 선... | http://www.techholic.co.kr/news/articleView.html?idxno=223587 | a1
-2026-11-09 10:28 | news.tf.co.kr | 목동13단지에 49층 래미안…삼성물산, 시공권 확보 | https://news.tf.co.kr/read/economy/2386285.htm | a1
-2026-11-09 10:24 | shinailbo.co.kr | 래미안 첫 입성…삼성물산, '목동13단지 재건축' 수주 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5081057 | a1
-2026-11-09 10:23 | 뉴스웍스 | Samsung Bioepis to Present Keytruda Biosimilar Phase 3 Clinical Results at U.S. Immunotherapy Conference | google:뉴스웍스#48a54fd1 | aen4
-2026-11-09 10:21 | upkoreanews.kr | [창간22주년 특집: 글로벌 바이오의 중심에 서다]③ 삼성바이오로직스,... | https://www.upkoreanews.kr/news/articleView.html?idxno=101053 | a7,ax2
-2026-11-09 10:20 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍ현대건설ㆍSK에코플랜트 (11.9) | http://www.weeklytoday.com/news/articleView.html?idxno=801406 | a1
-2026-11-09 10:18 | weekly.hankooki.com | 삼성바이오에피스, 美 면역항암학회서 SB27 임상 3상 동등성 확인 | https://weekly.hankooki.com/news/articleView.html?idxno=7192861 | a10,ax2,ax5
-2026-11-09 10:16 | 머니투데이 | KOSPI regains 5,100 as individual and institutional investors lead buying | google:머니투데이#5c99fb7b | aen3
-2026-11-09 10:16 | donga.com | ‘목동 홀수 단지’ 노린다던 삼성물산, 13단지 첫 수주…2조3760억 원 규... | https://www.donga.com/news/Economy/article/all/20261109/134990122/1 | a1
-2026-11-09 10:14 | digitalchosun.dizzo.com | 삼성바이오에피스 키트루다 바이오시밀러, 3상 반응률 34.6%…동등성 기... | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/09/2026110980040.html | a10,ax2,ax5
-2026-11-09 10:09 | biz.sbs.co.kr | 삼성바이오에피스, 46조원 매출 '키트루다'…복제약 임상 3상서 동등성... | https://biz.sbs.co.kr/article_hub/20000345045?division=NAVER | a10,ax2,ax5
-2026-11-09 10:08 | kpinews.kr | 삼성물산, 2.3조 목동13단지 재건축 수주…'래미안 모브13' 조성 | https://www.kpinews.kr/newsView/1065575209840065 | a1
-2026-11-09 10:06 | weekly.hankooki.com | 삼성물산 건설부문, 양천구 목동13단지 재건축 수주…2조3763억원 규모 | https://weekly.hankooki.com/news/articleView.html?idxno=7192871 | a1,a3
-2026-11-09 10:04 | 조선일보 | Samsung Bioepis Keytruda Biosimilar Proves Equivalent Efficacy | google:조선일보#7723cbe3 | aen4
-2026-11-09 10:04 | livebiz.today | 삼성물산, 2.4조 규모 서울 목동13단지 재건축 수주 | https://www.livebiz.today/news/articleView.html?idxno=206314 | a1
-2026-11-09 10:02 | insight.co.kr | 삼성물산, 2.4조 목동13단지 품었다... 목동 첫 '래미안' 들어선다 | https://www.insight.co.kr/news/581158 | a1
-2026-11-09 10:00 | kukinews.com | 삼성물산, 목동 13단지 재건축 수주…첫 ‘래미안’ 들어선다 | https://www.kukinews.com/article/view/kuk202611090025 | a1
-2026-11-09 10:00 | lcnews.co.kr | [건설 Pick] 삼성물산·GS건설·대우건설, 대규모 수주와 친환경 자원순... | https://www.lcnews.co.kr/news/articleView.html?idxno=211023 | a1
-2026-11-09 09:58 | 머니투데이 | Samsung Biologics Epix’s ‘SB27’ Demonstrates Equivalence to Keytruda in Global Phase 3 Trial | google:머니투데이#deae1277 | aen3,aen4
-2026-11-09 09:58 | newspost.kr | 삼성물산, 2.4조 규모 목동13단지 재건축 수주...래미안 모브13 제안 | https://www.newspost.kr/news/articleView.html?idxno=227161 | a1
-2026-11-09 09:58 | newsdream.kr | 삼성물산, 2조원대 목동13단지 시공권 확보…최고 49층 랜드마크 건립 | http://www.newsdream.kr/news/articleView.html?idxno=121657 | a1
-2026-11-09 09:58 | mt.co.kr | 삼성바이오에피스 'SB27', 글로벌 3상서 키트루다와 동등성 입증 | https://www.mt.co.kr/thebio/2026/11/09/2026110909175728470 | a10,ax2,ax5
-2026-11-09 09:56 | sisajournal-e.com | 삼성바이오로직스 우리사주 청약 개시···파업과 유상증자 청약 '딜레... | https://www.sisajournal-e.com/news/articleView.html?idxno=424874 | a1,a7,ax2
-2026-11-09 09:55 | fnnews.com | 삼성물산, 목동 13단지 재건축 수주…2.4조 규모[공시] | https://www.fnnews.com/news/202611090952177528 | a1
-2026-11-09 09:52 | bizwork.co.kr | 삼성물산, 2.4兆 '목동13단지' 재건축 수주 | https://www.bizwork.co.kr/news/articleView.html?idxno=420643 | a1
-2026-11-09 09:51 | chosun.com | 삼성바이오, 세계 1위 항암제 ‘키트루다’ 복제약 임상 3상서 동등성 확... | https://www.chosun.com/economy/science/2026/11/09/BKMSKQKDKNG5JO2EJYE5UDJXTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | ax2
-2026-11-09 09:50 | smartbizn.com | 삼성물산, 목동13단지 잡았다···현대건설과 정비사업 수주 '양강전' | https://www.smartbizn.com/news/articleView.html?idxno=158790 | a1
-2026-11-09 09:50 | ebn.co.kr | 삼성바이오에피스, 키트루다 바이오시밀러 임상 3상 성공…글로벌 출시... | https://www.ebn.co.kr/news/articleView.html?idxno=1730873 | a10,ax2,ax5
-2026-11-09 09:48 | newsian.co.kr | [재건축 MAP] 삼성물산, 2.3兆 '목동13단지'에 깃발…'래미안 모브13' 출... | https://www.newsian.co.kr/news/articleView.html?idxno=100856 | a1
-2026-11-09 09:48 | mk.co.kr | “목동 첫 래미안 브랜드 아파트”…삼성물산, 목동13단지 재건축 수주 | https://www.mk.co.kr/article/12202079 | a1
-2026-11-09 09:48 | sisaon.co.kr | 삼성물산, 목동13단지 재건축 수주…다음 타깃은? | https://www.sisaon.co.kr/news/articleView.html?idxno=205888 | a1
-2026-11-09 09:47 | 매일경제 | Samsung C&T's construction division (hereinafter referred to as Samsung C&T) will introduce | google:매일경제#b1975a6f | aen1
-2026-11-09 09:44 | pinpointnews.co.kr | 삼성물산, 목동13단지 재건축 시공사 선정…'래미안 모브13' 제안 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=502267 | a1
-2026-11-09 09:41 | catchnews.kr | '1만평 커뮤니티·101개 프로그램' 삼성물산, 2.4조원대 목동13단지 재건... | https://www.catchnews.kr/news/articleView.html?idxno=130228 | a1
-2026-11-09 09:40 | womentimes.co.kr | 삼성물산, 공사비 2조3763억원 목동13단지 재건축 수주 '래미안 모브13'... | https://www.womentimes.co.kr/news/articleView.html?idxno=107702 | a1
-2026-11-09 09:36 | new.dailypharm.com | 삼성에피스, 키트루다 바이오시밀러 글로벌 3상서 동등성 입증 | https://new.dailypharm.com/user/news/344317?REFERER=NP | ax3
-2026-11-09 09:35 | BigGo Finance | Samsung Bioepis' Keytruda Biosimilar Confirms Phase 3 Equivalence; Enters US, South Korean Regulatory Review | google:BigGo Finance#3db4f20a | aen4
-2026-11-09 09:32 | segyebiz.com | “목동 첫 래미안”... 삼성물산, 2.3조 규모 목동13단지 재건축 수주 | http://www.segyebiz.com/newsView/20261109504009?OutUrl=naver | a1
-2026-11-09 09:30 | gokorea.kr | 삼성물산 목동13단지 재건축 2조3763억원 수주 | https://www.gokorea.kr/news/articleView.html?idxno=884698 | a1
-2026-11-09 09:30 | apsk.co.kr | 삼성바이오에피스, 키트루다 시밀러 3상 동등성 확인…허가·특허 대응... | https://www.apsk.co.kr/news/articleView.html?idxno=540996 | a10,ax2,ax5
-2026-11-09 09:29 | 아시아경제 | Samsung C&T Wins KRW 2.4 Trillion Mokdong Complex 13 Reconstruction Project, Bringing First Raemian to Mokdong | google:아시아경제#f7070313 | aen1
-2026-11-09 09:26 | 파이낸셜뉴스 | Mokdong to get its first 'Raemian' complex as Samsung C&T wins contract for Mokdong Complex 13 | google:파이낸셜뉴스#177326fd | aen1
-2026-11-09 09:26 | dailian.co.kr | 삼성에피스 SB27, 임상 3상서 키트루다와 동등성 입증 | https://www.dailian.co.kr/news/view/1712370/?sc=Naver | ax3
-2026-11-09 09:20 | Chosunbiz | Samsung Bioepis unveils Keytruda biosimilar data, targets US and Korea markets | google:Chosunbiz#c52fe160 | aen4
-2026-11-09 09:14 | asiatime.co.kr | 삼성바이오에피스, 美 SITC서 키트루다 시밀러 임상 3상 결과 공개 | https://www.asiatime.co.kr/article/20261109500026 | a10,ax2,ax5
-2026-11-09 09:12 | kizmom.com | 삼성물산, 목동13단지 재건축 수주…2조3763억원 규모 '목동 첫 래미안' | https://www.kizmom.com/news/articleView.html?idxno=113838 | a1
-2026-11-09 09:06 | pointe.co.kr | 삼성물산, 목동13단지 재건축 낙점…목동 첫 래미안 깃발 | https://www.pointe.co.kr/news/articleView.html?idxno=87344 | a1
-2026-11-09 09:05 | BigGo Finance | Samsung Electronics, SK Hynix Rebound ~1% in Pre-Market Trading; KOSPI Tries to Defend 5,000 on U.S. Chip Rally | google:BigGo Finance#2462686e | aen3
-2026-11-09 08:56 | inthenews.co.kr | 삼성물산, 목동13단지 재건축 수주…3757세대 래미안 조성 | https://www.inthenews.co.kr/news/article.html?no=94178 | a1
-2026-11-09 08:56 | biz.heraldcorp.com | ‘매출 46조’ 키트루다 시밀러…삼성바이오에피스, 글로벌 3상 동등성... | https://biz.heraldcorp.com/article/10930017?ref=naver | a10,ax2,ax5
-2026-11-09 08:55 | 헤럴드경제 | Samsung Bioepis proves equivalence of Keytruda biosimilar in global Phase 3 trial | google:헤럴드경제#90c449db | aen4
-2026-11-09 08:50 | Chosunbiz | Samsung C&T wins Mok-dong 13 rebuild, debuting Raemian in Seoul | google:Chosunbiz#a36fa55e | aen1
-2026-11-09 08:49 | Seoul Economic Daily | Samsung Bioepis Says Keytruda Biosimilar Matches Original in Phase 3 | google:Seoul Economic Daily#f1bc93b2 | aen4
-2026-11-09 08:48 | datanews.co.kr | 삼성물산 건설부문, 하이테크 효과에 이미 작년 영업이익 추월 | http://www.datanews.co.kr/news/article.html?no=147407 | a1,a3
-2026-11-09 08:36 | joongboo.com | 인천 송도 바이오기업 주가 '급락장 속' 상승세...외인 팔고 기관 사고 | https://www.joongboo.com/news/articleView.html?idxno=363741861 | a7,ax2
-2026-11-09 08:34 | medipana.com | 46조 키트루다 정조준…삼성바이오에피스, 바이오시밀러 3상 성공 | https://www.medipana.com/news/articleView.html?idxno=421263 | a10,ax2,ax5
-2026-11-09 08:30 | g-enews.com | [개장 전 주요 공시] 삼성물산·LS·메리츠금융지주·한전기술·한화M&S ... | https://www.g-enews.com/view.php?ud=202611090822173899923c501012_1 | a1
-2026-11-09 08:30 | issuenbiz.com | 삼성바이오에피스, 46조원 키트루다 시장 공략 속도…임상 3상 동등성 입... | http://www.issuenbiz.com/news/articleView.html?idxno=81361 | a10,ax2,ax5
-2026-11-09 08:28 | g-enews.com | 삼성물산, 목동13단지 품었다…2조3700억 규모 재건축 시공권 확보 | https://www.g-enews.com/view.php?ud=202611090819579317d6c92cbcc5_1 | a1
-2026-11-09 08:26 | hansbiz.co.kr | 삼성물산, 2조원대 목동13단지 재건축 시공사 선정 | http://www.hansbiz.co.kr/news/articleView.html?idxno=881069 | a1
-2026-11-09 08:26 | it.chosun.com | 삼성바이오에피스, 46조원 키트루다 복제약 임상 3상 공개… 韓·美 허가... | https://it.chosun.com/news/articleView.html?idxno=3000000000506 | a10,ax2,ax5
-2026-11-09 08:22 | pharmnews.com | 삼성바이오에피스 SB27, 국제학회서 키트루다와 동등성 확인 | https://www.pharmnews.com/news/articleView.html?idxno=307716 | a10,ax2,ax5
-2026-11-09 08:02 | 4th.kr | 삼성물산, 목동13단지 재건축 수주..연간 목표 13조원 달성 눈앞 | http://www.4th.kr/news/articleView.html?idxno=2121394 | a1
-2026-11-09 07:50 | cbci.co.kr | [속보] 삼성물산, 목동13단지 재건축 시공사 선정…공사 예정금액 2조37... | https://www.cbci.co.kr/news/articleView.html?idxno=624621 | a1
-2026-11-09 07:40 | TradingView | Samsung C&T Corp Wins 2.38 Trillion Won Contract | google:TradingView#5ba8f2cc | aen1
-2026-11-09 07:40 | news.bizwatch.co.kr | [단독]베일 벗은 바이넥스 고객사 '삼성바이오에피스'…2년째 협력 | https://news.bizwatch.co.kr/article/healthcare/2026/11/06/0047 | a10,ax2,ax5
+2026-11-11 07:04 | dealsite.co.kr | [삼성에피스홀딩스 출범 1년] 플랫폼 거점 '에피스넥스랩' 선봉…신약개... | https://dealsite.co.kr/articles/172464 | a9,ax3,ax4
+2026-11-11 06:02 | news.mtn.co.kr | 삼성물산 빠진 서계통합구역 재개발은 GS건설·대우건설 2파전 | https://news.mtn.co.kr/article/2026111016533118148 | a1
+2026-11-11 06:00 | pharmnews.com | [사설] 삼성바이오로직스 노사갈등, 200일의 교훈과 과제 | https://www.pharmnews.com/news/articleView.html?idxno=307757 | a7,ax2
+2026-11-11 05:22 | dnews.co.kr | [르포] 중앙공원 사이로 재건축 ‘속도전’과 ‘소송전’ | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611061722498780034 | a1
+2026-11-11 04:20 | ekn.kr | [패트롤] 인천시-인천경제청-인천문화재단-인천시교육청 | https://www.ekn.kr/web/view.php?key=20261111023018017 | a10,ax2,ax3?,ax5
+2026-11-10 21:07 | zdnet.co.kr | 솔루스도 가동 중단…헝가리 배터리 공장 안갯속 | https://zdnet.co.kr/view/?no=20261110162120 | ax2?
+2026-11-10 20:14 | Palpos | Viral Video Kades di Indralaya Utara Mengamuk Bawa Parang, Diduga Dipicu Sengketa Lahan - palpos.disway.id | google:Palpos#bc6c2fa6 | aid9
+2026-11-10 19:55 | Pekanbaru Pos | Jangan Cuma Keruk Kekayaan Riau, Massa Kepung PHR, Tuntut DBH Migas dan Sawit 70 Persen | google:Pekanbaru Pos#962d08ff | aid9
+2026-11-10 18:48 | ad-hoc-news.de | Teva stock: Guidance lift meets Samsung Bioepis valuation test | google:ad-hoc-news.de#113a9bb7 | aen4
+2026-11-10 18:16 | ntoday.co.kr | 목동 품은 삼성물산, 도시정비로 '래미안 신화' 잇는다 | https://www.ntoday.co.kr/news/articleView.html?idxno=130741 | a1
+2026-11-10 18:16 | medicopharma.co.kr | [바이오 마감 브리핑]증시 반등에도 대형주 약세…삼성바이오·셀트리온... | https://www.medicopharma.co.kr/news/articleView.html?idxno=70336 | ax2
+2026-11-10 17:48 | koreastocknews.com | 삼성물산, 도시정비 수주 12.8조···13조 목표까지 1551억원 | http://www.koreastocknews.com/news/articleView.html?idxno=122205 | a1
+2026-11-10 17:29 | Simply Wall St | Teva Pharmaceutical Industries (TEVA) Following Guidance Lift And Samsung Bioepis Deal Is It Fully Valued | google:Simply Wall St#26f0da42 | aen4
+2026-11-10 17:10 | ekn.kr | 쿠팡 제재·추징금 올해만 1.2조…공정경쟁 확립? 기업 죽이기? [이슈+] | https://www.ekn.kr/web/view.php?key=20261110024547759 | a12,ax6
+2026-11-10 16:48 | delighti.co.kr | 삼성전자 소액주주 797만명 '압도적 1위'…SK하이닉스·LS일렉트릭 껑충 | https://www.delighti.co.kr/news/articleView.html?idxno=124694 | ax2?
+2026-11-10 16:38 | Suarariau.id | Harga Sawit Riau Periode 11-17 November Turun, Terungkap Penyebabnya | google:Suarariau.id#a6a39ae6 | aid2
+2026-11-10 16:35 | 머니투데이 | From "victory beer" to "cheering goods"... Consumption driven by baseball | google:머니투데이#097a2772 | aen2
+2026-11-10 16:26 | 머니투데이 | Samsung and SK hynix climb on expectations of continued AI spending | google:머니투데이#09d1feec | aen2
+2026-11-10 16:22 | m-i.kr | "상장사 소액주주 1년 반 새 24% 증가…삼성전자 1위" | https://www.m-i.kr/news/articleView.html?idxno=2016811 | ax2?
+2026-11-10 16:10 | news.bizwatch.co.kr | 삼성바이오 노조 파업에 근무환경 놓고 내부 갈등 | https://news.bizwatch.co.kr/article/healthcare/2026/11/10/0034 | a7?,ax2
+2026-11-10 16:01 | Chosunbiz | KOSPI jumps 4% to 5,239 as chip stocks rally; foreigners, institutions buy | google:Chosunbiz#c9de25cc | aen3
+2026-11-10 15:56 | HALLORIAU.COM | Harga Sawit Mitra Swadaya Riau Turun, TBS Umur 9 Tahun Tembus Rp3.719,99/Kg | google:HALLORIAU.COM#ffd38ef3 | aid2
+2026-11-10 15:56 | Riau Online | Turun Lagi, Harga TBS Sawit Mitra Swadaya Jadi Rp3.719 per Kilogram | google:Riau Online#f77f9cfb | aid2
+2026-11-10 15:44 | widedaily.com | [특징주] 에스와이스틸텍, 삼성물산과 94억 공급 계약 및 전후 재건 훈풍... | https://www.widedaily.com/news/articleView.html?idxno=303287 | a1
+2026-11-10 15:42 | newstomato.com | 역대급 정비사업 수주에도…공사비·재초환·과징금 '삼중고' | http://www.newstomato.com/ReadNews.aspx?no=1319902&inflow=N | a1?
+2026-11-10 15:34 | Potret24.com | GM PLN UID Riau Kepri Cek K3 UP3 Rengat Lewat Safety Walk Down | google:Potret24.com#5cb1a124 | aid1
+2026-11-10 15:22 | sawitsetara.co | Harga TBS Sawit Mitra Swadaya Riau Periode 11–17 November 2026 Turun Rp9,49 per Kg, Umur 9 Tahun Jadi Rp3.719 | google:sawitsetara.co#e8f85b1c | aid2
+2026-11-10 15:04 | job-post.co.kr | 삼성바이오로직스 거래량 57,126주…수주잔고와 생산능력 확대 점검 | https://www.job-post.co.kr/news/articleView.html?idxno=237624 | a7,ax2
+2026-11-10 15:00 | thepublic.kr | AI 데이터센터로 눈 돌린 건설사들…사업 확대 속 美 규제 변수 부상 | https://www.thepublic.kr/news/articleView.html?idxno=325860 | a1
+2026-11-10 15:00 | Media Center Riau | Harga TBS Sawit Mitra Swadaya Riau Pekan Ini Jadi Rp3.719 per Kg | google:Media Center Riau#676adb8c | aid2
+2026-11-10 14:59 | bloter.net | 목동13단지, 삼성물산 시공사 선정…고급화 경쟁에 '래미안' 가세 | https://www.bloter.net/news/articleView.html?idxno=678214 | a1
+2026-11-10 14:52 | newsian.co.kr | [디깅 인사이드] 일은 멈추고 복지는 챙기고…삼성바이오 노조의 '체리... | https://www.newsian.co.kr/news/articleView.html?idxno=100972 | ax2
+2026-11-10 14:48 | viva100.com | 한국투자공사, 삼성화재와 英 캐노피우스 공동 인수 | https://www.viva100.com/article/20261110500939 | ax2?
+2026-11-10 14:48 | esgeconomy.com | 국내 상장사 소액주주 24% 늘었지만 보유주식은 되레 10% 감소 | https://www.esgeconomy.com/news/articleView.html?idxno=17323 | ax2?
+2026-11-10 14:31 | ppss.kr | 한국투자공사, 삼성화재 英 보험사 인수에 3억달러 투자…'3년 뒤 지분 ... | https://www.ppss.kr/news/articleView.html?idxno=320104 | ax2?
+2026-11-10 14:21 | topdaily.kr | [TOP's Pick] [유통] 롯데칠성음료, 태국 유통사와 음료∙생수사업 협업... | https://www.topdaily.kr/articles/112810 | ax6?
+2026-11-10 14:18 | wikileaks-kr.org | '권리는 챙기고 책임은 외면?'..삼성바이오 노조에 비판 목소리 | https://www.wikileaks-kr.org/news/articleView.html?idxno=194445 | ax2
+2026-11-10 14:06 | hansbiz.co.kr | 한국투자공사, 삼성화재와 손잡고 글로벌 보험시장 공략 | http://www.hansbiz.co.kr/news/articleView.html?idxno=881701 | ax2?
+2026-11-10 14:02 | theguru.co.kr | “일 안해도 밥은 공짜로 달라?"…삼성바이오 노조 '체리피킹 파업' 논... | https://www.theguru.co.kr/news/article.html?no=109522 | a7,ax2
+2026-11-10 13:58 | 4th.kr | 상장사 소액주주 1년반 새 24% 증가…보유주식은 10% 감소 | http://www.4th.kr/news/articleView.html?idxno=2121526 | ax2?
+2026-11-10 13:50 | sateconomy.co.kr | 신한투자증권, 삼성바이오 2.66조 유증 공동주관…KCC 회사채도 참여 | https://sateconomy.co.kr/news/view/1065587524350278 | ax2
+2026-11-10 13:30 | news.mtn.co.kr | KIC, 삼성화재와 英보험사 공동인수…"전략적 투자 힘껏 추진" | https://news.mtn.co.kr/article/2026111013293735763 | ax2?
+2026-11-10 13:26 | METRORIAU.COM | PT Gandaerah Hendana Salurkan Bantuan Sosial di Tiga Desa Sekitar | google:METRORIAU.COM#3ee5a85b | aid1
+2026-11-10 13:25 | BigGo Finance | Pentagon Drops WuXi AppTec From Military List, Clouding Korean CDMO Outlook | google:BigGo Finance#65b21945 | aen3
+2026-11-10 13:04 | bizwnews.com | 삼성물산, 목동 첫 '래미안' 선보인다…양천구 목동13단지 재건축 시공... | http://www.bizwnews.com/news/articleView.html?idxno=151454 | a1
+2026-11-10 12:25 | BigGo Finance | South Korean Investors Sell Samsung Electronics and SK Hynix, Buy Samsung Electro-Mechanics on 40% One-Month Plunge | google:BigGo Finance#de11ad0f | aen3
+2026-11-10 11:24 | press9.kr | 삼성바이오에피스·셀트리온, 美 약가 인하에 기회·부담 공존 | http://www.press9.kr/news/articleView.html?idxno=85936 | a10,ax2,ax5
+2026-11-10 11:22 | The Korea Times | Everland's newest panda Shubao draws 50,000 visitors in 10 days | google:The Korea Times#4ff3d769 | aen1
+2026-11-10 11:12 | 파이낸셜뉴스 | “Today Is a Red Day”... KOSPI Rebounds in the 3% Range as Investors Buy Semiconductor Stocks on the Dip [fn Morning Market Update] | google:파이낸셜뉴스#af6bb4a1 | aen3
+2026-11-10 11:11 | 머니투데이 | Samsung Electronics and SK hynix surge together on upbeat US AI chip sentiment | google:머니투데이#6d4fef18 | aen2
+2026-11-10 11:08 | news.einfomax.co.kr | KIC, 삼성화재 손잡고 英보험사 캐노피우스에 3억달러 투자 | https://news.einfomax.co.kr/news/articleView.html?idxno=4443945 | ax2?
+2026-11-10 11:00 | kpenews.com | [데스크칼럼] 삼성바이오로직스, 자승자박(自繩自縛) 굴레에 빠진 노조... | https://kpenews.com/View.aspx?No=4305057 | a7,ax2
+2026-11-10 11:00 | industrynews.co.kr | 상장사 소액주주 1년 반 새 24% 늘어난 8137만명…보유주식 10%↓ | https://www.industrynews.co.kr/news/articleView.html?idxno=89200 | ax2?
+2026-11-10 10:58 | newsprime.co.kr | 상장사 10곳 중 7곳 소액주주 감소…삼성전자·SK하이닉스는 '북적' | http://www.newsprime.co.kr/news/article.html?no=754309 | ax2?
+2026-11-10 10:24 | breaknews.com | “소액주주 24% 늘었는데 지분은 10% 줄었다”..이유는? | http://www.breaknews.com/1249708 | ax2?
+2026-11-10 10:19 | 헤럴드경제 | Korea Expressway Corporation holds joint heavy-snow disaster drill | google:헤럴드경제#90587cba | aen13
+2026-11-10 10:14 | biz.newdaily.co.kr | 한국투자공사, 삼성화재 英 캐노피우스 인수에 3억달러 '실탄' 지원 | https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000117.html | ax2?
+2026-11-10 10:04 | 아시아경제 | Winter Arrives Early, Padded Jackets 'Fly Off the Shelves'... What's at Stake for Fashion Companies in Q4? | google:아시아경제#305cbdd7 | aen1
+2026-11-10 10:04 | pointdaily.co.kr | [송영택의 시시비비]공정위의 '고무줄 잣대'…공정은 사라지고 과징금만... | https://www.pointdaily.co.kr/news/articleView.html?idxno=325363 | a12,ax6
+2026-11-10 09:41 | fnnews.com | 삼성화재 英 M&A에 KIC·KKR 8억弗…'지분 재매입' 옵션도 확보 [fn마켓워... | https://www.fnnews.com/news/202611100922070750 | ax2?
+2026-11-10 09:38 | Harianmemokepri.com | Dasar Kesepakatan Ganti Rugi Lahan PT CSA di Lingga Dipertanyakan, Humas Akui Tak Tahu Legalitas Dokumen | google:Harianmemokepri.com#401f304c | aid9
+2026-11-10 09:37 | newspim.com | [모닝 리포트] "SK케미칼, 자회사 선방에 주주가치 제고 기대" | https://www.newspim.com/news/view/20261110000078 | ax2?
+2026-11-10 09:24 | efnews.co.kr | 국내 상장사 소액주주 1년 반 새 24%↑ … 보유주식은 10%↓ | http://www.efnews.co.kr/news/articleView.html?idxno=133841 | ax2?
+2026-11-10 09:21 | 아시아경제 | 50,000 Flock to See Baby Panda Shubao... and Say a Final Farewell to Rui Bao and Hui Bao | google:아시아경제#cb063deb | aen1
+2026-11-10 09:18 | edaily.co.kr | 국부펀드 KIC 힘 보탰다…삼성화재와 손잡고 英 보험사 지분 전량 인수 | https://www.edaily.co.kr/News/Read?newsId=03516166645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | ax2?
+2026-11-10 09:02 | srtimes.kr | 소액주주 1년 반 동안 24% 증가…삼성전자, 797만1242명으로 1위 | http://www.srtimes.kr/news/articleView.html?idxno=217134 | ax2?
+2026-11-10 08:56 | newsis.com | KIC "삼성화재와 英캐노피우스 공동인수…전략적투자 속도" | https://www.newsis.com/view/NISX20261110_0003861416 | ax2?
+2026-11-10 08:56 | seoultimes.news | [뉴스 앤 데이터] 상장사 소액주주 24% 늘었지만 보유주식 10% 감소 | https://www.seoultimes.news/news/article.html?no=2000101972 | ax2?
+2026-11-10 08:55 | khan.co.kr | 소액주주 1년 반 새 24% 늘었지만…3분의 1은 ‘삼전닉스’로 쏠렸다 | https://www.khan.co.kr/article/202611100855001 | ax2?
+2026-11-10 08:54 | dealsite.co.kr | [삼성에피스홀딩스 출범 1년] 김경아號, 지주사 체제 '독자 리더십' 속도 | https://dealsite.co.kr/articles/172281 | a9,ax3,ax4
+2026-11-10 08:50 | etoday.co.kr | 삼성증권 "SK케미칼, 3분기 기대치 상회에도 수익성 둔화…주주가치 제... | https://www.etoday.co.kr/news/view/2646084 | ax2?
+2026-11-10 08:43 | 헤럴드경제 | 50,000 visitors flock to Everland in 10 days to see baby panda Shubao | google:헤럴드경제#fa470249 | aen1
+2026-11-10 08:40 | dnews.co.kr | 한국건설환경협회, ‘제22회 건설환경관리 우수사례 경진대회’ 개최 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100801460940302 | a1,a3
+2026-11-10 08:24 | theguru.co.kr | 에스토니아 원전 후보지 '6곳→3곳' 압축…삼성물산 수혜 전망 | https://www.theguru.co.kr/news/article.html?no=109496 | a1
+2026-11-10 08:06 | etoday.co.kr | [전일 주요공시] 삼성물산ㆍGS건설ㆍHD현대중공업ㆍ두산 등 | https://www.etoday.co.kr/news/view/2646036 | a1
+2026-11-10 08:00 | the-biz.co.kr | [삼성물산 메르데카118 분쟁②] 계약해지는 부당했지만… 255억원 지급명... | http://www.the-biz.co.kr/news/articleView.html?idxno=730508 | a1
+2026-11-10 08:00 | public25.com | [코스피·코스닥, 셀트리온제약 GS건설 SK케미칼 삼성물산 롯데칠성 다... | https://www.public25.com/news/articleView.html?idxno=58228 | a1
+2026-11-10 07:50 | news.bizwatch.co.kr | 삼성바이오 파업 해외서도 '주목'…고객사 공급망 우려 | https://news.bizwatch.co.kr/article/healthcare/2026/11/09/0014 | a7?,ax2
+2026-11-10 06:16 | BioSpectrum Asia | BIX 2026 Report | google:BioSpectrum Asia#2173f761 | aen3
