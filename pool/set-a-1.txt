@@ -1,85 +1,140 @@
-# collected: 2026-11-11 07:30 KST
-# window: 2026-11-10 00:00 ~ 2026-11-11 07:30 KST
-# part 1 of 1, lines: 79
+# collected: 2026-11-12 07:30 KST
+# window: 2026-11-11 00:00 ~ 2026-11-12 07:30 KST
+# part 1 of 1, lines: 134
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-11 07:04 | dealsite.co.kr | [삼성에피스홀딩스 출범 1년] 플랫폼 거점 '에피스넥스랩' 선봉…신약개... | https://dealsite.co.kr/articles/172464 | a9,ax3,ax4
-2026-11-11 06:02 | news.mtn.co.kr | 삼성물산 빠진 서계통합구역 재개발은 GS건설·대우건설 2파전 | https://news.mtn.co.kr/article/2026111016533118148 | a1
-2026-11-11 06:00 | pharmnews.com | [사설] 삼성바이오로직스 노사갈등, 200일의 교훈과 과제 | https://www.pharmnews.com/news/articleView.html?idxno=307757 | a7,ax2
-2026-11-11 05:22 | dnews.co.kr | [르포] 중앙공원 사이로 재건축 ‘속도전’과 ‘소송전’ | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611061722498780034 | a1
-2026-11-11 04:20 | ekn.kr | [패트롤] 인천시-인천경제청-인천문화재단-인천시교육청 | https://www.ekn.kr/web/view.php?key=20261111023018017 | a10,ax2,ax3?,ax5
-2026-11-10 21:07 | zdnet.co.kr | 솔루스도 가동 중단…헝가리 배터리 공장 안갯속 | https://zdnet.co.kr/view/?no=20261110162120 | ax2?
-2026-11-10 20:14 | Palpos | Viral Video Kades di Indralaya Utara Mengamuk Bawa Parang, Diduga Dipicu Sengketa Lahan - palpos.disway.id | google:Palpos#bc6c2fa6 | aid9
-2026-11-10 19:55 | Pekanbaru Pos | Jangan Cuma Keruk Kekayaan Riau, Massa Kepung PHR, Tuntut DBH Migas dan Sawit 70 Persen | google:Pekanbaru Pos#962d08ff | aid9
-2026-11-10 18:48 | ad-hoc-news.de | Teva stock: Guidance lift meets Samsung Bioepis valuation test | google:ad-hoc-news.de#113a9bb7 | aen4
-2026-11-10 18:16 | ntoday.co.kr | 목동 품은 삼성물산, 도시정비로 '래미안 신화' 잇는다 | https://www.ntoday.co.kr/news/articleView.html?idxno=130741 | a1
-2026-11-10 18:16 | medicopharma.co.kr | [바이오 마감 브리핑]증시 반등에도 대형주 약세…삼성바이오·셀트리온... | https://www.medicopharma.co.kr/news/articleView.html?idxno=70336 | ax2
-2026-11-10 17:48 | koreastocknews.com | 삼성물산, 도시정비 수주 12.8조···13조 목표까지 1551억원 | http://www.koreastocknews.com/news/articleView.html?idxno=122205 | a1
-2026-11-10 17:29 | Simply Wall St | Teva Pharmaceutical Industries (TEVA) Following Guidance Lift And Samsung Bioepis Deal Is It Fully Valued | google:Simply Wall St#26f0da42 | aen4
-2026-11-10 17:10 | ekn.kr | 쿠팡 제재·추징금 올해만 1.2조…공정경쟁 확립? 기업 죽이기? [이슈+] | https://www.ekn.kr/web/view.php?key=20261110024547759 | a12,ax6
-2026-11-10 16:48 | delighti.co.kr | 삼성전자 소액주주 797만명 '압도적 1위'…SK하이닉스·LS일렉트릭 껑충 | https://www.delighti.co.kr/news/articleView.html?idxno=124694 | ax2?
-2026-11-10 16:38 | Suarariau.id | Harga Sawit Riau Periode 11-17 November Turun, Terungkap Penyebabnya | google:Suarariau.id#a6a39ae6 | aid2
-2026-11-10 16:35 | 머니투데이 | From "victory beer" to "cheering goods"... Consumption driven by baseball | google:머니투데이#097a2772 | aen2
-2026-11-10 16:26 | 머니투데이 | Samsung and SK hynix climb on expectations of continued AI spending | google:머니투데이#09d1feec | aen2
-2026-11-10 16:22 | m-i.kr | "상장사 소액주주 1년 반 새 24% 증가…삼성전자 1위" | https://www.m-i.kr/news/articleView.html?idxno=2016811 | ax2?
-2026-11-10 16:10 | news.bizwatch.co.kr | 삼성바이오 노조 파업에 근무환경 놓고 내부 갈등 | https://news.bizwatch.co.kr/article/healthcare/2026/11/10/0034 | a7?,ax2
-2026-11-10 16:01 | Chosunbiz | KOSPI jumps 4% to 5,239 as chip stocks rally; foreigners, institutions buy | google:Chosunbiz#c9de25cc | aen3
-2026-11-10 15:56 | HALLORIAU.COM | Harga Sawit Mitra Swadaya Riau Turun, TBS Umur 9 Tahun Tembus Rp3.719,99/Kg | google:HALLORIAU.COM#ffd38ef3 | aid2
-2026-11-10 15:56 | Riau Online | Turun Lagi, Harga TBS Sawit Mitra Swadaya Jadi Rp3.719 per Kilogram | google:Riau Online#f77f9cfb | aid2
-2026-11-10 15:44 | widedaily.com | [특징주] 에스와이스틸텍, 삼성물산과 94억 공급 계약 및 전후 재건 훈풍... | https://www.widedaily.com/news/articleView.html?idxno=303287 | a1
-2026-11-10 15:42 | newstomato.com | 역대급 정비사업 수주에도…공사비·재초환·과징금 '삼중고' | http://www.newstomato.com/ReadNews.aspx?no=1319902&inflow=N | a1?
-2026-11-10 15:34 | Potret24.com | GM PLN UID Riau Kepri Cek K3 UP3 Rengat Lewat Safety Walk Down | google:Potret24.com#5cb1a124 | aid1
-2026-11-10 15:22 | sawitsetara.co | Harga TBS Sawit Mitra Swadaya Riau Periode 11–17 November 2026 Turun Rp9,49 per Kg, Umur 9 Tahun Jadi Rp3.719 | google:sawitsetara.co#e8f85b1c | aid2
-2026-11-10 15:04 | job-post.co.kr | 삼성바이오로직스 거래량 57,126주…수주잔고와 생산능력 확대 점검 | https://www.job-post.co.kr/news/articleView.html?idxno=237624 | a7,ax2
-2026-11-10 15:00 | thepublic.kr | AI 데이터센터로 눈 돌린 건설사들…사업 확대 속 美 규제 변수 부상 | https://www.thepublic.kr/news/articleView.html?idxno=325860 | a1
-2026-11-10 15:00 | Media Center Riau | Harga TBS Sawit Mitra Swadaya Riau Pekan Ini Jadi Rp3.719 per Kg | google:Media Center Riau#676adb8c | aid2
-2026-11-10 14:59 | bloter.net | 목동13단지, 삼성물산 시공사 선정…고급화 경쟁에 '래미안' 가세 | https://www.bloter.net/news/articleView.html?idxno=678214 | a1
-2026-11-10 14:52 | newsian.co.kr | [디깅 인사이드] 일은 멈추고 복지는 챙기고…삼성바이오 노조의 '체리... | https://www.newsian.co.kr/news/articleView.html?idxno=100972 | ax2
-2026-11-10 14:48 | viva100.com | 한국투자공사, 삼성화재와 英 캐노피우스 공동 인수 | https://www.viva100.com/article/20261110500939 | ax2?
-2026-11-10 14:48 | esgeconomy.com | 국내 상장사 소액주주 24% 늘었지만 보유주식은 되레 10% 감소 | https://www.esgeconomy.com/news/articleView.html?idxno=17323 | ax2?
-2026-11-10 14:31 | ppss.kr | 한국투자공사, 삼성화재 英 보험사 인수에 3억달러 투자…'3년 뒤 지분 ... | https://www.ppss.kr/news/articleView.html?idxno=320104 | ax2?
-2026-11-10 14:21 | topdaily.kr | [TOP's Pick] [유통] 롯데칠성음료, 태국 유통사와 음료∙생수사업 협업... | https://www.topdaily.kr/articles/112810 | ax6?
-2026-11-10 14:18 | wikileaks-kr.org | '권리는 챙기고 책임은 외면?'..삼성바이오 노조에 비판 목소리 | https://www.wikileaks-kr.org/news/articleView.html?idxno=194445 | ax2
-2026-11-10 14:06 | hansbiz.co.kr | 한국투자공사, 삼성화재와 손잡고 글로벌 보험시장 공략 | http://www.hansbiz.co.kr/news/articleView.html?idxno=881701 | ax2?
-2026-11-10 14:02 | theguru.co.kr | “일 안해도 밥은 공짜로 달라?"…삼성바이오 노조 '체리피킹 파업' 논... | https://www.theguru.co.kr/news/article.html?no=109522 | a7,ax2
-2026-11-10 13:58 | 4th.kr | 상장사 소액주주 1년반 새 24% 증가…보유주식은 10% 감소 | http://www.4th.kr/news/articleView.html?idxno=2121526 | ax2?
-2026-11-10 13:50 | sateconomy.co.kr | 신한투자증권, 삼성바이오 2.66조 유증 공동주관…KCC 회사채도 참여 | https://sateconomy.co.kr/news/view/1065587524350278 | ax2
-2026-11-10 13:30 | news.mtn.co.kr | KIC, 삼성화재와 英보험사 공동인수…"전략적 투자 힘껏 추진" | https://news.mtn.co.kr/article/2026111013293735763 | ax2?
-2026-11-10 13:26 | METRORIAU.COM | PT Gandaerah Hendana Salurkan Bantuan Sosial di Tiga Desa Sekitar | google:METRORIAU.COM#3ee5a85b | aid1
-2026-11-10 13:25 | BigGo Finance | Pentagon Drops WuXi AppTec From Military List, Clouding Korean CDMO Outlook | google:BigGo Finance#65b21945 | aen3
-2026-11-10 13:04 | bizwnews.com | 삼성물산, 목동 첫 '래미안' 선보인다…양천구 목동13단지 재건축 시공... | http://www.bizwnews.com/news/articleView.html?idxno=151454 | a1
-2026-11-10 12:25 | BigGo Finance | South Korean Investors Sell Samsung Electronics and SK Hynix, Buy Samsung Electro-Mechanics on 40% One-Month Plunge | google:BigGo Finance#de11ad0f | aen3
-2026-11-10 11:24 | press9.kr | 삼성바이오에피스·셀트리온, 美 약가 인하에 기회·부담 공존 | http://www.press9.kr/news/articleView.html?idxno=85936 | a10,ax2,ax5
-2026-11-10 11:22 | The Korea Times | Everland's newest panda Shubao draws 50,000 visitors in 10 days | google:The Korea Times#4ff3d769 | aen1
-2026-11-10 11:12 | 파이낸셜뉴스 | “Today Is a Red Day”... KOSPI Rebounds in the 3% Range as Investors Buy Semiconductor Stocks on the Dip [fn Morning Market Update] | google:파이낸셜뉴스#af6bb4a1 | aen3
-2026-11-10 11:11 | 머니투데이 | Samsung Electronics and SK hynix surge together on upbeat US AI chip sentiment | google:머니투데이#6d4fef18 | aen2
-2026-11-10 11:08 | news.einfomax.co.kr | KIC, 삼성화재 손잡고 英보험사 캐노피우스에 3억달러 투자 | https://news.einfomax.co.kr/news/articleView.html?idxno=4443945 | ax2?
-2026-11-10 11:00 | kpenews.com | [데스크칼럼] 삼성바이오로직스, 자승자박(自繩自縛) 굴레에 빠진 노조... | https://kpenews.com/View.aspx?No=4305057 | a7,ax2
-2026-11-10 11:00 | industrynews.co.kr | 상장사 소액주주 1년 반 새 24% 늘어난 8137만명…보유주식 10%↓ | https://www.industrynews.co.kr/news/articleView.html?idxno=89200 | ax2?
-2026-11-10 10:58 | newsprime.co.kr | 상장사 10곳 중 7곳 소액주주 감소…삼성전자·SK하이닉스는 '북적' | http://www.newsprime.co.kr/news/article.html?no=754309 | ax2?
-2026-11-10 10:24 | breaknews.com | “소액주주 24% 늘었는데 지분은 10% 줄었다”..이유는? | http://www.breaknews.com/1249708 | ax2?
-2026-11-10 10:19 | 헤럴드경제 | Korea Expressway Corporation holds joint heavy-snow disaster drill | google:헤럴드경제#90587cba | aen13
-2026-11-10 10:14 | biz.newdaily.co.kr | 한국투자공사, 삼성화재 英 캐노피우스 인수에 3억달러 '실탄' 지원 | https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000117.html | ax2?
-2026-11-10 10:04 | 아시아경제 | Winter Arrives Early, Padded Jackets 'Fly Off the Shelves'... What's at Stake for Fashion Companies in Q4? | google:아시아경제#305cbdd7 | aen1
-2026-11-10 10:04 | pointdaily.co.kr | [송영택의 시시비비]공정위의 '고무줄 잣대'…공정은 사라지고 과징금만... | https://www.pointdaily.co.kr/news/articleView.html?idxno=325363 | a12,ax6
-2026-11-10 09:41 | fnnews.com | 삼성화재 英 M&A에 KIC·KKR 8억弗…'지분 재매입' 옵션도 확보 [fn마켓워... | https://www.fnnews.com/news/202611100922070750 | ax2?
-2026-11-10 09:38 | Harianmemokepri.com | Dasar Kesepakatan Ganti Rugi Lahan PT CSA di Lingga Dipertanyakan, Humas Akui Tak Tahu Legalitas Dokumen | google:Harianmemokepri.com#401f304c | aid9
-2026-11-10 09:37 | newspim.com | [모닝 리포트] "SK케미칼, 자회사 선방에 주주가치 제고 기대" | https://www.newspim.com/news/view/20261110000078 | ax2?
-2026-11-10 09:24 | efnews.co.kr | 국내 상장사 소액주주 1년 반 새 24%↑ … 보유주식은 10%↓ | http://www.efnews.co.kr/news/articleView.html?idxno=133841 | ax2?
-2026-11-10 09:21 | 아시아경제 | 50,000 Flock to See Baby Panda Shubao... and Say a Final Farewell to Rui Bao and Hui Bao | google:아시아경제#cb063deb | aen1
-2026-11-10 09:18 | edaily.co.kr | 국부펀드 KIC 힘 보탰다…삼성화재와 손잡고 英 보험사 지분 전량 인수 | https://www.edaily.co.kr/News/Read?newsId=03516166645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | ax2?
-2026-11-10 09:02 | srtimes.kr | 소액주주 1년 반 동안 24% 증가…삼성전자, 797만1242명으로 1위 | http://www.srtimes.kr/news/articleView.html?idxno=217134 | ax2?
-2026-11-10 08:56 | newsis.com | KIC "삼성화재와 英캐노피우스 공동인수…전략적투자 속도" | https://www.newsis.com/view/NISX20261110_0003861416 | ax2?
-2026-11-10 08:56 | seoultimes.news | [뉴스 앤 데이터] 상장사 소액주주 24% 늘었지만 보유주식 10% 감소 | https://www.seoultimes.news/news/article.html?no=2000101972 | ax2?
-2026-11-10 08:55 | khan.co.kr | 소액주주 1년 반 새 24% 늘었지만…3분의 1은 ‘삼전닉스’로 쏠렸다 | https://www.khan.co.kr/article/202611100855001 | ax2?
-2026-11-10 08:54 | dealsite.co.kr | [삼성에피스홀딩스 출범 1년] 김경아號, 지주사 체제 '독자 리더십' 속도 | https://dealsite.co.kr/articles/172281 | a9,ax3,ax4
-2026-11-10 08:50 | etoday.co.kr | 삼성증권 "SK케미칼, 3분기 기대치 상회에도 수익성 둔화…주주가치 제... | https://www.etoday.co.kr/news/view/2646084 | ax2?
-2026-11-10 08:43 | 헤럴드경제 | 50,000 visitors flock to Everland in 10 days to see baby panda Shubao | google:헤럴드경제#fa470249 | aen1
-2026-11-10 08:40 | dnews.co.kr | 한국건설환경협회, ‘제22회 건설환경관리 우수사례 경진대회’ 개최 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100801460940302 | a1,a3
-2026-11-10 08:24 | theguru.co.kr | 에스토니아 원전 후보지 '6곳→3곳' 압축…삼성물산 수혜 전망 | https://www.theguru.co.kr/news/article.html?no=109496 | a1
-2026-11-10 08:06 | etoday.co.kr | [전일 주요공시] 삼성물산ㆍGS건설ㆍHD현대중공업ㆍ두산 등 | https://www.etoday.co.kr/news/view/2646036 | a1
-2026-11-10 08:00 | the-biz.co.kr | [삼성물산 메르데카118 분쟁②] 계약해지는 부당했지만… 255억원 지급명... | http://www.the-biz.co.kr/news/articleView.html?idxno=730508 | a1
-2026-11-10 08:00 | public25.com | [코스피·코스닥, 셀트리온제약 GS건설 SK케미칼 삼성물산 롯데칠성 다... | https://www.public25.com/news/articleView.html?idxno=58228 | a1
-2026-11-10 07:50 | news.bizwatch.co.kr | 삼성바이오 파업 해외서도 '주목'…고객사 공급망 우려 | https://news.bizwatch.co.kr/article/healthcare/2026/11/09/0014 | a7?,ax2
-2026-11-10 06:16 | BioSpectrum Asia | BIX 2026 Report | google:BioSpectrum Asia#2173f761 | aen3
+2026-11-12 07:16 | the-today.com | [단독] 삼성물산, 호주 석탄화력 부지에 800MWh ESS 건설…현지사 인수 ... | https://www.the-today.com/news/articleView.html?idxno=93435 | a1
+2026-11-12 07:04 | dealsite.co.kr | [셀트리온 생산전략 변곡점] 삼성바이오로직스와 맺은 대형 CMO 계약 노... | https://dealsite.co.kr/articles/172469 | a7,ax2
+2026-11-12 06:54 | dailymedi.com | 동아제약·삼성바이오·HK이노엔·SK케미칼 'A+' | https://www.dailymedi.com/news/news_view.php?wr_id=942497 | ax2
+2026-11-12 06:02 | edaily.co.kr | 美 민주당 압승에 PBM 개혁 부상…K바이오시밀러 득실은 | https://www.edaily.co.kr/News/Read?newsId=01856486645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a10,ax2,ax5
+2026-11-12 05:36 | globale.co.kr | 과기부, '자이' 입주민 정보 유출 GS건설에 첫 '직권조사' 착수 | https://www.globale.co.kr/news/articleView.html?idxno=41584 | a1
+2026-11-12 05:02 | etoday.co.kr | '안전보건 상생협력', 내년 全업종으로 확대⋯삼성물산, 협력사 재해 46... | https://www.etoday.co.kr/news/view/2646742 | a1,a3
+2026-11-12 04:10 | mt.co.kr | 태풍 세 번에도 계획보다 빨랐다…괌에서 빛난 삼성물산의 저력 | https://www.mt.co.kr/estate/2026/11/12/2026110916310494143 | a1
+2026-11-12 01:30 | issuenbiz.com | [뉴스이슈&비즈] 삼성바이오, 스위스 펩타이드 CDMO '폴리펩타이드' 인수... | http://www.issuenbiz.com/news/articleView.html?idxno=81498 | ax2
+2026-11-12 01:21 | putraindonews | Komite II DPD RI Minta Agrinas Palma Pastikan Pengelolaan Lahan Hasil Penertiban Kawasan Hutan Berpihak pada Daerah dan Masyarakat | google:putraindonews#e3d9b687 | aid9
+2026-11-12 00:56 | kjdaily.com | 삼성바이오로직스 유상증자 청약률 96.8%…2조6천650억원 조달 | http://www.kjdaily.com/article.php?aid=1794412403691896276 | a1?,a7,a7?,ax2
+2026-11-12 00:48 | ad-hoc-news.de | Teva stock: Higher guidance meets expanded biosimilars push | google:ad-hoc-news.de#6107f85b | aen4
+2026-11-12 00:28 | apnews.kr | 삼성바이오, 2.7조 유증 청약률 96.8%…폴리펩타이드 인수 탄력 | https://www.apnews.kr/news/articleView.html?idxno=3053058 | ax2
+2026-11-11 20:50 | sateconomy.co.kr | 삼성물산 빈폴, 영국 할리 오브 스코틀랜드와 협업 니트 출시 | https://sateconomy.co.kr/news/view/1065608803425224 | a1
+2026-11-11 20:32 | biztribune.co.kr | 삼성바이오로직스, 2조7천억원의 유상증자 청약률 96.8% | http://www.biztribune.co.kr/news/articleView.html?idxno=362333 | a1,a7,ax2
+2026-11-11 19:06 | bsinews.id | Polda Kalbar Ungkap Jaringan Pengiriman PMI Ilegal ke Malaysia | google:bsinews.id#aa7b9aa3 | aid8
+2026-11-11 18:38 | lawissue.co.kr | 삼성바이오로직스, 2조6650억원 유상증자 청약률 96.8% | https://www.lawissue.co.kr/view.php?ud=202611111837284206f4ab64559d_12 | a1,a7,ax2
+2026-11-11 18:35 | fnnews.com | 삼성바이오 직원 90%, 주주 됐다... 리스크였던 노사관계 정상화될까 | https://www.fnnews.com/news/202611111833385342 | ax2
+2026-11-11 18:32 | BUALBUAL.com | SAWIT RIAU KEMBALI MEROSOT! Harga TBS Turun, Umur 9 Tahun Rp3.719,99/Kg | google:BUALBUAL.com#887c5095 | aid2
+2026-11-11 18:30 | medicopharma.co.kr | 삼성바이오로직스, 2.7조 증자 96.8% 청약…폴리펩타이드 인수자금 조달... | https://www.medicopharma.co.kr/news/articleView.html?idxno=70369 | a7,ax2
+2026-11-11 18:14 | megaeconomy.co.kr | "2.7조 유증에 주주 96.8% 응답"…삼성바이오로직스, 초대형 M&A 눈앞 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065604339475991 | a7,ax2
+2026-11-11 18:06 | BigGo Finance | U.S. Political Risk Stalls Progress: Samsung's $1 Billion AI Infrastructure Investment Faces Delay Cloud | google:BigGo Finance#0142a6bd | aen1
+2026-11-11 17:53 | Energy-Storage.News | 800MWh BESS enters NSW assessment as Recurrent's 600MWh Sundown project clears Australia's EPBC Act | google:Energy-Storage.News#ce54a761 | aen1,aen13
+2026-11-11 17:40 | thepublic.kr | 삼성바이오로직스, 유상증자 9부 능선 넘었다…스위스 폴리펩타이드 인... | https://www.thepublic.kr/news/articleView.html?idxno=326213 | a1,a7,ax2
+2026-11-11 17:03 | news1.kr | ESG 최우수 기업 18곳…삼성바이오·HK이노엔 새로 진입 | https://www.news1.kr/finance/general-stock/6350851 | ax2
+2026-11-11 16:58 | ngetnews.com | 삼성바이오로직스, 2.7조 조달 완료…펩타이드 CDMO 진출 본격화 | https://www.ngetnews.com/news/articleView.html?idxno=555785 | a7,ax2
+2026-11-11 16:48 | economytalk.kr | 삼성바이오로직스, 2조7000억 유증 청약률 96.8%… 폴리펩타이드 인수 힘... | http://www.economytalk.kr/news/articleView.html?idxno=425246 | a7,ax2
+2026-11-11 16:46 | g-enews.com | 삼성바이오로직스, 2.7조 유상증자 청약률 96.8%…폴리펩타이드 인수 눈... | https://www.g-enews.com/view.php?ud=202611111603001256b065b72042_1 | a1,a7,ax2
+2026-11-11 16:42 | intn.co.kr | 삼성물산·삼성전기·GS리테일·두산에너빌 등 동반성장 3년 연속 최우수... | https://www.intn.co.kr/news/articleView.html?idxno=3000124 | a1
+2026-11-11 16:42 | pointdaily.co.kr | 목동13단지 품은 삼성물산, 9단지도 공략…'래미안 타운' 확장 시동 | https://www.pointdaily.co.kr/news/articleView.html?idxno=325586 | a1
+2026-11-11 16:40 | ftoday.co.kr | 삼성바이오로직스, 2.7조 유상증자 구주주 청약률 96.8% 달성…9부능선... | http://www.ftoday.co.kr/news/articleView.html?idxno=369438 | a1,a7,ax2
+2026-11-11 16:38 | e-science.co.kr | 삼성바이오로직스, 2.7조 유증 96.8% 청약…폴리펩타이드 인수 순항 | https://www.e-science.co.kr/news/articleView.html?idxno=139533 | a7,ax2
+2026-11-11 16:37 | wowtv.co.kr | 삼성바이오, 2.7조 유상증자 9부 능선 넘었다 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110072&t=NN | a1,a7,ax2
+2026-11-11 16:36 | vop.co.kr | 삼성물산, 2조3763억원 목동13단지 재건축 시공사 선정 | https://vop.co.kr/A00001697561.html | a1
+2026-11-11 16:34 | insightkorea.co.kr | 오세철 삼성물산 대표, 호주 전력망 잡는다...1조 수주·940억 M&A | https://www.insightkorea.co.kr/news/articleView.html?idxno=258692 | a1
+2026-11-11 16:30 | econonews.co.kr | 삼성물산 빈폴, 할리 오브 스코틀랜드 협업 '홀리데이 시즌 니트 컬렉션... | http://www.econonews.co.kr/news/articleView.html?idxno=447047 | a1
+2026-11-11 16:27 | CAKAPLAH.com | PMI Asal Riau Tewas Kecelakaan Kerja di Korea Selatan, Jenazah Dipulangkan ke Inhu | google:CAKAPLAH.com#2b628292 | aid11
+2026-11-11 16:26 | pharmnews.com | 삼성바이오로직스, 2.7조 유상증자 청약률 96.8% 기록 | https://www.pharmnews.com/news/articleView.html?idxno=307838 | a1,a7,ax2
+2026-11-11 16:14 | enewstoday.co.kr | 삼바로직스, 2조7000억 규모 유상증자 단행···청약률 96.8% | http://www.enewstoday.co.kr/news/articleView.html?idxno=2491218 | a1,a7,ax2
+2026-11-11 16:14 | e-science.co.kr | 삼성바이오로직스, 노조 파업 장기화 속 핵심 공정 유지…공급 안정성 ... | https://www.e-science.co.kr/news/articleView.html?idxno=139523 | a7,ax2
+2026-11-11 16:02 | newsworker.co.kr | 美 텍사스 데이터센터 수주 노리고 2억 달러 투자한 삼성물산, 규제에 ... | https://www.newsworker.co.kr/news/articleView.html?idxno=513537 | a1
+2026-11-11 16:02 | vegannews.co.kr | 삼성바이오로직스 유증 96.83% 청약…실권주 12~13일 공모 | https://www.vegannews.co.kr/news/article.html?no=403619 | a7,ax2
+2026-11-11 16:00 | daily.hankooki.com | [신상브리핑] 오뚜기, 대상 종가, 백미당, 크리스탈 제이드, 삼성물산 빈... | https://daily.hankooki.com/news/articleView.html?idxno=1423919 | a1
+2026-11-11 15:54 | asiatoday.co.kr | 성과냐 세대교체냐…오세철 삼성물산 대표, 연임 변수는 | https://www.asiatoday.co.kr/kn/view.php?key=20261110010004111 | a1
+2026-11-11 15:50 | industrynews.co.kr | 삼성바이오, 2조6650억원 유상증자 청약률 96.8%…잔여주식 일반공모 | https://www.industrynews.co.kr/news/articleView.html?idxno=89323 | a1,a7,ax2
+2026-11-11 15:47 | detikNews | Kapolda Riau: Bhabinkamtibmas Ujung Tombak Polri, Layani Masyarakat dengan Hati | google:detikNews#f1248f8a | aid9
+2026-11-11 15:42 | dailymedi.com | 삼성바이오 2조7000억 유증 청약률 100% 육박 | https://www.dailymedi.com/news/news_view.php?wr_id=942489 | ax2
+2026-11-11 15:40 | newsprime.co.kr | 펩타이드 CDMO 진출 앞둔 삼성바이오…청약률 96.8% | http://www.newsprime.co.kr/news/article.html?no=754534 | ax2
+2026-11-11 15:38 | g-enews.com | 삼성물산·GS건설 SK에코플랜트, 동반성장 최우수 | https://www.g-enews.com/view.php?ud=202611111520061192aa6f4cdad_1 | a1
+2026-11-11 15:26 | financialpost.co.kr | 삼성바이오로직스 유상증자 청약률 96.8% | https://www.financialpost.co.kr/news/articleView.html?idxno=300097 | a1,a7,ax2
+2026-11-11 15:20 | fnnews.com | 직원 10명 중 9명은 주주...'이익공동체' 된 삼성바이오, 노사 관계 정상... | https://www.fnnews.com/news/202611111440321258 | ax2
+2026-11-11 15:19 | 파이낸셜뉴스 | Nine in 10 employees are shareholders: Could Samsung Biologics, now a “community of shared interests,” pave the way for normalizing labor-management relations? | google:파이낸셜뉴스#d60fa06e | aen3
+2026-11-11 15:16 | mediapen.com | 삼성바이오로직스 2.7조원 유상증자 9부 능선…주주 청약률 96.8% | https://www.mediapen.com/news/view/1136701 | a1,a7,ax2
+2026-11-11 15:06 | 파이낸셜뉴스 | 20 companies, including Samsung Electronics, named top shared-growth honor firms; IBK and Woori Bank rated excellent in win-win finance | google:파이낸셜뉴스#53d2d4ec | aen1
+2026-11-11 15:04 | sisaweek.com | 삼성바이오 유상증자 청약률 100% 육박… 2조6,650억원 자금조달 | https://www.sisaweek.com/news/articleView.html?idxno=238916 | a1,a7,ax2
+2026-11-11 14:56 | impacton.net | KCGS 작년 A+ 19곳 중 10곳 강등…POSCO홀딩스·삼성물산·하나금융도 | https://www.impacton.net/news/articleView.html?idxno=30638 | a1
+2026-11-11 14:51 | topdaily.kr | [TOP's Pick] [제약] 삼성바이오로직스"2.7조 유상증자, 청약률 100% 육박... | https://www.topdaily.kr/articles/112843 | a1,a7,ax2
+2026-11-11 14:49 | edaily.co.kr | 삼성바이오로직스, 2.7조 유상증자 청약률 96.8%…9부능선 넘어 | https://www.edaily.co.kr/News/Read?newsId=04624806645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a1,a7,ax2
+2026-11-11 14:40 | newsway.co.kr | 노사 갈등에도 주주 신뢰 굳건…삼성바이오 2.7조 유증 흥행 | https://www.newsway.co.kr/news/view?ud=2026111114293266721 | ax2
+2026-11-11 14:39 | sisajournal.com | 파업 중 우리사주 청약 89%…삼바, 폴리펩타이드 인수 탄력 | https://www.sisajournal.com/news/articleView.html?idxno=393615 | a1,a7,ax2
+2026-11-11 14:37 | hankyung.com | 삼성바이오 증자, 구주주·우리사주 청약률 '97%' | https://www.hankyung.com/article/202611110229i | ax2
+2026-11-11 14:32 | businesspost.co.kr | 삼성바이오로직스 2.7조 유상증자 청약률 96.8% 기록, 30일 신주 상장 예... | https://www.businesspost.co.kr/BP?command=article_view&num=451729 | a1?,a7,ax2
+2026-11-11 14:27 | magazine.hankyung.com | ESG A+ 18개사…삼성바이오로직스·HK이노엔 등 신규 진입 | https://magazine.hankyung.com/business/article/202611110259b | a7,ax2
+2026-11-11 14:24 | job-post.co.kr | 삼성바이오로직스 142만8000원…2.72% 조정 | https://www.job-post.co.kr/news/articleView.html?idxno=237892 | a7,ax2
+2026-11-11 14:23 | newspim.com | 고졸 생산직 10년차에 '연봉 1억'?…삼성바이오 5급 채용, 대졸도 노린다 | https://www.newspim.com/news/view/20261111000992 | ax2
+2026-11-11 14:22 | bloter.net | [어바웃C] 오세철 삼성물산 대표, 임기 말 '래미안·하이테크' 쌍끌이 | https://www.bloter.net/news/articleView.html?idxno=678290 | a1
+2026-11-11 14:14 | newstomato.com | 삼성바이오로직스, 2조7000억원 유증 마무리 단계 | http://www.newstomato.com/ReadNews.aspx?no=1320047&inflow=N | a7,ax2
+2026-11-11 14:08 | biz.sbs.co.kr | 삼성바이오, 유증 청약률 96.8%…글로벌 CDMO인수 실탄 | https://biz.sbs.co.kr/article_hub/20000345688?division=NAVER | ax2
+2026-11-11 14:02 | sidae.com | 노조 갈등 속 유증 순항…삼성바이오, 펩타이드 인수 탄력 | https://www.sidae.com/article/2026111113090218054 | ax2
+2026-11-11 14:01 | moneystorm.kr | [비즈 인사이트] 삼성바이오, 유상증자 청약률 96.8%…2.7조 폴리펩타이... | https://www.moneystorm.kr/news/articleView.html?idxno=8315 | a1,a7,ax2
+2026-11-11 13:57 | news.tf.co.kr | 삼성바이오 '2.7조' 유상증자 청약률 96.8%…폴리펩타이드 인수자금 확보... | https://news.tf.co.kr/read/economy/2387508.htm | a1,a7,ax2
+2026-11-11 13:52 | kihoilbo.co.kr | 삼성바이오로직스, 유상증자 9부능선 넘어 | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040599 | a7,ax2
+2026-11-11 13:36 | 조선일보 | Six Companies Receive Top Win-Win Growth Rating for Third Year | google:조선일보#9f5d5818 | aen1
+2026-11-11 13:32 | getnews.co.kr | 삼성바이오로직스, 청약률 96.8%...2조6650억 유증 96.8% 청약 | https://www.getnews.co.kr/news/articleView.html?idxno=886751 | a7,ax2
+2026-11-11 13:25 | biz.heraldcorp.com | 삼성바이오로직스, 2.7조 유증 청약률 97% 육박…파업 악재 뚫은 ‘주주... | https://biz.heraldcorp.com/article/10933691?ref=naver | a1,a7,ax2
+2026-11-11 13:22 | The Korea Times | Samsung E&A wins MEED Projects Award for 15th straight year | google:The Korea Times#c109ebe0 | aen13
+2026-11-11 13:18 | catchnews.kr | '폴리펩타이드 인수자금 조달 순항' 삼성바이오로직스 '2.7조' 유증 청약... | https://www.catchnews.kr/news/articleView.html?idxno=130370 | a7,ax2
+2026-11-11 13:14 | newsian.co.kr | [Biz 포커스] 삼성바이오 '2.7兆 베팅' 가시권…유상증자 97% 육박 | https://www.newsian.co.kr/news/articleView.html?idxno=101054 | a1,a7,ax2
+2026-11-11 12:56 | sateconomy.co.kr | 삼성바이오로직스, 증자 청약률 96.8%…삼성전자·삼성물산 1조5853억원 ... | http://sateconomy.co.kr/news/view/1065585179339633 | a1,a7,ax2
+2026-11-11 12:24 | Portibi Online | Harmon: Tahun Ini Tidak Ada Program Replanting Kebun Kelapa Sawit | google:Portibi Online#2655f18b | aid6
+2026-11-11 12:18 | marketscreener.com | Samsung Biologics Rights Offering Subscribed 96.83% | google:marketscreener.com#c70bf04e | aen3
+2026-11-11 12:01 | chosun.com | 두산에너빌리티·삼성물산 등 6개 업체 동반성장지수 3년 연속 최우수 ... | https://www.chosun.com/economy/economy_general/2026/11/11/G6QYEEJHUVFPXNB52CWY7T4ZS4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a1
+2026-11-11 11:51 | kizmom.com | 삼성바이오로직스 유상증자 청약률 96.8%…12~13일 실권주 일반공모 | https://www.kizmom.com/news/articleView.html?idxno=113893 | a1,a7,ax2
+2026-11-11 11:50 | koreareport.co.kr | 삼성바이오 '2.7조 유상증자' 청약률 96% 돌파 | https://www.koreareport.co.kr/news/articleView.html?idxno=54568 | a1,a7,ax2
+2026-11-11 11:37 | yna.co.kr | 삼성바이오, 유상증자 청약률 96.8%…폴리펩타이드 인수 속도 | https://www.yna.co.kr/view/AKR20261111086900017?input=1195m | a1,a7,ax2
+2026-11-11 11:36 | datanews.co.kr | 삼성바이오, 폴리펩타이드 인수자금 조달…유상증자 청약률 96.8% | http://www.datanews.co.kr/news/article.html?no=147520 | a1,a7,ax2
+2026-11-11 11:34 | weekly.hankooki.com | 삼성바이오로직스, 유상증자 구주주·우리사주 청약률 96.8% | https://weekly.hankooki.com/news/articleView.html?idxno=7193305 | a1,a7,ax2
+2026-11-11 11:32 | inews24.com | "명분보다 실리" 삼성바이오 노조 유증 반대하더니⋯우리사주 청약률 8... | http://www.inews24.com/view/2024950 | ax2
+2026-11-11 11:28 | 머니투데이 | Samsung Biologics' 2.7 trillion won rights offering nears full subscription, boosting acquisition plans | google:머니투데이#7c29d782 | aen1,aen3
+2026-11-11 11:28 | investchosun.com | [Invest]삼성바이오로직스, 유증 청약률 96.8%…실권주 7만여주 일반공모 | https://www.investchosun.com/site/data/html_dir/2026/11/11/2026111180074.html | a7,ax2
+2026-11-11 11:28 | mt.co.kr | 삼성바이오, 2.7조 유증 청약률 100% 육박…"폴리펩타이드 인수 순항" | https://www.mt.co.kr/thebio/2026/11/11/2026111111234027907 | ax2
+2026-11-11 11:25 | Seoul Economic Daily | Samsung Biologics Draws 96.8% Subscription in 2.67 Trillion Won Share Sale | google:Seoul Economic Daily#af0d3d0b | aen3
+2026-11-11 11:21 | Dealroom | Samsung Biologics rights offering hits 96.83% as $1.98B M&A nears | google:Dealroom#24c3c0d5 | aen3
+2026-11-11 11:18 | dailian.co.kr | 삼성바이오, 2.7조 유상증자 순항…청약률 96.8% | https://www.dailian.co.kr/news/view/1713555/?sc=Naver | a1,a7,ax2
+2026-11-11 11:17 | SWARARAKYAT.com | Konflik Gajah dan Manusia di DAS Peusangan: Ketika Koridor Satwa Terputus, Warga Menanggung Risiko | google:SWARARAKYAT.com#e6d38c50 | aid9
+2026-11-11 11:12 | digitalchosun.dizzo.com | 삼성바이오로직스, 2.7조원 유상증자 청약률 96.83%…실권주 7만1854주 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/11/2026111180068.html | a1,a7,ax2
+2026-11-11 11:12 | hansbiz.co.kr | 삼성바이오, 2.7조 실탄 마련 순항…글로벌 CDMO 지형 바꾼다 | http://www.hansbiz.co.kr/news/articleView.html?idxno=882097 | ax2
+2026-11-11 11:10 | smartbizn.com | 삼성바이오로직스, 폴리펩타이드 인수자금 확보 막바지···청약률 96.8% | https://www.smartbizn.com/news/articleView.html?idxno=159078 | a7,ax2
+2026-11-11 11:10 | biz.newdaily.co.kr | 삼성바이오, '2.7조' 유증 청약률 96.8% … 글로벌 펩타이드 CDMO 인수 가... | https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100133.html | ax2
+2026-11-11 11:05 | BigGo Finance | Samsung Biologics' 2.7 Trillion Won Rights Offering Draws 96.8% Subscription Rate; PolyPeptide Acquisition Nears Completion | google:BigGo Finance#8904d954 | aen1,aen3
+2026-11-11 11:04 | polinews.co.kr | 삼성바이오로직스 2.7조 유상증자 청약률 96.8%…내일부터 일반공모 | https://www.polinews.co.kr/news/articleView.html?idxno=748216 | a1,a7,ax2
+2026-11-11 11:02 | dealsite.co.kr | 삼성바이오로직스, 유증 청약률 96.8%…2.7조 M&A 청신호 | https://dealsite.co.kr/articles/172519 | a7,ax2
+2026-11-11 11:00 | smarttoday.co.kr | 삼성바이오, 2.7조 유상증자 청약률 96.8%…12~13일 일반공모 | https://www.smarttoday.co.kr/ko-kr/articles/113638 | a1,a7,ax2
+2026-11-11 10:57 | ddaily.co.kr | 삼성바이오로직스, 2.7조 유상증자 청약률 96.8%…M&A 재원 마련 속도 | https://www.ddaily.co.kr/page/view/2026111110465931988 | a1,a7,ax2
+2026-11-11 10:56 | asiatime.co.kr | 삼성바이오로직스, 2.7조 유상증자 9부능선…"청약률 100% 육박" | https://www.asiatime.co.kr/article/20261111500112 | a1,a7,ax2
+2026-11-11 10:56 | ebn.co.kr | 삼성바이오, 2.7조 유상증자 청약률 96.8%…자금 조달 청신호 | https://www.ebn.co.kr/news/articleView.html?idxno=1731208 | a1,a7,ax2
+2026-11-11 10:56 | it.chosun.com | 중국 견제에 웃던 K-CDMO… 우시앱텍 제재 풀리자 반사이익 흔들 | https://it.chosun.com/news/articleView.html?idxno=3000000000750 | a7,ax2
+2026-11-11 10:55 | donga.com | 삼성바이오로직스, 2.7조 유상증자 96.8% 청약…12일부터 일반공모 | https://www.donga.com/news/Health/article/all/20261111/135005049/1 | a1,a7,ax2
+2026-11-11 10:54 | bizhankook.com | 삼성바이오로직스, 오가노이드로 신약개발 앞단 공략 "동물시험 대체 목... | https://bizhankook.com/articles/samsung-biologics-organoid-drug-development.html | a7,ax2
+2026-11-11 10:52 | 아시아경제 | Samsung Biologics' KRW 2.7 Trillion Rights Offering Sees 97% Subscription; Funding Almost Secured | google:아시아경제#71b0bebe | aen3
+2026-11-11 10:52 | view.asiae.co.kr | 삼성바이오 2.7조 유상증자 청약률 97%…자금 확보 눈앞 | https://view.asiae.co.kr/article/2026111110521103869 | a1,a7,ax2
+2026-11-11 10:50 | kpenews.com | 삼성바이오로직스, 펩타이드 사업 확장 자금 확보 속도..유상증자 청약... | https://kpenews.com/View.aspx?No=4307077 | a1?,a7,ax2
+2026-11-11 10:48 | shinailbo.co.kr | 삼성바이오, 2.7조 유상증자 청약률 96.8%…M&A 실탄 확보 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5082094 | a1,a7,ax2
+2026-11-11 10:48 | news.mtn.co.kr | 삼성바이오, 2.7조 유상증자 청약률 96.8%…삼성물산·삼성전자 전량 참... | https://news.mtn.co.kr/article/2026111110462364344 | a1,a7,ax2
+2026-11-11 10:45 | INIRIAU.COM | Harga Sawit Swadaya Riau Turun Lagi, Umur 9 Tahun Jadi Rp3.719,99 per Kg | google:INIRIAU.COM#eec1ef9b | aid2
+2026-11-11 10:45 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Swadaya Riau Periode 11-17 November 2026 Turun Rp9,49 per Kg Jadi Rp3.719,99 per Kg | google:Warta Suluh#2d7d562d | aid6
+2026-11-11 10:44 | insightkorea.co.kr | 삼성바이오, 2.6조 유상증자 청약률 96.8%…폴리펩타이드 인수 순항 | https://www.insightkorea.co.kr/news/articleView.html?idxno=258632 | a1,a7,ax2
+2026-11-11 10:40 | paxetv.com | 삼성바이오로직스, 2조7000억원 규모 유상증자 청약률 96.8%로 집계...폴... | http://www.paxetv.com/news/articleView.html?idxno=286584 | a1,a7,ax2
+2026-11-11 10:38 | press9.kr | 삼성바이오, 2조6650억 유증 대부분 청약...인수자금 확보 순항 | http://www.press9.kr/news/articleView.html?idxno=86017 | ax2
+2026-11-11 10:36 | Chosunbiz | Samsung Biologics nears completion of 2.665 trillion won rights offering | google:Chosunbiz#199e7e57 | aen1,aen3
+2026-11-11 10:35 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Plasma Riau Periode 11-17 November 2026 Naik Rp24,18 per Kg Jadi Rp3,786.79 per Kg | google:Warta Suluh#a7cb9e79 | aid6
+2026-11-11 10:28 | TipRanks | Samsung Biologics Reports 96.83% Subscription Rate | google:TipRanks#364333da | aen3
+2026-11-11 10:20 | mediapen.com | '목동 첫발' 삼성물산, 9단지까지 노린다…내년 수주전 선점 시동 | https://www.mediapen.com/news/view/1136603 | a1
+2026-11-11 10:20 | news.einfomax.co.kr | 삼성바이오, 유증 우리사주·구주주 청약률 96.83%…2.6조 M&A 조달 순항 | https://news.einfomax.co.kr/news/articleView.html?idxno=4444138 | ax2
+2026-11-11 10:12 | hansbiz.co.kr | 삼성바이오로직스, 유증 청약률 96.83%…12일 일반공모 | http://www.hansbiz.co.kr/news/articleView.html?idxno=882071 | a7,ax2
+2026-11-11 09:49 | 삼성물산 뉴스룸 | What Is Multi-Shoring? Diversifying Supply Chains Across Multiple Markets / The Shoring Trilogy (3/3) | google:삼성물산 뉴스룸#55a08045 | aen1
+2026-11-11 09:30 | popcornnews.net | 삼성물산 패션 빈폴, 100년 전통 스코틀랜드 니트와 협업...연말 선물 시... | http://www.popcornnews.net/news/articleView.html?idxno=139505 | a1
+2026-11-11 09:10 | pinpointnews.co.kr | 바이오·교육·의료 인프라 집결…송도 11공구, 새 주거 중심지로 부상 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=502768 | a7,ax2
+2026-11-11 09:02 | The Korea News Plus | Beanpole teams up with Harley of Scotland for holiday knitwear collection | google:The Korea News Plus#0a1315d5 | aen1
+2026-11-11 09:02 | m-i.kr | 삼성물산 패션 '빈폴', 스코틀랜드 니트 브랜드와 협업…연말 컬렉션 출... | https://www.m-i.kr/news/articleView.html?idxno=2016973 | a1
+2026-11-11 09:02 | newsprime.co.kr | 삼성물산, 건설 성장·신사업 확대…기업가치 재평가 기대 | http://www.newsprime.co.kr/news/article.html?no=754435 | a1
+2026-11-11 08:28 | press9.kr | 삼성물산, 하이테크 수주 확대…배당 성장 가능성-NH | http://www.press9.kr/news/articleView.html?idxno=85985 | a1
+2026-11-11 08:00 | the-biz.co.kr | [삼성물산 메르데카118 분쟁③] 法 하도업체 측 주장 전부 기각…항소 ... | http://www.the-biz.co.kr/news/articleView.html?idxno=730799 | a1
+2026-11-11 06:17 | Stock Titan | An officer plans to sell 250,000 Teva (TEVA) shares under a prearranged trading plan. | google:Stock Titan#cadedd71 | aen4
+2026-11-11 01:17 | MimbarRiau.com | Menkop Siap Ambil Alih KB Bank demi Hidupkan Bukopin | google:MimbarRiau.com#656f3a6f | aid11
