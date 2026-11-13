@@ -56,6 +56,11 @@ from pool_stats import (
     qstat, save_query_stats, keep_priority, balance_by_date, apply_query_cap,
 )
 from body_check import apply_body_check, load_extra_queries   # set_a 보조 기능(본문 확인, 추가 검색어)
+try:                                                   # 도메인 -> 한글 매체명(config/media_names.json)
+    from media_names import media_name
+except Exception:  # noqa — 변환 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(매체 표기만 변환 없이 나간다)
+    def media_name(m):
+        return m
 
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -295,7 +300,7 @@ def to_lines(items):
         pub = (a.get("published") or "")[:16].replace("T", " ") or "날짜미상"
         title = a["title"].replace("|", "/")
         tg = ",".join(sorted(a.get("tags") or set()))
-        lines.append(f"{pub} | {a.get('media','')} | {title} | {short_url(a)} | {tg}")
+        lines.append(f"{pub} | {media_name(a.get('media',''))} | {title} | {short_url(a)} | {tg}")
     return lines
 
 
