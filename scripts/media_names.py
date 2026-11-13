@@ -1,93 +1,50 @@
-{
- "_설명": "도메인=한글 매체명. 이름을 확실히 아는 것만 넣는다(추측 금지). 수집기(config/media_names.json)와 보관 도구(tools/media_names.json)는 같은 내용이어야 한다.",
- "impacton.net": "임팩트온",
- "esgeconomy.com": "ESG경제",
- "labortoday.co.kr": "매일노동뉴스",
- "dnews.co.kr": "대한경제",
- "newsis.com": "뉴시스",
- "news1.kr": "뉴스1",
- "yna.co.kr": "연합뉴스",
- "news.einfomax.co.kr": "연합인포맥스",
- "mt.co.kr": "머니투데이",
- "mk.co.kr": "매일경제",
- "hankyung.com": "한국경제",
- "sedaily.com": "서울경제",
- "edaily.co.kr": "이데일리",
- "fnnews.com": "파이낸셜뉴스",
- "etoday.co.kr": "이투데이",
- "asiae.co.kr": "아시아경제",
- "heraldcorp.com": "헤럴드경제",
- "ajunews.com": "아주경제",
- "newspim.com": "뉴스핌",
- "etnews.com": "전자신문",
- "ekn.kr": "에너지경제",
- "viva100.com": "브릿지경제",
- "biz.chosun.com": "조선비즈",
- "chosun.com": "조선일보",
- "donga.com": "동아일보",
- "joongang.co.kr": "중앙일보",
- "hani.co.kr": "한겨레",
- "khan.co.kr": "경향신문",
- "hankookilbo.com": "한국일보",
- "kmib.co.kr": "국민일보",
- "segye.com": "세계일보",
- "seoul.co.kr": "서울신문",
- "munhwa.com": "문화일보",
- "news.kbs.co.kr": "KBS",
- "news.sbs.co.kr": "SBS",
- "biz.sbs.co.kr": "SBS Biz",
- "news.jtbc.co.kr": "JTBC",
- "ytn.co.kr": "YTN",
- "wowtv.co.kr": "한국경제TV",
- "news.mtn.co.kr": "MTN",
- "sentv.co.kr": "서울경제TV",
- "nocutnews.co.kr": "노컷뉴스",
- "ohmynews.com": "오마이뉴스",
- "pressian.com": "프레시안",
- "zdnet.co.kr": "지디넷코리아",
- "inews24.com": "아이뉴스24",
- "thebell.co.kr": "더벨",
- "bloter.net": "블로터",
- "news.tf.co.kr": "더팩트",
- "dailian.co.kr": "데일리안",
- "mediapen.com": "미디어펜",
- "asiatoday.co.kr": "아시아투데이",
- "asiatime.co.kr": "아시아타임즈",
- "ebn.co.kr": "EBN",
- "enewstoday.co.kr": "이뉴스투데이",
- "kukinews.com": "쿠키뉴스",
- "cnbnews.com": "CNB뉴스",
- "hansbiz.co.kr": "한스경제",
- "metroseoul.co.kr": "메트로신문",
- "g-enews.com": "글로벌이코노믹",
- "breaknews.com": "브레이크뉴스",
- "gukjenews.com": "국제뉴스",
- "pinpointnews.co.kr": "핀포인트뉴스",
- "news.bizwatch.co.kr": "비즈워치",
- "businesspost.co.kr": "비즈니스포스트",
- "biz.newdaily.co.kr": "뉴데일리경제",
- "naeil.com": "내일신문",
- "daily.hankooki.com": "데일리한국",
- "hellot.net": "헬로티",
- "greened.kr": "녹색경제신문",
- "energydaily.co.kr": "에너지데일리",
- "lawtimes.co.kr": "법률신문",
- "newspenguin.com": "뉴스펭귄",
- "wikitree.co.kr": "위키트리",
- "sisajournal.com": "시사저널",
- "busan.com": "부산일보",
- "incheonilbo.com": "인천일보",
- "dealsite.co.kr": "딜사이트",
- "theguru.co.kr": "더구루",
- "srtimes.kr": "SR타임스",
- "vegannews.co.kr": "비건뉴스",
- "financialpost.co.kr": "파이낸셜포스트",
- "lawissue.co.kr": "로이슈",
- "businesskorea.co.kr": "비즈니스코리아",
- "shinailbo.co.kr": "신아일보",
- "straightnews.co.kr": "스트레이트뉴스",
- "m-i.kr": "매일일보",
- "getnews.co.kr": "글로벌경제신문",
- "dailyt.co.kr": "데일리환경",
- "mkhealth.co.kr": "매경헬스"
-}
+# -*- coding: utf-8 -*-
+"""언론사 도메인 -> 한글 매체명 변환 (표준 라이브러리만 필요).
+
+수집기(scripts/)와 보관 도구(tools/)가 같은 파일을 쓴다. 표는 media_names.json 에 있다.
+  - 같은 폴더의 media_names.json 을 먼저 찾고, 없으면 ../config/media_names.json 을 쓴다.
+  - 표를 못 읽어도 오류를 내지 않는다(변환 없이 원래 값을 그대로 돌려준다) — 수집이 이 파일 때문에 멈추면 안 된다.
+규칙(루틴 프롬프트의 규칙과 같다): 도메인이 정확히 일치하는 항목을 먼저 찾고, 없으면 앞의 www.·m.·view.·biz.·news. 접두어를 뗀 도메인으로 한 번 더 찾는다.
+표에 없는 도메인, 이미 한글인 이름, 도메인이 아닌 값(예: Reuters)은 그대로 돌려준다. 이름을 추측하지 않는다.
+"""
+import json
+import os
+import re
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+_PREFIXES = ("www.", "m.", "view.", "biz.", "news.")
+_DOMAIN = re.compile(r"^[a-z0-9][a-z0-9\-]*(\.[a-z0-9\-]+)+$")
+_TABLE = None
+
+
+def table():
+    global _TABLE
+    if _TABLE is None:
+        _TABLE = {}
+        for p in (os.path.join(HERE, "media_names.json"), os.path.join(HERE, "..", "config", "media_names.json")):
+            try:
+                with open(p, encoding="utf-8") as f:
+                    d = json.load(f)
+                _TABLE = {k.strip().lower(): v.strip() for k, v in d.items()
+                          if not k.startswith("_") and isinstance(v, str) and v.strip()}
+                break
+            except Exception:  # noqa
+                continue
+    return _TABLE
+
+
+def is_domain(s):
+    return bool(_DOMAIN.match((s or "").strip()))
+
+
+def media_name(m):
+    s = (m or "").strip()
+    if not is_domain(s):
+        return m
+    t = table()
+    if s in t:
+        return t[s]
+    for pf in _PREFIXES:
+        if s.startswith(pf) and s[len(pf):] in t:
+            return t[s[len(pf):]]
+    return m
