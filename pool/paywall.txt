@@ -1,14 +1,14 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-16 13:43 KST
+collected: 2026-11-17 07:30 KST
 mode: on
 status: ok
-checked: 27 (유료 5 · 무료 22 · 판정불가 0)
+checked: 19 (유료 5 · 무료 14 · 판정불가 0)
 excluded: 5건 (세트별 a 0 · b 5 · c 5 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 22, paid 5
+reasons: free 14, paid 5
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
+임팩트온 | 맥케인은 농가 대출이자 전액 부담…식품기업 스코프3 감축비용, 은행과 어떻게 나누나 | https://www.impacton.net/news/articleView.html?idxno=30699 | bc
+임팩트온 | ESG 전문가 610명 평가해보니...64개 수단 중 가장 효과 높은 정책은? | https://www.impacton.net/news/articleView.html?idxno=30696 | bc
+임팩트온 | AI 데이터센터 1만4000곳 분석해보니...기후손실 절반이 141곳에 집중 | https://www.impacton.net/news/articleView.html?idxno=30688 | bc
 임팩트온 | 홍수위험 기업 대출금리 최대 0.13%p 높아…기후적응 투자는 보험료 낮췄다 | https://www.impacton.net/news/articleView.html?idxno=30692 | bc
 임팩트온 | 【ESG Deal】가게나우, 아연브롬 배터리 투자 확보·캘리브런트, 데이터센터 BESS 금융·슈퍼시드, 재활용 건축소재 투자 | https://www.impacton.net/news/articleView.html?idxno=30684 | bc
-임팩트온 | 미 최대 공적연금 캘퍼스, AI 데이터센터 투자 위험 재평가…전력·물·주민 반발까지 실사 | https://www.impacton.net/news/articleView.html?idxno=30664 | bc
-임팩트온 | 【ESG Deal】메타, 저탄소 시멘트 구매약정·그린줄스, 바이오연료 상용화 자금 조달·렙솔, 그린수소 투자 | https://www.impacton.net/news/articleView.html?idxno=30663 | bc
-임팩트온 | 석탄 거래 대기업 자벨린, 코발트·몰리브덴 전문기업 인수…핵심광물 사업 확대 | https://www.impacton.net/news/articleView.html?idxno=30660 | bc
