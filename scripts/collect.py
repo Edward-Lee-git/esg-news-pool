@@ -62,6 +62,11 @@ except Exception:  # noqa — 변환 모듈이 없거나 깨져 있어도 수집
     def media_name(m):
         return m
 
+try:                                                   # 임팩트온 유료(구독자 전용) 기사 제외(scripts/paywall_filter.py)
+    from paywall_filter import PaywallFilter
+except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(제외만 하지 않는다)
+    PaywallFilter = None
+
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -351,6 +356,16 @@ def main():
     direct = fetch_direct_feeds(DIRECT_FEED_DOMAINS, end)
     sweep = direct + sweep
 
+    # 임팩트온 유료(구독자 전용) 기사 제외: 직접 RSS·훑기로 들어온 기사를 먼저 확인해 둔다(실패해도 수집은 계속).
+    pw = None
+    if PaywallFilter:
+        try:
+            pw = PaywallFilter(ROOT)
+            pw.precheck([a for a in sweep if in_window(a, start, end)])
+        except Exception as e:  # noqa
+            print(f"[WARN] 유료 기사 제외 준비 실패(제외 없이 계속): {type(e).__name__}")
+            pw = None
+
     outdir = os.path.join(ROOT, "pool")
     os.makedirs(outdir, exist_ok=True)
     summary = []
@@ -413,6 +428,9 @@ def main():
 
         items = dedupe(items)
         items.sort(key=lambda a: (a.get("published") or ""), reverse=True)
+
+        if pw:                                       # 유료 기사가 제외·상한 계산에서 자리를 차지하지 않도록 이 시점에 뺀다
+            items = pw.drop(items, s)
 
         print(f"      기간내 고유 기사 {len(items)}건")
 
@@ -479,6 +497,13 @@ def main():
         for n in names:
             print(f"      {n}")
         summary.append(f"{base}: {len(lines)}줄 / {len(chunks)}개 파일")
+
+    if pw:
+        try:
+            pw.write_report(outdir, end)
+            print(f"\n{pw.summary_line()} -> pool/paywall.txt")
+        except Exception as e:  # noqa
+            print(f"[WARN] pool/paywall.txt 를 쓰지 못했습니다: {type(e).__name__}")
 
     # 구글 중계 주소 대응표: 이번에 기사 목록에 실제로 남은 줄의 번호만 들어간다.
     with open(os.path.join(outdir, "links.txt"), "w", encoding="utf-8") as f:
