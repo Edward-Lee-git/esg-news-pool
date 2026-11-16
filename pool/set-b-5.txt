@@ -1,9 +1,12 @@
-# collected: 2026-11-16 09:47 KST
-# window: 2026-11-13 00:00 ~ 2026-11-16 09:47 KST
+# collected: 2026-11-16 13:43 KST
+# window: 2026-11-13 00:00 ~ 2026-11-16 13:43 KST
 # part 5 of 5, lines: 200
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-13 13:14 | polinews.co.kr | SK증권, ESG 평가 2년 연속 종합 A등급…기후위험 분석·공시 강화 | https://www.polinews.co.kr/news/articleView.html?idxno=748414 | b34
+2026-11-13 13:13 | kyeonggi.com | 오세훈 “李대통령, 조작기소 특검법 거부하라…마지막 기회” | https://www.kyeonggi.com/article/20261113580107 | b42
+2026-11-13 13:12 | Vietnam.vn | Vietnamese furniture businesses face pressure to raise export standards. | google:Vietnam.vn#aec91c77 | bgb1
 2026-11-13 13:10 | kmecnews.co.kr | [중대재해·노란봉투법 해법] (31) 도급 시 안전보건 확보 의무 ② | https://www.kmecnews.co.kr/news/articleView.html?idxno=52751 | b20
 2026-11-13 13:08 | 연합인포맥스 | 산업부-업계 '민관 원팀' EU 아웃리치…산업가속화법 대응 총력 | https://news.einfomax.co.kr/news/articleView.html?idxno=4444667 | b3,b4
 2026-11-13 13:06 | 국제뉴스 | 박용갑 의원, 복지·지역의료 예산 증액 관철…국회 복지위 통과 | https://www.gukjenews.com/news/articleView.html?idxno=3751131 | b42
@@ -124,19 +127,16 @@
 2026-11-13 10:06 | YTN | 남산 케이블카 설치 문제로 서울시·국토부 '정면충돌' [자막뉴스] | https://www.ytn.co.kr/_ln/0134_202611131006546427 | b41
 2026-11-13 10:06 | 뉴시스 | 효성중공업 사무기술직 노조, 파업 돌입…사측 "법·원칙 따라 충실히 ... | https://www.newsis.com/view/NISX20261113_0003866756 | b17?
 2026-11-13 10:04 | insight.co.kr | '임금 갈등 장기화' 삼성바이오 노조, 한국노총 가입 추진 | https://www.insight.co.kr/news/581873 | b17
-2026-11-13 10:02 | 임팩트온 | 【ESG Deal】메타, 저탄소 시멘트 구매약정·그린줄스, 바이오연료 상용화 자금 조달·렙솔, 그린수소 투자 | https://www.impacton.net/news/articleView.html?idxno=30663 | sw
 2026-11-13 10:02 | 이뉴스투데이 | KAIA, '제48회 자동차모빌리티산업발전포럼' 실시 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2492074 | b15,b16
 2026-11-13 10:01 | XBOX Wire | Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today | google:XBOX Wire#2546ad7c | bgb6
 2026-11-13 10:01 | INSIGHT EU MONITORING | EU legislators agree on more free carbon allowances for energy-intensive industries | google:INSIGHT EU MONITORING#18724ffc | bgb8
 2026-11-13 10:01 | 경향신문 | 그레타 툰베리 “지구는 죽어가는 것이 아니라 살해당하고 있다”[COP31... | https://www.khan.co.kr/article/202611131001001 | b11
 2026-11-13 10:00 | 시사저널 | 특검법은 통과, 민심은 물음표…민주당의 '위험한 항해' | https://www.sisajournal.com/news/articleView.html?idxno=393832 | b42
 2026-11-13 10:00 | ESG경제 | 주 7일 배송에 커진 노동환경 격차…택배기사 업무시간 최대 167분↑ | https://www.esgeconomy.com/news/articleView.html?idxno=17372 | sw
-2026-11-13 10:00 | fntoday.co.kr | 한국노동경제학회 조사결과 "택배기사 과로 방지, 획일적 규제보다 주 ... | https://www.fntoday.co.kr/news/articleView.html?idxno=397917 | b6?
 2026-11-13 10:00 | 뉴스핌 | 한국노동경제학회, 택배기사 근무환경 실태조사 결과 공개 | https://www.newspim.com/news/view/20261112000864 | b6?
-2026-11-13 10:00 | job-post.co.kr | 한국노동경제학회 조사 "택배기사 휴식권 확보하려면 휴무일 전담 배송... | https://www.job-post.co.kr/news/articleView.html?idxno=238057 | b6?
 2026-11-13 10:00 | eroun.net | 한국노동경제학회 조사결과, "택배기사 과로 막으려면 '주2일 휴무 보장... | https://www.eroun.net/news/articleView.html?idxno=95328 | b6?
+2026-11-13 10:00 | job-post.co.kr | 한국노동경제학회 조사 "택배기사 휴식권 확보하려면 휴무일 전담 배송... | https://www.job-post.co.kr/news/articleView.html?idxno=238057 | b6?
 2026-11-13 10:00 | 아시아경제 | '쟁의 제한' 法결정 우회한 파업에 삼성바이오 공급망 우려 재점화 | https://view.asiae.co.kr/article/2026111215454107212 | b17?
-2026-11-13 09:59 | 임팩트온 | 석탄 거래 대기업 자벨린, 코발트·몰리브덴 전문기업 인수…핵심광물 사업 확대 | https://www.impacton.net/news/articleView.html?idxno=30660 | sw
 2026-11-13 09:58 | 서울경제TV | 한전, 전력망 입지선정 100건 돌파…최근 2년 연평균 실적 2배↑ | https://www.sentv.co.kr/article/view/sentv202611130035 | b12
 2026-11-13 09:52 | newsmap.co.kr | "결론 정해놓고 의견만 받나"… 렌터카업계, 금융위에 반발 | https://www.newsmap.co.kr/news/articleView.html?idxno=5183 | b30
 2026-11-13 09:51 | daejonilbo.com | 이 대통령 "자본시장 개혁 의지 확고"… 불공정 거래 엄단·부실기업 퇴... | https://www.daejonilbo.com/news/articleView.html?idxno=2313412 | b27
