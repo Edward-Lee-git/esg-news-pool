@@ -1,14 +1,12 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-18 07:30 KST
+collected: 2026-11-19 07:30 KST
 mode: on
 status: ok
-checked: 20 (유료 5 · 무료 15 · 판정불가 0)
-excluded: 5건 (세트별 a 0 · b 5 · c 5 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 15, paid 5
+checked: 10 (유료 3 · 무료 7 · 판정불가 0)
+excluded: 3건 (세트별 a 0 · b 3 · c 3 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 7, paid 3
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
-임팩트온 | 美, '선불 에너지 채권' 53조원 발행...전력회사엔 할인, 구글엔 저금리 자금 | https://www.impacton.net/news/articleView.html?idxno=30720 | bc
-임팩트온 | CATL, 배터리 교환소 6000곳으로 확대…완성차업체 묶는 '배터리 표준' 경쟁 | https://www.impacton.net/news/articleView.html?idxno=30717 | bc
-임팩트온 | "한국 태양광 투자 매력 커졌다"...피크에너지, 한국 4600억원 사업 추진 | https://www.impacton.net/news/articleView.html?idxno=30707 | bc
-임팩트온 | GM·현대차, 전력가격 변동 대비해 PPA 확대…계약 방식 따라 비용 부담 달라진다 | https://www.impacton.net/news/articleView.html?idxno=30701 | bc
-임팩트온 | 【ESG Deal】푸푹 인도네시아, 저탄소 암모니아 기술계약·베드록, AI 기반 지열 시추기술 확대·톱소, e-SAF 생산기술 공급 | https://www.impacton.net/news/articleView.html?idxno=30700 | bc
+임팩트온 | EU, 한국 배출권 비용 CBAM 공제 인정…무상할당·실제 구매비용이 관건 | https://www.impacton.net/news/articleView.html?idxno=30740 | bc
+임팩트온 | EU 탄소가격 전망 하향…철강·시멘트 CCS 투자경제성 어떻게 달라지나 | https://www.impacton.net/news/articleView.html?idxno=30735 | bc
+임팩트온 | 【ESG Deal】프로벡터스 앨지, 메탄저감 사료투자 확보·홀로솔리스, 시리즈A 투자 유치·스타크 퓨처, 전기 오토바이에 사업 확대 자금 조달 | https://www.impacton.net/news/articleView.html?idxno=30723 | bc
