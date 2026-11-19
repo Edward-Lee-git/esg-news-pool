@@ -1,130 +1,63 @@
-# collected: 2026-11-19 07:30 KST
-# window: 2026-11-18 00:00 ~ 2026-11-19 07:30 KST
-# part 1 of 1, lines: 124
+# collected: 2026-11-20 07:30 KST
+# window: 2026-11-19 00:00 ~ 2026-11-20 07:30 KST
+# part 1 of 1, lines: 57
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-19 07:10 | medicalworldnews.co.kr | [11월 제약사 이모저모⑤]삼성바이오에피스, 메디톡스, 동아쏘시오그룹... | https://medicalworldnews.co.kr/news/view.php?idx=1510978448 | a10,ax2,ax5
-2026-11-19 07:06 | socialvalue.kr | [SV 리포트] 건설사 ESG 1위는 삼성물산…현대·동부·한라 등급 하락 | https://www.socialvalue.kr/news/view/1065600358390757 | a1
-2026-11-19 07:06 | cwn.kr | 삼성바이오로직스노조 한국노총 가입…임단협 갈등 공동 대응 | https://www.cwn.kr/news/articleView.html?idxno=62171 | a7,ax2
-2026-11-19 06:34 | 매일노동뉴스 | 삼성바이오로직스 상생노조, 한국노총 가입 | https://www.labortoday.co.kr/news/articleView.html?idxno=237816 | a7,ax2
-2026-11-19 05:31 | koreaherald.com | [Editorial] Fair fines | https://www.koreaherald.com/article/10941650?ref=naver | a13
-2026-11-19 05:00 | 이투데이 | 삼성바이오, ‘순수 CDMO’ 전환 1년⋯‘3대축 확장’으로 글로벌 입지... | https://www.etoday.co.kr/news/view/2649733 | ax2
-2026-11-19 04:08 | 비건뉴스 | 삼성바이오로직스, 신주 227만주 발행 마쳐 | https://www.vegannews.co.kr/news/article.html?no=407424 | a7,ax2
-2026-11-19 00:22 | kwnews.co.kr | [제21회 동곡상] 지형근 삼성물산 부사장 수상 소감 | https://www.kwnews.co.kr/article/20261118501028 | a1
-2026-11-19 00:19 | GoRiau.com | Tutupan Sawit Riau Capai 3,88 Juta Hektare, Volume Usaha Koperasi Perkebunan Tembus Rp838 Miliar | google:GoRiau.com#862ba465 | aid6
-2026-11-18 23:28 | The Pharma Letter | Pfizer inks cell therapy licensing deal with Starna worth up to $2.6B | google:The Pharma Letter#22232d04 | aen4
-2026-11-18 22:38 | CAKAPLAH.com | Kemenkop Dorong Petani Sawit di Riau Kelola Lahan Lewat Koperasi dan Diserahkan ke Agrinas | google:CAKAPLAH.com#6ae49bbc | aid9
-2026-11-18 21:23 | Spiritriau.com | Banyak Dimiliki Rakyat, Industri Sawit Dorong Pertumbuhan Ekonomi Berita Riau Terkini Online / Spirit Riau Update | google:Spiritriau.com#380be0b4 | aid10
-2026-11-18 21:18 | thefirstmedia.net | 삼성바이오 노조, 조합원 88% 찬성으로 한국노총 가입…파업 장기화 속... | http://www.thefirstmedia.net/news/articleView.html?idxno=214093 | a7,ax2
-2026-11-18 21:03 | LiputanOke.Com | Riau Penghasil 20 Persen CPO Nasional, Wamenkop Dorong Petani Punya Pabrik Sawit Sendiri Lewat Koperasi | google:LiputanOke.Com#fe701361 | aid8
-2026-11-18 20:53 | Tempo.co English | Indonesia Warns Exporters to Prepare for EU Deforestation Law | google:Tempo.co English#d74c5e41 | aen11
-2026-11-18 20:37 | bsinews.id | Kemenkop Perkuat Koperasi untuk Kelola Lahan Sawit Rakyat | google:bsinews.id#08efb555 | aid9
-2026-11-18 20:07 | Yahoo Finance | LOTTE Biologics Holds Completion Ceremony for Songdo Bio Campus | google:Yahoo Finance#f9f8060c | aen3
-2026-11-18 19:45 | Halloriau.com | Kemenkop Bidik 50 Koperasi Sawit Riau, Standardisasi Produksi Jadi Prioritas | google:Halloriau.com#bc24e829 | aid6
-2026-11-18 19:23 | laborplus.co.kr | 삼성바이오 노조 한국노총으로···"함께 싸우겠다" | https://www.laborplus.co.kr/news/articleView.html?idxno=41857 | ax2
-2026-11-18 19:22 | livebiz.today | 삼성웰스토리 '브랜드 솔루션' 사업 첫 모델은 '잎샘가베'...내년 초 서... | https://www.livebiz.today/news/articleView.html?idxno=206661 | a12,ax6
-2026-11-18 18:47 | Media Center Riau | Pemprov Riau Siap Bersinergi Sukseskan Koperasi Perkebunan Kelapa Sawit | google:Media Center Riau#4b4b01be | aid6
-2026-11-18 18:30 | Sawit Indonesia | Amankan Aset Perkebunan Eks Satgas PKH, Perusahaan Naungan Danantara PT Agrinas Palma Gandeng Bareskrim Polri | google:Sawit Indonesia#506fe9de | aid9
-2026-11-18 18:30 | 브레이크뉴스 | 충주시, 삼성웰스토리와 손잡고 전국 150여 개 급식망에 ‘맛-잇는 충주... | http://www.breaknews.com/1252062 | a12,ax6
-2026-11-18 18:15 | 연합뉴스 | 삼성웰스토리 개발 카페 '잎샘가베', 내년 초 서울에 첫 매장 | https://www.yna.co.kr/view/AKR20261118172800030?input=1195m | a12,ax6
-2026-11-18 17:52 | mdtoday.co.kr | '홀로서기' 5개월 만에…삼성바이오로직스 노조, 2차 파업 중 한국노총... | https://www.mdtoday.co.kr/news/articleView.html?idxno=626088 | a7,ax2
-2026-11-18 17:45 | Aju Press | Lotte joins Songdo drug hub as neighbor to bigger Samsung | google:Aju Press#a01216de | aen3
-2026-11-18 17:40 | tfmedia.co.kr | 삼성바이오 노조 한국노총 가입 확정 파업 장기화되나?…한국노총 공동... | https://www.tfmedia.co.kr/news/article.html?no=209000 | a7,ax2
-2026-11-18 17:18 | sisacast.kr | 삼성웰스토리, 신규 외식 브랜드 론칭 식자재 고객사에 제공 '브랜드 솔... | http://www.sisacast.kr/news/articleView.html?idxno=102067 | a12,ax6
-2026-11-18 17:02 | ceoscoredaily.com | 삼성웰스토리, 외식 브랜드 자체 개발 나서…잎샘가베 선봬 | https://www.ceoscoredaily.com/page/view/2026111816530565200 | a12,ax6
-2026-11-18 16:47 | bsinews.id | Keluarga Sampe Simarmata Minta Autopsi Ulang di Bengkalis | google:bsinews.id#d5cdc5b6 | aid12
-2026-11-18 16:35 | RiauAktual.com | Kenal Pamit Kapolres Kuansing, Hidayat Perdana Sampaikan Terima Kasih kepada Personel | google:RiauAktual.com#9fbb17ca | aid9
-2026-11-18 16:22 | yakup.com | 롯데바이오로직스, 송도 1공장 조기 준공·첫 수주…삼성바이오·셀트리... | https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335414 | ax2
-2026-11-18 16:21 | GeneOnline | South Korea’s Lotte Enters the CDMO Race, but Samsung and Lonza Have a Head Start | google:GeneOnline#fd6a58e2 | aen3
-2026-11-18 16:12 | 아주경제 | 삼성웰스토리, 외식 브랜드 직접 개발해 공급…'잎샘가베' 레드닷 수상 | https://www.ajunews.com/view/20261118160937853 | a12,ax6
-2026-11-18 16:10 | dt.co.kr | 삼성웰스토리, 외식업 ‘브랜드 솔루션’ 선보여…첫 모델 ‘잎샘가베... | https://www.dt.co.kr/article/12095963?ref=naver | a12,ax6
-2026-11-18 16:09 | Korea Biomedical Review | Transplantation society elects SMC Professor Park Jae-berm as next chair | google:Korea Biomedical Review#2bc33ad9 | aen13
-2026-11-18 16:07 | Chosunbiz | Samsung reshapes Austin plant as Taylor focuses on advanced chips | google:Chosunbiz#bcc79bab | aen13
-2026-11-18 16:04 | 핀포인트뉴스 | [거래소 외국인] LG엔솔 사고 삼성SDI 팔았다… 배터리주 선택 달랐다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=505560 | a9,ax3,ax4
-2026-11-18 15:58 | 시사저널 | 삼성바이오 노조, 한국노총 손잡았다…임금협상 '줄다리기' | https://www.sisajournal.com/news/articleView.html?idxno=394492 | ax2
-2026-11-18 15:56 | wikileaks-kr.org | 삼성바이오·셀트리온, 누적 매출 4조 넘겨..연 5조 '무난' | https://www.wikileaks-kr.org/news/articleView.html?idxno=194845 | ax2
-2026-11-18 15:12 | pointdaily.co.kr | 삼성웰스토리, 업계 최초 '브랜드 솔루션' 선봬…식자재 공급 넘어 외식... | https://www.pointdaily.co.kr/news/articleView.html?idxno=326510 | a12,ax6
-2026-11-18 15:06 | 비즈니스코리아 | 삼성바이오로직스 노조, 한국노총 가입…조합원 88% 찬성 | https://www.businesskorea.co.kr/news/articleView.html?idxno=281616 | a7,ax2
-2026-11-18 15:05 | JambiLINK.id | PalmCo Lindungi 27 Ribu Hektare Kawasan Konservasi, 211 Ribu Pohon Ditanam | google:JambiLINK.id#70ce060d | aid8
-2026-11-18 15:04 | 매일경제 | The Samsung Biologics Labor Union has joined the Federation of Korean Trade Unions (KCTU). Amid prol.. | google:매일경제#ca567a16 | aen3
-2026-11-18 14:56 | job-post.co.kr | 삼성바이오로직스 137만원대 약세…매출 전망은 상향 | https://www.job-post.co.kr/news/articleView.html?idxno=239339 | a7,ax2
-2026-11-18 14:46 | Seoul Economic Daily | Korea to Expand Digital Drug Inserts to Hospital Injectables Next Year | google:Seoul Economic Daily#8b3052e8 | aen4
-2026-11-18 14:46 | wsobi.com | [건설업계 10월 동향] 삼성물산, 스타트업·파트너사 협력 강화...재건축... | http://www.wsobi.com/news/articleView.html?idxno=322045 | a1
-2026-11-18 14:46 | economist.co.kr | "기본급 9.5% 인상" 삼성바이오 노조-한국노총 손 잡았다...87.8% 찬성 | https://economist.co.kr/article/view/ecn202611180044 | ax2
-2026-11-18 14:40 | 매일경제 | HLB Pep appoints former Lotte Biologics CEO as president | google:매일경제#c3ce811e | aen3
-2026-11-18 14:36 | 비즈니스코리아 | Samsung Biologics Union Joins FKTU | https://www.businesskorea.co.kr/news/articleView.html?idxno=281608 | a8,aen3
-2026-11-18 14:34 | mediafine.co.kr | 삼성바이오로직스 노조, 한국노총 가입-임금·인사 갈등 속 연대 강화 | https://www.mediafine.co.kr/news/articleView.html?idxno=95522 | a7,ax2
-2026-11-18 14:30 | 브레이크뉴스 | 창원 용호1구역 재건축 ‘멀쩡한 도로 폐쇄’ 특혜 논란 일파만파 | http://www.breaknews.com/1251948 | a1?,a2?,ax1?
-2026-11-18 14:30 | ccdn.co.kr | 충주시, 삼성웰스토리와 손잡고 급식망에 '맛-잇는 충주씨' 선보여 | https://www.ccdn.co.kr/news/articleView.html?idxno=1111822 | a12,ax6
-2026-11-18 14:28 | s-journal.co.kr | 대신증권, 3분기 국고채 과징금에 '어닝쇼크'… 목표주가 2만5000원으로... | https://www.s-journal.co.kr/news/articleView.html?idxno=45418 | a1
-2026-11-18 14:24 | 파이낸셜포스트 | 삼성바이오 노조, 한국노총 합류… 사측 '임금 6.2% 선적용' 거부 | https://www.financialpost.co.kr/news/articleView.html?idxno=301713 | ax2
-2026-11-18 14:23 | RiauPagi.com | 10 Kali Bolak Balik ke Jaksa, Kasus Dugaan Kerusakan Lingkungan PT Musim Mas Sepertinya 'Jalan Ditempat' | google:RiauPagi.com#f36e3370 | aid6
-2026-11-18 14:22 | ccdailynews.com | 충주시, 삼성웰스토리 급식에 '맛·잇는 충주씨' | https://www.ccdailynews.com/news/articleView.html?idxno=2452140 | a12,ax6
-2026-11-18 14:18 | newsdream.kr | 삼성바이오 노조, 한국노총 품으로…노사갈등 장기화 속 '연대' 선택 | http://www.newsdream.kr/news/articleView.html?idxno=122450 | ax2
-2026-11-18 14:16 | ccreview.co.kr | 충주시-삼성웰스토리 급식망 운영 '맞손' | https://www.ccreview.co.kr/news/articleView.html?idxno=363075 | a12,ax6
-2026-11-18 14:08 | foodnews.co.kr | 삼성웰스토리, 고객사 맞춤형 외식 브랜드 개발·공급 | http://www.foodnews.co.kr/news/articleView.html?idxno=121042 | a12,ax6
-2026-11-18 14:07 | magazine.hankyung.com | 삼성바이오, 임금 6.2% 선제안에도…노조, 한국노총 손잡았다 | https://magazine.hankyung.com/business/article/202611184696b | ax2
-2026-11-18 14:06 | megaeconomy.co.kr | 삼성웰스토리, 외식 브랜드 직접 만든다…식자재 넘어 '브랜드 사업'으... | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589134995074 | a12,ax6
-2026-11-18 14:00 | inews365.com | 충주사과, 삼성웰스토리 급식망 탄다 | https://www.inews365.com/news/article.html?no=944172 | a12,ax6
-2026-11-18 13:38 | 국제뉴스 | 충주시·삼성웰스토리, 급식소 150곳서 충주사과 홍보 | https://www.gukjenews.com/news/articleView.html?idxno=3755743 | a12,ax6
-2026-11-18 13:32 | 데일리한국 | [유통레이더] 롯데온, 배달의민족, 남양유업, 삼성웰스토리, BBQ 올떡, 교... | https://daily.hankooki.com/news/articleView.html?idxno=1426363 | a12,ax6
-2026-11-18 13:06 | bizhankook.com | 삼성바이오로직스 노조, 87.83% 찬성으로 한국노총 가입 | https://bizhankook.com/articles/samsung-biologics-union-joins-fktus.html | a7,ax2
-2026-11-18 13:06 | newsway.co.kr | 삼성바이오로직스 노사관계 새 국면…김동명 한국노총 위원장 "역량 총... | https://www.newsway.co.kr/news/view?ud=2026111812075802834 | a7,ax2
-2026-11-18 13:06 | newsway.co.kr | '조합원 2786명 찬성'…삼성바이오로직스 노조, 한국노총 합류[한 컷] | https://www.newsway.co.kr/news/view?ud=2026111812041253426 | a7,ax2
-2026-11-18 12:48 | news.inochong.org | 한국노총, 삼성바이오로직스상생노조 가입 인준… 부당노동행위 공동 대... | http://news.inochong.org/detail.php?number=6687&thread=22r07 | a7,ax2
-2026-11-18 12:39 | 조선비즈 | 임금 6.2% 선적용 제안에도…삼성바이오 노조, 한국노총 가입해 압박 강... | https://biz.chosun.com/science-chosun/bio/2026/11/18/H2UXX7YT4ZDE3KJJT4O2EKW7KY/?utm_source=naver&utm_medium=original&utm_campaign=biz | ax2
-2026-11-18 12:38 | Chosunbiz | Samsung Biologics union joins FKTU as wage dispute drags on | google:Chosunbiz#3758a769 | aen3
-2026-11-18 12:36 | thefirstmedia.net | "식자재 공급 넘어 브랜드 개발까지"…삼성웰스토리, 외식 사업 확대 | http://www.thefirstmedia.net/news/articleView.html?idxno=213995 | a12,ax6
-2026-11-18 12:36 | 연합인포맥스 | 삼성바이오 노조, 한국노총 가입…찬성률 88% | https://news.einfomax.co.kr/news/articleView.html?idxno=4445360 | ax2
-2026-11-18 12:24 | RM.ID | Cegah Karhutla, ITP2I-Warga Teluk Meranti Bangun Sumur Resapan Gambut | google:RM.ID#986ced77 | aid6
-2026-11-18 12:22 | METRORIAU.COM | Pertamina Drilling Gelar Drilling Innovation Forum 2026, Usulan Value Creation Inovasi Capai Rp9 T | google:METRORIAU.COM#f87093de | aid1
-2026-11-18 12:22 | pointdaily.co.kr | 삼성바이오 노조, 한국노총 가입 사측 압박…회사 "교섭 지속" | https://www.pointdaily.co.kr/news/articleView.html?idxno=326456 | ax2
-2026-11-18 12:18 | safetimes.co.kr | 삼성바이오 상생노조, 한국노총 합류 … 노사 갈등 '확전' | https://www.safetimes.co.kr/news/articleView.html?idxno=247631 | ax2
-2026-11-18 12:08 | 연합뉴스 | '강고한 연대투쟁, 단체교섭 승리하자' | https://www.yna.co.kr/view/PYH20261118111500013?input=1196m | a7,ax2
-2026-11-18 12:08 | 연합뉴스 | 삼성바이오로직스 상생노동조합 인준증 수여식 | https://www.yna.co.kr/view/PYH20261118111100013?input=1196m | a7,ax2
-2026-11-18 12:08 | 연합뉴스 | '노조탄압 중단하고, 성실교섭 이행하라' | https://www.yna.co.kr/view/PYH20261118111400013?input=1196m | a7,ax2
-2026-11-18 12:07 | 연합뉴스 | 발언하는 삼성바이오로직스 노동조합 위원장 | https://www.yna.co.kr/view/PYH20261118111000013?input=1196m | a7,ax2
-2026-11-18 12:07 | 연합뉴스 | 삼성바이오로직스 상생노동조합 한국노총 가입 총투표 결과 발표 기자회... | https://www.yna.co.kr/view/PYH20261118110900013?input=1196m | a7,ax2
-2026-11-18 12:06 | 연합뉴스 | 삼성바이오 노조, 한국노총 가입 결과 발표 기자회견 | https://www.yna.co.kr/view/PYH20261118110700013?input=1196m | ax2
-2026-11-18 11:43 | 서울경제 | 엔비디아 호실적에 삼성전자우 사고, 삼성전자·SK하이닉스 팔았다 [주... | https://www.sedaily.com/article/20115864?ref=naver | a7,ax2
-2026-11-18 11:38 | job-post.co.kr | 삼우종합건축사사무소, 2027년 신입사원 8개 직무 채용 | https://www.job-post.co.kr/news/articleView.html?idxno=239211 | a14,ax7
-2026-11-18 11:26 | it.chosun.com | "삼성바이오 추격 나선다"… 롯데바이오, 송도 12만리터 공장 준공 | https://it.chosun.com/news/articleView.html?idxno=3000000001302 | ax2
-2026-11-18 11:20 | topstarnews.net | 삼성바이오로직스 주가, 11월 18일 장중 1,384,000원 2.12% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16279683 | a7,ax2
-2026-11-18 11:20 | 브릿지경제 | [포토] 박재성 삼성바이오 노조위원장 “87.83% 찬성…한국노총 가입” | https://www.viva100.com/article/20261118500640 | ax2
-2026-11-18 11:18 | 뉴데일리경제 | ADC 기술 확보 나선 삼성에피스홀딩스 … 첫 해외 R&D 거점 중국 택한 이... | https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850111.html | a9,ax3,ax4
-2026-11-18 11:18 | newstomato.com | 삼성바이오 노조, 한국노총 가입…노사 교섭 갈등 ‘평행선’ | http://www.newstomato.com/ReadNews.aspx?no=1320885&inflow=N | ax2
-2026-11-18 11:12 | ftoday.co.kr | 삼성웰스토리, 외식 브랜드 솔루션 도입…베이커리 카페 '잎샘가베' 레... | http://www.ftoday.co.kr/news/articleView.html?idxno=370028 | a12,ax6
-2026-11-18 11:04 | kjdaily.com | 주요 공시(17일)-삼성바이오로직스 등 | http://www.kjdaily.com/article.php?aid=1794967323692730276 | a7,ax2
-2026-11-18 11:00 | Chosunbiz | Korea to review construction safety with 12 firms after fatal accidents | google:Chosunbiz#7a1514bf | aen13
-2026-11-18 10:38 | 비즈니스포스트 | 미국 SMR 인허가 빨라져 GE버노바히타치 사업 탄력, 협력사 삼성물산 유... | https://www.businesspost.co.kr/BP?command=article_view&num=452260 | a1
-2026-11-18 10:36 | 글로벌이코노믹 | 현대건설 13.3조 vs 삼성물산 12.8조…도시정비 왕좌 4800억 차 접전 | https://www.g-enews.com/view.php?ud=2026111810171789572aa6f4cdad_1 | a1
-2026-11-18 10:33 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Plasma Riau Periode 11-17 November 2026 Naik Rp24,18 per Kg Jadi Rp3,786.79 per Kg | google:Warta Suluh#a7cb9e79 | aid6
-2026-11-18 10:32 | safetimes.co.kr | 이재용 증여세 계산후 '주주환원' … 삼성 '총수 이익 우선' 논란 | https://www.safetimes.co.kr/news/articleView.html?idxno=247624 | a1
-2026-11-18 10:26 | jasm.co.kr | 삼성웰스토리, 외식 '브랜드 솔루션' 론칭…내년 초 '잎샘가베' 첫 선 | https://www.jasm.co.kr/news/view/325636/?sc=Naver | a12,ax6
-2026-11-18 10:25 | 서울경제 | 삼성웰스토리, 식자재 공급 넘어 외식 브랜드까지…‘잎샘가베’ 첫선 | https://www.sedaily.com/article/20115797?ref=naver | a12,ax6
-2026-11-18 10:24 | ngetnews.com | 삼성바이오로직스 임금 교섭 결렬…노사 갈등 지속 | https://www.ngetnews.com/news/articleView.html?idxno=556032 | a7,ax2
-2026-11-18 10:00 | 에너지경제 | [똑똑한한끼] 삼성웰스토리, CJ프레시웨이, 롯데칠성음료, 팔도, 대상 청... | https://www.ekn.kr/web/view.php?key=20261118029421253 | a12,ax6
-2026-11-18 09:59 | 머니투데이 | 삼성웰스토리, 외식 '브랜드 솔루션' 론칭…1호 카페 '잎샘가베' 내년 오... | https://www.mt.co.kr/living/2026/11/19/2026111808550713411 | a12,ax6
-2026-11-18 09:58 | www.famtimes.co.kr | Samsung Biologics employees share insights on welfare and company mission | google:www.famtimes.co.kr#5638c737 | aen3
-2026-11-18 09:48 | 데일리안 | 삼성웰스토리, 외식 브랜드 직접 개발…'잎샘가베' 첫선 | https://www.dailian.co.kr/news/view/1716409/?sc=Naver | a12,ax6
-2026-11-18 09:47 | ad-hoc-news.de | Samsung C&T stock: Q3 operating profit reaches KRW 1.143 trillion | google:ad-hoc-news.de#55e97291 | aen1,aen5
-2026-11-18 09:41 | 머니투데이 | KOSPI reclaims 5,000 on Nvidia earnings, Samsung Electronics and SK hynix rebound | google:머니투데이#175005fd | aen1
-2026-11-18 09:40 | 파이낸셜뉴스 | 삼성웰스토리, 외식 브랜드 직접 만든다.. '브랜드 솔루션' 첫선 | https://www.fnnews.com/news/202611180933463848 | a12,ax6
-2026-11-18 09:36 | www.famtimes.co.kr | Samsung Biologics showcases CDMO processes and Songdo campus expansion plans | google:www.famtimes.co.kr#3e6f5a7e | aen3
-2026-11-18 09:32 | newsquest.co.kr | 삼성웰스토리, '브랜드 개발+식자재 공급' 새 사업모델 가동 | https://www.newsquest.co.kr/news/articleView.html?idxno=305280 | a12,ax6
-2026-11-18 09:00 | housingherald.co.kr | 10대 건설사 재개발·재건축 공사비 검증…삼성물산 증액 인정률 85.6% 최... | https://www.housingherald.co.kr/news/articleView.html?idxno=63402 | a1
-2026-11-18 08:54 | 브릿지경제 | 삼성웰스토리, 업계 첫 브랜드 솔루션⋯ 내년 초 ‘잎샘가베’ 플래그십... | https://www.viva100.com/article/20261118500135 | a12,ax6
-2026-11-18 08:54 | seoulfn.com | 삼성바이오 노사, 임금 인상률 이견 여전···협상 장기화 전망 | https://www.seoulfn.com/news/articleView.html?idxno=643146 | ax2
-2026-11-18 08:52 | 더팩트 | 삼성웰스토리, 자체 개발 외식 브랜드 고객사 연계 '브랜드 솔루션' 선... | https://news.tf.co.kr/read/economy/2390136.htm | a12,ax6
-2026-11-18 08:45 | 헤럴드경제 | 삼성웰스토리, ‘브랜드 솔루션’ 첫선…’잎샘가베’는 레드닷 수상 | https://biz.heraldcorp.com/article/10940604?ref=naver | a12,ax6
-2026-11-18 08:38 | 글로벌이코노믹 | [개장 전 주요 공시] 삼성바이오로직스·영원무역홀딩스·코오롱글로벌... | https://www.g-enews.com/view.php?ud=202611180822112998923c501012_1 | a7,ax2
-2026-11-18 08:34 | 뉴스1 | 삼성웰스토리, 외식 브랜드 개발해 고객사에 공급…첫 모델 '잎샘가베' | https://www.news1.kr/industry/distribution/6357492 | a12,ax6
-2026-11-18 08:29 | VitalLaw.com | ANTITRUST—D. Mass.: Alexion wins judgment in Soliris antitrust suit as sham litigation claim fails | google:VitalLaw.com#356f2113 | aen4
-2026-11-18 08:28 | SBS Biz | [어제장 오늘장] AI 불확실성·외국인 조단위 매도에…5천피 붕괴, 9개월... | https://biz.sbs.co.kr/article_hub/20000347195?division=NAVER | a1?
-2026-11-18 08:28 | 한스경제 | 2.6조 실탄 장전 끝낸 삼성바이오, 글로벌 펩타이드 영토 확장 본격화 | http://www.hansbiz.co.kr/news/articleView.html?idxno=884425 | ax2
-2026-11-18 08:14 | 이투데이 | [전일 주요공시] 삼성바이오로직스ㆍ영원무역ㆍ코오롱글로벌ㆍ대한제강... | https://www.etoday.co.kr/news/view/2649521 | a7,ax2
-2026-11-18 08:10 | 서울경제TV | 삼성바이오 노사, 사측 6.2% 선인상 제안에도 평행선…노조, 한국노총 가... | https://www.sentv.co.kr/article/view/sentv202611180007 | ax2
-2026-11-18 08:02 | news.dealsitetv.com | [넥스트 K-브랜드 대상] [바이오 부문] 미래세대가 점찍은 삼성바이오로... | https://news.dealsitetv.com/articles/178691 | ax2
-2026-11-18 08:00 | news.ifm.kr | [롯데 3세 경영③] 신유열의 바이오 승부수, 삼성바이오와 격차 '뚜렷'…... | https://news.ifm.kr/news/articleView.html?idxno=484682 | ax2
-2026-11-18 06:01 | Chosunbiz | Hyundai, Samsung win 26 trillion won in Korea renewal orders, lead top 10 | google:Chosunbiz#7f91721f | aen1,aen13,aen2
+2026-11-20 06:52 | 브릿지경제 | ‘론자 ADC vs 삼성바이오 펩타이드’⋯ 결 다른 CDMO M&A 공식 | https://www.viva100.com/article/20261119500672 | ax2
+2026-11-20 05:04 | Drug Discovery News | Organoid screening data: why quality systems matter / DDN | google:Drug Discovery News#a07d96e1 | aen3
+2026-11-20 04:02 | news.ifm.kr | 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원... | https://news.ifm.kr/news/articleView.html?idxno=484963 | a7,ax2
+2026-11-20 00:46 | 조선일보 | Samsung Founder Lee Byung-chul's 39th Memorial Service | google:조선일보#dbc10c35 | aen1,aen2
+2026-11-20 00:30 | Hedge Fund Alpha | AVI Global Special Situations: October 2026 - Toho, Samsung C&T And Mitsubishi Logistics Lead Portfolio Story | google:Hedge Fund Alpha#09d6acaf | aen1
+2026-11-20 00:00 | SINDOnews Nasional | Jaksa Tuntut Duta Palma Group Bayar Uang Pengganti Rp81,8 Triliun di Kasus Kebun Sawit Ilegal | google:SINDOnews Nasional#07e42254 | aid8
+2026-11-19 23:36 | AFU.id | Duta Palma Terancam Dibubarkan, Jaksa Tuntut Denda Rp700 Miliar dan Uang Pengganti Rp81,1 Triliun dari Kasus Sawit Ilegal | google:AFU.id#54929c22 | aid8
+2026-11-19 23:30 | RM.ID | Jaksa Tuntut Duta Palma Group Bayar Rp 81,8 T di Kasus Korupsi dan TPPU | google:RM.ID#705c78dd | aid8
+2026-11-19 22:58 | CNN Indonesia | Kasus Kebun Sawit Ilegal, Duta Palma Dituntut Bayar Rp81,8 Triliun | google:CNN Indonesia#c38aeabb | aid8
+2026-11-19 22:19 | KiblatRiau.Com | Industri Perkebunan Kelapa Sawit dan Ilusi Keberlanjutan | google:KiblatRiau.Com#7f08c504 | aid9
+2026-11-19 22:16 | Monitor Indonesia | Jaksa Tuntut Duta Palma Group Rp81,8 Triliun di Kasus Kebun Sawit Ilegal Riau | google:Monitor Indonesia#4e629664 | aid8
+2026-11-19 22:06 | Sabang Merauke NEWS | Kasus Kebun Sawit Dalam Kawasan Hutan di Riau: Jaksa Tuntut Duta Palma Group Bayar Rp 81 Triliun, Perusahaan Dibubarkan! | google:Sabang Merauke NEWS#a7e26d9e | aid8
+2026-11-19 22:03 | Monitor Indonesia | Duta Palma Group Terancam Bayar Rp81,8 T, 7 Korporasi Ini Dituntut Dibubarkan dalam Kasus Sawit Ilegal | google:Monitor Indonesia#ec539225 | aid8
+2026-11-19 21:20 | detikNews | Duta Palma Group Dituntut Bayar Rp 81,8 Triliun di Kasus Kebun Sawit Ilegal | google:detikNews#dfe3ea09 | aid8
+2026-11-19 20:57 | The Pharma Letter | Teva R&D chief Eric Hughes to leave | google:The Pharma Letter#42ca6e98 | aen4
+2026-11-19 20:46 | Monitor Indonesia | PT Palma 1 Dituntut Bayar Rp1,48 Triliun, Aset Surya Darmadi Terancam Disita | google:Monitor Indonesia#045a6e39 | aid8
+2026-11-19 19:46 | Harianmemokepri.com | Polemik Lahan Sawit di Lingga Memanas, Ruslan dan Zuhardi Saling Berbeda Pandangan | google:Harianmemokepri.com#02a3603a | aid9
+2026-11-19 18:03 | Chosunbiz | Woomi-led consortium to build 623-home apartment complex in Pyeongtaek | google:Chosunbiz#fcfd94a4 | aen2
+2026-11-19 17:20 | smartbizn.com | 강남 개발 주도권 잡아라···삼성물산 '직접 매입', 현대건설 'PF' 승부 | https://www.smartbizn.com/news/articleView.html?idxno=160025 | a1
+2026-11-19 16:46 | s-journal.co.kr | '상위 2.1%' KCGS ESG 평가 통합 A+… 삼성바이오로직스·동아제약·SK바... | https://www.s-journal.co.kr/news/articleView.html?idxno=45470 | a7,ax2
+2026-11-19 16:40 | SR타임스 | 삼성물산 패션, 구호플러스 2026 겨울 컬렉션 출시 | http://www.srtimes.kr/news/articleView.html?idxno=218112 | a1
+2026-11-19 16:24 | newsworker.co.kr | 삼바 노조 부분파업 중 한국노총 가입…조합원 고소 취하·징계 절차 철... | https://www.newsworker.co.kr/news/articleView.html?idxno=515102 | a7,ax2
+2026-11-19 16:20 | news.dealsitetv.com | [뉴스 TOP5] GD맥주·NH농협·AK홀딩스·삼성물산 | https://news.dealsitetv.com/articles/178873 | a1
+2026-11-19 16:04 | 더바이오 | ﻿Inaugural CEOs of Samsung Biologics and Lotte Biologics join HLB Group, expanding global business beyond new drugs | google:더바이오#e3406544 | aen3
+2026-11-19 15:46 | 로이슈 | 삼성물산 패션부문 구호플러스, 페이크 퍼 재킷 물량 20% 늘린 겨울 신상... | https://www.lawissue.co.kr/view.php?ud=202611191540598074204ead0791_12 | a1,a5
+2026-11-19 15:34 | 한국경제 | "깨끗한 평택 만들자"…삼성물산·현대건설 등 6개 건설사 동참 | https://www.hankyung.com/article/202611197676h | a1
+2026-11-19 15:26 | 핀포인트뉴스 | 셀트리온·삼성바이오로직스 '휘파람'… 글로벌 의약품 시장 공략 박차 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=505952 | a7,ax2
+2026-11-19 15:23 | Medialokal.co | Reforma Agraria Sawit Berbasis Koperasi: Dari Penguasaan Kembali Negara Menuju Kepemilikan Kolektif Rakyat? | google:Medialokal.co#f9ed07b5 | aid9
+2026-11-19 15:18 | gg.newdaily.co.kr | 평택시, 삼성물산㈜ 등 대형 건설사 6곳과 비산먼지 저감 협약 | https://gg.newdaily.co.kr/site/data/html/2026/11/19/2026111950232.html | a1
+2026-11-19 15:12 | news.dealsitetv.com | [이슈플러스] 현대건설·삼성물산, 도시정비 26조 싹쓸이…1위 경쟁 | https://news.dealsitetv.com/articles/178863 | a1
+2026-11-19 15:10 | opinionnews.co.kr | 삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐 | http://www.opinionnews.co.kr/news/articleView.html?idxno=147263 | a7,ax2
+2026-11-19 14:36 | 매일경제 | Ho-Am's 39th Memorial: Extended Samsung Family Pays Respects Separately ... “Remembering the Ideal of Serving the Nation Through Business” | google:매일경제#d68ace30 | aen1
+2026-11-19 14:34 | ibabynews.com | [푸드·다이닝트렌드] 삼성웰스토리, 외식업계 첫 ‘브랜드 솔루션’ 선... | https://www.ibabynews.com/news/articleView.html?idxno=157072 | a12,ax6
+2026-11-19 14:32 | issuenbiz.com | "올 겨울엔 퍼 재킷!"…삼성물산, Z세대 패션 공략 시동 | http://www.issuenbiz.com/news/articleView.html?idxno=81785 | a1
+2026-11-19 14:30 | ezyeconomy.com | [EZ 기획] 사막 위 828m 마천루 세웠다···삼성물산, 초고층 시공 기술... | https://www.ezyeconomy.com/news/articleView.html?idxno=242000 | a1
+2026-11-19 14:24 | Media Indonesia | Warga Teluk Meranti Diberi Pendampingan Pencegahan Karhutla | google:Media Indonesia#e4278fa4 | aid6
+2026-11-19 14:13 | mydaily.co.kr | “작년만큼만 팔아도 5조 넘는다”…삼성바이오·셀트리온, 연매출 신기... | https://www.mydaily.co.kr/page/view/2026111901495790026 | ax2
+2026-11-19 14:10 | biztribune.co.kr | 삼성웰스토리,  외식 '브랜드 솔루션' 선보여… '잎샘가베' 레드닷 수상 | http://www.biztribune.co.kr/news/articleView.html?idxno=362780 | a12,ax6
+2026-11-19 14:02 | MTN | 부전마산선 붕괴 원인은 ‘시공관리 부실·이상징후 대응 미흡’ | https://news.mtn.co.kr/article/2026111911370051970 | a1,a3
+2026-11-19 13:50 | 파이낸셜포스트 | SOC 예산 확대에 건설업계 촉각…삼성물산 '신중한 선택 vs 과감한 배팅... | https://www.financialpost.co.kr/news/articleView.html?idxno=301920 | a1
+2026-11-19 13:06 | HaiSawit | Pemprov Riau Siap Dukung Penguatan Koperasi untuk Reforma Agraria Perkebunan Sawit | google:HaiSawit#75fce6ef | aid6
+2026-11-19 12:57 | 파이낸셜뉴스 | Major South Korean Companies Including Samsung, LG, Lotte Group, CJ Group, Orion Corporation, and Hanwha Group Named Among Vietnam's 100 Best Places to Work for 2026 | google:파이낸셜뉴스#07c78ba4 | aen13
+2026-11-19 12:00 | klikmx.com | Polsek Langgam Pasang Peringatan agar RAM Tidak Terima Sawit Curian! | google:klikmx.com#920ece96 | aid6
+2026-11-19 11:52 | apnews.kr | 셔츠·교복 제조사도 사업 재편…패션업계, 스포츠·캐주얼로 보폭 확대 | https://www.apnews.kr/news/articleView.html?idxno=3053301 | a1,a5
+2026-11-19 11:18 | 비즈니스포스트 | 삼성물산 패션부문 '구호플러스' 겨울 신상품 출시, Z세대 취향 적극 반... | https://www.businesspost.co.kr/BP?command=article_view&num=452383 | a1,a5
+2026-11-19 10:50 | ftoday.co.kr | 삼성물산 구호플러스, 퍼 재킷·숏 코트 중심 겨울 컬렉션 출시 | http://www.ftoday.co.kr/news/articleView.html?idxno=370126 | a1
+2026-11-19 10:41 | 블로터 | '반도체 캡티브' 업은 삼성물산, 건축 계약부채 1조 급증 | https://www.bloter.net/news/articleView.html?idxno=679090 | a1
+2026-11-19 10:06 | Chosunbiz | Samsung founder Lee Byung-chul remembered at 39th memorial | google:Chosunbiz#a5c79fca | aen1
+2026-11-19 10:04 | wemakenews.co.kr | 삼성물산 구호플러스, 퍼 재킷·숏·하프 코트 앞세운 겨울 컬렉션 출시 | http://www.wemakenews.co.kr/news/view.php?no=26887 | a1
+2026-11-19 09:46 | newsprime.co.kr | 삼성바이오 노조, 한국노총 합류 | http://www.newsprime.co.kr/news/article.html?no=755587 | ax2
+2026-11-19 09:24 | 미디어펜 | [미르의 글로벌 레이더]삼성물산·LG전자, 가나 아동보호시설 지원…현... | https://www.mediapen.com/news/view/1138481 | a1
+2026-11-19 09:01 | 서울경제 | 삼성에피스홀딩스, 시밀러 후보 9종…개발비 줄여 성장 기반 다진다 [Wh... | https://www.sedaily.com/article/20116238?ref=naver | a9,ax3,ax4
+2026-11-19 08:59 | Seoul Economic Daily | Samsung Epis Holdings Builds Growth Base With Nine Biosimilar Candidates | google:Seoul Economic Daily#728ae8c2 | aen4,aen5
+2026-11-19 08:42 | koreastocknews.com | 삼성바이오 조합원 10명 중 9명 "한국노총 가입"···노사갈등 변수 커... | http://www.koreastocknews.com/news/articleView.html?idxno=122357 | ax2
+2026-11-19 08:17 | The Korea News Plus | Samsung C&T’s kuho plus unveils winter collection featuring faux fur jackets | google:The Korea News Plus#ec1f3299 | aen1
+2026-11-19 08:06 | news.dealsitetv.com | 삼성물산, 도산대로 고가 베팅…주상복합 셈법 | https://news.dealsitetv.com/articles/178817 | a1
+2026-11-19 08:00 | 더구루 | 삼성물산, 영국 SMR 사업 본격화…현지 공급망 행사 개최 예정 | https://www.theguru.co.kr/news/article.html?no=109911 | a1

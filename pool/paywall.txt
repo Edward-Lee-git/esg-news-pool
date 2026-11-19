@@ -1,12 +1,13 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-19 07:30 KST
+collected: 2026-11-20 07:30 KST
 mode: on
 status: ok
-checked: 10 (유료 3 · 무료 7 · 판정불가 0)
-excluded: 3건 (세트별 a 0 · b 3 · c 3 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 7, paid 3
+checked: 13 (유료 4 · 무료 9 · 판정불가 0)
+excluded: 4건 (세트별 a 0 · b 4 · c 4 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 9, paid 4
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
+임팩트온 | 애플·버라이즌·알코아도 기후성과급 폐지…미국 기업 보수체계서 ESG 후퇴 | https://www.impacton.net/news/articleView.html?idxno=30750 | bc
+임팩트온 | 【ESG Deal】 美 esVolta, ESS 2개 사업에 2400억원 금융조달, 글래스포인트 투자유치 등 | https://www.impacton.net/news/articleView.html?idxno=30749 | bc
+임팩트온 | 중국, 제로탄소 산업단지 100곳 구축한다...전기료 20% 낮추기도 | https://www.impacton.net/news/articleView.html?idxno=30746 | bc
 임팩트온 | EU, 한국 배출권 비용 CBAM 공제 인정…무상할당·실제 구매비용이 관건 | https://www.impacton.net/news/articleView.html?idxno=30740 | bc
-임팩트온 | EU 탄소가격 전망 하향…철강·시멘트 CCS 투자경제성 어떻게 달라지나 | https://www.impacton.net/news/articleView.html?idxno=30735 | bc
-임팩트온 | 【ESG Deal】프로벡터스 앨지, 메탄저감 사료투자 확보·홀로솔리스, 시리즈A 투자 유치·스타크 퓨처, 전기 오토바이에 사업 확대 자금 조달 | https://www.impacton.net/news/articleView.html?idxno=30723 | bc
