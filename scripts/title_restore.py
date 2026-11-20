@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""잘려 온 기사 제목 복원 v2 (collect.py 가 불러 씁니다).
+"""잘려 온 기사 제목 복원 v2.1 (collect.py 가 불러 씁니다).
 
 네이버 검색 결과는 긴 제목을 약 70바이트(한글 약 35자)에서 「...」로 줄여 보냅니다.
 이 모듈은 그런 기사(직접 주소 + 제목이 ...·… 로 끝남)의 페이지 앞부분(<head>)을 읽어 제목을 되찾습니다.
@@ -10,6 +10,10 @@ v1 에서 바꾼 점(2026-11-20 첫 수동 실행에서 150초 안에 33건밖�
 - 주소 하나에 쓰는 전체 시간을 PER_URL 초로 제한하고(느린 사이트가 오래 붙잡지 못함), 리다이렉트는 3번까지만 따라갑니다.
 - 16건씩 묶어 기다리지 않고, 끝나는 대로 다음 주소를 시작합니다(느린 한 곳이 전체를 막지 않음).
 - 세트별로 시간을 나눠 부정기사·규제동향이 먼저 처리되고 일반동향도 시간을 받습니다(전체 TOTAL_BUDGET 초).
+
+v2.1 에서 바꾼 점(2026-11-20 17:07 수동 실행 결과 반영):
+- 시간 예산을 「첫 호출 이후 흐른 시간」이 아니라 「실제로 복원에 쓴 시간」으로 셉니다. 수집이 느린 날에도 일반동향 차례에 예산이 남습니다(v2 는 c 가 건너뜀 378건·0초였음).
+- 같은 도메인의 복원 제목 끝에 같은 꼬리표(예: 「 - 퍼블릭뉴스통신(Public news-network for TTL)」)가 2번 이상 나오면 사이트 이름으로 보고 뗍니다.
 
 안전 원칙(그대로): 후보가 잘린 제목의 앞부분으로 시작할 때만(공백·구두점 무시) 바꾸고, 안 맞으면 그대로 둡니다.
 구글 중계 기사·잘리지 않은 제목은 건드리지 않습니다. 어떤 오류도 수집을 멈추지 않습니다. 로그에는 개수·소요 시간만 출력합니다.
@@ -32,7 +36,7 @@ except Exception:  # noqa
     HEADERS = None
 
 WORKERS = 12
-TOTAL_BUDGET = 200        # 초. 세 세트 합계
+TOTAL_BUDGET = 200        # 초. 세 세트가 복원에 쓸 수 있는 시간의 합(수집의 다른 작업에 쓴 시간은 세지 않음)
 SHARE = {"a": 45, "b": 75}  # 세트별 상한(초). 나머지(일반동향)는 남은 전체 시간을 씀
 PER_URL = 8.0             # 초. 주소 하나에 쓰는 전체 시간(응답 대기 한 번은 최대 READ_T 초 더 걸릴 수 있음)
 CONNECT_T, READ_T = 4, 5
@@ -51,7 +55,8 @@ _CHARSET = re.compile(rb"charset\s*=\s*[\"']?\s*([\w\-]+)", re.I)
 _SEPS = (" - ", " | ", " :: ", " : ", " – ", " — ", " ㅣ ", " · ")
 
 _memo = {}
-_st = {"t0": None, "ok": 0, "fail": 0, "streak": 0, "skipped": 0, "off": "",
+_sfx_seen, _sfx_known = {}, set()
+_st = {"spent": 0.0, "ok": 0, "fail": 0, "streak": 0, "skipped": 0, "off": "",
        "dfail": Counter(), "dok": Counter(), "why": Counter()}
 
 
@@ -100,6 +105,39 @@ def pick(stem, page):
         if 0 < len(c) <= MAX_LEN:
             return c
     return None
+
+
+def _last_seg(t):
+    """제목 끝의 「 - 매체명」 꼴 꼬리표 위치와 글. 가장 오른쪽 구분자 기준(없으면 None, None)."""
+    best = -1
+    for sep in _SEPS:
+        best = max(best, t.rfind(sep))
+    return (best, t[best:]) if best > 0 else (None, None)
+
+
+def _strip_at(a, p):
+    new = a["title"][:p].rstrip()
+    if len(_norm(new)) >= MIN_STEM:
+        a["title"] = new
+
+
+def _learn_suffix(a):
+    """같은 도메인의 복원 제목 끝에 같은 꼬리표가 2번 이상 나오면 사이트 이름으로 보고 뗀다(복원된 제목에만 적용)."""
+    p, sg = _last_seg(a["title"])
+    if p is None or not (8 <= len(sg) <= 60):
+        return
+    key = (_host(a["url"]), sg)
+    if key in _sfx_known:
+        _strip_at(a, p)
+        return
+    seen = _sfx_seen.setdefault(key, [])
+    seen.append(a)
+    if len(seen) >= 2:
+        _sfx_known.add(key)
+        for it in seen:
+            pp, ss = _last_seg(it["title"])
+            if ss == sg:
+                _strip_at(it, pp)
 
 
 def _decode(buf, ctype):
@@ -230,10 +268,13 @@ def _restore(items, label, fetch):
     todo = [a for a in items if is_truncated(a)]
     if not todo:
         return items
+    remain = TOTAL_BUDGET - _st["spent"]                      # 남은 예산 = 전체 − 이미 복원에 쓴 시간(다른 작업 시간은 세지 않음)
+    if remain <= 0:
+        print(f"      [제목복원] {label}: 잘린 제목 {len(todo)}건 → 시간 예산({TOTAL_BUDGET}초)을 이미 써서 건너뜀")
+        _st["skipped"] += len(todo)
+        return items
     now = time.time()
-    if _st["t0"] is None:
-        _st["t0"] = now
-    end = min(_st["t0"] + TOTAL_BUDGET, now + SHARE.get(label, TOTAL_BUDGET))
+    end = now + min(SHARE.get(label, remain), remain)
     n_ok = n_fail = 0
     it = iter(todo)
     inflight = {}
@@ -259,6 +300,7 @@ def _restore(items, label, fetch):
                 if new:
                     a["title"] = new
                     a["title_restored"] = True
+                    _learn_suffix(a)
                     n_ok += 1
                     _st["ok"] += 1
                     _st["streak"] = 0
@@ -277,6 +319,7 @@ def _restore(items, label, fetch):
         for f in inflight:
             f.cancel()
         ex.shutdown(wait=True, cancel_futures=True)       # 이미 시작한 요청은 PER_URL 안팎에 끝난다
+    _st["spent"] += time.time() - now
     n_skip = len(todo) - n_ok - n_fail
     _st["skipped"] += n_skip
     if n_skip:
