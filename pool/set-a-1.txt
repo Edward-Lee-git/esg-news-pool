@@ -1,52 +1,75 @@
-# collected: 2026-11-20 07:30 KST
-# window: 2026-11-19 00:00 ~ 2026-11-20 07:30 KST
-# part 1 of 1, lines: 57
+# collected: 2026-11-20 15:59 KST
+# window: 2026-11-19 00:00 ~ 2026-11-20 15:59 KST
+# part 1 of 1, lines: 82
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-20 15:54 | Monitor Indonesia | Tuntut Denda dan Uang Pengganti Rp81,8 Triliun, Jaksa Minta Tujuh Korporasi Duta Palma Dibubarkan | google:Monitor Indonesia#420a1a65 | aid8
+2026-11-20 15:46 | beyondpost.co.kr | 안전보건공단 인천광역본부, 삼성바이오로직스 등 3곳 '건강증진 우수사업장' 선정 | http://www.beyondpost.co.kr/view.php?ud=202611201504526053be44c0aacd_30 | a7,ax2
+2026-11-20 15:06 | safetynews.co.kr | 삼성바이오로직스 등 3곳, 근로자 건강증진 우수사업장 선정 | https://www.safetynews.co.kr/news/articleView.html?idxno=251701 | a7,ax2
+2026-11-20 14:19 | 파이낸셜뉴스 | U.S. Semiconductor Shock Sends Samsung Electronics and SK hynix Tumbling... KOSPI Slips to the 4,800 Level [fn Afternoon Market] | google:파이낸셜뉴스#bdfda87e | aen3
+2026-11-20 14:05 | SBS | Moody's: Strong AI Demand to Drive Solid Earnings for Samsung, SK Hynix Next Year, Benefiting Construction Sector | google:news.sbs.co.kr#7c596d61 | aen1
+2026-11-20 14:03 | BertuahPos | Satgas PKH Cabut Izin PT RAPP terkait Karhutla dan Kerusakan Kawasan Lindung | google:BertuahPos#5625ae3b | aid6
+2026-11-20 13:16 | finomy.com | [공시]제일테크노스, 삼성물산과 평택 P5 데크공사 117억원 계약 | http://www.finomy.com/news/articleView.html?idxno=267408 | a1
+2026-11-20 13:13 | RRI.co.id | GREEN for Riau dan BP2SDM Pekanbaru Latih Gugus Tugas PADIATAPA | google:RRI.co.id#7fa65320 | aid9
+2026-11-20 13:05 | Sawit Indonesia | Sawit Boleh Tumbuh ke Atas, Bukan ke Samping: Peta Jalan Menjaga Paru-Paru Kalimantan di Tengah Ekspansi Konsesi dan Mandatori Energi | google:Sawit Indonesia#c2409c11 | aid10
+2026-11-20 12:41 | RiauAktual.com | BREAKING NEWS: Satgas PKH Cabut Izin PT RAPP Seluas 338 Ribu Hektare di Riau | google:RiauAktual.com#fd149ad2 | aid6
+2026-11-20 12:41 | RiauAktual.com | Satgas PKH Tertibkan RAPP dan GSL di Riau, Izin 338 Ribu Hektare Dicabut | google:RiauAktual.com#681f8908 | aid6
+2026-11-20 12:07 | Inilah.com | Duta Palma Dituntut Rp81,8 Triliun, Perusahaan Sawit Terancam Bubar | google:Inilah.com#6f799f8d | aid8
+2026-11-20 11:42 | news.ifm.kr | 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도" [굿모닝 인천-주간핫이슈] | https://news.ifm.kr/news/articleView.html?idxno=484963 | a7,ax2
+2026-11-20 11:33 | 조선일보 | Samsung Family, Affiliates Honor Founder Lee Byung-chul on 39th Memorial | google:조선일보#dbc10c35 | aen1
+2026-11-20 11:24 | 디지털투데이 | Samsung Electronics expected to expand role in global semiconductor ecosystem | google:디지털투데이#382d0120 | aen1,aen2
+2026-11-20 11:08 | 아주경제 | 무디스 "내년 AI 반도체 수요 지속…데이터센터 투자로 삼성물산도 수혜" / 아주경제 | https://www.ajunews.com/view/20261120105901527 | a1
+2026-11-20 11:02 | finomy.com | [공시]덕신이피씨, 삼성물산과 평택 P5 공사 114억원 계약 | http://www.finomy.com/news/articleView.html?idxno=267378 | a1
+2026-11-20 10:32 | ad-hoc-news.de | Samsung Biologics stock faces labor uncertainty after 6.2% pay offer | google:ad-hoc-news.de#0b7067f8 | aen3
+2026-11-20 10:32 | 뉴스1 | 팔레트 찾고 엘리베이터 타는 로봇…삼성물산 'AI 네이티브 건설사' 속... | https://www.news1.kr/realestate/general/6360646 | a1
+2026-11-20 10:15 | 세계일보 | 히트텍 7만장에 겨울 패딩까지…유니클로·롯데·삼성물산의 특별한 나눔 | https://www.segye.com/newsView/20261120504887?OutUrl=naver | a1
+2026-11-20 10:13 | ad-hoc-news.de | Samsung Epis Holdings stock: subsidiary approves KRW 104.3 billion dividend | google:ad-hoc-news.de#3b1839e3 | aen4,aen5
+2026-11-20 10:10 | 신아일보 | 야구장 먹거리가 테마파크로…삼성웰스토리, 하오라 메뉴 외부 판매 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5085404 | a12,ax6
+2026-11-20 10:00 | Aktual.com | Jaksa Kejar Rp81,89 Triliun dari Duta Palma Group, Tujuh Perusahaan Surya Darmadi Terancam Dibubarkan | google:Aktual.com#ab299771 | aid8
+2026-11-20 09:54 | 비건뉴스 | 잠실 래미안아이파크 계약취소 3가구 청약 | https://www.vegannews.co.kr/news/article.html?no=408023 | a1,a3
+2026-11-20 09:02 | Chosunbiz | KOSPI and KOSDAQ fall over 3% after US stocks slide | google:Chosunbiz#de81e51a | aen3
+2026-11-20 08:42 | 머니투데이 | Samsung shares hit 180,000 won and SK hynix 1.11 million won in premarket trading as funds flow out after Anthropic IPO | google:머니투데이#dbfd7207 | aen3
+2026-11-20 08:18 | 더벨 | [더벨][thebell League Table / 2026 이사회 평가] 삼성바이오 1위…신약... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121410447560106865 | ax2
+2026-11-20 07:30 | 한스경제 | [건설사 ESG 민낯]현대건설, 글로벌톱티어 어디에…1조 쏟고 매년 사망 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885144 | a1
 2026-11-20 06:52 | 브릿지경제 | ‘론자 ADC vs 삼성바이오 펩타이드’⋯ 결 다른 CDMO M&A 공식 | https://www.viva100.com/article/20261119500672 | ax2
-2026-11-20 05:04 | Drug Discovery News | Organoid screening data: why quality systems matter / DDN | google:Drug Discovery News#a07d96e1 | aen3
-2026-11-20 04:02 | news.ifm.kr | 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원... | https://news.ifm.kr/news/articleView.html?idxno=484963 | a7,ax2
-2026-11-20 00:46 | 조선일보 | Samsung Founder Lee Byung-chul's 39th Memorial Service | google:조선일보#dbc10c35 | aen1,aen2
 2026-11-20 00:30 | Hedge Fund Alpha | AVI Global Special Situations: October 2026 - Toho, Samsung C&T And Mitsubishi Logistics Lead Portfolio Story | google:Hedge Fund Alpha#09d6acaf | aen1
+2026-11-20 00:14 | PotretNews.com | Kasus TPPU Usaha Kebun Sawit Ilegal di Inhu Riau pada 2004–2022: Jaksa Tuntut Duta Palma Group Bayar Rp 81,8 Triliun, Perusahaan Dibubarkan! | google:PotretNews.com#89d590c1 | aid8
 2026-11-20 00:00 | SINDOnews Nasional | Jaksa Tuntut Duta Palma Group Bayar Uang Pengganti Rp81,8 Triliun di Kasus Kebun Sawit Ilegal | google:SINDOnews Nasional#07e42254 | aid8
 2026-11-19 23:36 | AFU.id | Duta Palma Terancam Dibubarkan, Jaksa Tuntut Denda Rp700 Miliar dan Uang Pengganti Rp81,1 Triliun dari Kasus Sawit Ilegal | google:AFU.id#54929c22 | aid8
-2026-11-19 23:30 | RM.ID | Jaksa Tuntut Duta Palma Group Bayar Rp 81,8 T di Kasus Korupsi dan TPPU | google:RM.ID#705c78dd | aid8
-2026-11-19 22:58 | CNN Indonesia | Kasus Kebun Sawit Ilegal, Duta Palma Dituntut Bayar Rp81,8 Triliun | google:CNN Indonesia#c38aeabb | aid8
+2026-11-19 23:30 | RM.ID | Jaksa Tuntut Duta Palma Group Bayar Rp 81,8 T di Kasus Korupsi dan TPPU | google:RM.ID#bb91319e | aid8
+2026-11-19 23:10 | law-justice.co | Kasus Kebun Sawit Ilegal, Duta Palma Dituntut Bayar Rp81,8 T | google:law-justice.co#05397396 | aid8
 2026-11-19 22:19 | KiblatRiau.Com | Industri Perkebunan Kelapa Sawit dan Ilusi Keberlanjutan | google:KiblatRiau.Com#7f08c504 | aid9
 2026-11-19 22:16 | Monitor Indonesia | Jaksa Tuntut Duta Palma Group Rp81,8 Triliun di Kasus Kebun Sawit Ilegal Riau | google:Monitor Indonesia#4e629664 | aid8
 2026-11-19 22:06 | Sabang Merauke NEWS | Kasus Kebun Sawit Dalam Kawasan Hutan di Riau: Jaksa Tuntut Duta Palma Group Bayar Rp 81 Triliun, Perusahaan Dibubarkan! | google:Sabang Merauke NEWS#a7e26d9e | aid8
 2026-11-19 22:03 | Monitor Indonesia | Duta Palma Group Terancam Bayar Rp81,8 T, 7 Korporasi Ini Dituntut Dibubarkan dalam Kasus Sawit Ilegal | google:Monitor Indonesia#ec539225 | aid8
 2026-11-19 21:20 | detikNews | Duta Palma Group Dituntut Bayar Rp 81,8 Triliun di Kasus Kebun Sawit Ilegal | google:detikNews#dfe3ea09 | aid8
 2026-11-19 20:57 | The Pharma Letter | Teva R&D chief Eric Hughes to leave | google:The Pharma Letter#42ca6e98 | aen4
-2026-11-19 20:46 | Monitor Indonesia | PT Palma 1 Dituntut Bayar Rp1,48 Triliun, Aset Surya Darmadi Terancam Disita | google:Monitor Indonesia#045a6e39 | aid8
-2026-11-19 19:46 | Harianmemokepri.com | Polemik Lahan Sawit di Lingga Memanas, Ruslan dan Zuhardi Saling Berbeda Pandangan | google:Harianmemokepri.com#02a3603a | aid9
-2026-11-19 18:03 | Chosunbiz | Woomi-led consortium to build 623-home apartment complex in Pyeongtaek | google:Chosunbiz#fcfd94a4 | aen2
+2026-11-19 18:03 | Chosunbiz | Woomi consortium to develop 623-home complex in Pyeongtaek | google:Chosunbiz#3c62be3f | aen2
 2026-11-19 17:20 | smartbizn.com | 강남 개발 주도권 잡아라···삼성물산 '직접 매입', 현대건설 'PF' 승부 | https://www.smartbizn.com/news/articleView.html?idxno=160025 | a1
-2026-11-19 16:46 | s-journal.co.kr | '상위 2.1%' KCGS ESG 평가 통합 A+… 삼성바이오로직스·동아제약·SK바... | https://www.s-journal.co.kr/news/articleView.html?idxno=45470 | a7,ax2
+2026-11-19 16:46 | s-journal.co.kr | '상위 2.1%' KCGS ESG 평가 통합 A+… 삼성바이오로직스·동아제약·SK바이오팜 | https://www.s-journal.co.kr/news/articleView.html?idxno=45470 | a7,ax2
 2026-11-19 16:40 | SR타임스 | 삼성물산 패션, 구호플러스 2026 겨울 컬렉션 출시 | http://www.srtimes.kr/news/articleView.html?idxno=218112 | a1
-2026-11-19 16:24 | newsworker.co.kr | 삼바 노조 부분파업 중 한국노총 가입…조합원 고소 취하·징계 절차 철... | https://www.newsworker.co.kr/news/articleView.html?idxno=515102 | a7,ax2
+2026-11-19 16:24 | newsworker.co.kr | 삼바 노조 부분파업 중 한국노총 가입…조합원 고소 취하·징계 절차 철회 요구 | https://www.newsworker.co.kr/news/articleView.html?idxno=515102 | a7,ax2
 2026-11-19 16:20 | news.dealsitetv.com | [뉴스 TOP5] GD맥주·NH농협·AK홀딩스·삼성물산 | https://news.dealsitetv.com/articles/178873 | a1
-2026-11-19 16:04 | 더바이오 | ﻿Inaugural CEOs of Samsung Biologics and Lotte Biologics join HLB Group, expanding global business beyond new drugs | google:더바이오#e3406544 | aen3
-2026-11-19 15:46 | 로이슈 | 삼성물산 패션부문 구호플러스, 페이크 퍼 재킷 물량 20% 늘린 겨울 신상... | https://www.lawissue.co.kr/view.php?ud=202611191540598074204ead0791_12 | a1,a5
+2026-11-19 15:46 | 로이슈 | 삼성물산 패션부문 구호플러스, 페이크 퍼 재킷 물량 20% 늘린 겨울 신상품 선봬 | https://www.lawissue.co.kr/view.php?ud=202611191540598074204ead0791_12 | a1,a5
+2026-11-19 15:41 | 더바이오 | ﻿Inaugural CEOs of Samsung Biologics and Lotte Biologics join HLB Group, expanding global business beyond new drugs | google:더바이오#e53608dc | aen3
 2026-11-19 15:34 | 한국경제 | "깨끗한 평택 만들자"…삼성물산·현대건설 등 6개 건설사 동참 | https://www.hankyung.com/article/202611197676h | a1
 2026-11-19 15:26 | 핀포인트뉴스 | 셀트리온·삼성바이오로직스 '휘파람'… 글로벌 의약품 시장 공략 박차 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=505952 | a7,ax2
-2026-11-19 15:23 | Medialokal.co | Reforma Agraria Sawit Berbasis Koperasi: Dari Penguasaan Kembali Negara Menuju Kepemilikan Kolektif Rakyat? | google:Medialokal.co#f9ed07b5 | aid9
 2026-11-19 15:18 | gg.newdaily.co.kr | 평택시, 삼성물산㈜ 등 대형 건설사 6곳과 비산먼지 저감 협약 | https://gg.newdaily.co.kr/site/data/html/2026/11/19/2026111950232.html | a1
 2026-11-19 15:12 | news.dealsitetv.com | [이슈플러스] 현대건설·삼성물산, 도시정비 26조 싹쓸이…1위 경쟁 | https://news.dealsitetv.com/articles/178863 | a1
 2026-11-19 15:10 | opinionnews.co.kr | 삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐 | http://www.opinionnews.co.kr/news/articleView.html?idxno=147263 | a7,ax2
+2026-11-19 15:04 | 조선일보 | Samsung Founder Lee Byung-chul Honored at 39th Memorial Service | google:조선일보#880dd93f | aen1
 2026-11-19 14:36 | 매일경제 | Ho-Am's 39th Memorial: Extended Samsung Family Pays Respects Separately ... “Remembering the Ideal of Serving the Nation Through Business” | google:매일경제#d68ace30 | aen1
-2026-11-19 14:34 | ibabynews.com | [푸드·다이닝트렌드] 삼성웰스토리, 외식업계 첫 ‘브랜드 솔루션’ 선... | https://www.ibabynews.com/news/articleView.html?idxno=157072 | a12,ax6
+2026-11-19 14:34 | ibabynews.com | [푸드·다이닝트렌드] 삼성웰스토리, 외식업계 첫 ‘브랜드 솔루션’ 선보여…‘잎샘가베’ 레드닷 수상 外 | https://www.ibabynews.com/news/articleView.html?idxno=157072 | a12,ax6
 2026-11-19 14:32 | issuenbiz.com | "올 겨울엔 퍼 재킷!"…삼성물산, Z세대 패션 공략 시동 | http://www.issuenbiz.com/news/articleView.html?idxno=81785 | a1
-2026-11-19 14:30 | ezyeconomy.com | [EZ 기획] 사막 위 828m 마천루 세웠다···삼성물산, 초고층 시공 기술... | https://www.ezyeconomy.com/news/articleView.html?idxno=242000 | a1
+2026-11-19 14:30 | ezyeconomy.com | [EZ 기획] 사막 위 828m 마천루 세웠다···삼성물산, 초고층 시공 기술력 입증 | https://www.ezyeconomy.com/news/articleView.html?idxno=242000 | a1
 2026-11-19 14:24 | Media Indonesia | Warga Teluk Meranti Diberi Pendampingan Pencegahan Karhutla | google:Media Indonesia#e4278fa4 | aid6
-2026-11-19 14:13 | mydaily.co.kr | “작년만큼만 팔아도 5조 넘는다”…삼성바이오·셀트리온, 연매출 신기... | https://www.mydaily.co.kr/page/view/2026111901495790026 | ax2
+2026-11-19 14:13 | mydaily.co.kr | “작년만큼만 팔아도 5조 넘는다”…삼성바이오·셀트리온, 연매출 신기록 성큼 | https://www.mydaily.co.kr/page/view/2026111901495790026 | ax2
 2026-11-19 14:10 | biztribune.co.kr | 삼성웰스토리,  외식 '브랜드 솔루션' 선보여… '잎샘가베' 레드닷 수상 | http://www.biztribune.co.kr/news/articleView.html?idxno=362780 | a12,ax6
 2026-11-19 14:02 | MTN | 부전마산선 붕괴 원인은 ‘시공관리 부실·이상징후 대응 미흡’ | https://news.mtn.co.kr/article/2026111911370051970 | a1,a3
-2026-11-19 13:50 | 파이낸셜포스트 | SOC 예산 확대에 건설업계 촉각…삼성물산 '신중한 선택 vs 과감한 배팅... | https://www.financialpost.co.kr/news/articleView.html?idxno=301920 | a1
+2026-11-19 13:50 | 파이낸셜포스트 | SOC 예산 확대에 건설업계 촉각…삼성물산 '신중한 선택 vs 과감한 배팅' - 파이낸셜포스트 | https://www.financialpost.co.kr/news/articleView.html?idxno=301920 | a1
 2026-11-19 13:06 | HaiSawit | Pemprov Riau Siap Dukung Penguatan Koperasi untuk Reforma Agraria Perkebunan Sawit | google:HaiSawit#75fce6ef | aid6
-2026-11-19 12:57 | 파이낸셜뉴스 | Major South Korean Companies Including Samsung, LG, Lotte Group, CJ Group, Orion Corporation, and Hanwha Group Named Among Vietnam's 100 Best Places to Work for 2026 | google:파이낸셜뉴스#07c78ba4 | aen13
-2026-11-19 12:00 | klikmx.com | Polsek Langgam Pasang Peringatan agar RAM Tidak Terima Sawit Curian! | google:klikmx.com#920ece96 | aid6
+2026-11-19 12:00 | klikmx.com | Polsek Langgam Pasang Peringatan agar RAM Tidak Terima Sawit Curian! | google:klikmx.com#8d0e3d66 | aid6
 2026-11-19 11:52 | apnews.kr | 셔츠·교복 제조사도 사업 재편…패션업계, 스포츠·캐주얼로 보폭 확대 | https://www.apnews.kr/news/articleView.html?idxno=3053301 | a1,a5
 2026-11-19 11:18 | 비즈니스포스트 | 삼성물산 패션부문 '구호플러스' 겨울 신상품 출시, Z세대 취향 적극 반... | https://www.businesspost.co.kr/BP?command=article_view&num=452383 | a1,a5
 2026-11-19 10:50 | ftoday.co.kr | 삼성물산 구호플러스, 퍼 재킷·숏 코트 중심 겨울 컬렉션 출시 | http://www.ftoday.co.kr/news/articleView.html?idxno=370126 | a1
@@ -54,10 +77,12 @@
 2026-11-19 10:06 | Chosunbiz | Samsung founder Lee Byung-chul remembered at 39th memorial | google:Chosunbiz#a5c79fca | aen1
 2026-11-19 10:04 | wemakenews.co.kr | 삼성물산 구호플러스, 퍼 재킷·숏·하프 코트 앞세운 겨울 컬렉션 출시 | http://www.wemakenews.co.kr/news/view.php?no=26887 | a1
 2026-11-19 09:46 | newsprime.co.kr | 삼성바이오 노조, 한국노총 합류 | http://www.newsprime.co.kr/news/article.html?no=755587 | ax2
-2026-11-19 09:24 | 미디어펜 | [미르의 글로벌 레이더]삼성물산·LG전자, 가나 아동보호시설 지원…현... | https://www.mediapen.com/news/view/1138481 | a1
-2026-11-19 09:01 | 서울경제 | 삼성에피스홀딩스, 시밀러 후보 9종…개발비 줄여 성장 기반 다진다 [Wh... | https://www.sedaily.com/article/20116238?ref=naver | a9,ax3,ax4
+2026-11-19 09:24 | 미디어펜 | [미르의 글로벌 레이더]삼성물산·LG전자, 가나 아동보호시설 지원…현지 언론 조명 | https://www.mediapen.com/news/view/1138481 | a1
+2026-11-19 09:01 | 서울경제 | 삼성에피스홀딩스, 시밀러 후보 9종…개발비 줄여 성장 기반 다진다 [Why 바이오] | https://www.sedaily.com/article/20116238?ref=naver | a9,ax3,ax4
 2026-11-19 08:59 | Seoul Economic Daily | Samsung Epis Holdings Builds Growth Base With Nine Biosimilar Candidates | google:Seoul Economic Daily#728ae8c2 | aen4,aen5
-2026-11-19 08:42 | koreastocknews.com | 삼성바이오 조합원 10명 중 9명 "한국노총 가입"···노사갈등 변수 커... | http://www.koreastocknews.com/news/articleView.html?idxno=122357 | ax2
+2026-11-19 08:59 | KED Global | S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays | google:KED Global#62c645a9 | aen3
+2026-11-19 08:48 | 파이낸셜뉴스 | 39th Anniversary of Samsung Founding Chairman Lee Byung-chull's Death... Broader Samsung Family Holds Memorial at Yongin Burial Site | google:파이낸셜뉴스#bf54cb82 | aen1
+2026-11-19 08:42 | koreastocknews.com | 삼성바이오 조합원 10명 중 9명 "한국노총 가입"···노사갈등 변수 커졌다 | http://www.koreastocknews.com/news/articleView.html?idxno=122357 | ax2
 2026-11-19 08:17 | The Korea News Plus | Samsung C&T’s kuho plus unveils winter collection featuring faux fur jackets | google:The Korea News Plus#ec1f3299 | aen1
 2026-11-19 08:06 | news.dealsitetv.com | 삼성물산, 도산대로 고가 베팅…주상복합 셈법 | https://news.dealsitetv.com/articles/178817 | a1
 2026-11-19 08:00 | 더구루 | 삼성물산, 영국 SMR 사업 본격화…현지 공급망 행사 개최 예정 | https://www.theguru.co.kr/news/article.html?no=109911 | a1
