@@ -1,10 +1,10 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-20 15:59 KST
+collected: 2026-11-20 17:07 KST
 mode: on
 status: ok
-checked: 22 (유료 6 · 무료 16 · 판정불가 0)
+checked: 23 (유료 6 · 무료 17 · 판정불가 0)
 excluded: 6건 (세트별 a 0 · b 6 · c 6 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 16, paid 6
+reasons: free 17, paid 6
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
 임팩트온 | 메타, AI 설비투자 늘렸더니 탄소배출 45% 증가…넷제로 일정 재검토 | https://www.impacton.net/news/articleView.html?idxno=30756 | bc
