@@ -67,6 +67,16 @@ try:                                                   # 임팩트온 유료(구
 except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(제외만 하지 않는다)
     PaywallFilter = None
 
+try:                                                   # 네이버가 「...」로 줄인 제목 복원(scripts/title_restore.py)
+    from title_restore import restore_titles
+except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(복원만 하지 않는다)
+    restore_titles = None
+
+try:                                                   # 회사 규정상 접속이 차단된 사이트 제외(scripts/domain_filter.py, config/blocked_domains.json)
+    from domain_filter import drop_blocked
+except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(제외만 하지 않는다)
+    drop_blocked = None
+
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -416,6 +426,8 @@ def main():
         use_sweep = sweep if opt["sweep"] else []
         items += use_sweep
         items = [a for a in items if in_window(a, start, end)]
+        if drop_blocked:                                 # 접속이 막힌 사이트는 중복 제거·상한 계산 이전에 뺀다
+            items = drop_blocked(items, label=pfx)
 
         # 검색어가 제목·요약에 확인되지 않았고 제목에 리스크 신호도 없는 기사는 버린다.
         # (코스피 시황, 부고, 취업박람회 등 검색어가 본문에 스쳐 지나간 기사)
@@ -448,6 +460,8 @@ def main():
         items, cut = balance_by_date(items, opt["limit"], prio=keep_priority if opt["sweep"] else None)
         if opt.get("body_check"):
             items = apply_body_check(items, dict(legend))   # legend: [(태그, 검색어)]
+        if restore_titles:                               # 잘려 온 제목 복원 — 제외 기준 키를 저장하기 전에 해야 한다
+            items = restore_titles(items, label=pfx)
         for a in items:
             kept_keys[pfx] |= article_keys(a)
 
