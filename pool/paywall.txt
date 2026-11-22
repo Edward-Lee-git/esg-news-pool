@@ -1,15 +1,11 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-20 17:24 KST
+collected: 2026-11-23 07:30 KST
 mode: on
 status: ok
-checked: 23 (유료 6 · 무료 17 · 판정불가 0)
-excluded: 6건 (세트별 a 0 · b 6 · c 6 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 17, paid 6
+checked: 10 (유료 2 · 무료 8 · 판정불가 0)
+excluded: 2건 (세트별 a 0 · b 2 · c 2 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 8, paid 2
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
 임팩트온 | 메타, AI 설비투자 늘렸더니 탄소배출 45% 증가…넷제로 일정 재검토 | https://www.impacton.net/news/articleView.html?idxno=30756 | bc
 임팩트온 | 【ESG Deal】실라, 실리콘 음극재 공급계약·후지쯔, 탄소제거 크레딧  조달·제너럴 플래시, 친환경 핵심광물 정제 자금 조 | https://www.impacton.net/news/articleView.html?idxno=30755 | bc
-임팩트온 | 애플·버라이즌·알코아도 기후성과급 폐지…미국 기업 보수체계서 ESG 후퇴 | https://www.impacton.net/news/articleView.html?idxno=30750 | bc
-임팩트온 | 【ESG Deal】 美 esVolta, ESS 2개 사업에 2400억원 금융조달, 글래스포인트 투자유치 등 | https://www.impacton.net/news/articleView.html?idxno=30749 | bc
-임팩트온 | 중국, 제로탄소 산업단지 100곳 구축한다...전기료 20% 낮추기도 | https://www.impacton.net/news/articleView.html?idxno=30746 | bc
-임팩트온 | EU, 한국 배출권 비용 CBAM 공제 인정…무상할당·실제 구매비용이 관건 | https://www.impacton.net/news/articleView.html?idxno=30740 | bc
