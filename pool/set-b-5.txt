@@ -1,163 +1,159 @@
-# collected: 2026-11-23 07:30 KST
-# window: 2026-11-20 00:00 ~ 2026-11-23 07:30 KST
+# collected: 2026-11-23 13:24 KST
+# window: 2026-11-20 00:00 ~ 2026-11-23 13:24 KST
 # part 5 of 5, lines: 200
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-20 15:20 | 미디어펜 | 에너지 비용 높은 한국, 정유 효율은 세계 최상위권…비결은? | https://www.mediapen.com/news/view/1138833 | b2
-2026-11-20 15:19 | 이데일리 | 민주유공자법, 野 불참 속 與 주도로 통과... 유가족은 눈물도 | https://www.edaily.co.kr/News/Read?newsId=03319366645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b42
-2026-11-20 15:17 | 뉴시스 | 민주유공자법 통과 방청객들 향해 박수치는 의원들 | https://www.newsis.com/view/NISI20261120_0021540458 | b42
-2026-11-20 15:17 | 뉴시스 | '민주유공자법' 국회 본회의서 與주도로 통과…국힘, 표결 불참 | https://www.newsis.com/view/NISX20261120_0003876952 | b42,sw
-2026-11-20 15:17 | 뉴시스 | 본회의 통과된 민주유공자법 | https://www.newsis.com/view/NISI20261120_0021540455 | b42
+2026-11-20 16:54 | newsmaker.or.kr | 전북자치도, 사용후 배터리 재활용·AI 진단 기술 북유럽에 소개 | http://www.newsmaker.or.kr/news/articleView.html?idxno=186196 | b7
+2026-11-20 16:52 | tjb.co.kr | 민주유공자법, 26년만에 국회 문턱 넘어…635명 의료·복지 예우 | https://www.tjb.co.kr/news05/bodo/view/id/106340 | b42
+2026-11-20 16:51 | LRT | Lithuania ranks fifth-lowest in EU for tax revenue as share of GDP | google:LRT#8e995254 | bgb8
+2026-11-20 16:50 | dgmbc.com | '민주유공자법' 국회 본회의 통과···대구·경북 유신반대·6월항쟁 등 포함 | https://dgmbc.com/NewsArticle/874579 | b42
+2026-11-20 16:50 | ngetnews.com | 전남광주통합특별시, 중소·중견기업 탄소중립 지원 설명회 24일 개최 | https://www.ngetnews.com/news/articleView.html?idxno=556171 | b2,b4
+2026-11-20 16:50 | 매일일보 | 고려아연, ESG 환경 등급 한 단계 상승…지배구조 'AAA' | https://www.m-i.kr/news/articleView.html?idxno=2021540 | b6
+2026-11-20 16:50 | CNB뉴스 | BPA, 미 LACP '지속가능경영보고서' 3년 연속 플래티넘 수상 | https://www.cnbnews.com/news/articleView.html?idxno=1024701 | b32,b36
+2026-11-20 16:48 | 매일경제 | “EU 탄소·통상 빗장 뚫어라”… 韓-EU, 공급망·투자 원팀 짠다 | https://www.mk.co.kr/article/12214736 | b3,b4,b6
+2026-11-20 16:48 | viewsnnews.com | 민주유공자법, 필버 끝나자 본회의 통과 | https://www.viewsnnews.com/article?q=239842 | b42
+2026-11-20 16:47 | finews.com | EU simplifies rules for sustainable financial products | google:finews.com#695cbc81 | bgb11
+2026-11-20 16:47 | weekly.chosun.com | 與, 민주유공자법 강행 처리…국힘 "국보법 위반자도 유공자 되나" | http://weekly.chosun.com/news/articleView.html?idxno=57321 | b42
+2026-11-20 16:46 | dailypop.kr | 신한은행, 모바일신분증 발급 선착순 이벤트·해양쓰레기 주민자율수거사업 후원 | http://www.dailypop.kr/news/articleView.html?idxno=104824 | b6
+2026-11-20 16:46 | yonhapnewstv.co.kr | 與 '조희대 탄핵' 당론 채택…"가능한 빨리" | http://www.yonhapnewstv.co.kr/news/MYH20261120164519Z0M | b42
+2026-11-20 16:45 | ESG경제 | 강제수사 받는 조원태…호반 vs 한진칼 경영권 경쟁 새변수 되나 | https://www.esgeconomy.com/news/articleView.html?idxno=17492 | sw
+2026-11-20 16:44 | thevaluenews.co.kr | [더밸류 브리핑] 오늘의 신한금융 소식...신한은행·신한라이프 | http://www.thevaluenews.co.kr/news/view.php?idx=203510 | b6
+2026-11-20 16:44 | 시사저널 | 민주화 예우냐, 운동권 특혜냐…'민주유공자법' 쟁점은? | https://www.sisajournal.com/news/articleView.html?idxno=394851 | b42
+2026-11-20 16:42 | todaykorea.co.kr | 민주유공자법, 무제한토론 종결 후 與 주도 통과 | https://www.todaykorea.co.kr/news/articleView.html?idxno=408950 | b42
+2026-11-20 16:42 | SBS Biz | 고려아연, 아주기업경영연구소 ESG 평가 종합 'AAA'…지배구조 최고등급 | https://biz.sbs.co.kr/article_hub/20000347902?division=NAVER | b6
+2026-11-20 16:42 | 머니투데이 | 부산항만공사 美 LACP Spotlight Awards 3년 연속 플래티넘 수상 | https://www.mt.co.kr/policy/2026/11/20/2026112016325336050 | b36
+2026-11-20 16:41 | 지디넷코리아 | 고려아연, 아주기업경영연구소 ESG 평가 최고등급 획득 | https://zdnet.co.kr/view/?no=20261120110230 | b6
+2026-11-20 16:40 | huffingtonpost.kr | '주택공급 3법안' 일주일 만에 처리한다더니 석 달째 표류 : 민생 외치는 여야, 1차 책임은 여당 몫 | https://www.huffingtonpost.kr/article/262263 | b42
+2026-11-20 16:39 | 중앙일보 | 2년전엔 반대했던 보훈부…이번엔 "내년까지 모든 유공자에 증서 전달" | https://www.joongang.co.kr/article/25480527 | b42
+2026-11-20 16:38 | joongangenews.com | [ESG] 부영그룹, 출산장려금 134억원 지급...저출생·고령화 해법 마련 앞장 | https://www.joongangenews.com/news/articleView.html?idxno=565518 | b15
+2026-11-20 16:38 | 에너지경제 | “발전공사 통합 이후 투자 재원·노동 전환 지금부터 설계해야” | https://www.ekn.kr/web/view.php?key=20261120022382660 | b27
+2026-11-20 16:36 | 세계일보 | 민주유공자법 26년 만에 국회 본회의 통과…권오을 “야당 지적 적극 보완할 것” | https://www.segye.com/newsView/20261120512143?OutUrl=naver | b42
+2026-11-20 16:33 | 한국경제 | 고려아연, ESG 평가 최고등급 'AAA'…지배구조도 한 단계 상승 | https://www.hankyung.com/article/202611200489g | b6
+2026-11-20 16:32 | 파이낸셜뉴스 | 민주유공자법, 본회의 통과..尹 거부권 행사 2년 만 | https://www.fnnews.com/news/202611201541354361 | b42
+2026-11-20 16:32 | 아주경제 | 신용한 지사, 청주가정법원 조기 설치 추진...국회 법안 통과 협력 | https://www.ajunews.com/view/20261120154432237 | b42
+2026-11-20 16:32 | 한국일보 | 尹 거부권에 막혔던 민주유공자법, 與 주도로 2년 만에 국회 통과 | https://www.hankookilbo.com/news/article/A2026112013050002163?did=NA | b42
+2026-11-20 16:32 | businessplus.kr | 신한은행, 통영 연대도 해양쓰레기 수거 지원…연말까지 25톤 목표 | https://www.businessplus.kr/news/articleView.html?idxno=120231 | b6
+2026-11-20 16:32 | news.dealsitetv.com | 보험업계 찬바람…교보·NH농협 희망퇴직 | https://news.dealsitetv.com/articles/178967 | b15
+2026-11-20 16:32 | paxetv.com | [이슈] 포시에스, 31년 전자문서 노하우로 승부수···AI '에카'로 제조 AX 출격 | http://www.paxetv.com/news/articleView.html?idxno=287492 | b27
+2026-11-20 16:32 | ekoreanews.co.kr | NH농협금융, ESG 전략 재정비…기후금융을 신사업으로 육성 | https://www.ekoreanews.co.kr/news/articleView.html?idxno=89321 | b32
+2026-11-20 16:31 | 중앙일보 | 민주유공자법 본회의 통과…26년 만 입법에 野 “운동권 특혜” | https://www.joongang.co.kr/article/25480524 | b42
+2026-11-20 16:30 | dtnews24.com | 세종시 보통교부세, 내년부터 광역시 기준 적용 | http://www.dtnews24.com/news/articleView.html?idxno=817458 | b42
+2026-11-20 16:30 | pennmike.com | 민주유공자법 일방 처리한 '민주' 세력, 대법원장 탄핵 당론 "가능한 한 빨리" | https://www.pennmike.com/news/articleView.html?idxno=132346 | b42
+2026-11-20 16:30 | 프레시안 | 민주유공자법 국회 통과…박종철·이한열 열사 '유공자' 된다 | https://www.pressian.com/pages/articles/2026112015180285283?utm_source=naver&utm_medium=search | b42
+2026-11-20 16:28 | newstomato.com | 민주유공자법 26년 만에 국회 통과…내년 6월 시행, 치료·돌봄 국가 지원 | http://www.newstomato.com/ReadNews.aspx?no=1321276&inflow=N | b42,b43
+2026-11-20 16:28 | digitalchosun.dizzo.com | 신한은행, WWF와 해양환경 보호 나서… 통영 해양쓰레기 수거사업 후원 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080161.html | b6
+2026-11-20 16:28 | newsfreezone.co.kr | 나경원 "민주유공자법은 현대판 음서제…국민 통합 아닌 분열 초래" | https://www.newsfreezone.co.kr/news/articleView.html?idxno=720543 | b42
+2026-11-20 16:26 | ngonews.kr | ‘민주유공자법’ 2년여 만에 국회 본회의 통과…형평성·심사 공정성 논란 재점화 | https://www.ngonews.kr/news/articleView.html?idxno=243767 | b42
+2026-11-20 16:26 | 스트레이트뉴스 | 민주유공자법 국회 통과…박종철·이한열 열사도 예우 길 열려 | https://www.straightnews.co.kr/news/articleView.html?idxno=315850 | b42
+2026-11-20 16:26 | 브레이크뉴스 | 국회 본회의, 여당 주도로 ‘민주유공자법’ 등 5건 처리…필터 대치 끝 가결:브레이크뉴스 | http://www.breaknews.com/1252698 | b42
+2026-11-20 16:24 | thepowernews.co.kr | 재난으로 숨져도 보험금 못 받는 아이들... 김의겸, 상법 개정 추진 | https://www.thepowernews.co.kr/view.php?ud=2026112014245672993dfcd109a8_7 | b27
+2026-11-20 16:24 | 글로벌이코노믹 | 신한은행·WWF, 세계 어민의 날 맞아 해양환경 보호·어촌 상생 앞장 | https://www.g-enews.com/view.php?ud=202611201522305615bb91c46fcd_1 | b6
+2026-11-20 16:23 | chukkyung.co.kr | [지금 이곳에선] 농협사료 전북지사 "고품질 사료·맞춤형 컨설팅으로 농가 생산성 뒷받침' | https://www.chukkyung.co.kr/news/articleView.html?idxno=83786 | b20
+2026-11-20 16:22 | 뉴시스 | 中, 고령층 소비 참여 확대 총력…"실버 경제 발전시켜야" | https://www.newsis.com/view/NISX20261120_0003876597 | b15
+2026-11-20 16:21 | kpinews.kr | 부산항만공사, 지속가능경영 평가 '美 LACP 어워즈' 3년 연속 최고등급 | https://www.kpinews.kr/newsView/1065596813586680 | b36
+2026-11-20 16:21 | 노컷뉴스 | 환호하는 전국민족민주유가족협의회 회원들 | https://www.nocutnews.co.kr/news/6610327?utm_source=naver&utm_medium=article&utm_campaign=20261120162015 | b42
+2026-11-20 16:21 | joseilbo.com | 조희대 '연내 탄핵소추' 초읽기...與 "사법부 수장으로 더 안된다 판단... | http://www.joseilbo.com/news/news_read.php?uid=580121&class=32&grp= | b42
+2026-11-20 16:21 | 노컷뉴스 | 국회 본회의 통과하는 '민주유공자법' | https://www.nocutnews.co.kr/news/6610325?utm_source=naver&utm_medium=article&utm_campaign=20261120162015 | b42
+2026-11-20 16:20 | 대한경제 | ‘민주유공자법’, 與 주도로 국회 본회의 통과 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201559456910970 | b42
+2026-11-20 16:18 | newscj.com | 민주당, '조희대 탄핵' 당론 채택… 연내 소추안 발의 추진 | https://www.newscj.com/news/articleView.html?idxno=3450728 | b42
+2026-11-20 16:16 | Sustainability Online | EU reaches agreement on new sustainability disclosure rules for financial products | google:Sustainability Online#2c80b44a | bgb11
+2026-11-20 16:16 | 아시아경제 | 신한은행, 통영 해양쓰레기 수거사업 돕는다 | https://view.asiae.co.kr/article/2026112016161555999 | b6
+2026-11-20 16:16 | polinews.co.kr | [본회의] 尹거부권에 막혔던 '민주유공자법', 2년여 만에 국회 통과…유가족들 끝내 '눈물' | https://www.polinews.co.kr/news/articleView.html?idxno=748861 | b42
+2026-11-20 16:15 | jnilbo.com | 민주유공자법 국회 본회의 통과…635명 의료·요양 등 지원 | https://www.jnilbo.com/news/articleView.html?idxno=90000085021 | b42
+2026-11-20 16:14 | newsfreezone.co.kr | 여수시, 대기질 개선에 탄소중립 성과 '친환경차 1,244대 보급' | https://www.newsfreezone.co.kr/news/articleView.html?idxno=720539 | b1
+2026-11-20 16:14 | 임팩트온 | 【박소현의 탄소시장 브리핑】배출권거래제, 녹색대전환의 과제 | https://www.impacton.net/news/articleView.html?idxno=30764 | b2,sw
+2026-11-20 16:14 | pointe.co.kr | 부산항만공사 ESG 보고서, 美 LACP 3년 연속 플래티넘 | https://www.pointe.co.kr/news/articleView.html?idxno=88189 | b36
+2026-11-20 16:13 | 뉴스1 | 英·EU, 20일 정상회의서 동식물 검역 면제·청년 교류 확대 논의 | https://www.news1.kr/world/europe/6361126 | b2,b4
+2026-11-20 16:13 | 노컷뉴스 | 보훈부 "26년만의 민주유공자법 통과, 후속 조치에 만전" | https://www.nocutnews.co.kr/news/6610308?utm_source=naver&utm_medium=article&utm_campaign=20261120161215 | b42
+2026-11-20 16:12 | 한국경제 | 회계기준원, 투자자 전문위원회 12인으로 확대…위원장에 이현승 LHS운용 회장 | https://www.hankyung.com/article/202611200435r | b32,b34
+2026-11-20 16:12 | 서울신문 | 민주유공자법, 與 주도로 본회의 통과… 첫 발의 후 26년 만 | https://www.seoul.co.kr/news/politics/2026/11/20/20261120500252?wlog_tag3=naver | b42
+2026-11-20 16:12 | 법률신문 | 與, 의총서 '조희대 대법원장 탄핵소추' 당론 채택 | https://www.lawtimes.co.kr/news/articleView.html?idxno=229819 | b42
+2026-11-20 16:12 | news.cpbc.co.kr | '민주유공자법' 국회 본회의서 與주도 통과 | https://news.cpbc.co.kr/article/1177160?division=NAVER | b42
+2026-11-20 16:11 | 한국일보 | "청주가정법원 조기 설치"... 충북도·충북변호사회 맞손 | https://www.hankookilbo.com/news/article/A2026112016020002668?did=NA | b42
+2026-11-20 16:08 | 브레이크뉴스 | 상주시, ‘2026 탄소중립 경연대회’ 기후에너지환경부 장관상 수상 | http://www.breaknews.com/1252686 | b1
+2026-11-20 16:08 | 블로터 | [어바웃 코람코] 주주 재편으로 커진 LF 입지, '독립경영' 유지될까 | https://www.bloter.net/news/articleView.html?idxno=679265 | b27
+2026-11-20 16:08 | newdaily.co.kr | 이진숙, 자발적 온라인 필버로 민주유공자법 통과 비판 … "기준과 범위 명확해야" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050249.html | b42
+2026-11-20 16:08 | 아시아타임즈 | 與 주도로 ‘민주유공자법’ 국회 통과…국힘 표결 불참 | https://www.asiatime.co.kr/article/20261120500340 | b42
+2026-11-20 16:08 | 쿠키뉴스 | ‘민주유공자법’ 與주도 국회 본회의 통과…국민의힘 전원 불참 | https://www.kukinews.com/article/view/kuk202611200144 | b42
+2026-11-20 16:07 | 헤럴드경제 | 민주유공자법, 26년 만에 국회 통과…권오을 “국보법 위반자 등록 불가 원칙” | https://biz.heraldcorp.com/article/10944292?ref=naver | b42
+2026-11-20 16:06 | veritas-a.com | [2027논술면접 최종체크] 이번 주말 서강대 논술 어떻게 나올까.. ‘논술100% 전 계열 2문항’ | https://www.veritas-a.com/news/articleView.html?idxno=638291 | b2
+2026-11-20 16:06 | intn.co.kr | 한국회계기준원, 투자자 전문위원회 확대 | https://www.intn.co.kr/news/articleView.html?idxno=3000418 | b32
+2026-11-20 16:06 | 한겨레 | [만리재사진첩] “드디어!” 부둥켜안았다…26년 만에 민주유공자법 통과 | https://www.hani.co.kr/arti/society/society_general/1288365.html | b42
+2026-11-20 16:05 | 연합뉴스 | 민주유공자법 국회 통과…기뻐하는 유가협 회원들 | https://www.yna.co.kr/view/PYH20261120146700013?input=1196m | b42
+2026-11-20 16:05 | 연합뉴스 | '기쁨의 눈물' | https://www.yna.co.kr/view/PYH20261120146800013?input=1196m | b42
+2026-11-20 16:05 | 뉴시스 | 보훈장관 "유공자법 하위법령 마련…억울한 국보법 위반자, 공정 심의" | https://www.newsis.com/view/NISX20261120_0003876649 | b42
+2026-11-20 16:04 | worknworld.kctu.org | 의료연대본부, 산재보험 당연적용 촉구 기자회견 및 국회토론회 개최 | http://worknworld.kctu.org/news/articleView.html?idxno=510359 | b14
+2026-11-20 16:02 | thefirstmedia.net | "바다 살리고 어촌 소득도 돕는다"…신한은행, 해양쓰레기 수거 지원 | http://www.thefirstmedia.net/news/articleView.html?idxno=214330 | b6
+2026-11-20 16:02 | koreareport.co.kr | 경찰, 조원태 회장 휴대폰 압수… 자사주 무상출연 '배임' 고발돼 | https://www.koreareport.co.kr/news/articleView.html?idxno=54973 | b26,b27
+2026-11-20 16:02 | betanews.net | 부산항 ESG 경쟁력 국제 입증…부산항만공사, LACP 스포트라이트 어워즈 3년 연속 플래티넘 | https://www.betanews.net/article/view/beta202611200144 | b32,b36
+2026-11-20 16:02 | 연합뉴스 | 26년 만에 통과된 민주유공자법…입시혜택 없이 의료·복지 예우 | https://www.yna.co.kr/view/AKR20261120071700504?input=1195m | b42
+2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 박수치는 더불어민주당 의원들 | https://biz.heraldcorp.com/article/10944275?ref=naver | b42
+2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 민주유공자 예우에 관한 법률안(민주유공자법) 국회 통과 | https://biz.heraldcorp.com/article/10944273?ref=naver | b42
+2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 환호하는 전국민족민주유가족협의회 | https://biz.heraldcorp.com/article/10944272?ref=naver | b42
+2026-11-20 16:00 | 머니투데이 | 와이와이소프트, 심평원·건보공단 등 공공기관 5곳 AI 기술 인증 | https://www.mt.co.kr/future/2026/11/20/2026112013313397383 | b3,b4
+2026-11-20 16:00 | 데일리안 | ‘포장을 보다’ 25일까지 진행…제조사 15곳·242개 제품 선정 | https://www.dailian.co.kr/news/view/1717851/?sc=Naver | b6
+2026-11-20 16:00 | lcnews.co.kr | [산업 Pick] HS효성첨단소재·고려아연, ‘ALB 한국법률대상’ 혁신 법무팀 수상과 ESG 평가 종합 ‘AAA’ 획득 | https://www.lcnews.co.kr/news/articleView.html?idxno=211773 | b6
+2026-11-20 16:00 | newdaily.co.kr | [단독] 82억 특활비 부활시킨 靑, 이번엔 "초과근무수당 2배 올려달라" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html | b42
+2026-11-20 16:00 | newstnt.com | 강준현 의원, 4.19혁명공로자 및 특수임무공로자 위탁병원 진료 대상 포함 근거 마련 | https://www.newstnt.com/news/articleView.html?idxno=729553 | b42
+2026-11-20 16:00 | 한스경제 | 민주유공자법, 국회 본회의 통과…필리버스터 24시간 만에 종결 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885659 | b42
+2026-11-20 15:59 | KBS | [사사건건] 민주당 ‘조희대 탄핵’ 당론 채택 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718509&ref=A | b42
+2026-11-20 15:59 | YTN | 민주, '조희대 탄핵' 당론으로...국힘 "재판 결과 싫다는 광기" | https://www.ytn.co.kr/_ln/0101_202611201559480949 | b42
+2026-11-20 15:59 | 뉴시스 | 기뻐하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540629 | b42
+2026-11-20 15:59 | 서울신문 | 권오을 보훈장관 “민주유공자법 대입 특혜 없어…엄정한 심사 진행” | https://www.seoul.co.kr/news/politics/2026/11/20/20261120500241?wlog_tag3=naver | b42
+2026-11-20 15:58 | venturesquare.net | 넷스카우트, M 시리즈 전력 효율 20% 개선…AI 데이터센터 에너지 부담 줄인다 | https://www.venturesquare.net/1130348/ | b6
+2026-11-20 15:58 | 뉴시스 | 민주유공자법 국회 본회의 통과 환영 제정 당 시민사회단체 기자회견 | https://www.newsis.com/view/NISI20261120_0021540605 | b42
+2026-11-20 15:58 | pointdaily.co.kr | [인터뷰] 경기도의회 남종섭 의장 “35년 숙원 지방의회법 제정... 지방자치 새 시대 열겠다” | https://www.pointdaily.co.kr/news/articleView.html?idxno=326837 | b42
+2026-11-20 15:58 | natv.go.kr | '민주유공자법' 본회의 통과..."운동권 특혜법" 국민의힘 반대 | https://www.natv.go.kr/natv/news/newsView.do?newsId=514628 | b42
+2026-11-20 15:57 | 뉴시스 | 기자회견 위해 이동하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540622 | b42
+2026-11-20 15:57 | 뉴시스 | 민주유공자법 통과 환영 기자회견하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540619 | b42
+2026-11-20 15:57 | 뉴시스 | 발언하는 장남수 유가협 회장 | https://www.newsis.com/view/NISI20261120_0021540625 | b42
+2026-11-20 15:57 | 뉴스1 | 보훈부 "민주유공자법, 26년만에 국회 통과…후속 조치 조속히 시행" | https://www.news1.kr/diplomacy/defense-diplomacy/6360786 | b42
+2026-11-20 15:56 | 뉴스1 | 유가협, 민주유공자법 국회 본회의 통과 환영 기자회견 | https://www.news1.kr/photos/8225455 | b42
+2026-11-20 15:55 | 연합뉴스 | '민주유공자법' 국회 본회의 통과 '하트' | https://www.yna.co.kr/view/PYH20261120142000013?input=1196m | b42
+2026-11-20 15:55 | 뉴스1 | 민주유공자법 통과에 젖은 눈시울 | https://www.news1.kr/photos/8225437 | b42
+2026-11-20 15:54 | updownnews.co.kr | 신한은행, 세계자연기금과 통영 연대도서 해양환경 보호·어촌 상생 실천 | https://www.updownnews.co.kr/news/articleView.html?idxno=319670 | b6
+2026-11-20 15:54 | wsobi.com | 은행권, WWF와 해양환경 보호-어촌 상생 실천·발달장애 작가와 ‘원 아르떼 갤러리’ 전시 진행·창립 58주년 기념식 개최 | http://www.wsobi.com/news/articleView.html?idxno=322251 | b6
+2026-11-20 15:54 | 아주경제 | [박승호의 일.고.감] 일본 청춘의 상징에서 대히트 엔카 가수까지…세기를 호령한 슈퍼스타 이시하라 유지로 | https://www.ajunews.com/view/20261120152857190 | b24
+2026-11-20 15:54 | 한스경제 | 김천시, 제5차 국가철도망 연계 노선 건의로 철도 중심도시 위상 강화 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885642 | b42
+2026-11-20 15:53 | Salmon Business | UK: £382m salmon price-fixing claim gets green light | google:Salmon Business#e4a3f04c | bgb6
+2026-11-20 15:53 | 연합뉴스 | '민주유공자법' 국회 본회의 의결 | https://www.yna.co.kr/view/PYH20261120141500013?input=1196m | b42
+2026-11-20 15:50 | 아시아경제 | 부산항만공사, 美 LACP 지속가능경영보고서 평가 3년 연속 최고등급 수상 | https://view.asiae.co.kr/article/2026112015500531580 | b32,b36,sw
+2026-11-20 15:50 | 국제뉴스 | 부산항만공사, 美 LACP 지속가능경영보고서 평가 '3년 연속' 플래티넘 수상 | https://www.gukjenews.com/news/articleView.html?idxno=3758434 | b36
+2026-11-20 15:50 | 뉴시스 | 민주유공자법 통과의 순간 | https://www.newsis.com/view/NISI20261120_0021540589 | b42
+2026-11-20 15:50 | 연합뉴스 | 민주유공자법 통과 지켜보고 나오는 장남수 유가협 회장 | https://www.yna.co.kr/view/PYH20261120138700013?input=1196m | b42
+2026-11-20 15:50 | 뉴시스 | 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540574 | b42
+2026-11-20 15:50 | 뉴시스 | 민주유공자법 통과 순간 담는 우원식 | https://www.newsis.com/view/NISI20261120_0021540597 | b42
+2026-11-20 15:50 | 비즈니스포스트 | 민주당 '대법원장 조희대 탄핵 추진' 당론 채택, 탄핵소추 추진단 구성 | https://www.businesspost.co.kr/BP?command=article_view&num=452526 | b42
+2026-11-20 15:50 | 더팩트 | 민주유공자법 與 주도 본회의 통과…부마·6월항쟁 등 예우 근거 마련 | https://news.tf.co.kr/read/ptoday/2391608.htm | b42
+2026-11-20 15:50 | 뉴시스 | 민주유공자법 국회 통과, 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540579 | b42
+2026-11-20 15:50 | sisafocus.co.kr | [시포TV] 민주유공자법, 국회 본회의 통과…재석 178명 전원 찬성 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367869 | b42
+2026-11-20 15:49 | ESG경제 | IEA "韓, 에너지 수요 80% 수입 의존…공급망 다변화 필요" | https://www.esgeconomy.com/news/articleView.html?idxno=17488 | sw
+2026-11-20 15:49 | ESG경제 | KB금융 이재근 회장시대 개막..‘과감한 변화·세대교체’ 시험대 올랐다 | https://www.esgeconomy.com/news/articleView.html?idxno=17491 | sw
+2026-11-20 15:41 | 매일노동뉴스 | 민주일반연맹 ‘4년 비대위’ 마감, 전영아 집행부 출범 | https://www.labortoday.co.kr/news/articleView.html?idxno=237853 | sw
+2026-11-20 15:32 | 서울신문 | 최정은 서울시의원 “탄소중립, 선언이 아닌 성과로 보여야”… 서울시 재생에너지 정책 실효성 질타 | https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/20/20261120500222?wlog_tag3=naver | b1
+2026-11-20 15:29 | SoftPower News | BoU Governor Atingi-Ego Urges Ugandan Businesses to Adopt Sustainability Reporting | google:SoftPower News#0109ac44 | bgb4
+2026-11-20 15:26 | chungnamilbo.co.kr | 천안탄소중립지원센터, 제2차 운영위원회 개최 | http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922042 | b1
 2026-11-20 15:16 | ESG경제 | K-GX, 진정한 녹색전환 출발점 되려면...그린AI 정책까지 포함해야 | https://www.esgeconomy.com/news/articleView.html?idxno=17489 | b2,sw
-2026-11-20 15:16 | newslock.co.kr | 고려아연, ESG평가 AAA 획득…지배구조·환경분야 등급 상승 | http://www.newslock.co.kr/news/articleView.html?idxno=140601 | b6
-2026-11-20 15:16 | CNB뉴스 | [포토뉴스] 신한은행, 세계 어민의 날 맞아 어촌 상생 실천 | https://www.cnbnews.com/news/articleView.html?idxno=1024669 | b6
-2026-11-20 15:16 | safetynews.co.kr | 한국장학재단, 산재 발생하고도 위험성평가 부실 운영… 감사서 적발 | https://www.safetynews.co.kr/news/articleView.html?idxno=251700 | b20
-2026-11-20 15:16 | newsworks.co.kr | [속보] 민주유공자법, 與 주도로 국회 본회의 통과…국힘 불참 | https://www.newsworks.co.kr/news/articleView.html?idxno=903864 | b42
-2026-11-20 15:16 | ichannela.com | 민주유공자법 본회의 통과…국민의힘 불참 속 여당 주도 | https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560899 | b42
-2026-11-20 15:14 | wikileaks-kr.org | [에너지 NOW] 한국전력, 한국수력원자력, 한전KPS, 한국남동발전, 한국동서발전 | https://www.wikileaks-kr.org/news/articleView.html?idxno=194977 | b5
-2026-11-20 15:14 | mbn.mk.co.kr | [속보] 민주유공자법 민주당 주도 국회 본회의 통과 | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5232006 | b42
-2026-11-20 15:12 | 뉴스1 | 與 환호 속에 국회 본회의 통과되는 민주유공자법 | https://www.news1.kr/photos/8225250 | b42
-2026-11-20 15:12 | newdaily.co.kr | '현대판 음서제' 민주화유공자법, 국회 통과 … 野 "운동권 특혜법" 반발 / 뉴데일리 | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050216.html | b42
-2026-11-20 15:11 | 뉴스1 | 민주유공자법 통과 환호하는 유가협 | https://www.news1.kr/photos/8225249 | b42
-2026-11-20 15:10 | cbci.co.kr | [속보] 민주당, 조희대 대법원장 탄핵 당론 채택…한덕수 파기환송 하루 만에 | https://www.cbci.co.kr/news/articleView.html?idxno=629125 | b42
-2026-11-20 15:10 | news.bbsi.co.kr | [속보] '민주유공자법' 국회 본회의 통과…여권 주도 가결 | https://news.bbsi.co.kr/news/articleView.html?idxno=4119873 | b42
-2026-11-20 15:09 | 동아일보 | 민주유공자법 통과에 與 박수-환호…국힘은 표결 불참 | https://www.donga.com/news/Politics/article/all/20261120/135060874/2 | b42
-2026-11-20 15:09 | 서울경제 | 민주유공자법 국회 본회의 통과…국힘 불참 속 與 단독 처리 | https://www.sedaily.com/article/20116972?ref=naver | b42
-2026-11-20 15:09 | imaeil.com | 민주유공자법, 국회 본회의 통과…'尹 거부' 2년여 만에 부활 | https://www.imaeil.com/page/view/2026112015083071263 | b42
-2026-11-20 15:08 | newsclaim.co.kr | [카페24 인사 전망] 이재석 연임 속 내부 인력 발탁… 내년 이사회 재편 | https://www.newsclaim.co.kr/news/articleView.html?idxno=3083559 | b27
-2026-11-20 15:08 | 한국경제 | [속보] 민주유공자 돼도 입시혜택 없다…26년 만에 국회 넘은 예우법 | https://www.hankyung.com/article/2026112002357 | b42
-2026-11-20 15:08 | 아시아투데이 | 지방의회법 연내 제정 촉구…경기도 31개 시·군의회 공동 대응 | https://www.asiatoday.co.kr/kn/view.php?key=20261120010007997 | b42
-2026-11-20 15:08 | imnews.imbc.com | 민주유공자법, 국회 본회의 통과‥"유가족께 작은 위로 되길" | https://imnews.imbc.com/news/2026/politics/article/6867280_36911.html | b42
-2026-11-20 15:08 | newscj.com | 민주유공자법, 국회 본회의 통과… 국힘 불참 속 범여권 주도로 처리 | https://www.newscj.com/news/articleView.html?idxno=3450691 | b42
-2026-11-20 15:07 | 머니투데이 | [속보] 국회 본회의서 與주도 '민주유공자법' 통과…국힘 불참 | https://www.mt.co.kr/politics/2026/11/20/2026112015053526459 | b42
-2026-11-20 15:07 | JTBC | 윤석열 거부권에 막혔던 민주유공자법…2년여 만에 다시 국회 통과 | https://news.jtbc.co.kr/article/NB12329048?influxDiv=NAVER | b42
-2026-11-20 15:07 | 매일경제 | [속보] 민주유공자법 與주도 국회 본회의 통과…‘尹 거부권’ 행사 2년여만 | https://www.mk.co.kr/article/12214618 | b42
-2026-11-20 15:07 | 더팩트 | [속보] 민주유공자법, 與 주도로 본회의 통과 | https://news.tf.co.kr/read/ptoday/2391561.htm | b42
-2026-11-20 15:06 | ttlnews.com | 해양쓰레기 수거·김장 나눔·취약계층 지원... 기부 넘어 지역 문제 해결 나선 금융권 ESG | http://www.ttlnews.com/news/articleView.html?idxno=3164679 | b6
-2026-11-20 15:06 | 한겨레 | 26년 만에 민주유공자법 통과…민주화 운동 희생자·유족 의료비 등 지원 | https://www.hani.co.kr/arti/politics/politics_general/1288349.html | b42
-2026-11-20 15:06 | wolyo.co.kr | [속보] 민주유공자법 국회 본회의 통과 | https://www.wolyo.co.kr/news/articleView.html?idxno=320823 | b42
-2026-11-20 15:06 | 이데일리 | [속보] 민주유공자법, 與 주도로 통과... 국힘 불참 | https://www.edaily.co.kr/News/Read?newsId=03253766645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b42
-2026-11-20 15:05 | KBS | 민주유공자법, 민주당 주도로 국회 본회의 통과…국힘 “운동권 특혜법... | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718491&ref=A | b42
-2026-11-20 15:05 | 중앙일보 | ‘민주유공자법’ 與주도 본회의 통과…국힘 필버 종결후 강행 | https://www.joongang.co.kr/article/25480494 | b42
 2026-11-20 15:04 | 매일노동뉴스 | 시용기간 끝나면 이유 없이 내보내도 될까? | https://www.labortoday.co.kr/news/articleView.html?idxno=237852 | sw
-2026-11-20 15:04 | 아시아경제 | [속보] 민주유공자법, 與 주도 국회 본회의 통과…찬성 178표 | https://view.asiae.co.kr/article/2026112015045068513 | b42
-2026-11-20 15:04 | YTN | [속보] '민주유공자예우법' 무제한토론 강제종료...곧 법안도 표결 | https://www.ytn.co.kr/_ln/0101_202611201504277911 | b42
-2026-11-20 15:01 | 경향신문 | 정부, 비수도권 AI 데이터센터 50㎿까지 전력평가 면제한다 | https://www.khan.co.kr/article/202611201501001 | b12
-2026-11-20 15:01 | 노컷뉴스 | [단독] '무면허 지게차 사고' 블랙박스 보니…작업 6초 만에 참변 | https://www.nocutnews.co.kr/news/6610211?utm_source=naver&utm_medium=article&utm_campaign=20261120150014 | b20
-2026-11-20 15:00 | 글로벌이코노믹 | 고려아연, ESG 평가서 종합 ‘AAA’…환경·지배구조 등급 상승 | https://www.g-enews.com/view.php?ud=20261120145701184424debea800_1 | b6
-2026-11-20 15:00 | ceoscoredaily.com | 손보사 근재보험료 수입 51억 ↓…빅 5 모두 뒷걸음질 | https://www.ceoscoredaily.com/page/view/2026111820152230291 | b20
-2026-11-20 14:58 | sisacast.kr | 신한은행-세계자연기금, 세계 어민의 날 맞아 해양환경 보호·어촌 상생 실천...어민 소득 창출에도 기여 | http://www.sisacast.kr/news/articleView.html?idxno=102150 | b6
-2026-11-20 14:58 | newstomato.com | 코스닥 상폐 기준 강화에 벤처·법조계 "시총 단일 잣대 대신 실질 심사해야" | http://www.newstomato.com/ReadNews.aspx?no=1321260&inflow=N | b26
-2026-11-20 14:56 | imaeil.com | 비수도권 AI데이터센터, 전력계통영향평가 문턱 낮춘다 | https://www.imaeil.com/page/view/2026112014553917781 | b12
-2026-11-20 14:56 | 아주경제 | 與, 조희대 탄핵 당론 추진…연말 앞두고 소용돌이 정국 계속 | https://www.ajunews.com/view/20261120145142089 | b42
-2026-11-20 14:54 | 부산일보 | AI 데이터센터 신속 구축 위해 규제 푼다…비수도권 50MW까지 전력영향평가 면제 | https://www.busan.com/view/busan/view.php?code=2026112013164425699 | b12
-2026-11-20 14:54 | the-today.com | 김동선 지분 80% 육박···한화M&S, 오너 개인회사 되나 | https://www.the-today.com/news/articleView.html?idxno=93874 | b26,b27
 2026-11-20 14:50 | ESG경제 | 글로벌 지속가능채권 시장 ‘쑥쑥’…한국형 녹색채권 발행도 50조 시대 | https://www.esgeconomy.com/news/articleView.html?idxno=17486 | sw
 2026-11-20 14:50 | Latest news from Azerbaijan | UK and EU set to agree youth mobility scheme for 100,000 people annually | google:Latest news from Azerbaijan#15524743 | bgb8
-2026-11-20 14:48 | newsroad.co.kr | [금융로드] 신한은행, WWF와 손잡고 통영 앞바다 25톤 해양쓰레기 건진다 | http://www.newsroad.co.kr/news/articleView.html?idxno=68146 | b6
-2026-11-20 14:47 | 한국일보 | "우린 전월세 전전하는데"… 이혜훈 '80억 호가' 아파트 부정청약에 민심 '허탈'-경제ㅣ한국일보 | https://www.hankookilbo.com/news/article/A2026112011560002046?did=NA | b41
-2026-11-20 14:46 | 메트로신문 | 전남광주통합특별시, 중소·중견기업 탄소중립 전환 지원 | http://www.metroseoul.co.kr/article/20261120500158 | b2,b4
 2026-11-20 14:44 | 매일일보 | 영암군, 지역에서 벌고 지역에서 쓴다… 순환경제 청사진 확정 | https://www.m-i.kr/news/articleView.html?idxno=2021442 | b6
-2026-11-20 14:43 | 뉴시스 | [교육소식]우송대 앵커 '대전권 드론스포츠 교류전' 특별상 4개 등 | https://www.newsis.com/view/NISX20261120_0003876418 | b20,sw
-2026-11-20 14:40 | hidomin.com | 민주당, 조희대 대법원장 탄핵 당론 채택…연내 소추안 발의 | https://www.hidomin.com/news/articleView.html?idxno=730304 | b42
-2026-11-20 14:38 | financialreview.co.kr | [오늘의 금융ESG] 우리은행·신한은행·KB국민카드·한국투자증권·AXA손해보험·메트라이프생명 | http://www.financialreview.co.kr/news/articleView.html?idxno=46478 | b6
-2026-11-20 14:36 | popcornnews.net | 신한은행-WWF, 통영 연대도 해양쓰레기 수거 지원 | http://www.popcornnews.net/news/articleView.html?idxno=140936 | b6
-2026-11-20 14:36 | 지디넷코리아 | [AI 리더스] 가트너가 내다본 2027년…"AI가 기업 SW 시장 바꾼다" | https://zdnet.co.kr/view/?no=20261119110158 | b42
-2026-11-20 14:35 | SBS Biz | 경찰, 조원태 회장 휴대전화 압수…배임 혐의 수사 | https://biz.sbs.co.kr/article_hub/20000347859?division=NAVER | b26,sw
-2026-11-20 14:34 | SR타임스 | NH농협은행, 기후금융·포용금융 강화…농협금융 ESG 전략과 실행체계 맞춘다 | http://www.srtimes.kr/news/articleView.html?idxno=218223 | b32
 2026-11-20 14:32 | 매일노동뉴스 | 송금희 보건의료노조 위원장 당선 … “현장 중심 산별노조” | https://www.labortoday.co.kr/news/articleView.html?idxno=237851 | sw
 2026-11-20 14:32 | newstree.kr | "탄소중립, 건물부터 바꿔야"…온실가스 총량제·난방 전기화 추진 | https://www.newstree.kr/newsView/ntr202611190027 | b1
 2026-11-20 14:32 | ESG경제 | [COP31] 화석연료 전환 논의 후퇴…합의문 수정안서 삭제 | https://www.esgeconomy.com/news/articleView.html?idxno=17487 | b3,b4,sw
-2026-11-20 14:32 | 한스경제 | NH농협은행, 제2차 ESG추진위원회 열어 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885562 | b32
-2026-11-20 14:30 | 아이뉴스24 | 충북도·변호사회 “청주가정법원 설치 앞당기자” | http://www.inews24.com/view/2028659 | b42
-2026-11-20 14:30 | 아주경제 | 조희대 대법원장 탄핵 추진…헌재서 가릴 '직무상 위반' 무엇인가 | https://www.ajunews.com/view/20261120140628935 | b42
-2026-11-20 14:29 | 프레시안 | 김희수 경북도의회 의장, 국회서 ‘지방의회법 연내 제정’ 압박…여야 협력 촉구 | https://www.pressian.com/pages/articles/2026112014043804319?utm_source=naver&utm_medium=search | b42
-2026-11-20 14:28 | pointdaily.co.kr | 신한은행, 세계 어민의 날 맞아 해양환경 보호 실천 | https://www.pointdaily.co.kr/news/articleView.html?idxno=326823 | b6
-2026-11-20 14:27 | 서울신문 | AI 데이터센터 인허가 빨라진다…비수도권 전력평가 면제 기준 50MW로 | https://www.seoul.co.kr/news/economy/2026/11/20/20261120500177?wlog_tag3=naver | b12
-2026-11-20 14:26 | kookje.co.kr | 지역에 데이터센터 짓기 쉬워진다…50MW 이하는 전력평가 면제 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.99099006375 | b12
-2026-11-20 14:26 | newstree.kr | 비수도권 50MW 이하 'AI 데이터센터' 전력망평가 '면제' | https://www.newstree.kr/newsView/ntr202611200007 | b12
-2026-11-20 14:24 | imaeil.com | 민주당, '조희대 대법원장 탄핵' 당론 채택…한덕수 판결 하루 만 | https://www.imaeil.com/page/view/2026112014234027704 | b42
-2026-11-20 14:22 | econovill.com | 비수도권 계약전력 50㎿ 이하 AI 데이터센터, '전력계통영향평가' 면제 | https://www.econovill.com/news/articleView.html?idxno=758001 | b12
-2026-11-20 14:22 | 조선일보 | 민주, 의총서 ‘조희대 대법원장 탄핵 추진’ 당론 결정 | https://www.chosun.com/politics/assembly/2026/11/20/JCC32DKLRFDENO4HJG7UKCNCHM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | b42
 2026-11-20 14:21 | 임팩트온 | 스코프3 감축, 구매 협상까지 확대…애질런트 250명 교육·삼성전자 협력사 평가 반영 | https://www.impacton.net/news/articleView.html?idxno=30763 | sw
 2026-11-20 14:20 | newsworker.co.kr | [기획] 여수시, '2015년 대비 미세먼지 50% 감소'... 탄소중립 선도도시 도약 | https://www.newsworker.co.kr/news/articleView.html?idxno=515231 | b1
-2026-11-20 14:18 | farmnmarket.com | 축평원, 해외 축산물 인증제 분석 | https://www.farmnmarket.com/news/article.html?no=28754 | b11
 2026-11-20 14:16 | safetimes.co.kr | 김의겸 '15세 미만 재난 사망보험금 지급' 상법 개정 추진 | https://www.safetimes.co.kr/news/articleView.html?idxno=247740 | b27
-2026-11-20 14:16 | s-journal.co.kr | 신한은행, 세계 어민의 날 맞아 WWF와 해양쓰레기 주민자율수거사업 후원 | https://www.s-journal.co.kr/news/articleView.html?idxno=45491 | b6
-2026-11-20 14:16 | joongangenews.com | 신한은행, WWF와 통영 해양쓰레기 수거…어민 소득도 지원 | https://www.joongangenews.com/news/articleView.html?idxno=565465 | b6
-2026-11-20 14:12 | techholic.co.kr | 신한은행, 세계자연기금과 해양환경 보호·어촌 상생 실천 | http://www.techholic.co.kr/news/articleView.html?idxno=223770 | b6
-2026-11-20 14:12 | 뉴데일리경제 | AI 데이터센터 신속 구축 길 열린다 … 전력계통영향평가 손질 | https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050191.html | b12
-2026-11-20 14:12 | s-journal.co.kr | NH농협은행, ESG추진위원회 개최… 기후금융·포용금융 강화 방안 논의 | https://www.s-journal.co.kr/news/articleView.html?idxno=45482 | b32
 2026-11-20 14:11 | polinews.co.kr | 여수시, 친환경차 보급 전년 대비 2배 이상 확대... 탄소중립 가속화 | https://www.polinews.co.kr/news/articleView.html?idxno=748830 | b1
 2026-11-20 14:10 | thepowernews.co.kr | 부안군, 재생에너지·새만금 RE100 산단 등 탄소중립 3대 전략 제시 | https://www.thepowernews.co.kr/view.php?ud=2026112012543471233dfcd109a8_7 | b1
 2026-11-20 14:09 | 아이뉴스24 | 무협, 브뤼셀서 '한-EU 정책 포럼' 개최⋯CBAM·공급망 협력 모색 | http://www.inews24.com/view/2028493 | b3,b4,b6,b8
-2026-11-20 14:08 | smarttoday.co.kr | [데스크칼럼] 왜 지금 신규 원전 건설을 결정해야 하는가 | https://www.smarttoday.co.kr/ko-kr/articles/113929 | b5
-2026-11-20 14:06 | daejonilbo.com | 충북도·변호사회, 청주가정법원 조기설치 공동 대응 | https://www.daejonilbo.com/news/articleView.html?idxno=2315056 | b42
-2026-11-20 14:05 | 뉴시스 | 전남광주, 24일 기업 탄소중립 국가지원사업 설명회 | https://www.newsis.com/view/NISX20261120_0003876753 | b2,b4
-2026-11-20 14:04 | niceeconomy.co.kr | [금융 브리핑] 우리은행·신한은행·하나은행·NH농협은행 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91916 | b6
-2026-11-20 14:02 | 비즈니스코리아 | 신한은행, 통영 연대도 해양쓰레기 25톤 수거 지원 | https://www.businesskorea.co.kr/news/articleView.html?idxno=281817 | b6
-2026-11-20 14:02 | 오마이뉴스 | 누구나 변호 받을 권리, 국선변호 근본 지키려면 | https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286779&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news | b42
 2026-11-20 14:00 | Finger Lakes Daily News | NY AG Sues Rochester Hotel Over Alleged Forced Labor | google:Finger Lakes Daily News#b9966e53 | ben2
-2026-11-20 13:58 | seoulfn.com | 코스닥 상폐 '시총 300억' 기준 도마에···"획일적 퇴출 재검토해야" | https://www.seoulfn.com/news/articleView.html?idxno=643465 | b26,b27
-2026-11-20 13:58 | ekoreanews.co.kr | 韓 '수출 1조 달러 돌파'...향후 비전과 과제 | https://www.ekoreanews.co.kr/news/articleView.html?idxno=89315 | b40
-2026-11-20 13:56 | ttlnews.com | LS전선, '화원–안좌 해저케이블 용량증대 2차 건설사업' 사업자 선정 | http://www.ttlnews.com/news/articleView.html?idxno=3164585 | b5
-2026-11-20 13:54 | weeklytoday.com | [위클리오늘] 화성시법원 신축 부지 확정…2032년 개원 | http://www.weeklytoday.com/news/articleView.html?idxno=802750 | b42
-2026-11-20 13:52 | Asia News Network | Thailand maps farm response to US trade and EU deforestation rules | google:Asia News Network#4f7263bd | bgb1
-2026-11-20 13:48 | 더팩트 | 고려아연, ESG 평가 종합 AAA등급 획득…전년比 한 단계 상승 | https://news.tf.co.kr/read/economy/2391511.htm | b6
-2026-11-20 13:48 | dtnews24.com | 세종시 재정특례 3년 연장 '청신호'… 국회 행안위 법안소위 통과 | http://www.dtnews24.com/news/articleView.html?idxno=817443 | b42
-2026-11-20 13:47 | kyeonggi.com | 동두천 옛 성병관리소 농성 831일 만에 천막 해제…철거 입찰 취소 | https://www.kyeonggi.com/article/20261120580126 | b42
-2026-11-20 13:46 | newsian.co.kr | 고려아연, ESG 평가 최고등급 ‘AAA’ 달성…‘지배구조·환경 등급’ 동반 상승 | https://www.newsian.co.kr/news/articleView.html?idxno=101689 | b6
-2026-11-20 13:44 | pointe.co.kr | 신한은행, 세계 어민의 날 맞아 통영 연대도 해양쓰레기 수거 후원 | https://www.pointe.co.kr/news/articleView.html?idxno=88160 | b6
-2026-11-20 13:42 | dailysecu.com | 넷스카우트, 지속가능성 설계로 AI 데이터센터 전력 소비 20% 절감 지원 | https://www.dailysecu.com/news/articleView.html?idxno=209637 | b6
-2026-11-20 13:42 | 4th.kr | 신한은행, 해양환경 보호로 생태계 보전·지역 상생 추진 | http://www.4th.kr/news/articleView.html?idxno=2122327 | b6
-2026-11-20 13:42 | 파이낸셜뉴스 | 비수도권 AIDC, 50MW까지 전력영향평가 면제…규제 완화 '날개' | https://www.fnnews.com/news/202611200916218802 | b12
-2026-11-20 13:41 | 세계일보 | “10년 걸려 합성니코틴 잡았더니”…이번엔 ‘무니코틴’ 가면 쓴 유사니코틴 활개 [수민이가 화났어요] | https://www.segye.com/newsView/20261120507590?OutUrl=naver | b42
-2026-11-20 13:37 | KBS | AI데이터센터 전력심사 간소화…초대형 사업은 우선 심사 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718448&ref=A | b12
-2026-11-20 13:36 | Oregon State University Athletics | Beavers Sweep Broncos to Claim Top-Three Seed in Pac-12 Tournament | google:Oregon State University Athletics#e8f7ab78 | bgb6
-2026-11-20 13:36 | 머니투데이 | 혼란 속 반포현대 재초환, 연내 부과…국회 발의된 '폐지법안'만 두개 | https://www.mt.co.kr/estate/2026/11/20/2026112011432141377 | b42
-2026-11-20 13:35 | 뉴시스 | 10대 수출시장 중 8곳서 흑자…잘 팔고도 눈치 보는 한국 | https://www.newsis.com/view/NISX20261117_0003871235 | b24
-2026-11-20 13:34 | ttlnews.com | 아모레퍼시픽, '2026 굿디자인 어워드' 4건 수상…디자인진흥원장상 2건·GD 2건 선정 | http://www.ttlnews.com/news/articleView.html?idxno=3164610 | b8
-2026-11-20 13:32 | namdonews.com | 탄소배출 관리가 기업 생존 좌우…전남광주, 중소기업 지원 나선다 | https://www.namdonews.com/news/articleView.html?idxno=929939 | b2,b4
 2026-11-20 13:31 | kpmg.com | 31 December 2026 Financial Reporting guidance | google:kpmg.com#95359247 | bgb4
-2026-11-20 13:30 | newsworker.co.kr | 홍성군, 내년도 정부예산 확보 위해 국회 핵심 인사 릴레이 면담 | https://www.newsworker.co.kr/news/articleView.html?idxno=515187 | b42
 2026-11-20 13:28 | 임팩트온 | EU, SFDR 개편 잠정합의…ESG펀드 3개 분류·70% 투자기준 확정 | https://www.impacton.net/news/articleView.html?idxno=30762 | sw
-2026-11-20 13:28 | globalepic.co.kr | 고려아연, ESG 평가 종합 최고등급 ‘AAA’ 획득…지배구조·환경 등급 한 단계씩 상승 | https://www.globalepic.co.kr/view.php?ud=2026112013261830724ee4ea3d05_29 | b6
-2026-11-20 13:28 | weeklytoday.com | [위클리오늘] 오산시, 초등돌봄센터 3곳 추가 개소 | http://www.weeklytoday.com/news/articleView.html?idxno=802798 | b20
-2026-11-20 13:24 | socialvalue.kr | 신한은행, WWF와 통영 해양쓰레기 수거 지원…연말까지 25톤 목표 | https://www.socialvalue.kr/news/view/1065586977216305 | b6
-2026-11-20 13:16 | megaeconomy.co.kr | 신한은행, WWF와 통영 해양쓰레기 수거 지원…어촌 주민 소득 창출도 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586343919065 | b6
-2026-11-20 13:16 | bokuennews.com | 해외 축산물 인증제도 동향 한눈에 | http://www.bokuennews.com/news/article.html?no=287513 | b11
-2026-11-20 13:16 | hinews.co.kr | 산업안전 AI 기업 프롬디, 스마트건설 엑스포 AI 솔루션 '버키드(VIRKEYD)' 선봬 | https://www.hinews.co.kr/view.php?ud=2026112013135811159284fa285d_48 | b20
 2026-11-20 13:15 | Law Commentary | New York Sues Holiday Inn Parent IHG Over Alleged Forced Labor | google:Law Commentary#a4648f84 | ben2
-2026-11-20 13:14 | 뉴스1 | 전북도의회 "특별법 조속히 제정해 로봇·수소 특구 지정하라" | https://www.news1.kr/local/jeonbuk/6360858 | b42
-2026-11-20 13:13 | 비즈워치 | 주택공급 재촉할 토지 보상 '협조 장려금'…얼마나? | https://news.bizwatch.co.kr/article/real_estate/2026/11/18/0046 | b41,b42
-2026-11-20 13:11 | 아시아경제 | [로펌은 지금]태평양, '2027 전자주총 어떻게 준비할 것인가?' 세미나 | https://view.asiae.co.kr/article/2026112013110726852 | b27
-2026-11-20 13:10 | medicalworldnews.co.kr | 대한외과학회 “형사특례, 현장과 괴리”…분쟁법 시행 전 법률 보완 촉구 | https://medicalworldnews.co.kr/news/view.php?idx=1510978451 | b42
 2026-11-20 13:06 | jeollailbo.com | 부안군, 탄소중립으로 미래 성장동력 키운다 | http://www.jeollailbo.com/news/articleView.html?idxno=817353 | b1
-2026-11-20 13:06 | 뉴시스 | "로봇·수소 초광역특구 전북 지정"…도의회, 촉구 건의안 | https://www.newsis.com/view/NISX20261120_0003876520 | b42
-2026-11-20 13:06 | 내일신문 | 조희대 탄핵·조작기소 특검 동시 추진…민생 뒷전 되나 | https://www.naeil.com/news/read/609508?ref=naver | b42
-2026-11-20 13:00 | 전자신문 | 비수도권 AIDC 50㎿ 이하 전평 면제…인정 기준도 구체화 | https://www.etnews.com/20261120000171 | b12
-2026-11-20 13:00 | safetynews.co.kr | “근로자 사망에 왜 국가가 기업 영업이익 가져가나… 차라리 산재 보상 확대” | https://www.safetynews.co.kr/news/articleView.html?idxno=251695 | b20,b42
-2026-11-20 12:57 | 머니투데이 | '셀프 특혜' 논란에 세 차례 손질한 민주유공자법 '오해와 진실' | https://www.mt.co.kr/society/2026/11/20/2026112010382592785 | b42
-2026-11-20 12:56 | bizwork.co.kr | 정부, 비수도권 50㎿ 이하 AI 데이터센터 전력계통평가 면제 추진 | https://www.bizwork.co.kr/news/articleView.html?idxno=421017 | b12
-2026-11-20 12:54 | dailysmart.co.kr | "통영 연대도 바다 살리고 어민 지갑 채운다"… 신한은행, WWF 손잡고 첫 해양 정화 시동 | http://www.dailysmart.co.kr/news/articleView.html?idxno=132886 | b6
-2026-11-20 12:48 | kbmaeil.com | 김희수 경북도의회 의장, 국회 방문해 ‘지방의회법’ 연내 제정 촉구 | https://www.kbmaeil.com/article/20261120500123 | b42
 2026-11-20 12:38 | 더팩트 | 서산시, 대한민국 지방자치 혁신대상 환경·탄소중립혁신 부문 '대상' 수상 - 전국 / 기사 | https://news.tf.co.kr/read/national/2391476.htm | b1
-2026-11-20 12:34 | 한스경제 | [2026 K-스포노믹스] 김재원 조국혁신당 의원 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885508 | b42
-2026-11-20 12:28 | bzeronews.com | 충북만 가정법원 없다…청주 설치 요구 다시 확산 | https://www.bzeronews.com/news/articleView.html?idxno=825589 | b42
-2026-11-20 12:28 | 브레이크뉴스 | '지방의회법 연내 제정' 촉구 | http://www.breaknews.com/1252572 | b42
-2026-11-20 12:26 | aitimes.kr | 정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제 | https://www.aitimes.kr/news/articleView.html?idxno=42823 | b12
-2026-11-20 12:24 | livebiz.today | AI데이터센터 전력심사 간소화 '패트스트랙' 도입 | https://www.livebiz.today/news/articleView.html?idxno=206726 | b12
-2026-11-20 12:24 | mdtoday.co.kr | 정부, AI 데이터센터 패스트트랙 도입…평가 우선 처리 | https://www.mdtoday.co.kr/news/articleView.html?idxno=626613 | b12
-2026-11-20 12:24 | kyeongin.com | [오늘 여의도] 민주당, 조희대 탄핵추진 | https://www.kyeongin.com/article/1775130 | b42
-2026-11-20 12:22 | 대한경제 | 화성시, 내년 농업예산 22% 증액…화성시법원 부지는 병점복합타운 확정 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191715470270863 | b42
-2026-11-20 12:16 | queen.co.kr | 부산시, 글로벌 의료관광 경쟁력 입증… 3년 연속 의료서비스 대상 수상 | http://www.queen.co.kr/news/articleView.html?idxno=466659 | b6
-2026-11-20 12:16 | snmnews.com | 비철소재 국산화부터 2억불 수출까지…송동춘 풍전비철 회장 ‘금탑산업훈장’ | http://www.snmnews.com/news/articleView.html?idxno=577719 | b16
-2026-11-20 12:14 | 브레이크뉴스 | 강상태 의장, 지방의회법 제정 촉구 | http://www.breaknews.com/1252568 | b42
-2026-11-20 12:12 | bizhankook.com | 미국 첫 산단 SMR, '승인' 나고도 착공 못 하는 까닭 | https://bizhankook.com/articles/us-smr-market-cautious-outlook.html | b3,b4
-2026-11-20 12:11 | imnews.imbc.com | 민주유공자법, 여권 주도로 오늘 국회 본회의 표결 | https://imnews.imbc.com/replay/2026/nw1200/article/6867228_36967.html | b42
-2026-11-20 12:10 | newsam.co.kr | ㈜경농·㈜조비, KEMI ESG Awards 2026 나란히 수상 | https://www.newsam.co.kr/news/article.html?no=44523 | b34,b36
-2026-11-20 12:08 | 4th.kr | KT 압박설 속 스카이라이프, HCN 합병 의결..노조 "꼭두각시 경영" | http://www.4th.kr/news/articleView.html?idxno=2122325 | b26
 2026-11-20 11:56 | ESG경제 | EU, SFDR 간소화 잠정합의...전환 카테고리 화석연료 기업 포함 조건 명시 | https://www.esgeconomy.com/news/articleView.html?idxno=17485 | b11,sw
 2026-11-20 11:52 | 문화일보 | 무협 “韓기업, 규제피해 없게… EU정책당국과 소통해나갈것” | https://www.munhwa.com/article/11632867?ref=naver | b3,b4
 2026-11-20 11:42 | 임팩트온 | 캐나다, 세계 첫 탄소제거 크레딧 경쟁조달…19개 사업 구매대상 선정 | https://www.impacton.net/news/articleView.html?idxno=30760 | sw
@@ -171,6 +167,7 @@
 2026-11-20 11:00 | ESG경제 | 삼성전자, 메모리·갤럭시 새 수장에 황상준·최원준...전·노‘투톱’ 유지 | https://www.esgeconomy.com/news/articleView.html?idxno=17484 | sw
 2026-11-20 11:00 | techm.kr | [탄소중립과 혁신V] (10)지속가능한 탄소중립 실천교육 | https://www.techm.kr/news/articleView.html?idxno=157632 | b1
 2026-11-20 10:33 | Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI) | Palm Exporters Urged to Prepare Geolocation Data For EUDR | google:Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI)#94ac2813 | bgb1
+2026-11-20 10:32 | Mining News Net | Sigma says mining rights in force despite seizure order | google:Mining News Net#a0ff874a | bgb11
 2026-11-20 10:28 | ESG경제 | KT&G, 여가친화기업 장관상 수상…10년간 일·생활 균형 강화 | https://www.esgeconomy.com/news/articleView.html?idxno=17482 | sw
 2026-11-20 10:24 | ESG경제 | 아모레퍼시픽, '2026 굿디자인 어워드' 4건 수상 | https://www.esgeconomy.com/news/articleView.html?idxno=17481 | sw
 2026-11-20 10:22 | ESG경제 | 미래에셋자산운용, 운용자산 617조 돌파…미래세대 인재 육성 확대 | https://www.esgeconomy.com/news/articleView.html?idxno=17479 | sw
@@ -182,8 +179,8 @@
 2026-11-20 09:41 | George W. Bush Presidential Center | Russia uses forced labor, human trafficking to recruit foreign fighters for Ukraine war | google:George W. Bush Presidential Center#33c12ca0 | ben2
 2026-11-20 09:35 | 헤럴드경제 | 무협, 브뤼셀서 ‘韓-EU 정책 파트너십 포럼’ 개최 | https://biz.heraldcorp.com/article/10943593?ref=naver | b3,b4,b6,b8
 2026-11-20 09:34 | newsprime.co.kr | 상주시, 탄소중립 경연대회 장관상 수상···친환경 정책 성과 빛났다 | http://www.newsprime.co.kr/news/article.html?no=755771 | b1
-2026-11-20 09:30 | news2day.co.kr | 정희용, AI로 기후위기 정면 돌파…도시·건축물 탄소중립 해법 찾는다 | https://www.news2day.co.kr/article/20261120500043 | b1
 2026-11-20 09:30 | joongangenews.com | 시흥시, 탄소중립 경연대회기후에너지환경부 장관상 수상 | https://www.joongangenews.com/news/articleView.html?idxno=565314 | b1
+2026-11-20 09:30 | news2day.co.kr | 정희용, AI로 기후위기 정면 돌파…도시·건축물 탄소중립 해법 찾는다 | https://www.news2day.co.kr/article/20261120500043 | b1
 2026-11-20 09:18 | ESG경제 | [해외브리핑] COP31 합의문 초안서 화석연료 퇴출 문구 삭제…기후재원 목표도 빠져 | https://www.esgeconomy.com/news/articleView.html?idxno=17475 | b11,sw
 2026-11-20 09:14 | The Diplomat – Asia-Pacific Current Affairs Magazine | ‘It’s Impossible to Refuse’: State-Imposed Forced Labor and Exploitation in Uzbekistan’s Silk Sector | google:The Diplomat – Asia-Pacific Current Affairs Magazine#181e5c9a | ben2
 2026-11-20 09:12 | ESG경제 | [정책브리핑] 기상청, 국가기상레이더 활용 국제 워크숍…AI 강수예측 소개 | https://www.esgeconomy.com/news/articleView.html?idxno=17473 | sw
@@ -196,11 +193,14 @@
 2026-11-20 08:10 | WWD | Thailand Says US Trade Deal Includes Lowering of Forced Labor Duties | google:WWD#dfc6e02a | ben2
 2026-11-20 08:04 | Rochester Beacon | AG alleges forced labor, trafficking at former Rochester Holiday Inn | google:Rochester Beacon#fe8b3226 | ben2
 2026-11-20 08:00 | WGRZ | OAG: Forced labor at Rochester Holiday Inn | google:WGRZ#31564128 | ben2
+2026-11-20 07:54 | TradingView | Calif. AG serves Nvidia investigative subpoena over China issues | google:TradingView#28327111 | bgb11
 2026-11-20 07:38 | WWD | Does Uzbekistan’s Silk Industry Have a Forced Labor Problem? | google:WWD#5d601834 | ben2
 2026-11-20 07:00 | Mining Weekly | Carbon offset benefits highlighted at Minerals Council climate day | google:Mining Weekly#7bce246d | bgb6
+2026-11-20 06:49 | Global Banking & Finance Review | EU Revamps Sustainable Finance Rules to Tackle Greenwashing | google:Global Banking & Finance Review#0d5e27ef | bgb11
 2026-11-20 05:15 | Cyprus Inform | EU negotiators reach provisional deal on sustainability disclosure rules for financial products | google:Cyprus Inform#438957f4 | bgb11
 2026-11-20 04:12 | Legal 500 | New Sectors Designated As High-Priority Enforcement Under UFLPA | google:Legal 500#b1d56580 | ben1
+2026-11-20 03:37 | Business and Human Rights Centre | Preventing policy capture: Why lobbying transparency matters for UK business and human rights law | google:Business and Human Rights Centre#20860b4f | bgb5
 2026-11-20 02:43 | Safestate | NVIDIA Data Breach Claim Appears With No Proof on Leak Site | google:Safestate#d4b0b31d | bgb6
-2026-11-20 00:58 | Packaging Europe | Packworld USA announces new remote heat-sealing system | google:Packaging Europe#f1510eb4 | bgb7
+2026-11-20 01:10 | Arthur Cox LLP | Central Bank consults on streamlining the PCF list | google:Arthur Cox LLP#40342a39 | bgb11
+2026-11-20 00:58 | A&O Shearman | The evolution of fiduciary duty for UK pension schemes as institutional investors | google:A&O Shearman#fbbadb46 | bgb11
 2026-11-20 00:51 | RochesterFirst | Holiday Inn named in lawsuit over forced labor, trafficking in Rochester | google:RochesterFirst#53aece75 | ben2
-2026-11-20 00:16 | Invesco | Constructing resilient fixed income portfolios | google:Invesco#6c83dcf6 | bgb2

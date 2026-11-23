@@ -1,11 +1,12 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-23 07:30 KST
+collected: 2026-11-23 13:24 KST
 mode: on
 status: ok
-checked: 10 (유료 2 · 무료 8 · 판정불가 0)
-excluded: 2건 (세트별 a 0 · b 2 · c 2 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 8, paid 2
+checked: 18 (유료 3 · 무료 15 · 판정불가 0)
+excluded: 3건 (세트별 a 0 · b 3 · c 3 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 15, paid 3
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
+임팩트온 | 【ESG Deal】펄펙스, 종이병 생산기술 투자 활보·플래닛세이버스, DAC 개발자금 확보·PIDG, 폐기물 재활용 기업 지분투자 | https://www.impacton.net/news/articleView.html?idxno=30767 | bc
 임팩트온 | 메타, AI 설비투자 늘렸더니 탄소배출 45% 증가…넷제로 일정 재검토 | https://www.impacton.net/news/articleView.html?idxno=30756 | bc
 임팩트온 | 【ESG Deal】실라, 실리콘 음극재 공급계약·후지쯔, 탄소제거 크레딧  조달·제너럴 플래시, 친환경 핵심광물 정제 자금 조 | https://www.impacton.net/news/articleView.html?idxno=30755 | bc
