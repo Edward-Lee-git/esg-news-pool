@@ -1,9 +1,25 @@
-# collected: 2026-11-23 15:28 KST
-# window: 2026-11-20 00:00 ~ 2026-11-23 15:28 KST
+# collected: 2026-11-23 16:34 KST
+# window: 2026-11-20 00:00 ~ 2026-11-23 16:34 KST
 # part 2 of 5, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-23 11:26 | 국제뉴스 | 진보당 노혜령, "저임금 재고용 아닌 65세 정년연장 필요" | https://www.gukjenews.com/news/articleView.html?idxno=3760005 | b15
+2026-11-23 11:22 | 헤럴드경제 | ‘정년연장 개입’ 시사 정부, 임금개편 살핀다 | https://biz.heraldcorp.com/article/10945980?ref=naver | b15
+2026-11-23 11:14 | Al-Monitor | EU states back one-year delay for methane rules amid Iran war | google:Al-Monitor#457e4bb7 | bgb8
+2026-11-23 11:12 | 잡포스트 | 도봉구, 탄소중립 정책 아이디어 공모…대상 200만 마일리지 지급 | https://www.job-post.co.kr/news/articleView.html?idxno=240090 | b1
+2026-11-23 11:05 | 임팩트온 | COP31, 17년 만에 핵심 합의문 채택 실패…화석연료 퇴출·기후재원 놓고 결렬 | https://www.impacton.net/news/articleView.html?idxno=30770 | sw
+2026-11-23 11:04 | 임팩트온 | UAE 은행, 거래명세서에 소비 탄소배출량 표시…탄소제거 크레딧 구매 연계 | https://www.impacton.net/news/articleView.html?idxno=30769 | sw
+2026-11-23 11:02 | 임팩트온 | 아마존, 재생전력 100%에도 탄소배출 34% 증가…2030년 새 감축목표 제시 | https://www.impacton.net/news/articleView.html?idxno=30771 | sw
+2026-11-23 11:02 | boannews.com | 기술개발에 개인정보 활용하려면 안전장치 마련해야... 개인정보위, ‘개보법’ 개정안 입법예고 | https://www.boannews.com/news/articleView.html?idxno=147440 | b46
+2026-11-23 11:01 | ESG경제 | 증권사 해킹사고 도미노…삼성증권도 뚫렸다 | https://www.esgeconomy.com/news/articleView.html?idxno=17501 | sw
+2026-11-23 11:00 | 아시아경제 | [사설]정년연장 정부 주도, 임금개혁까지 결단해야 | https://view.asiae.co.kr/article/2026112309410002053 | b15,b16
+2026-11-23 11:00 | discoverynews.kr | [논평] 서울시의회 더불어민주당 “민주유공자법 국회 통과 환영… 서울시 차원 복지 연계·사적지 보존 나서야” | https://www.discoverynews.kr/news/articleView.html?idxno=1107545 | b42
+2026-11-23 10:54 | 뉴시스 | 노동계 "정부·여당, 올해 내 정년연장 입법 완수해야" | https://www.newsis.com/view/NISX20261123_0003878939 | b15
+2026-11-23 10:54 | aitimes.kr | 개인정보위, AI 개발에 개인정보 활용 허용…강화된 안전조치·위험평가 기준 마련 | https://www.aitimes.kr/news/articleView.html?idxno=42844 | b46
+2026-11-23 10:52 | newstnt.com | 대전 서구, 탄소중립 경연대회서 장관상 | https://www.newstnt.com/news/articleView.html?idxno=729815 | b1
+2026-11-23 10:52 | m-economynews.com | 김영훈 장관, 정년연장 정부안 검토...진보당 “즉각 법제화” | https://www.m-economynews.com/news/article.html?no=73462 | b15,b16
+2026-11-23 10:43 | 노컷뉴스 | 김희수 경북도의회 의장, 지방의회법 연내 제정 국회에 촉구 | https://www.nocutnews.co.kr/news/6610890?utm_source=naver&utm_medium=article&utm_campaign=20261123104249 | b42
 2026-11-23 10:37 | 헤럴드경제 | 민주노총 “정년연장 연내 입법”…25일 양대노총 공동 기자회견 | https://biz.heraldcorp.com/article/10945853?ref=naver | b15
 2026-11-23 10:24 | amenews.kr | 전북, AI 기반 탄소복합재 순환경제 거점 도약 | http://amenews.kr/news/view.php?idx=68787 | b6
 2026-11-23 10:21 | 데일리안 | 개보위, AI 개발 개인정보 특례 입법예고…내년 3월 시행 목표 | https://www.dailian.co.kr/news/view/1718330/?sc=Naver | b46
@@ -15,23 +31,30 @@
 2026-11-23 10:00 | 서울경제 | 가명처리 한계 땐 AI 개발에 개인정보 활용…안전조치 의무화 | https://www.sedaily.com/article/20117597?ref=naver | b46
 2026-11-23 09:58 | 헤럴드경제 | 청해부대 작전구역 2배 확대 동의안, 국회 국방위 상정 | https://biz.heraldcorp.com/article/10945680?ref=naver | b42
 2026-11-23 09:55 | magazine.hankyung.com | 자사주 소각 100조원 시대…내년 증시 상승 동력 될까[전예진의 마켓 인사이트] | https://magazine.hankyung.com/business/article/202611197000b | b27,b29
+2026-11-23 09:45 | AL.com | Polymarket Promo Code AL25BONUS: Claim a $25 bonus to trade Vikings vs. 49ers | google:AL.com#f48c74af | bgb6
 2026-11-23 09:30 | ksg.co.kr | 기고/ 외국선사가 맡긴 수중작업과 중대재해처벌법상 도급인 책임의 경... | https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148546 | b20
 2026-11-23 09:24 | YTN | "69년생 '소득절벽' 답나오나" '합의 안되면 정부안' 정년연장 급물살? | https://www.ytn.co.kr/_ln/0102_202611230924127397 | b15
 2026-11-23 09:19 | 헤럴드경제 | 정년연장 ‘임금 해법’ 찾는 정부…부총리, 임금체계 개편 현장 방문 | https://biz.heraldcorp.com/article/10945555?ref=naver | b15
 2026-11-23 09:16 | ESG경제 | [해외브리핑] COP31, 화석연료 감축 최종합의 무산…EU 등 초안 거부 | https://www.esgeconomy.com/news/articleView.html?idxno=17498 | b2,sw
 2026-11-23 09:12 | ESG경제 | [정책브리핑] SMR 사전검토제 시행…인허가 불확실성 해소 | https://www.esgeconomy.com/news/articleView.html?idxno=17497 | sw
 2026-11-23 09:12 | news2day.co.kr | [류준형의 시선전환] EU 철강 장벽, 한국 철강은 어떻게 넘어야 하나 | https://www.news2day.co.kr/article/20261112500181 | b3,b4
+2026-11-23 09:08 | BG Falcon Media | Bowling Green gets last laugh over Toledo, sweeps Rockets to claim MAC Tournament Championship | google:BG Falcon Media#e1223aeb | bgb6
+2026-11-23 09:02 | Packaging Insights | Pack Expo 2026: KHS USA on material reduction and flexibility in beverage packing | google:Packaging Insights#48e660fb | bgb7
 2026-11-23 09:02 | 임팩트온 | 【데일리 ESG 정책 브리핑】대기업 내부거래 841조원·AI 데이터센터 50MW 이하 전력평가 면제 추진 | https://www.impacton.net/news/articleView.html?idxno=30766 | b12,b44,b47,sw
+2026-11-23 08:52 | The National Tribune | New Taskforce To Crack Down On Modern Slavery | google:The National Tribune#0d80851d | bgb2
 2026-11-23 08:44 | news.skbroadband.com | 남동구, 내년 예산 1조 3천574억…지역순환경제 활성화 | https://news.skbroadband.com/news/articleView.html?idxno=243887 | b6
 2026-11-23 08:40 | magazine.hankyung.com | "더는 못 기다린다"…정부, 65세 정년 연장 추진 초읽기 | https://magazine.hankyung.com/job-joy/article/202611233067d | b15
 2026-11-23 08:22 | 더벨 | [더벨][독립이사 인센티브 진단] 견제와 보상 사이…독립이사 보상의 현... | https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611161426146720104055 | b26,b27
 2026-11-23 08:20 | thevaluenews.co.kr | ‘민주유공자법‘ 국회 통과…4·19·5·18 외 민주화운동 희생·공헌자도 국가 예우 | http://www.thevaluenews.co.kr/news/view.php?idx=203521 | b42
+2026-11-23 08:19 | WNKY | WKU Sweeps Liberty to Claim 11th CUSA Tournament Championship | google:WNKY#d1347405 | bgb6
 2026-11-23 08:02 | ilyosisa.co.kr | <김삼기의 시사펀치> 21·22대 국회서 탄핵안 32건, 민주당은 탄핵 정당... | https://www.ilyosisa.co.kr/news/article.html?no=259033 | b42
 2026-11-23 08:00 | The Business Times | Sustainability reporting largely adopted in Asia-Pacific, but gaps remain in disclosure quality and depth | google:The Business Times#258b8702 | bgb4
 2026-11-23 07:56 | 글로벌이코노믹 | 베트남, 개정 투자법 통과…반도체·AI 특별 지원 도입 | https://www.g-enews.com/view.php?ud=2026112223402534068c1ed9d56c_1 | b42,b6
+2026-11-23 07:45 | ScottishNews.com | Glasgow Green Winter Wonderland opens today: Ice rink, circus and Christmas attractions return | google:ScottishNews.com#0fa2b23b | bgb6
 2026-11-23 07:36 | ESG경제 | 전력망부터 수소 촉매까지…에너지 산업 파고드는 양자컴퓨팅 | https://www.esgeconomy.com/news/articleView.html?idxno=17496 | sw
+2026-11-23 07:24 | immigration-analytics.com | Sea-Tac ICE Arrest: Family’s Lawyer Disputes DHS Assault Claim | google:immigration-analytics.com#f544e5e5 | bgb6
 2026-11-23 07:17 | 경향신문 | “미, 한국·EU·호주 디지털 규제 겨냥 301조 조사 검토”···강제노동·과잉생산 이어 세 번째 조사 나서나 | https://www.khan.co.kr/article/202611230717001 | b24
-2026-11-23 07:06 | safetimes.co.kr | [오늘의 주요일정·23일] 중대재해처벌법 개정 건설현장 정상화 세미나 | https://www.safetimes.co.kr/news/articleView.html?idxno=247770 | b20
+2026-11-23 07:06 | 세이프타임즈 | [오늘의 주요일정·23일] 중대재해처벌법 개정 건설현장 정상화 세미나 | https://www.safetimes.co.kr/news/articleView.html?idxno=247770 | b20
 2026-11-23 07:00 | newsroad.co.kr | "정년연장, 노사 합의만 기다리지 않겠다"…정부, 27일 이후 직접 나서나 | http://www.newsroad.co.kr/news/articleView.html?idxno=68197 | b15,b16
 2026-11-23 07:00 | aflnews.co.kr | 농협법, 국회 법사위 통과...논란 남아 | https://www.aflnews.co.kr/news/articleView.html?idxno=332157 | b42
 2026-11-23 06:51 | imnews.imbc.com | [뉴스픽] 노동장관 "정년 연장, 여당 특위 합의 안 되면 정부 나설 것" | https://imnews.imbc.com/replay/2026/nwtoday/article/6867703_37012.html | b15,b16
@@ -58,17 +81,22 @@
 2026-11-23 05:56 | kbsm.net | 노동장관 "정년연장, 27일 與 특위서 결론 안 나면 정부안 발표" | https://www.kbsm.net/news/view.php?idx=542797 | b15,b16,sw
 2026-11-23 05:04 | The Mandarin | Standards board clears workload before it gets swallowed | google:The Mandarin#4dbd78a4 | bgb4
 2026-11-23 05:03 | 서울신문 | “與 ‘정년 연장’ 27일 합의…결론 못내면 정부안 발표” | https://www.seoul.co.kr/news/society/2026/11/23/20261123012008?wlog_tag3=naver | b15,b16
+2026-11-23 04:50 | Norton Rose Fulbright | Overview of the current approach to statutory interpretation and recent cases / Australia / Global law firm | google:Norton Rose Fulbright#87f63d65 | bgb2
+2026-11-23 04:37 | AOL.co.uk | Draymond Green Sends Blunt 2-Word Response to 17-Year NBA Veteran’s Hall of Fame Claim | google:AOL.co.uk#c7cb56c6 | bgb6
 2026-11-23 04:34 | 동아일보 | 노동장관 “정년 연장, 27일 與특위 합의 안되면 정부안 제시” | https://www.donga.com/news/Society/article/all/20261123/135070000/2 | b15
 2026-11-23 03:25 | Moldova 1 | Carina Țurcan, convicted of espionage in Russia, will serve remaining sentence through forced labor | google:Moldova 1#87be50a1 | ben2
 2026-11-23 01:47 | Wood Central | EU Sinks COP31 Deal That Took Aim at Rules Like the EUDR | google:Wood Central#337c2d07 | bgb1
+2026-11-23 01:20 | ABS-CBN | UAAP: La Salle men claim twice-to-beat edge with 2-1 win vs. UP | google:ABS-CBN#5ead7e4a | bgb6
 2026-11-23 01:05 | 조선일보 | Celebrity Children's Marriage Preps: Home Purchase vs. Rumors, Fathers React | google:조선일보#72d5d00a | bgb10
+2026-11-23 00:59 | ATP Tour | Highlights: Arribage/Olivetti rally past Arevalo/Pavic to claim Turin doubles trophy | google:ATP Tour#fb8bdc98 | bgb6
 2026-11-23 00:46 | 조선일보 | 노동장관 “정년 연장, 與특위서 합의 안되면 정부가 입장 발표” | https://www.chosun.com/national/labor/2026/11/23/7UBSUI5Y25EKRHC3EXNXPAI2AY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | b15
 2026-11-23 00:33 | 조선일보 | 상법 빈틈 파고든 4대 금융… ‘세금 0원’ 배당 | https://www.chosun.com/economy/stock-finance/2026/11/23/M6VNI2RXCBDZPPM4TNI6BUYU2U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | b27
 2026-11-23 00:02 | 서울경제 | [사설] 청년 취업난 속 정년 연장 재시동…임금체계 개편이 먼저다 | https://www.sedaily.com/article/20117479?ref=naver | b15,b16
 2026-11-22 23:24 | ccnnews.co.kr | 서부 내륙고속도로 통과지역 주민들(아산 도고·선장·신창), 미온적 소음피해 대책 불만 폭발 | http://www.ccnnews.co.kr/news/articleView.html?idxno=418170 | b42
-2026-11-22 23:04 | topstarnews.net | 65세 정년 연장, 1969년생부터? 출생연도별 적용 따져보니 | https://www.topstarnews.net/news/articleView.html?idxno=16283100 | b15,b16
+2026-11-22 23:09 | WZTV | Nashville in Focus: Can Democrats claim another seat in the TN legislature? | google:WZTV#259c1426 | bgb6
+2026-11-22 23:04 | 톱스타뉴스 | 65세 정년 연장, 1969년생부터? 출생연도별 적용 따져보니 | https://www.topstarnews.net/news/articleView.html?idxno=16283100 | b15,b16
 2026-11-22 23:00 | 국제뉴스 | 경북도, 사회연대경제 혁신허브에 청도·칠곡 선정…특교세 40억 확보 | https://www.gukjenews.com/news/articleView.html?idxno=3759465 | b6
-2026-11-22 22:58 | topstarnews.net | COP31 합의 무산, 증시 영향은…정유·철강·신재생 엇갈린 셈법 | https://www.topstarnews.net/news/articleView.html?idxno=16283107 | b2,b3,b4
+2026-11-22 22:58 | 톱스타뉴스 | COP31 합의 무산, 증시 영향은…정유·철강·신재생 엇갈린 셈법 | https://www.topstarnews.net/news/articleView.html?idxno=16283107 | b2,b3,b4
 2026-11-22 22:37 | PotatoPro | UK-EU SPS Agreement Reopens the EU Market for Great Britain Seed Potatoes starting March 2028 | google:PotatoPro#7c1d12b5 | bgb8
 2026-11-22 22:00 | 위키트리 | “50대부터는 무조건 '이것' 챙기세요”… 이호선 교수가 강조한 노후 준비 '1순위' | https://www.wikitree.co.kr/articles/1175974 | b15
 2026-11-22 21:57 | 프레시안 | 김영훈 장관 "정년연장안 내는 것 자제했는데 이제 시점 다가오고 있다... | https://www.pressian.com/pages/articles/2026112217004020703?utm_source=naver&utm_medium=search | b15
@@ -82,7 +110,7 @@
 2026-11-22 21:24 | idaegu.co.kr | 상주시, 탄소중립 경연대회 '장관상' | https://www.idaegu.co.kr/news/articleView.html?idxno=566103 | b1
 2026-11-22 21:20 | ujeil.com | 고려아연, ESG 평가 최고등급 'AAA' 획득 | http://www.ujeil.com/news/articleView.html?idxno=395669 | b6
 2026-11-22 21:08 | KBS | “정년 연장, 27일 결론 못 내면 책임 있게 행동” | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719428&ref=A | b15
-2026-11-22 21:02 | kwnews.co.kr | 강원도탄소중립지원센터, 탄소중립 퀴즈대회 개최 | https://www.kwnews.co.kr/article/20261122500655 | b1
+2026-11-22 21:02 | 강원일보 | 강원도탄소중립지원센터, 탄소중립 퀴즈대회 개최 | https://www.kwnews.co.kr/article/20261122500655 | b1
 2026-11-22 20:58 | 쿠키뉴스 | 이용철 법무 후보, 공소취소 질문에 또 “법과 원칙 따라야” | https://www.kukinews.com/article/view/kuk202611220028 | b42
 2026-11-22 20:54 | idaegu.co.kr | [사설] 조 대법원장 탄핵, 민주당에도 득 될 것 없다 | https://www.idaegu.co.kr/news/articleView.html?idxno=566070 | b42
 2026-11-22 20:51 | 동아일보 | ‘李 공소취소 예·아니오 답하라’에…이용철, 또 “법과 원칙 따라야”｜동아일보 | https://www.donga.com/news/Politics/article/all/20261122/135068744/1 | b42
@@ -92,6 +120,7 @@
 2026-11-22 20:15 | 문화일보 | 이용철, 李사건 ‘공소취소 지휘’ 野 질의에 답변 회피…“검사가 할 일” | https://www.munhwa.com/article/11633134?ref=naver | b42
 2026-11-22 20:09 | 경향신문 | [시선]일하는 사람 기본법은 틀렸다 | https://www.khan.co.kr/article/202611222009005 | b14
 2026-11-22 20:08 | 브릿지경제 | ‘63세까지 월급 오른다’⋯ 정년연장 정부안 예고에 현대차 인건비 비상 | https://www.viva100.com/article/20261122500735 | b15
+2026-11-22 20:05 | AOL.co.uk | Bank of England directors illegally profited from post-abolition enslavement in Cuba | google:AOL.co.uk#ca212e95 | bgb2
 2026-11-22 19:58 | obsnews.co.kr | 조희대 탄핵소추 본격화…예산 정국 벼랑 끝 대치 | https://www.obsnews.co.kr/news/articleView.html?idxno=1544600 | b42
 2026-11-22 19:43 | kookje.co.kr | “정년 연장, 與 결론 안내면 정부 입장 낼 것”(종합) | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22004006871 | b15,b16
 2026-11-22 19:41 | Jersey Evening Post | EU-UK deal “good news” for Jersey’s fishing and food sectors | google:Jersey Evening Post#b728abc4 | bgb8
@@ -99,6 +128,7 @@
 2026-11-22 19:32 | kookje.co.kr | 지역 AI데이터센터 50㎿ 이하 전력평가 면제 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22013006867 | b12
 2026-11-22 19:28 | laborplus.co.kr | [위클립] 11월 3주 | https://www.laborplus.co.kr/news/articleView.html?idxno=41877 | b14,b15,b20,b30
 2026-11-22 19:26 | 한겨레 | ‘조희대 탄핵안’ 통과 시 ‘윤석열 내란’ 전원합의체 구성 못할 수도 | https://www.hani.co.kr/arti/society/society_general/1288546.html | b42
+2026-11-22 19:25 | MSN | Lawyer explains little-known rule allowing neighbours to claim your land | google:MSN#dfff0f8e | bgb6
 2026-11-22 19:20 | 국민일보 | 노동장관 “정년연장, 與특위 결론 안 나면 정부안 먼저 발표” | https://www.kmib.co.kr/article/20261122501263 | b15
 2026-11-22 19:17 | Ammon News | Greater Amman Municipality issues first Corporate Sustainability Report | google:Ammon News#52ddf8b7 | bgb10,bgb4
 2026-11-22 19:17 | 이데일리 | [연금술사]정년은 65세로 늘린다는데…국민연금은 | https://www.edaily.co.kr/News/Read?newsId=01928646645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b15,b16
@@ -107,7 +137,6 @@
 2026-11-22 19:01 | sjbnews.com | 전북시군공무원노동조합연맹 지도부 선출 | https://sjbnews.com/news/news.php?number=893300 | b15
 2026-11-22 18:59 | 서울경제 | MBK, AI·K에스테틱·거버넌스 투자에 초점 [시그널] | https://www.sedaily.com/article/20117346?ref=naver | b27,sw
 2026-11-22 18:58 | sjbnews.com | 부안군-지속가능발전협의회, 탄소중립 정책간담회 개최 | https://sjbnews.com/news/news.php?number=893217 | b1
-2026-11-22 18:57 | JournalArta | EU Reaches Deal on Sustainable Investment Rules | google:JournalArta#89ad4c90 | bgb11
 2026-11-22 18:56 | joongboo.com | [이계안칼럼] 책상머리에 앉아 있지 말고 | https://www.joongboo.com/news/articleView.html?idxno=363743167 | b5
 2026-11-22 18:54 | polinews.co.kr | [이슈] 26년만에 국회 통과한 민주유공자법…전태일·박종철·이한열 등 635명 예우 길 열렸다 | https://www.polinews.co.kr/news/articleView.html?idxno=748952 | b42,b43
 2026-11-22 18:49 | 세계일보 | 대법원장 탄핵 ‘명분’ 논란… 법조계 “헌법상 파면요건 안 돼” | https://www.segye.com/newsView/20261122508845?OutUrl=naver | b42
@@ -119,7 +148,6 @@
 2026-11-22 18:35 | 파이낸셜뉴스 | 李대통령, '대장동 의혹' 거듭 반박…"업자와 결탁했다면 할 수 있는 행동 아냐" | https://www.fnnews.com/news/202611221829095356 | b42
 2026-11-22 18:33 | logos-pres.md | Russia Replaces Prison Term for Moldovan-Born Carina Țurcan with Forced Labor | google:logos-pres.md#d89952bc | ben2
 2026-11-22 18:29 | 파이낸셜뉴스 | "정년연장 연내 처리… 27일 합의 불발땐 정부안 발표" | https://www.fnnews.com/news/202611221829102683 | b15
-2026-11-22 18:23 | scanx.trade | Greaves Cotton files Business Responsibility and Sustainability Report for FY 2025-26 | google:scanx.trade#d27cdf13 | bgb11
 2026-11-22 18:23 | 세계일보 | 김영훈 “27일 국회 정년연장 특위서 합의 불발 땐 정부 입장 발표” | https://www.segye.com/newsView/20261122509444?OutUrl=naver | b15,b16
 2026-11-22 18:22 | 파이낸셜뉴스 | "태양광 수익을 군민에게… 지역에서 돈 도는 화천 만들 것" | https://www.fnnews.com/news/202611221822130153 | b6
 2026-11-22 18:20 | 인천일보 | 경기도 살림 숨통 틔울 '세제 개편' 쏠린 눈 | https://www.incheonilbo.com/news/articleView.html?idxno=1337462 | b42
@@ -130,9 +158,8 @@
 2026-11-22 18:06 | 파이낸셜뉴스 | 與 "연내 조희대 탄핵안 국회 의결"… 예산안 일정과 조율 | https://www.fnnews.com/news/202611221805533142 | b15
 2026-11-22 18:06 | ccdn.co.kr | 청주가정법원 조기 설치, 충북도·변호사회 공동 대응 | https://www.ccdn.co.kr/news/articleView.html?idxno=1112688 | b42
 2026-11-22 18:00 | 파이낸셜뉴스 | "소멸 막는 해법은… 지역에서 돈이 도는 화천 만들 것"[로컬포커스] | https://www.fnnews.com/news/202611201044423412 | b6
-2026-11-22 18:00 | namdonews.com | 전태일·박종철·이한열 이제야 민주유공자된다 | https://www.namdonews.com/news/articleView.html?idxno=930026 | b42,b43
+2026-11-22 18:00 | 남도일보 | 전태일·박종철·이한열 이제야 민주유공자된다 | https://www.namdonews.com/news/articleView.html?idxno=930026 | b42,b43
 2026-11-22 17:59 | 서울경제 | 노동장관 “정년연장 합의 불발땐 정부안 내겠다” | https://www.sedaily.com/article/20117437?ref=naver | b15
-2026-11-22 17:57 | Global Advisory Experts | Climate Litigation Cyprus: Business Risk Guide | google:Global Advisory Experts#ba2be1bc | bgb11
 2026-11-22 17:56 | jasm.co.kr | 대학생 45% "올해 취업 작년보다 어려워"…서류합격 18.6% 그쳐 | https://www.jasm.co.kr/news/view/326079/?sc=Naver | b15
 2026-11-22 17:52 | 한겨레 | 김영훈 “정년연장, 27일 국회 특위 전후로 정부 입장 발표할 것” | https://www.hani.co.kr/arti/society/labor/1288521.html | b15
 2026-11-22 17:50 | thereport.co.kr | 이용철, 공소취소 예·아니요 질문에 "진상규명 집중" | https://www.thereport.co.kr/news/articleView.html?idxno=93599 | b42
@@ -160,15 +187,15 @@
 2026-11-22 17:10 | ccdailynews.com | 서산 자원회수시설, 대한민국 지방자치 혁신대상 '환경·탄소중립혁신 대상'영예 | https://www.ccdailynews.com/news/articleView.html?idxno=2452457 | b1
 2026-11-22 17:10 | rcast.co.kr | 신한은행, 세계 어민의 날 맞아 WWF와 해양환경 보호·어촌 상생 실천 外 | https://www.rcast.co.kr/news/articleView.html?idxno=32126 | b6
 2026-11-22 17:06 | dkilbo.com | 임인환 대구시의회 의장, '지방의회법' 연내 처리 촉구 국회 행보 | https://www.dkilbo.com/news/articleView.html?idxno=561663 | b42
-2026-11-22 17:06 | bzeronews.com | 전북대 총장 후보 7명, '교육 혁신' 첫 공개 토론 | https://www.bzeronews.com/news/articleView.html?idxno=825673 | b6
 2026-11-22 17:06 | dkilbo.com | 경북도, 사회연대경제 혁신허브 공모 2곳 선정 | https://www.dkilbo.com/news/articleView.html?idxno=561658 | b6
+2026-11-22 17:06 | bzeronews.com | 전북대 총장 후보 7명, '교육 혁신' 첫 공개 토론 | https://www.bzeronews.com/news/articleView.html?idxno=825673 | b6
 2026-11-22 17:06 | jnilbo.com | "대졸 취업시장 더 어려워"…대학생 45% '악화' 체감 | https://www.jnilbo.com/news/articleView.html?idxno=90000085383 | b15
 2026-11-22 17:04 | 아시아투데이 | 한화오션, 풍력사업 2년 성적표는…실적 '성장궤도' 기대감 | https://www.asiatoday.co.kr/kn/view.php?key=20261122010008447 | b5
 2026-11-22 17:04 | news2day.co.kr | 김영훈 노동장관 "27일 특위 결론 없으면 정부안 먼저 낸다" | https://www.news2day.co.kr/article/20261122500047 | b15
 2026-11-22 17:02 | kgnews.co.kr | 27일 정년 연장 특위 분수령…정부 독자안 나오나 | https://www.kgnews.co.kr/news/article.html?no=920673 | b15,b16,b19
 2026-11-22 17:02 | joongdo.co.kr | 통합 국군사 대전 설치법 개문발차…입법 속도전 시급 | https://www.joongdo.co.kr/web/view.php?key=20261122010007494 | b42
 2026-11-22 17:00 | SR타임스 | 김영훈 장관 "27일 정년연장 합의 없으면 정부 입장 발표 검토" | http://www.srtimes.kr/news/articleView.html?idxno=218294 | b15,b16
-2026-11-22 16:58 | namdonews.com | [기획 특집]‘스마트그린’ 입은 광양국가산단, 디지털·저탄소 전환 속도…제조혁신 거점 도약 | https://www.namdonews.com/news/articleView.html?idxno=930027 | b3,b4
+2026-11-22 16:58 | 남도일보 | [기획 특집]‘스마트그린’ 입은 광양국가산단, 디지털·저탄소 전환 속도…제조혁신 거점 도약 | https://www.namdonews.com/news/articleView.html?idxno=930027 | b3,b4
 2026-11-22 16:58 | 이투데이 | 이용철, 李대통령 공소취소 지휘 여부에 즉답 피해…“진상규명 집중할 때” | https://www.etoday.co.kr/news/view/2651354 | b42
 2026-11-22 16:56 | thereport.co.kr | 대학생 10명 중 4명 "취업 준비 1년 이상" | https://www.thereport.co.kr/news/articleView.html?idxno=93595 | b15
 2026-11-22 16:55 | imaeil.com | 조희대 대법원장 탄핵안 가결 땐 직무 정지…대법원 전원합의체 차질 가능성 | https://www.imaeil.com/page/view/2026112216502315009 | b42
@@ -184,10 +211,10 @@
 2026-11-22 16:37 | yonhapnewstv.co.kr | 이용철, '이대통령 공소취소' 논란에 "진상규명 집중" 재확인 | http://www.yonhapnewstv.co.kr/news/AKR20261122163647OHp | b42
 2026-11-22 16:35 | 뉴시스 | 대학생 절반 "작년보다 취업 더 어려워"…AI 확산에 일자리도 위협 | https://www.newsis.com/view/NISX20261122_0003878234 | b15
 2026-11-22 16:30 | EU Today | EU Agrees New Sustainable Investment Rules as Brussels Moves to Curb Greenwashing | google:EU Today#35fce9a1 | bgb11
-2026-11-22 16:26 | kbmaeil.com | 청도·칠곡 행안부 지역 기반 사회연대경제 혁신 허브 조성사업 공모 선정 | https://www.kbmaeil.com/article/20261122500375 | b6
+2026-11-22 16:26 | 경북매일 | 청도·칠곡 행안부 지역 기반 사회연대경제 혁신 허브 조성사업 공모 선정 | https://www.kbmaeil.com/article/20261122500375 | b6
 2026-11-22 16:25 | 파이낸셜뉴스 | 김영훈 노동장관 "정년연장 정부안 발표시점 다가오고 있어…방관 않겠다" | https://www.fnnews.com/news/202611221515380742 | b15
 2026-11-22 16:16 | 아시아투데이 | 10개월 멈춘 정년연장 협상…김영훈 "이제 결단만 남았다" | https://www.asiatoday.co.kr/kn/view.php?key=20261122010008462 | b15
-2026-11-22 16:16 | kbmaeil.com | 임인환 대구시의회 의장, 국회 찾아 지방의회법 연내 제정 촉구 | https://www.kbmaeil.com/article/20261122500533 | b42
+2026-11-22 16:16 | 경북매일 | 임인환 대구시의회 의장, 국회 찾아 지방의회법 연내 제정 촉구 | https://www.kbmaeil.com/article/20261122500533 | b42
 2026-11-22 16:14 | 메트로신문 | 중고차 광고에 ‘실제 구매비용’ 표시 의무화 | http://www.metroseoul.co.kr/article/20261122500284 | b41
 2026-11-22 16:11 | 연합뉴스 | 이용철, '공소취소 예·아니요로 답하라'에 "진상규명 집중할때" | https://www.yna.co.kr/view/AKR20261122034300001?input=1195m | b42
 2026-11-22 16:08 | news2day.co.kr | 정희용, ‘이재명 탈옥법’ 정면 비판…대구서 장외투쟁 선봉 존재감 부각 | https://www.news2day.co.kr/article/20261122500034 | b42
@@ -196,10 +223,11 @@
 2026-11-22 16:04 | pennmike.com | 김영훈 노동장관 "정년연장, 27일 與 특위 합의 안 나면 정부 입장 발표 검토" | https://www.pennmike.com/news/articleView.html?idxno=132460 | b15,b16
 2026-11-22 16:01 | newscj.com | 대학생 45% "취업시장 더 어려워졌다"… 서류 합격률 18.6% | https://www.newscj.com/news/articleView.html?idxno=3451068 | b15
 2026-11-22 16:01 | 동아일보 | 내년부터 중고차 광고에 ‘차값+수수료’ 합한 구매비용 표시된다 | https://www.donga.com/news/Economy/article/all/20261122/135067611/1 | b41
+2026-11-22 16:00 | OneFootball | SCALVINI CLAIM MADE! ALEX SCOTT BOOST + EKITIKE RETURN DATE! Liverpool Latest Transfer News | google:OneFootball#e4ce1cb1 | bgb6
 2026-11-22 16:00 | incheonin.com | 인천관광공사 사장 공모...임기 2년 남은 현 사장 사퇴 의사 | http://www.incheonin.com/news/articleView.html?idxno=122473 | b20
 2026-11-22 15:57 | 더팩트 | 이준석 "민주당, 대법원장 탄핵 시 한 방에 무너진다" | https://news.tf.co.kr/read/ptoday/2391901.htm | b42
-2026-11-22 15:54 | 한국경제TV | "비겁하게 할 생각 없다"…정년 연장 놓고 노동장관 작심 발언 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220049&t=NN | b15,b16
 2026-11-22 15:54 | 한국일보 | 노동장관 "정년 연장, 결단만 남아… 합의 안 되면 정부 나설 것" | https://www.hankookilbo.com/news/article/A2026112214380000056?did=NA | b15,sw
+2026-11-22 15:54 | 한국경제TV | "비겁하게 할 생각 없다"…정년 연장 놓고 노동장관 작심 발언 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220049&t=NN | b15,b16
 2026-11-22 15:54 | imaeil.com | 與, 민주유공자법 일방 처리…'尹 거부권' 행사 2년여만 | https://www.imaeil.com/page/view/2026112215074084407 | b42
 2026-11-22 15:48 | dt.co.kr | AIDC 특별법 하위법령 입법예고…인허가 일괄처리 | https://www.dt.co.kr/article/12096536?ref=naver | b12
 2026-11-22 15:46 | kyongbuk.co.kr | 청도·칠곡에 사회연대경제 혁신허브 조성…특교세 40억 원 | https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091590 | b6
@@ -212,7 +240,7 @@
 2026-11-22 15:24 | imaeil.com | "민주유공자법은 '운동권 특혜법'"…국민의힘 거세게 반발 | https://www.imaeil.com/page/view/2026112215193527617 | b42
 2026-11-22 15:22 | kado.net | 춘천시노사민정협의회, 노사민정아카데미 및 산업안전보건교육 개최 | https://www.kado.net/news/articleView.html?idxno=2086346 | b20
 2026-11-22 15:20 | 이투데이 | 정년연장 ‘27일 합의’ 압박한 김영훈⋯불발 땐 정부 입장 발표 검토 | https://www.etoday.co.kr/news/view/2651337 | b15,b16
-2026-11-22 15:20 | eroun.net | 임인환 대구시의장, 국회 찾아 지방의회법 연내 제정 요청 | https://www.eroun.net/news/articleView.html?idxno=96170 | b42
+2026-11-22 15:20 | 이로운넷 | 임인환 대구시의장, 국회 찾아 지방의회법 연내 제정 요청 | https://www.eroun.net/news/articleView.html?idxno=96170 | b42
 2026-11-22 15:18 | kgnews.co.kr | [이슈&인사이드] ‘반쪽 독립’ 지방의회, 홀로서기 길 열리나?…지방의회법 국회 첫 관문 통과 | https://www.kgnews.co.kr/news/article.html?no=920566 | b42
 2026-11-22 15:17 | kookje.co.kr | 김영훈 노동장관 “27일 與 특위 정년 연장 합의 안 되면 정부 나설 것” | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261122.99099006790 | b15,b16
 2026-11-22 15:16 | 에너지데일리 | [초점] AI 데이터센터 ‘전력망 문턱’ 낮춘다…비수도권 50MW 이하 계통평가 면제 | https://www.energydaily.co.kr/news/articleView.html?idxno=205329 | b12,b47
@@ -222,35 +250,7 @@
 2026-11-22 15:11 | 머니투데이 | 정유 4사 첫 손실보전액, 정부에 제출…이의신청·소송 불씨 | https://www.mt.co.kr/industry/2026/11/23/2026112214222727470 | b26,b27
 2026-11-22 15:10 | 신아일보 | 상주시, 탄소중립 경연대회 우수상…기후에너지환경부 장관상 수상 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086320 | b1
 2026-11-22 15:06 | 매일경제 | 10개월째 공회전한 정년 연장…김영훈 노동장관 “이젠 정부가 결단할 때” | https://www.mk.co.kr/article/12215507 | b15
-2026-11-22 15:00 | joongangenews.com | 노동장관 "정년연장, 합의 없으면 정부안 발표"…27일 與 특위 분수령 | https://www.joongangenews.com/news/articleView.html?idxno=565646 | b15
+2026-11-22 15:00 | 중앙이코노미뉴스 | 노동장관 "정년연장, 합의 없으면 정부안 발표"…27일 與 특위 분수령 | https://www.joongangenews.com/news/articleView.html?idxno=565646 | b15
 2026-11-22 15:00 | 연합뉴스 | [연합뉴스 이 시각 헤드라인] - 15:00 | https://www.yna.co.kr/view/AKR20261122029300011?input=1195m | b15,b42,sw
 2026-11-22 14:59 | УкрАгроКонсалт | European farmers warn of feed shortages due to new EUDR requirements | google:УкрАгроКонсалт#44a94534 | bgb1
 2026-11-22 14:42 | newsgn.com | 김해시 '2026 탄소중립 경연대회' 장관상 5개 수상 쾌거 | https://www.newsgn.com/news/articleView.html?idxno=587002 | b1
-2026-11-22 14:42 | 메트로신문 | 조희대 탄핵 명분에 한덕수 판결까지?… 민주당 "탄핵소추안 연내 처리... | http://www.metroseoul.co.kr/article/20261122500227 | b42
-2026-11-22 14:40 | magazine.hankyung.com | 정년 65세로 늘어나나 | https://magazine.hankyung.com/business/article/202611222242b | b15
-2026-11-22 14:40 | jejumaeil.net | 잇단 지게차 참변···도, 위험사업장 특별점검 | https://www.jejumaeil.net/news/articleView.html?idxno=406987 | b20
-2026-11-22 14:39 | 연합뉴스 | 노동장관 "정년연장, 27일 與특위 합의 안 되면 정부 나설 것"(종합) | https://www.yna.co.kr/view/AKR20261122019051530?input=1195m | b15,b16
-2026-11-22 14:34 | 머니투데이 | 전기차도 국내생산세액공제 대상 포함 유력…이르면 이번주 결론 | https://www.mt.co.kr/industry/2026/11/22/2026112210573377519 | b42
-2026-11-22 14:31 | 머니투데이 | 농협개혁 입법 막바지…중앙회장 직선제·독립 감사기구 가시화 | https://www.mt.co.kr/economy/2026/11/22/2026112214103752081 | b42
-2026-11-22 14:30 | hidomin.com | 팔현습지 보도교 예산 반토막…공대위 "사업 백지화까지 농성" | https://www.hidomin.com/news/articleView.html?idxno=730429 | b42
-2026-11-22 14:26 | ngonews.kr | 구리시의회 이정희 의원 “사회연대경제, 보조금 의존 벗어나 자립·성장해야” | https://www.ngonews.kr/news/articleView.html?idxno=243834 | b42
-2026-11-22 14:25 | 매일경제 | 정년 65세까지 연장? 청년들 생각은…10명 중 6명 이상 “신규채용 줄 것” - 매일경제 | https://www.mk.co.kr/article/12215485 | b15
-2026-11-22 14:24 | hidomin.com | 음식물쓰레기·가축분뇨가 에너지로…경북 7개 시·군에 5315억원 투입 | https://www.hidomin.com/news/articleView.html?idxno=730407 | b6
-2026-11-22 14:20 | m-economynews.com | 검사 수사권 폐지 한 달..."검사가 받은 증거는 못 써" 조항에 막힌 피해자들 | https://www.m-economynews.com/news/article.html?no=73403 | b42
-2026-11-22 14:18 | sidae.com | 정년연장, 27일 노사 합의 불발 땐 정부안 발표 | https://www.sidae.com/article/2026112213550851728 | b15
-2026-11-22 14:18 | ccdn.co.kr | [박종관의 지역문화 읽기]사람의 힘, ‘충북도립극단’과 ‘충북도립교향악단’ | https://www.ccdn.co.kr/news/articleView.html?idxno=1112496 | b16
-2026-11-22 14:16 | 헤럴드경제 | 김영훈 노동장관 “정년연장, 이제 결단만 남았다”…27일 與 특위 분수령 | https://biz.heraldcorp.com/article/10945103?ref=naver | b15,b16
-2026-11-22 14:13 | 파이낸셜뉴스 | '조희대 탄핵' 꺼낸 김민석…취임 100일 이후 정국 운영은 | https://www.fnnews.com/news/202611221230437347 | b15
-2026-11-22 14:12 | inews365.com | 충북도·지방변호사회, 청주가정법원 조기 설치 힘 모아 | https://www.inews365.com/news/article.html?no=944506 | b42
-2026-11-22 14:11 | korea.kr | [사실은 이렇습니다] (설명) 연합뉴스, 노동장관, "정년연장, 27일 輿 특... | https://www.korea.kr/briefing/actuallyView.do?newsId=148976229&call_from=naver_news | b15
-2026-11-22 14:10 | insight.co.kr | 김영훈 노동장관 "정년연장, 27일까지 합의 없으면 정부안 발표" | https://www.insight.co.kr/news/583072 | b15
-2026-11-22 14:10 | kado.net | [속보] 노동장관 "정년연장, 27일 노사합의 안 될 땐 정부가 나설 시점" | https://www.kado.net/news/articleView.html?idxno=2086326 | b15
-2026-11-22 14:08 | 미디어펜 | 노동장관 “27일 민주당 정년연장특위서 합의 없으면 정부안 제시” | https://www.mediapen.com/news/view/1139103 | b15,b16
-2026-11-22 14:08 | namdonews.com | 與 "대입 혜택 허위" 野 "운동권 셀프 특혜법"…민주유공자법 통과에 여야 공방 | https://www.namdonews.com/news/articleView.html?idxno=930000 | b42
-2026-11-22 14:08 | 메트로신문 | 부산항만공사, 미국서 지속가능경영 부문 '플래티넘' 수상 | http://www.metroseoul.co.kr/article/20261122500211 | b32,b36
-2026-11-22 14:08 | EBN | 중고차 온라인 광고…차값·수수료 포함 '총비용' 표시해야 | https://www.ebn.co.kr/news/articleView.html?idxno=1732584 | b41,b45
-2026-11-22 14:06 | Rebellion Research | AI for ESG investing analysis to find climate opportunities | google:Rebellion Research#c887b4c8 | bgb11
-2026-11-22 14:00 | public25.com | 〈위클리 퍼블릭〉정년 연장 눈앞…‘일본 공무원 정년 연장 반면교사’ 기사에 공직사회 폭발적 관심 | https://www.public25.com/news/articleView.html?idxno=58795 | b15
-2026-11-22 14:00 | 세계일보 | 이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” | https://www.segye.com/newsView/20261122506559?OutUrl=naver | b42
-2026-11-22 13:58 | cjb.co.kr | 김영훈 노동장관 "정년 연장, 여당 특위 결론 안나면 정부안 발표" | https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261122504&PRO_CODE=99 | b15
-2026-11-22 13:50 | inews365.com | 세종시 절박한 재정 숨통 트이나 | https://www.inews365.com/news/article.html?no=944503 | b42
