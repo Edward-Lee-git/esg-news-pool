@@ -1,10 +1,10 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-23 17:57 KST
+collected: 2026-11-24 07:30 KST
 mode: on
 status: ok
-checked: 26 (유료 7 · 무료 19 · 판정불가 0)
-excluded: 7건 (세트별 a 0 · b 7 · c 7 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 19, paid 7
+checked: 18 (유료 5 · 무료 13 · 판정불가 0)
+excluded: 5건 (세트별 a 0 · b 5 · c 5 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 13, paid 5
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
 임팩트온 | 화석연료·돈·과학·외교까지…COP31 결렬 뒤에 숨은 7가지 갈등 | https://www.impacton.net/news/articleView.html?idxno=30785 | bc
@@ -12,5 +12,3 @@ reasons: free 19, paid 7
 임팩트온 | 인텔·고려아연 이어 배터리까지…美 정부, 전략산업 지분 확보 넘어 경영권 요구 | https://www.impacton.net/news/articleView.html?idxno=30782 | bc
 임팩트온 | EU, 전기자전거 배터리 탄소발자국 산정안…제조 데이터·수명 계산 변경 추진 | https://www.impacton.net/news/articleView.html?idxno=30778 | bc
 임팩트온 | 【ESG Deal】펄펙스, 종이병 생산기술 투자 활보·플래닛세이버스, DAC 개발자금 확보·PIDG, 폐기물 재활용 기업 지분투자 | https://www.impacton.net/news/articleView.html?idxno=30767 | bc
-임팩트온 | 메타, AI 설비투자 늘렸더니 탄소배출 45% 증가…넷제로 일정 재검토 | https://www.impacton.net/news/articleView.html?idxno=30756 | bc
-임팩트온 | 【ESG Deal】실라, 실리콘 음극재 공급계약·후지쯔, 탄소제거 크레딧  조달·제너럴 플래시, 친환경 핵심광물 정제 자금 조 | https://www.impacton.net/news/articleView.html?idxno=30755 | bc
