@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """수집 보조: 기간 판정, 검색어별 성과 기록·이력 저장, 상한 절단(관련도 우선), 근거 문구.
 collect.py 가 가져다 쓴다(같은 scripts 폴더에 두어야 한다)."""
+try:                                                   # 실행 로그를 pool/run_log.txt 로도 남긴다. collect.py 는 실행(main) 전에 이 파일을 불러오므로 여기서 시작해도 모든 출력이 잡힌다
+    import logtee
+except Exception:  # noqa
+    pass
 import os
 import re
 import csv
