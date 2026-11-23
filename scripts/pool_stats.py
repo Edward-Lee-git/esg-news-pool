@@ -101,8 +101,65 @@ def keep_priority(a):
     media = (a.get("media") or "").lower()
     for d, pr in EXTRA_FEED_PRIORITY.items():
         if media.endswith(d):
-            return min(p, pr)
+            p = min(p, pr)
+            break
+    if a.get("promo") and p > 1:                             # 훑기 줄 중 제목에 핵심어가 있어 승격 표식(mark_promoted)이 붙은 줄
+        p = 1
     return p
+
+
+PROMO_MAX = 150                                              # 세트당 승격하는 줄 상한(노이즈 폭주 방지, 최신순)
+PROMO_DEFAULT = ["독립이사", "사외이사", "감사위원", "이사회", "지배구조", "주주", "의결권", "상법", "ESG", "지속가능", "중대재해", "인권"]
+_PROMO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def promo_words(path=None):
+    """승격 핵심어 목록(config/promote_keywords.json 의 words, 없거나 깨지면 기본 12개)."""
+    p = path or os.path.join(_PROMO_ROOT, "config", "promote_keywords.json")
+    try:
+        import json as _json
+        w = _json.load(open(p, encoding="utf-8")).get("words", [])
+        return [x.strip().lower() for x in w if isinstance(x, str) and x.strip()]
+    except FileNotFoundError:
+        return [x.lower() for x in PROMO_DEFAULT]
+    except Exception as e:  # noqa
+        print(f"      [훑기 승격] {os.path.basename(p)} 를 읽지 못했습니다({type(e).__name__}) — 기본 핵심어로 계속")
+        return [x.lower() for x in PROMO_DEFAULT]
+
+
+def mark_promoted(items, label="", path=None):
+    """훑기(sw) 줄 중 제목에 핵심어가 있고 지금 등급이 1보다 나쁜 줄에 승격 표식(a["promo"])을 단다(최신순 PROMO_MAX 줄까지).
+    keep_priority 가 표식이 있는 줄을 1등급으로 본다. 어떤 오류도 밖으로 던지지 않는다."""
+    try:
+        if os.environ.get("SWEEP_PROMOTE", "on").lower() == "off":
+            return items
+        words = promo_words(path)
+        if not words:
+            return items
+        cand = []
+        for a in items:
+            if "sw" not in (a.get("tags") or ()) or keep_priority(a) <= 1:
+                continue
+            title = (a.get("title") or "").lower()
+            hit = [w for w in words if w in title]
+            if hit:
+                cand.append((a, hit))
+        cand.sort(key=lambda x: str(x[0].get("published") or ""), reverse=True)
+        top = cand[:PROMO_MAX]
+        for a, _ in top:
+            a["promo"] = True
+        if cand:
+            from collections import Counter
+            cnt = Counter(w for _, hit in top for w in hit)
+            more = f" (상한 {PROMO_MAX}줄 초과 {len(cand) - len(top)}줄은 올리지 않음)" if len(cand) > len(top) else ""
+            print(f"      [훑기 승격] {label}: 훑기 줄 중 제목에 핵심어가 있는 {len(cand)}줄 → {len(top)}줄을 1등급으로 올림{more} | 낱말: "
+                  + " · ".join(f"{w} {c}" for w, c in cnt.most_common(6)))
+        else:
+            print(f"      [훑기 승격] {label}: 핵심어가 제목에 있는 훑기 줄 없음")
+        return items
+    except Exception as e:  # noqa
+        print(f"      [훑기 승격] {label}: 건너뜀({type(e).__name__})")
+        return items
 
 
 def _base_keep_priority(a):

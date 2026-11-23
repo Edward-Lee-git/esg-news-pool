@@ -180,3 +180,15 @@ def filter_sweep(items, site="", path=None):
     except Exception as e:  # noqa
         print(f"      [훑기 계열] {site}: 건너뜀({type(e).__name__})")
         return items
+
+
+# 사이트별 훑기 기간(일). 지정한 사이트는 수집 기간보다 길게 가져온다(더벨: 유료 기사가 7~12일 뒤 무료로 풀리고 구글은 그보다 앞선 시각을 붙이므로).
+SWEEP_DAYS = {"thebell.co.kr": 10}
+
+
+def sweep_days(site, days):
+    """그 사이트의 훑기 기간(일). 지정이 없으면 수집 기간 그대로, 있으면 둘 중 큰 값."""
+    try:
+        return max(int(days), int(SWEEP_DAYS.get(_norm(site), 0)))
+    except Exception:  # noqa
+        return days

@@ -87,6 +87,16 @@ try:                                                   # 훑기에 섞여 들어
 except Exception:  # noqa — 없으면 훑기 결과를 그대로 쓴다
     filter_sweep = None
 
+try:                                                   # 사이트별 훑기 기간(더벨 10일)
+    from domain_filter import sweep_days
+except Exception:  # noqa
+    sweep_days = None
+
+try:                                                   # 훑기 줄 중 제목에 핵심어(config/promote_keywords.json)가 있으면 1등급으로
+    from pool_stats import mark_promoted
+except Exception:  # noqa
+    mark_promoted = None
+
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -368,7 +378,7 @@ def main():
     # 공통 매체 훑기
     sweep = []
     for site in cfg.get("sweep", []):
-        got = google_rss(f"site:{site} when:{days}d", tag="sw")
+        got = google_rss(f"site:{site} when:{sweep_days(site, days) if sweep_days else days}d", tag="sw")
         print(f"  sweep {site}: +{len(got)}")
         if filter_sweep:
             got = filter_sweep(got, site)               # 계열 매체(스포츠경향·매일경제 마켓 등) 제외 + 매체명 분포 로그
@@ -438,11 +448,14 @@ def main():
 
         use_sweep = sweep if opt["sweep"] else []
         items += use_sweep
+        peer_pool = list(items)                          # 기간 필터 전 목록: 기간 밖 구글 줄도 제목 사전으로 쓴다
         items = [a for a in items if in_window(a, start, end)]
         if drop_blocked:                                 # 접속이 막힌 사이트는 중복 제거·상한 계산 이전에 뺀다
             items = drop_blocked(items, label=pfx)
         if restore_from_peers:                           # 잘린 제목 → 같은 목록의 구글 뉴스 줄 제목으로(훑기 줄이 잘리기 전에 사전으로 쓴다)
-            items = restore_from_peers(items, label=pfx)
+            items = restore_from_peers(items, label=pfx, extra=peer_pool)
+        if mark_promoted and opt["sweep"]:               # 훑기 줄 중 제목에 핵심어가 있으면 상한 절단에서 1등급으로(복원된 제목 기준)
+            mark_promoted(items, label=pfx)
 
         # 검색어가 제목·요약에 확인되지 않았고 제목에 리스크 신호도 없는 기사는 버린다.
         # (코스피 시황, 부고, 취업박람회 등 검색어가 본문에 스쳐 지나간 기사)

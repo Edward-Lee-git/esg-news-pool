@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""잘려 온 기사 제목 복원 v2.4 (collect.py 가 불러 씁니다).
+"""잘려 온 기사 제목 복원 v2.5 (collect.py 가 불러 씁니다).
 
 네이버 검색 결과는 긴 제목을 약 70바이트(한글 약 35자)에서 「...」로 줄여 보냅니다.
 이 모듈은 그런 기사(직접 주소 + 제목이 ...·… 로 끝남)의 페이지 앞부분(<head>)을 읽어 제목을 되찾습니다.
@@ -14,6 +14,9 @@ v1 에서 바꾼 점(2026-11-20 첫 수동 실행에서 150초 안에 33건밖�
 v2.1 에서 바꾼 점(2026-11-20 17:07 수동 실행 결과 반영):
 - 시간 예산을 「첫 호출 이후 흐른 시간」이 아니라 「실제로 복원에 쓴 시간」으로 셉니다. 수집이 느린 날에도 일반동향 차례에 예산이 남습니다(v2 는 c 가 건너뜀 378건·0초였음).
 - 같은 도메인의 복원 제목 끝에 같은 꼬리표(예: 「 - 퍼블릭뉴스통신(Public news-network for TTL)」)가 2번 이상 나오면 사이트 이름으로 보고 뗍니다.
+
+v2.5 에서 더한 것: 제목 사전에 「수집 기간 밖」의 구글 줄도 쓴다(restore_from_peers 의 extra). 구글이 자체 색인 시각으로 날짜를 매겨 며칠 앞선 시각이 붙은 기사
+(예: 더벨 무료 기사)가 기간 필터에서 먼저 버려져 사전이 되지 못하던 문제를 고친다. 짝을 맞추는 조건(같은 매체·앞부분 14자·유일 후보·14일 이내)은 그대로다.
 
 v2.4 에서 고친 것(제목 빌려 쓰기): ① 같은 매체 판정을 넓힘 — 구글이 같은 사이트를 다른 이름으로 부르는 경우(예: 더벨 무료 기사 = 「thebell Free」)와
 구글이 알려 준 출처 주소가 같은 사이트인 경우도 같은 매체로 봅니다. ② 발행 시각 차이 상한을 3일 → 14일로 늘림(무료로 늦게 풀리는 기사 대응).
@@ -230,7 +233,7 @@ def dt_parse(v):
     return datetime.datetime.fromisoformat(str(v))
 
 
-def restore_from_peers(items, label=""):
+def restore_from_peers(items, label="", extra=None):
     """잘린 제목(직접 주소)을 같은 목록의 구글 뉴스 줄에서 찾은 같은 기사의 온전한 제목으로 바꾼다(주소는 그대로). 어떤 오류도 밖으로 던지지 않는다."""
     try:
         if os.environ.get("TITLE_PEERS", "on").lower() == "off":
@@ -239,7 +242,11 @@ def restore_from_peers(items, label=""):
         if not todo:
             return items
         peers = {}
-        for a in items:
+        seen_ids = set()
+        for a in list(items) + list(extra or []):
+            if id(a) in seen_ids:
+                continue
+            seen_ids.add(id(a))
             if "news.google.com" not in (a.get("url") or "") or _ELL.search(a.get("title") or ""):
                 continue
             _, rest = _split_tag(a.get("title") or "", a.get("media"))
