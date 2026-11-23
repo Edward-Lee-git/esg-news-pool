@@ -95,7 +95,7 @@ def save_query_stats(outdir, end, stats):
 GOOGLE_TAG = re.compile(r"[abc](r|gb|en|id|ro)\d+$")   # 구글 뉴스 RSS(한국판·해외 판) 검색어 태그
 
 
-def keep_priority(a):
+def keep_priority(a, _promo=True):
     """상한 절단 때 남기는 순서. 주소를 직접 지정한 피드(EXTRA_FEED_PRIORITY)의 매체는 자기 등급과 지정 등급 중 더 좋은 쪽을 쓴다."""
     p = _base_keep_priority(a)
     media = (a.get("media") or "").lower()
@@ -103,8 +103,8 @@ def keep_priority(a):
         if media.endswith(d):
             p = min(p, pr)
             break
-    if a.get("promo") and p > 1:                             # 훑기 줄 중 제목에 핵심어가 있어 승격 표식(mark_promoted)이 붙은 줄
-        p = 1
+    if _promo and a.get("promo"):                            # 훑기 줄 중 제목에 핵심어가 있어 승격 표식(mark_promoted)이 붙은 줄 → 0등급
+        p = 0                                                # (1등급으로는 같은 등급 안에서 날짜별 최신순에 밀려 대부분 잘렸다: 요약에만 낱말이 있는 줄보다 근거가 강하므로 0등급)
     return p
 
 
@@ -129,7 +129,8 @@ def promo_words(path=None):
 
 def mark_promoted(items, label="", path=None):
     """훑기(sw) 줄 중 제목에 핵심어가 있고 지금 등급이 1보다 나쁜 줄에 승격 표식(a["promo"])을 단다(최신순 PROMO_MAX 줄까지).
-    keep_priority 가 표식이 있는 줄을 1등급으로 본다. 어떤 오류도 밖으로 던지지 않는다."""
+    keep_priority 가 표식이 있는 줄을 0등급으로 본다. 훑기 줄은 규제·일반동향이 같은 객체를 공유하므로 표식은 두 세트에 함께 적용된다(후보 계산은 표식을 무시하고 세트마다 다시 센다).
+    어떤 오류도 밖으로 던지지 않는다."""
     try:
         if os.environ.get("SWEEP_PROMOTE", "on").lower() == "off":
             return items
@@ -138,7 +139,7 @@ def mark_promoted(items, label="", path=None):
             return items
         cand = []
         for a in items:
-            if "sw" not in (a.get("tags") or ()) or keep_priority(a) <= 1:
+            if "sw" not in (a.get("tags") or ()) or keep_priority(a, False) <= 1:
                 continue
             title = (a.get("title") or "").lower()
             hit = [w for w in words if w in title]
@@ -152,8 +153,9 @@ def mark_promoted(items, label="", path=None):
             from collections import Counter
             cnt = Counter(w for _, hit in top for w in hit)
             more = f" (상한 {PROMO_MAX}줄 초과 {len(cand) - len(top)}줄은 올리지 않음)" if len(cand) > len(top) else ""
-            print(f"      [훑기 승격] {label}: 훑기 줄 중 제목에 핵심어가 있는 {len(cand)}줄 → {len(top)}줄을 1등급으로 올림{more} | 낱말: "
-                  + " · ".join(f"{w} {c}" for w, c in cnt.most_common(6)))
+            ex = " | 예: " + " / ".join(f"[{str(a.get('media') or '')[:8].strip()}] {str(a.get('title') or '')[:26]}" for a, _ in top[:4])
+            print(f"      [훑기 승격] {label}: 훑기 줄 중 제목에 핵심어가 있는 {len(cand)}줄 → {len(top)}줄을 0등급으로 올림{more} | 낱말: "
+                  + " · ".join(f"{w} {c}" for w, c in cnt.most_common(6)) + ex)
         else:
             print(f"      [훑기 승격] {label}: 핵심어가 제목에 있는 훑기 줄 없음")
         return items
@@ -241,7 +243,7 @@ def balance_by_date(items, limit, prio=None):
             take = part if len(part) <= room else _round_robin_by_date(part, max(room, 0))
             picked += take
             info.append(f"{p}등급 {len(take)}/{len(part)}")
-        print("      절단 우선순위별 유지(0=전문지·해외·제목에 낱말이 있는 확정 기사, 1=요약에만 있거나 검색어당 상한 초과, 2=약한 검색어, 3=훑기): " + ", ".join(info))
+        print("      절단 우선순위별 유지(0=전문지·해외·제목에 낱말이 있는 확정 기사·핵심어 승격 훑기 줄, 1=요약에만 있거나 검색어당 상한 초과, 2=약한 검색어, 3=훑기): " + ", ".join(info))
     picked.sort(key=lambda a: (a.get("published") or ""), reverse=True)   # 절단 여부와 상관없이 최신순
     kept = {}
     for a in picked:

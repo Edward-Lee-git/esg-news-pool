@@ -175,7 +175,9 @@ def filter_sweep(items, site="", path=None):
                 if h:
                     hosts[h] = hosts.get(h, 0) + 1
             hs = " | 출처주소 " + ", ".join(f"{h} {c}" for h, c in sorted(hosts.items(), key=lambda kv: -kv[1])[:2]) if hosts else " | 출처주소 없음"
-            print(f"      [훑기 매체명] {site}: {show}{more}{hs}" + (f" → 계열 {dropped}건 제외" if dropped else ""))
+            pubs = sorted(str(a.get("published"))[5:16].replace("T", " ") for a in items if a.get("published"))
+            rng = f" | 기간 {pubs[0]}~{pubs[-1]}" if pubs else ""
+            print(f"      [훑기 매체명] {site}: {show}{more}{hs}{rng}" + (f" → 계열 {dropped}건 제외" if dropped else ""))
         return kept
     except Exception as e:  # noqa
         print(f"      [훑기 계열] {site}: 건너뜀({type(e).__name__})")
