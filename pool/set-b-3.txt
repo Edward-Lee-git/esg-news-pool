@@ -1,9 +1,22 @@
-# collected: 2026-11-23 17:13 KST
-# window: 2026-11-20 00:00 ~ 2026-11-23 17:13 KST
+# collected: 2026-11-23 17:57 KST
+# window: 2026-11-20 00:00 ~ 2026-11-23 17:57 KST
 # part 3 of 5, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-22 15:48 | dt.co.kr | AIDC 특별법 하위법령 입법예고…인허가 일괄처리 | https://www.dt.co.kr/article/12096536?ref=naver | b12
+2026-11-22 15:46 | kyongbuk.co.kr | 청도·칠곡에 사회연대경제 혁신허브 조성…특교세 40억 원 | https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091590 | b6
+2026-11-22 15:42 | 아주경제 | 정년연장 논의 빨라지나…노동장관 특위 합의 불발시 정부 나설 것(종합) | https://www.ajunews.com/view/20261122153932043 | b15,sw
+2026-11-22 15:40 | kookbang.dema.mil.kr | ‘민주유공자법’ 국회 통과 | https://kookbang.dema.mil.kr/newsWeb/20261123/13/ATCE_CTGR_0010010000/view.do | b42
+2026-11-22 15:40 | betanews.net | 전북시군공무원노조연맹 제14대 위원장에 오정후 당선 | https://www.betanews.net/article/view/beta202611220031 | b15
+2026-11-22 15:38 | hidomin.com | 김천시, 신규 철도망 확충으로 교통 중심도시 도약 | https://www.hidomin.com/news/articleView.html?idxno=730461 | b42
+2026-11-22 15:29 | yonhapnewstv.co.kr | 헌재 향하는 조희대 탄핵…법조계 "인용 어려워" | http://www.yonhapnewstv.co.kr/news/MYH20261122152852t8g | b42
+2026-11-22 15:28 | 브릿지경제 | 제각각 탄소 규제에 멍드는 해운업계 “IMO 단일 규범 서둘러야” | https://www.viva100.com/article/20261122500509 | b2
+2026-11-22 15:24 | imaeil.com | "민주유공자법은 '운동권 특혜법'"…국민의힘 거세게 반발 | https://www.imaeil.com/page/view/2026112215193527617 | b42
+2026-11-22 15:22 | kado.net | 춘천시노사민정협의회, 노사민정아카데미 및 산업안전보건교육 개최 | https://www.kado.net/news/articleView.html?idxno=2086346 | b20
+2026-11-22 15:20 | 이투데이 | 정년연장 ‘27일 합의’ 압박한 김영훈⋯불발 땐 정부 입장 발표 검토 | https://www.etoday.co.kr/news/view/2651337 | b15,b16
+2026-11-22 15:20 | 이로운넷 | 임인환 대구시의장, 국회 찾아 지방의회법 연내 제정 요청 | https://www.eroun.net/news/articleView.html?idxno=96170 | b42
+2026-11-22 15:18 | kgnews.co.kr | [이슈&인사이드] ‘반쪽 독립’ 지방의회, 홀로서기 길 열리나?…지방의회법 국회 첫 관문 통과 | https://www.kgnews.co.kr/news/article.html?no=920566 | b42
 2026-11-22 15:17 | kookje.co.kr | 김영훈 노동장관 “27일 與 특위 정년 연장 합의 안 되면 정부 나설 것” | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261122.99099006790 | b15,b16
 2026-11-22 15:16 | 에너지데일리 | [초점] AI 데이터센터 ‘전력망 문턱’ 낮춘다…비수도권 50MW 이하 계통평가 면제 | https://www.energydaily.co.kr/news/articleView.html?idxno=205329 | b12,b47
 2026-11-22 15:16 | 쿠키뉴스 | 정년 65세 연장, 노사 이견 여전…정부안 발표 27일 분수령 | https://www.kukinews.com/article/view/kuk202611220015 | b15
@@ -12,12 +25,11 @@
 2026-11-22 15:11 | 머니투데이 | 정유 4사 첫 손실보전액, 정부에 제출…이의신청·소송 불씨 | https://www.mt.co.kr/industry/2026/11/23/2026112214222727470 | b26,b27
 2026-11-22 15:10 | 신아일보 | 상주시, 탄소중립 경연대회 우수상…기후에너지환경부 장관상 수상 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086320 | b1
 2026-11-22 15:06 | 매일경제 | 10개월째 공회전한 정년 연장…김영훈 노동장관 “이젠 정부가 결단할 때” | https://www.mk.co.kr/article/12215507 | b15
-2026-11-22 15:00 | OneFootball | SCALVINI CLAIM MADE! ALEX SCOTT BOOST + EKITIKE RETURN DATE! Liverpool Latest Transfer News | google:OneFootball#c733d831 | bgb6
 2026-11-22 15:00 | 중앙이코노미뉴스 | 노동장관 "정년연장, 합의 없으면 정부안 발표"…27일 與 특위 분수령 | https://www.joongangenews.com/news/articleView.html?idxno=565646 | b15
-2026-11-22 15:00 | 연합뉴스 | [연합뉴스 이 시각 헤드라인] - 15:00 | https://www.yna.co.kr/view/AKR20261122029300011?input=1195m | b15,b42,sw
+2026-11-22 15:00 | 연합뉴스 | [연합뉴스 이 시각 헤드라인] - 15:00 | https://www.yna.co.kr/view/AKR20261122029300011?input=1195m | b15,b42
 2026-11-22 14:59 | УкрАгроКонсалт | European farmers warn of feed shortages due to new EUDR requirements | google:УкрАгроКонсалт#44a94534 | bgb1
 2026-11-22 14:42 | newsgn.com | 김해시 '2026 탄소중립 경연대회' 장관상 5개 수상 쾌거 | https://www.newsgn.com/news/articleView.html?idxno=587002 | b1
-2026-11-22 14:42 | 메트로신문 | 조희대 탄핵 명분에 한덕수 판결까지?… 민주당 "탄핵소추안 연내 처리할 것" | http://www.metroseoul.co.kr/article/20261122500227 | b42
+2026-11-22 14:42 | 메트로신문 | 조희대 탄핵 명분에 한덕수 판결까지?… 민주당 "탄핵소추안 연내 처리... | http://www.metroseoul.co.kr/article/20261122500227 | b42
 2026-11-22 14:40 | magazine.hankyung.com | 정년 65세로 늘어나나 | https://magazine.hankyung.com/business/article/202611222242b | b15
 2026-11-22 14:40 | jejumaeil.net | 잇단 지게차 참변···도, 위험사업장 특별점검 | https://www.jejumaeil.net/news/articleView.html?idxno=406987 | b20
 2026-11-22 14:39 | 연합뉴스 | 노동장관 "정년연장, 27일 與특위 합의 안 되면 정부 나설 것"(종합) | https://www.yna.co.kr/view/AKR20261122019051530?input=1195m | b15,b16
@@ -34,8 +46,8 @@
 2026-11-22 14:13 | 파이낸셜뉴스 | '조희대 탄핵' 꺼낸 김민석…취임 100일 이후 정국 운영은 | https://www.fnnews.com/news/202611221230437347 | b15
 2026-11-22 14:12 | inews365.com | 충북도·지방변호사회, 청주가정법원 조기 설치 힘 모아 | https://www.inews365.com/news/article.html?no=944506 | b42
 2026-11-22 14:11 | 대한민국정책브리핑 | [사실은 이렇습니다] (설명) 연합뉴스, 노동장관, "정년연장, 27일 輿 특... | https://www.korea.kr/briefing/actuallyView.do?newsId=148976229&call_from=naver_news | b15
-2026-11-22 14:10 | insight.co.kr | 김영훈 노동장관 "정년연장, 27일까지 합의 없으면 정부안 발표" | https://www.insight.co.kr/news/583072 | b15
 2026-11-22 14:10 | kado.net | [속보] 노동장관 "정년연장, 27일 노사합의 안 될 땐 정부가 나설 시점" | https://www.kado.net/news/articleView.html?idxno=2086326 | b15
+2026-11-22 14:10 | insight.co.kr | 김영훈 노동장관 "정년연장, 27일까지 합의 없으면 정부안 발표" | https://www.insight.co.kr/news/583072 | b15
 2026-11-22 14:08 | 미디어펜 | 노동장관 “27일 민주당 정년연장특위서 합의 없으면 정부안 제시” | https://www.mediapen.com/news/view/1139103 | b15,b16
 2026-11-22 14:08 | 남도일보 | 與 "대입 혜택 허위" 野 "운동권 셀프 특혜법"…민주유공자법 통과에 여야 공방 | https://www.namdonews.com/news/articleView.html?idxno=930000 | b42
 2026-11-22 14:08 | 메트로신문 | 부산항만공사, 미국서 지속가능경영 부문 '플래티넘' 수상 | http://www.metroseoul.co.kr/article/20261122500211 | b32,b36
@@ -92,8 +104,8 @@
 2026-11-22 11:51 | SBS Biz | 정년연장 27일이 분기점…노동장관 “결론 안 나면 정부가 나설 것” | https://biz.sbs.co.kr/article_hub/20000348016?division=NAVER | b15
 2026-11-22 11:48 | joongdo.co.kr | 김해시, 탄소중립 경연대회 장관상 5개…어린이집 4곳 수상 | https://www.joongdo.co.kr/web/view.php?key=20261120010007183 | b1
 2026-11-22 11:48 | dkilbo.com | 대학생 45% "취업, 작년보다 더 어렵다"··· 서류 합격률 18.6% | https://www.dkilbo.com/news/articleView.html?idxno=561550 | b15
-2026-11-22 11:48 | 중앙이코노미뉴스 | 중고차 살 때 수수료까지 한눈에…온라인 광고 총비용 표시 의무화 | https://www.joongangenews.com/news/articleView.html?idxno=565637 | b41,b45
 2026-11-22 11:48 | livebiz.today | 수수료 쏙 뺀 중고차 온라인 광고, 총비용 공개 의무화 | https://www.livebiz.today/news/articleView.html?idxno=206768 | b41,b45
+2026-11-22 11:48 | 중앙이코노미뉴스 | 중고차 살 때 수수료까지 한눈에…온라인 광고 총비용 표시 의무화 | https://www.joongangenews.com/news/articleView.html?idxno=565637 | b41,b45
 2026-11-22 11:45 | 아시아경제 | 보증금 '5억' 넘는데 한달 290만원 더 내라니…1000만 노인 시대, 중산층 살 집은 | https://view.asiae.co.kr/article/2026112211352188966 | b41
 2026-11-22 11:44 | KBS | 김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표” | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719343&ref=A | b15
 2026-11-22 11:44 | sisafocus.co.kr | 경북 청도·칠곡, 사회연대경제 거점 조성 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367887 | b6
@@ -107,8 +119,8 @@
 2026-11-22 11:34 | jeonmae.co.kr | 김영훈 노동장관 "정년 연장 합의 안 되면 정부안 발표" | https://www.jeonmae.co.kr/news/articleView.html?idxno=1314326 | b15
 2026-11-22 11:32 | 조선비즈 | 김영훈 노동장관 “27일 정년연장 합의 없으면 정부안 제시” | https://biz.chosun.com/topics/topics_social/2026/11/22/5DXH7A3SUBHNVOU4CVXAJHAC2Y/?utm_source=naver&utm_medium=original&utm_campaign=biz | b15
 2026-11-22 11:31 | dt.co.kr | 중고차 광고에 수수료 표시 추진… 현장선 업무 부담 | https://www.dt.co.kr/article/12096485?ref=naver | b41,b45
-2026-11-22 11:30 | SBS | 노동장관 "정년 연장, 27일 여당 특위 합의 없으면 정부안 발표 결단" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008857566&plink=ORI&cooper=NAVER | b15
 2026-11-22 11:30 | 헤럴드경제 | 대학생 62% “정년연장 시 취업 더 어려워져”…노동장관은 “정년연장 입법 빨리” 재촉 | https://biz.heraldcorp.com/article/10945015?ref=naver | b15
+2026-11-22 11:30 | SBS | 노동장관 "정년 연장, 27일 여당 특위 합의 없으면 정부안 발표 결단" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008857566&plink=ORI&cooper=NAVER | b15
 2026-11-22 11:30 | it.chosun.com | 기후에너지 인사이트 2027 [새책] | https://it.chosun.com/news/articleView.html?idxno=3000000001568 | b2,b4
 2026-11-22 11:30 | m-economynews.com | 대학생 45% “올해 취업시장 더 어려워졌다”...10명 중 4명은 취준 1년 이상 예상 | https://www.m-economynews.com/news/article.html?no=73428 | b15
 2026-11-22 11:28 | 아시아경제 | 노동장관 "27일 정년연장 특위 합의 불발 땐 정부안 제시" | https://view.asiae.co.kr/article/2026112211283070006 | b15
@@ -122,18 +134,8 @@
 2026-11-22 11:02 | 이데일리 | "10곳 지원해도 서류합격 2곳 미만"…대졸 취준생 현실 | https://www.edaily.co.kr/News/Read?newsId=01430086645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b15
 2026-11-22 11:02 | 신아일보 | 취업시장 '한파'…대학생 45% "작년보다 어렵다" | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086184 | b15
 2026-11-22 11:02 | 중앙일보 | 국힘 “주식시장 심상치 않아…탄핵 아닌 ‘블랙먼데이’ 신경 써야” | https://www.joongang.co.kr/article/25480751 | b27
-2026-11-22 11:02 | 이데일리 | 중고차 '바가지 수수료' 막는다…광고에 총가격 표시 의무화 | https://www.edaily.co.kr/News/Read?newsId=01423526645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b41,b45
 2026-11-22 11:01 | 더팩트 | 중고차 가격표에 숨은 수수료 없앤다…자동차관리법 개정안 입법예고 | https://news.tf.co.kr/read/economy/2391648.htm | b41
 2026-11-22 11:01 | joseilbo.com | 조희대 탄핵안 통과 땐 즉시 직무정지…전원합의체 운영 차질 우려 | http://www.joseilbo.com/news/news_read.php?uid=580162&class=33&grp= | b42
-2026-11-22 11:01 | 데일리안 | 중고차 광고에 수수료 포함 총액 표시…‘실구매비용’ 미리 알린다 | https://www.dailian.co.kr/news/view/1718093/?sc=Naver | b41,b45
-2026-11-22 11:01 | 노컷뉴스 | 중고차 광고할 때 수수료까지 더한 '총비용' 표시해야 | https://www.nocutnews.co.kr/news/6610580?utm_source=naver&utm_medium=article&utm_campaign=20261122110037 | b41,b45
-2026-11-22 11:01 | 헤럴드경제 | 수수료 뺀 눈속임 중고차 판매 광고 사라진다 | https://biz.heraldcorp.com/article/10944730?ref=naver | b41,b45
-2026-11-22 11:01 | yonhapnewstv.co.kr | [여의도풍향계] 현실화된 '조희대 탄핵'…역대 사례는 어땠나? | http://www.yonhapnewstv.co.kr/news/MYH20261121143342qae | b42
-2026-11-22 11:00 | 뉴스1 | 대학생 45% "올해 채용시장, 작년보다 어렵다"…서류 합격률 18.6% | https://www.news1.kr/industry/general-industry/6361866 | b15
-2026-11-22 11:00 | wolyo.co.kr | 대학생 10명 중 4명 "올해 신규채용 시장 작년보다 어려워" | https://www.wolyo.co.kr/news/articleView.html?idxno=320840 | b15
-2026-11-22 11:00 | 아시아경제 | 경기 불황에 대졸 취업 더 어려워졌다…10명 중 4명 "준비 1년 이상" | https://view.asiae.co.kr/article/2026112210320685803 | b15
-2026-11-22 11:00 | 머니투데이 | "시험·면접도 꿈" 10명 중 8명은 서류 '탈락'…취업 더 힘들어졌다 | https://www.mt.co.kr/industry/2026/11/22/2026112209513552273 | b15
-2026-11-22 11:00 | news.bbsi.co.kr | 국토부, 중고차 광고에 총구매비용 표시 의무화 추진 | https://news.bbsi.co.kr/news/articleView.html?idxno=4119980 | b41,b45
 2026-11-22 10:46 | 중앙이코노미뉴스 | 與, 조희대 대법원장 탄핵 추진…국회 통과 땐 직무 정지 | https://www.joongangenews.com/news/articleView.html?idxno=565630 | b42
 2026-11-22 10:38 | 한스경제 | 김해시, "2026 탄소중립 경연대회 장관상 5관왕"휩쓸어 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885612 | b1
 2026-11-22 10:36 | 브릿지경제 | 김영훈 노동장관 “정년연장 노사 합의 불발 땐 정부가 나설 것” | https://www.viva100.com/article/20261122500273 | b15
@@ -152,9 +154,12 @@
 2026-11-22 06:44 | kbsm.net | 경주 아파트서 조명 교체하던 50대 추락사…중처법 위반 조사 | https://www.kbsm.net/news/view.php?idx=542684 | b20,b21
 2026-11-22 04:08 | 국제뉴스 | 우상호 "민주화운동 희생자 예우 길 열려"…민주유공자법 통과 | https://www.gukjenews.com/news/articleView.html?idxno=3759277 | b42
 2026-11-22 02:22 | ESPN | Crewe vs. Grimsby (Nov 28, 2026) Live Score | google:ESPN#c82b18d5 | bgb10
+2026-11-22 02:08 | The Independent | Britain’s way back to Europe: Polls show tide has decisively turned against Brexit | google:The Independent#860289cd | bgb8
+2026-11-22 01:08 | Facebook | 🔴 Prime Minister Andy Burnham has paved the way for Britain to forge closer ties with the European Union (EU), having struck a deal which makes the biggest steps towards the trade bloc than any time since before Brexit. The Prime Minister said the next 12 m | google:Facebook#86edb5af | bgb8
 2026-11-22 01:00 | Agriland UK | Reduced EU budget proposed with defence boost but no extra cash for farmers | google:Agriland UK#a84c96dc | bgb8
 2026-11-22 00:48 | LawFold.com | Williams-Green Lawsuit 2026: Settlement, Status and Facts | google:LawFold.com#cd8858a6 | bgb6
 2026-11-21 23:57 | dt.co.kr | [한기호의 정치박박] ‘내란연장’ 위헌정당 해산할 판에 대법원장 탄핵 난동 | https://www.dt.co.kr/article/12096430?ref=naver | b42
+2026-11-21 23:49 | Odessa Journal | EU and UK Pledge Stronger Support for Ukraine and Increased Pressure on Russia - Oj | google:Odessa Journal#4cd9b3c5 | bgb8
 2026-11-21 23:36 | 비건뉴스 | 카카오콩 껍질, 이탈리아 종이 원료로 재활용 | https://www.vegannews.co.kr/news/article.html?no=408992 | b6
 2026-11-21 23:30 | 비건뉴스 | 폐안전모 파쇄해 새 안전모 원료로 활용 | https://www.vegannews.co.kr/news/article.html?no=408989 | b6
 2026-11-21 22:45 | NewYorkUpstate.com | Immigrant workers at Rochester hotel faced forced labor, no heat or water, AG says | google:NewYorkUpstate.com#27a2a04b | ben2
@@ -165,8 +170,10 @@
 2026-11-21 21:42 | imaeil.com | '대통령도 음주운전 전력 있는데'…고경표 팬 호소문에 비서실장 반응은 [여의도.gif] | https://www.imaeil.com/page/view/2026112120350918520 | b42
 2026-11-21 21:10 | Simply Wall St | Court Bans Green Label Could Be A Game Changer For Unilever (LSE:ULVR) | google:Simply Wall St#eb91bc9f | bgb6
 2026-11-21 21:02 | 현대경제신문 | 보험업 ESG 공시, 소비자 신뢰 회복 계기 활용 논의 본격화 | http://www.finomy.com/news/articleView.html?idxno=267488 | b32
+2026-11-21 21:01 | Daily Express | Still paying £30bn to escape Brussels - yet Andy Burnham grovels and sells us out again | google:Daily Express#62cab587 | bgb8
 2026-11-21 21:00 | X | What if your house helped run the grid? Tesla Powerwall owners send stored power back when the grid needs a hand, through 100+ Tesla virtual power plant programs worldwide. Power plants used to need smokestacks. Now they need a garage. @teslaener | google:X#09e25398 | bgb10
 2026-11-21 20:56 | www.motogp.com | LAST 5 MINS: Bezzecchi blazes to record-breaking pole | google:www.motogp.com#05232353 | bgb6
+2026-11-21 20:45 | UA.NEWS | Koshta proposed a reduced EU budget, with up to €100 billion earmarked for Ukraine | google:UA.NEWS#02b8f308 | bgb8
 2026-11-21 20:32 | fins.co.kr | 보험사 ESG 공시, 보험금 지급·민원처리까지 담아야 | http://www.fins.co.kr/news/articleView.html?idxno=110656 | b32,b34
 2026-11-21 20:00 | 노컷뉴스 | 민형배, 서남권과 늦어진 만남 사과…서남권 대학병원급 국가병원 설립 검토 | https://www.nocutnews.co.kr/news/6610556?utm_source=naver&utm_medium=article&utm_campaign=20261121195929 | b43
 2026-11-21 19:50 | 문화일보 | “허위 특혜 주장” vs “운동권 셀프 보훈”…민주유공자법 놓고 여야 충돌 | https://www.munhwa.com/article/11633022?ref=naver | b42
@@ -224,9 +231,9 @@
 2026-11-21 12:19 | YTN | 민주, 조희대 탄핵 추진 본격화...국민의힘 장외투쟁 | https://www.ytn.co.kr/_ln/0101_202611211219042199 | b42
 2026-11-21 12:04 | 문화일보 | 국힘, 대구서 ‘이재명 탈옥법’ 규탄…민주당 “유랑극단 행태” | https://www.munhwa.com/article/11632996?ref=naver | b42
 2026-11-21 11:48 | interfootball.co.kr | [전문] 대한축구협회 특혜 의혹 제기→입장문 통해 정면반박..."사실과 다른 주장 피해, 할 수 있는 모든 조치 강구 예정" | https://www.interfootball.co.kr/news/articleView.html?idxno=698928 | b31
+2026-11-21 11:36 | GB News | Andy Burnham 'determined' for Britain to rejoin European Union following Brussels talks | google:GB News#5197fb30 | bgb8
 2026-11-21 11:25 | 뉴시스 | 여야, 민주유공자법 두고 공방…"대입 혜택은 허위" "운동권 셀프 특혜법" | https://www.newsis.com/view/NISX20261121_0003877633 | b42
 2026-11-21 11:22 | tk.newdaily.co.kr | 대구시의회 임인환 의장, 지방의회법 ‘연내 제정’ 국회 설득전 | https://tk.newdaily.co.kr/site/data/html/2026/11/21/2026112150024.html | b42
-2026-11-21 11:20 | Sportsgambler | Northern Illinois vs Bowling Green Prediction, Picks & Odds / 21 Nov 2026 | google:Sportsgambler#5bde4f37 | bgb6
 2026-11-21 11:05 | mbn.mk.co.kr | 미국, 무역법 301조 조사 연말 마무리 전망…한국에 추가 관세 부과될까 | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5232122 | b24
 2026-11-21 11:04 | 한국일보 | 국힘 "운동권 셀프 특혜법" 민주 "폄하 말라"… 민주유공자법 통과에 여야 공방-정치ㅣ한국일보 | https://www.hankookilbo.com/news/article/A2026112110580001536?did=NA | b42
 2026-11-21 11:02 | 위메이크뉴스 | 한화 건설현장서 또 추락사…반복되는 노동자 사망, 안전관리 책임 도마 | https://wemakenews.co.kr/news/view.php?no=26916 | b20
@@ -247,10 +254,3 @@
 2026-11-21 09:48 | 미디어펜 | 수출 1조 달러 달성에도 ‘반도체 저주’ 우려?…경계론 앞서 규제부터 풀어야 | https://www.mediapen.com/news/view/1138852 | b20
 2026-11-21 09:40 | jnilbo.com | 민주당, 조희대 대법원장 탄핵 당론 확정…161석으로 연내 처리 추진 | https://www.jnilbo.com/news/articleView.html?idxno=90000085121 | b42
 2026-11-21 09:36 | The Guardian | NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation | google:The Guardian#3a458e45 | bgb6
-2026-11-21 09:32 | 핀포인트뉴스 | 배터리 재활용 성장성은 유효하지만…성일하이텍 수익성 회복 시험대 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=506553 | b7
-2026-11-21 09:28 | news-s.kr | 26년 만에 국회 문턱 넘은 민주유공자법…이강일 "투표 안 했으니 반대 아니란 건가" | https://news-s.kr/view.html?id=L2611210103587c42 | b42
-2026-11-21 09:22 | monthly.chosun.com | 민주유공자법 본회의 통과.... 국민의힘 "운동권 노후 무임승차를 위한 '운동권 특혜법'" 비판 | https://monthly.chosun.com/news/articleView.html?idxno=72079 | b42
-2026-11-21 09:22 | gokorea.kr | 대법원장 최초 탄핵 초읽기, 정치권 긴장 고조 | https://www.gokorea.kr/news/articleView.html?idxno=886693 | b42
-2026-11-21 09:02 | 아주경제 | 신한은행, 통영 해양쓰레기 수거 후원…연말까지 25톤 지원 | https://www.ajunews.com/view/20261120142130981 | b6
-2026-11-21 09:01 | 한국경제 | 웃돈 주고 샀는데 가짜?…애플·BMW 의심에 기업들 '초비상' [김리안의 에네르기파WAR] | https://www.hankyung.com/article/202611209672i | b11
-2026-11-21 08:48 | newscj.com | 국민의힘 '조작기소 특검법' 공포에 TK서 장외전… 부산 이어 2번째 | https://www.newscj.com/news/articleView.html?idxno=3450816 | b42
