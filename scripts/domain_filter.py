@@ -80,3 +80,97 @@ def drop_blocked(items, label="", path=None):
     except Exception as e:  # noqa
         print(f"      [수집 제외] {label}: 건너뜀({type(e).__name__})")
         return items
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 훑기(구글 site: 검색)에 섞여 들어오는 계열 매체 제외
+# - 훑기 결과에서만 뺀다(검색어로 찾은 기사에는 적용하지 않는다).
+# - 목록(config/affiliate_media.json)에 있는 것만 뺀다. names = 구글이 알려 주는 표시 이름, hosts = 출처 도메인(하위 도메인 포함).
+# - 로그에 사이트별 매체명 분포를 찍는다: ✕ = 제외, ? = 지정한 매체의 이름이 아니면서 목록에도 없는 이름(새 계열 후보).
+# - 파일이 없거나 깨져 있어도 수집은 그대로 진행한다(아무것도 빼지 않고, 분포 로그만 남긴다).
+# ─────────────────────────────────────────────────────────────────────────────
+import html as _html
+
+AFF_PATH = os.path.join(ROOT, "config", "affiliate_media.json")
+_DOMLIKE = re.compile(r"^[a-z0-9][a-z0-9\-]*(\.[a-z0-9\-]+)+$")
+
+
+def _nname(s):
+    return re.sub(r"\s+", " ", _html.unescape(str(s or "")).strip().lower())
+
+
+def _host_of(u):
+    m = re.match(r"https?://([^/:?#]+)", (u or "").strip(), re.I)
+    return _norm(m.group(1)) if m else ""
+
+
+def affiliates(path=None):
+    p = path or AFF_PATH
+    if ("aff", p) in _cache:
+        return _cache[("aff", p)]
+    out = {"names": set(), "hosts": []}
+    try:
+        d = json.load(open(p, encoding="utf-8"))
+        out["names"] = {_nname(x) for x in d.get("names", []) if isinstance(x, str) and _nname(x)}
+        out["hosts"] = [h for h in (_norm(x) for x in d.get("hosts", []) if isinstance(x, str)) if h and "." in h and "/" not in h]
+    except FileNotFoundError:
+        pass
+    except Exception as e:  # noqa
+        print(f"      [훑기 계열] {os.path.basename(p)} 를 읽지 못했습니다({type(e).__name__}) — 제외 없이 계속")
+    _cache[("aff", p)] = out
+    return out
+
+
+def _is_aff(a, cfg):
+    """계열 매체이면 걸린 이름·도메인, 아니면 None."""
+    med = _nname(a.get("media"))
+    if med and med in cfg["names"]:
+        return med
+    cands = [_host_of(a.get("src"))]
+    if med and _DOMLIKE.match(med):
+        cands.append(_norm(med))
+    for h in cands:
+        if h and any(h == d or h.endswith("." + d) for d in cfg["hosts"]):
+            return h
+    return None
+
+
+def _expected(site):
+    """그 사이트 훑기에서 나와야 할 매체 이름(도메인 형태·접두어 변형·이름 표의 한글 이름)."""
+    site = _norm(site)
+    exp = {site, "www." + site, "m." + site, "view." + site, "biz." + site, "news." + site}
+    try:
+        from media_names import table
+        for k, v in table().items():
+            if k == site or k.endswith("." + site):
+                exp.add(_nname(v))
+                exp.add(_nname(k))
+    except Exception:  # noqa
+        pass
+    return exp
+
+
+def filter_sweep(items, site="", path=None):
+    """구글 사이트 훑기 결과에서 계열 매체를 빼고 사이트별 매체명 분포를 로그로 남긴다. 어떤 오류도 밖으로 던지지 않는다."""
+    try:
+        cfg = affiliates(path)
+        exp = _expected(site)
+        cnt, dropped, kept = {}, 0, []
+        for a in items:
+            hit = _is_aff(a, cfg)
+            nm = (a.get("media") or "").strip() or "(이름 없음)"
+            key = (nm, "x" if hit else ("" if (_nname(nm) in exp) else "?"))
+            cnt[key] = cnt.get(key, 0) + 1
+            if hit:
+                dropped += 1
+            else:
+                kept.append(a)
+        if cnt:
+            top = sorted(cnt.items(), key=lambda kv: -kv[1])
+            show = " · ".join(f"{n} {c}" + {"x": "✕", "?": "?", "": ""}[m] for (n, m), c in top[:8])
+            more = f" 외 {len(top) - 8}종" if len(top) > 8 else ""
+            print(f"      [훑기 매체명] {site}: {show}{more}" + (f" → 계열 {dropped}건 제외" if dropped else ""))
+        return kept
+    except Exception as e:  # noqa
+        print(f"      [훑기 계열] {site}: 건너뜀({type(e).__name__})")
+        return items

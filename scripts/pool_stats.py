@@ -7,6 +7,10 @@ import csv
 import datetime as dt
 
 from pool_extras import DIRECT_FEED_DOMAINS
+try:                                                   # 주소를 직접 지정한 피드의 등급(없는 옛 pool_extras 와 함께 써도 수집이 멈추지 않게)
+    from pool_extras import EXTRA_FEED_PRIORITY
+except ImportError:  # noqa
+    EXTRA_FEED_PRIORITY = {}
 
 
 def in_window(a, start, end):
@@ -92,6 +96,16 @@ GOOGLE_TAG = re.compile(r"[abc](r|gb|en|id|ro)\d+$")   # 구글 뉴스 RSS(한�
 
 
 def keep_priority(a):
+    """상한 절단 때 남기는 순서. 주소를 직접 지정한 피드(EXTRA_FEED_PRIORITY)의 매체는 자기 등급과 지정 등급 중 더 좋은 쪽을 쓴다."""
+    p = _base_keep_priority(a)
+    media = (a.get("media") or "").lower()
+    for d, pr in EXTRA_FEED_PRIORITY.items():
+        if media.endswith(d):
+            return min(p, pr)
+    return p
+
+
+def _base_keep_priority(a):
     """상한 절단 때 남기는 순서(작을수록 먼저).
     0: ESG 전문지 직접 수집, 구글 뉴스(해외·RSS) 확정 기사, 제목에 검색어 낱말이 있는 확정 기사(검색어당 상한 이내)
     1: 요약에만 낱말이 있는 확정 기사, 또는 검색어당 상한을 넘은 기사

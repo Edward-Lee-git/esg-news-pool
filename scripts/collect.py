@@ -72,10 +72,20 @@ try:                                                   # 네이버가 「...」�
 except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(복원만 하지 않는다)
     restore_titles = None
 
+try:                                                   # 잘린 제목을 같은 목록의 구글 뉴스 줄(온전한 제목)로 복원(페이지 접속 없음)
+    from title_restore import restore_from_peers
+except Exception:  # noqa — 없으면 건너뛴다
+    restore_from_peers = None
+
 try:                                                   # 회사 규정상 접속이 차단된 사이트 제외(scripts/domain_filter.py, config/blocked_domains.json)
     from domain_filter import drop_blocked
 except Exception:  # noqa — 모듈이 없거나 깨져 있어도 수집은 반드시 계속한다(제외만 하지 않는다)
     drop_blocked = None
+
+try:                                                   # 훑기에 섞여 들어오는 계열 매체 제외(config/affiliate_media.json)
+    from domain_filter import filter_sweep
+except Exception:  # noqa — 없으면 훑기 결과를 그대로 쓴다
+    filter_sweep = None
 
 KST = ZoneInfo("Asia/Seoul")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -234,6 +244,7 @@ def google_rss(query, locale="kr", tag=""):
                      or domain_of(e.get("link", "")),
             "published": pub,
             "url": e.get("link", ""),
+            "src": (e.get("source", {}) or {}).get("href", ""),     # 출처(발행 매체) 주소 — 계열 매체 구분용
             "tags": {tag} if tag else set(),
             "confirmed": True,      # 구글 뉴스는 구 단위 매칭이 정확하다
             "risk": has_risk_signal(title),
@@ -359,6 +370,8 @@ def main():
     for site in cfg.get("sweep", []):
         got = google_rss(f"site:{site} when:{days}d", tag="sw")
         print(f"  sweep {site}: +{len(got)}")
+        if filter_sweep:
+            got = filter_sweep(got, site)               # 계열 매체(스포츠경향·매일경제 마켓 등) 제외 + 매체명 분포 로그
         sweep += got
 
     # 전문지는 사이트 자체 RSS를 먼저 놓는다. 같은 기사가 구글 훑기로도 들어오면
@@ -428,6 +441,8 @@ def main():
         items = [a for a in items if in_window(a, start, end)]
         if drop_blocked:                                 # 접속이 막힌 사이트는 중복 제거·상한 계산 이전에 뺀다
             items = drop_blocked(items, label=pfx)
+        if restore_from_peers:                           # 잘린 제목 → 같은 목록의 구글 뉴스 줄 제목으로(훑기 줄이 잘리기 전에 사전으로 쓴다)
+            items = restore_from_peers(items, label=pfx)
 
         # 검색어가 제목·요약에 확인되지 않았고 제목에 리스크 신호도 없는 기사는 버린다.
         # (코스피 시황, 부고, 취업박람회 등 검색어가 본문에 스쳐 지나간 기사)

@@ -137,13 +137,21 @@ def _decode(buf, ctype):
     return buf.decode("utf-8", "ignore")
 
 
+try:                                                   # robots.txt 확인(없으면 예전처럼 확인 없이 동작)
+    import robots_guard
+except Exception:  # noqa
+    robots_guard = None
+
+
 def fetch(url):
-    """(html 또는 None, 사유). 리다이렉트는 직접 따라가며 매번 주소를 검사한다."""
+    """(html 또는 None, 사유). 리다이렉트는 직접 따라가며 매번 주소를 검사한다. 사이트가 자동 접속을 허용하지 않으면(robots.txt) 읽지 않는다."""
     cur = url
     for _ in range(5):
         sp = urllib.parse.urlsplit(cur)
         if sp.scheme not in ("http", "https") or not sp.hostname or not _public_host(sp.hostname):
             return None, "blocked"
+        if robots_guard and not robots_guard.allowed(cur, HEADERS):
+            return None, "robots"
         try:
             r = requests.get(cur, headers=HEADERS, timeout=(5, TIMEOUT), stream=True, allow_redirects=False)
         except Exception:

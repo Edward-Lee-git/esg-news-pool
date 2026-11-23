@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""잘려 온 기사 제목 복원 v2.1 (collect.py 가 불러 씁니다).
+"""잘려 온 기사 제목 복원 v2.3 (collect.py 가 불러 씁니다).
 
 네이버 검색 결과는 긴 제목을 약 70바이트(한글 약 35자)에서 「...」로 줄여 보냅니다.
 이 모듈은 그런 기사(직접 주소 + 제목이 ...·… 로 끝남)의 페이지 앞부분(<head>)을 읽어 제목을 되찾습니다.
@@ -14,6 +14,14 @@ v1 에서 바꾼 점(2026-11-20 첫 수동 실행에서 150초 안에 33건밖�
 v2.1 에서 바꾼 점(2026-11-20 17:07 수동 실행 결과 반영):
 - 시간 예산을 「첫 호출 이후 흐른 시간」이 아니라 「실제로 복원에 쓴 시간」으로 셉니다. 수집이 느린 날에도 일반동향 차례에 예산이 남습니다(v2 는 c 가 건너뜀 378건·0초였음).
 - 같은 도메인의 복원 제목 끝에 같은 꼬리표(예: 「 - 퍼블릭뉴스통신(Public news-network for TTL)」)가 2번 이상 나오면 사이트 이름으로 보고 뗍니다.
+
+v2.3 에서 더한 것 — robots.txt 확인(robots_guard.py): 사이트가 자동 접속을 허용하지 않으면(예: 더벨) 그 주소의 페이지는 읽지 않습니다.
+이 경우 제목은 다른 방법(제목 빌려 쓰기)으로만 복원합니다. 로그에는 「robots N」으로 개수가 나옵니다.
+
+v2.2 에서 더한 것 — 「제목 빌려 쓰기」(restore_from_peers): 페이지에 접속하지 않고, 같은 목록에 들어 있는 구글 뉴스 줄(구글은 제목을 자르지 않음)에서
+같은 매체·같은 기사의 온전한 제목을 찾아 잘린 직접 주소 줄의 제목만 바꿉니다(주소는 그대로). 자동 접속을 허용하지 않는 사이트(더벨 등)도 복원됩니다.
+훑기(site: 검색) 결과를 제목 사전으로 쓰므로, 훑기 줄이 상한에서 잘리더라도 그 전에 쓰입니다. 후보가 둘 이상이거나 매체가 다르거나 날짜가 3일 넘게 다르면 바꾸지 않습니다.
+네이버가 붙이는 「[매체명]」 꼬리표(예: 「[더벨]」)는 비교에서 빼고, 바꾼 제목에는 그대로 유지합니다. 환경변수 TITLE_PEERS = on(기본) | off
 
 안전 원칙(그대로): 후보가 잘린 제목의 앞부분으로 시작할 때만(공백·구두점 무시) 바꾸고, 안 맞으면 그대로 둡니다.
 구글 중계 기사·잘리지 않은 제목은 건드리지 않습니다. 어떤 오류도 수집을 멈추지 않습니다. 로그에는 개수·소요 시간만 출력합니다.
@@ -35,6 +43,11 @@ except Exception:  # noqa
     requests = None
     HEADERS = None
 
+try:                                       # robots.txt 확인(없으면 예전처럼 확인 없이 동작)
+    import robots_guard
+except Exception:  # noqa
+    robots_guard = None
+
 WORKERS = 12
 TOTAL_BUDGET = 200        # 초. 세 세트가 복원에 쓸 수 있는 시간의 합(수집의 다른 작업에 쓴 시간은 세지 않음)
 SHARE = {"a": 45, "b": 75}  # 세트별 상한(초). 나머지(일반동향)는 남은 전체 시간을 씀
@@ -46,6 +59,8 @@ ABORT_FAILS = 30          # 성공이 한 번도 없이 접속 실패가 연속 
 DOMAIN_FAILS = 3          # 한 도메인에서 성공 없이 이만큼 접속 실패하면 그 도메인은 건너뜀
 MAX_LEN = 200
 MIN_STEM = 8              # 비교에 쓰는 앞부분이 이보다 짧으면(정규화 후) 복원하지 않음
+PEER_MIN = 14             # 제목 빌려 쓰기: 비교에 쓰는 앞부분의 최소 길이(정규화 후) — 흔한 문구로 엉뚱한 기사와 맞는 것을 막는다
+PEER_DAYS = 3             # 제목 빌려 쓰기: 두 줄의 발행 시각 차이 상한(일)
 
 _ELL = re.compile(r"\s*(?:\.{2,}|…|⋯)\s*$")
 _META = re.compile(r"<meta\b[^>]*>", re.I)
@@ -140,6 +155,86 @@ def _learn_suffix(a):
                 _strip_at(it, pp)
 
 
+def _mnorm(m):
+    """매체를 비교용으로 맞춘다: 도메인이면 이름 표로 한글 이름으로, 공백·대소문자 무시."""
+    try:
+        from media_names import media_name
+        m = media_name(m or "")
+    except Exception:  # noqa
+        pass
+    return re.sub(r"\s+", "", str(m or "")).lower()
+
+
+def _split_tag(title, media):
+    """제목 앞에 붙은 「[매체명]」 꼬리표와 나머지. 매체 이름은 도메인과 한글 이름 둘 다 인정한다."""
+    names = {str(media or "").strip()}
+    try:
+        from media_names import media_name
+        names.add(str(media_name(media or "")).strip())
+    except Exception:  # noqa
+        pass
+    names = [re.escape(n) for n in names if n]
+    if not names:
+        return "", title
+    m = re.match(r"^(?:\s*\[\s*(?:" + "|".join(names) + r")\s*\])+\s*", title, re.I)
+    return (m.group(0), title[m.end():]) if m else ("", title)
+
+
+def _near(a, b):
+    try:
+        x = dt_parse(a.get("published")); y = dt_parse(b.get("published"))
+        return abs((x - y).total_seconds()) <= PEER_DAYS * 86400
+    except Exception:  # noqa
+        return True                                           # 시각을 읽지 못하면 날짜 조건은 보지 않는다
+
+
+def dt_parse(v):
+    import datetime
+    return datetime.datetime.fromisoformat(str(v))
+
+
+def restore_from_peers(items, label=""):
+    """잘린 제목(직접 주소)을 같은 목록의 구글 뉴스 줄에서 찾은 같은 기사의 온전한 제목으로 바꾼다(주소는 그대로). 어떤 오류도 밖으로 던지지 않는다."""
+    try:
+        if os.environ.get("TITLE_PEERS", "on").lower() == "off":
+            return items
+        todo = [a for a in items if is_truncated(a)]
+        if not todo:
+            return items
+        peers = {}
+        for a in items:
+            if "news.google.com" not in (a.get("url") or "") or _ELL.search(a.get("title") or ""):
+                continue
+            _, rest = _split_tag(a.get("title") or "", a.get("media"))
+            n = _norm(rest)
+            if len(n) >= PEER_MIN:
+                peers.setdefault((_mnorm(a.get("media")), n[:PEER_MIN - 2]), []).append((n, rest.strip(), a))
+        ok = amb = 0
+        for a in todo:
+            tag, stem = _split_tag(_ELL.sub("", a["title"]), a.get("media"))
+            sn = _norm(stem)
+            if len(sn) < PEER_MIN:
+                continue
+            cands = {}
+            for n, rest, p in peers.get((_mnorm(a.get("media")), sn[:PEER_MIN - 2]), []):
+                if n.startswith(sn) and len(n) > len(sn) and _near(a, p):
+                    cands[rest] = p
+            if len(cands) == 1:
+                new = (tag + next(iter(cands))).strip()
+                if 0 < len(new) <= MAX_LEN:
+                    a["title"] = new
+                    a["title_restored"] = True
+                    ok += 1
+            elif len(cands) > 1:
+                amb += 1
+        print(f"      [제목 빌리기] {label}: 잘린 제목 {len(todo)}건 → 구글 뉴스 제목으로 복원 {ok}건"
+              + (f" · 후보가 여러 개라 건너뜀 {amb}건" if amb else ""))
+        return items
+    except Exception as e:  # noqa — 부가 기능, 수집은 계속한다
+        print(f"      [제목 빌리기] {label}: 건너뜀({type(e).__name__})")
+        return items
+
+
 def _decode(buf, ctype):
     """앞부분만 받은 바이트를 글자로 바꾼다. 끝에서 잘린 글자는 무시하고, 선언된 문자 집합(없으면 utf-8 → cp949)을 쓴다."""
     enc = None
@@ -180,6 +275,8 @@ def _fetch_head(url):
         sp = urllib.parse.urlsplit(cur)
         if sp.scheme not in ("http", "https") or not sp.hostname or not _public_host(sp.hostname):
             return None, "blocked"
+        if robots_guard and not robots_guard.allowed(cur, HEADERS):
+            return None, "robots"                              # 사이트가 자동 접속을 허용하지 않음 — 읽지 않는다
         left = t_end - time.time()
         if left <= 0.5:
             return None, "timeout"
@@ -308,7 +405,7 @@ def _restore(items, label, fetch):
                     n_fail += 1
                     _st["fail"] += 1
                     _st["why"][why] += 1
-                    if why not in ("nomatch", "memo", "domain"):
+                    if why not in ("nomatch", "memo", "domain", "robots"):
                         _st["streak"] += 1                 # 접속 자체가 실패한 경우만 연속 실패로 센다
             if _st["ok"] == 0 and _st["streak"] >= ABORT_FAILS:
                 _st["off"] = f"접속 실패가 연속 {_st['streak']}건"

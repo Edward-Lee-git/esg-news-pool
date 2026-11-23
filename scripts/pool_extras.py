@@ -14,6 +14,7 @@ import json
 import html
 import zlib
 import urllib.parse
+import urllib.robotparser
 import datetime as dt
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
@@ -108,6 +109,13 @@ def url_key(u):
 DIRECT_FEED_DOMAINS = ["impacton.net", "esgeconomy.com", "labortoday.co.kr"]
 DIRECT_FEED_PATHS = ["/rss/allArticle.xml", "/rss/rss.xml", "/rss.xml", "/feed/", "/rss/"]
 DIRECT_UA = {"User-Agent": "Mozilla/5.0 (compatible; news-pool/1.0)"}
+# 주소를 직접 지정해 읽는 피드(홈페이지에서 자동으로 못 찾는 주소). 등급은 EXTRA_FEED_PRIORITY 로 매체마다 정한다.
+#   1 = 요약에만 낱말이 있는 확정 기사와 같은 등급(상한 절단에서 훑기·약한 태그보다 늦게 잘림) / 3 = 훑기와 같음(사실상 목록에 안 남음)
+#   검색어(네이버)로 걸린 같은 매체 기사는 자기 등급이 더 좋으면 그대로 둔다(등급을 낮추지 않는다).
+# 읽기 전에 그 사이트의 robots.txt 를 확인해 자동 접속을 허용하지 않으면(우리 UA 기준) 읽지 않는다. 열리지 않으면 구글 훑기를 쓴다.
+# 더구루: 2026-11-23 RSS 주소와 robots.txt(일반 접속 허용, Python-urllib 만 불허) 확인, 사용자 결정으로 1등급.
+EXTRA_FEEDS = {"theguru.co.kr": "https://www.theguru.co.kr/data/rss/news.xml"}
+EXTRA_FEED_PRIORITY = {"theguru.co.kr": 1}
 # 날짜 문자열 끝에 시간대 표기(+0900, GMT, Z, KST 등)가 있는지 본다.
 _TZ_RE = re.compile(r"(?:[+-]\d{2}:?\d{2}|Z|GMT|UTC|UT|[ECMP][SD]T|KST)\s*$")
 # 홈페이지에서 RSS 주소를 찾는 데 쓰는 패턴
@@ -163,6 +171,28 @@ def _try_feed(url, domain):
     if items is None:
         return None, "RSS 형식이 아니거나 기사 3건 미만"
     return items, None
+
+
+def _robots_ok(url):
+    """그 주소를 우리 수집기(UA news-pool)가 읽어도 되는지 robots.txt 로 확인한다. robots.txt 가 없거나 읽지 못하면 허용으로 본다."""
+    try:
+        p = urllib.parse.urlsplit(url)
+        r = requests.get(f"{p.scheme}://{p.netloc}/robots.txt", headers=DIRECT_UA, timeout=6)
+        if r.status_code != 200:
+            return True
+        rp = urllib.robotparser.RobotFileParser()
+        rp.parse(r.text.splitlines())
+        return rp.can_fetch("news-pool", url)
+    except Exception:  # noqa
+        return True
+
+
+def _extra_one(domain, url):
+    """주소를 직접 지정한 피드 하나. 성공하면 (기사목록, 주소), 실패하면 ([], 사유)."""
+    if not _robots_ok(url):
+        return [], "robots.txt 가 자동 접속을 허용하지 않음"
+    items, why = _try_feed(url, domain)
+    return (items, url) if items else ([], why)
 
 
 def _discover(base, domain):
@@ -252,6 +282,35 @@ def fetch_direct_feeds(domains, end):
         note = " [http 사용: https 인증서 오류]" if info.startswith("http://") else ""
         print(f"  direct {d}: +{len(items)}건 (날짜 {dated}건, 가장 오래된 {old_txt}, "
               f"시간대표기없음 {naive}건은 한국시각으로 해석) <- {info}{note}")
+        out += items
+    out += _fetch_extra_feeds()
+    return out
+
+
+def _fetch_extra_feeds():
+    """주소를 직접 지정한 피드(EXTRA_FEEDS)를 읽는다. 어떤 오류도 수집을 멈추지 않는다. 결과는 로그에 매체별로 남긴다."""
+    out = []
+    for d, url in EXTRA_FEEDS.items():
+        try:
+            items, info = _extra_one(d, url)
+        except Exception as e:  # noqa
+            items, info = [], f"오류({type(e).__name__})"
+        if not items:
+            print(f"  feed {d}: 사용 불가 ({info}) -> 구글 훑기로 대체")
+            continue
+        dated, naive, oldest = 0, 0, None
+        for a in items:
+            if a.pop("naive_tz", False):
+                naive += 1
+            if not a["published"]:
+                continue
+            dated += 1
+            t = dt.datetime.fromisoformat(a["published"])
+            if oldest is None or t < oldest:
+                oldest = t
+        old_txt = f"{oldest:%m-%d %H:%M}" if oldest else "날짜없음"
+        print(f"  feed {d}: +{len(items)}건 (날짜 {dated}건, 가장 오래된 {old_txt}, 시간대표기없음 {naive}건은 한국시각으로 해석) "
+              f"<- {info} (우선순위 {EXTRA_FEED_PRIORITY.get(d, 3)}등급)")
         out += items
     return out
 
