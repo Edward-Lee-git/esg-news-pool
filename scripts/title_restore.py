@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""잘려 온 기사 제목 복원 v2.3 (collect.py 가 불러 씁니다).
+"""잘려 온 기사 제목 복원 v2.4 (collect.py 가 불러 씁니다).
 
 네이버 검색 결과는 긴 제목을 약 70바이트(한글 약 35자)에서 「...」로 줄여 보냅니다.
 이 모듈은 그런 기사(직접 주소 + 제목이 ...·… 로 끝남)의 페이지 앞부분(<head>)을 읽어 제목을 되찾습니다.
@@ -14,6 +14,10 @@ v1 에서 바꾼 점(2026-11-20 첫 수동 실행에서 150초 안에 33건밖�
 v2.1 에서 바꾼 점(2026-11-20 17:07 수동 실행 결과 반영):
 - 시간 예산을 「첫 호출 이후 흐른 시간」이 아니라 「실제로 복원에 쓴 시간」으로 셉니다. 수집이 느린 날에도 일반동향 차례에 예산이 남습니다(v2 는 c 가 건너뜀 378건·0초였음).
 - 같은 도메인의 복원 제목 끝에 같은 꼬리표(예: 「 - 퍼블릭뉴스통신(Public news-network for TTL)」)가 2번 이상 나오면 사이트 이름으로 보고 뗍니다.
+
+v2.4 에서 고친 것(제목 빌려 쓰기): ① 같은 매체 판정을 넓힘 — 구글이 같은 사이트를 다른 이름으로 부르는 경우(예: 더벨 무료 기사 = 「thebell Free」)와
+구글이 알려 준 출처 주소가 같은 사이트인 경우도 같은 매체로 봅니다. ② 발행 시각 차이 상한을 3일 → 14일로 늘림(무료로 늦게 풀리는 기사 대응).
+③ 복원하지 못한 이유를 로그에 셉니다(구글에 같은 제목 없음 · 매체 달라 건너뜀 · 날짜 차이 · 후보 여러 개).
 
 v2.3 에서 더한 것 — robots.txt 확인(robots_guard.py): 사이트가 자동 접속을 허용하지 않으면(예: 더벨) 그 주소의 페이지는 읽지 않습니다.
 이 경우 제목은 다른 방법(제목 빌려 쓰기)으로만 복원합니다. 로그에는 「robots N」으로 개수가 나옵니다.
@@ -60,7 +64,7 @@ DOMAIN_FAILS = 3          # 한 도메인에서 성공 없이 이만큼 접속 �
 MAX_LEN = 200
 MIN_STEM = 8              # 비교에 쓰는 앞부분이 이보다 짧으면(정규화 후) 복원하지 않음
 PEER_MIN = 14             # 제목 빌려 쓰기: 비교에 쓰는 앞부분의 최소 길이(정규화 후) — 흔한 문구로 엉뚱한 기사와 맞는 것을 막는다
-PEER_DAYS = 3             # 제목 빌려 쓰기: 두 줄의 발행 시각 차이 상한(일)
+PEER_DAYS = 14            # 제목 빌려 쓰기: 두 줄의 발행 시각 차이 상한(일) — 무료로 늦게 풀리는 기사(더벨 등)도 맞추려고 넉넉히
 
 _ELL = re.compile(r"\s*(?:\.{2,}|…|⋯)\s*$")
 _META = re.compile(r"<meta\b[^>]*>", re.I)
@@ -180,6 +184,39 @@ def _split_tag(title, media):
     return (m.group(0), title[m.end():]) if m else ("", title)
 
 
+def _domain(m):
+    m = str(m or "").strip().lower()
+    return re.sub(r"^www\.", "", m) if re.match(r"^[a-z0-9][a-z0-9\-]*(\.[a-z0-9\-]+)+$", m) else ""
+
+
+def _dlabel(d):
+    """도메인의 사이트 이름 부분(thebell.co.kr → thebell)."""
+    parts = d.split(".")
+    if len(parts) >= 3 and parts[-2] in ("co", "or", "go", "ne", "re", "ac", "com"):
+        return parts[-3]
+    return parts[-2] if len(parts) >= 2 else ""
+
+
+def _src_domain(u):
+    m = re.match(r"https?://([^/:?#]+)", (u or "").strip(), re.I)
+    return re.sub(r"^www\.", "", m.group(1).lower()) if m else ""
+
+
+def _same_media(a, p):
+    """같은 매체인가: ① 이름 표를 거친 이름이 같음 ② 구글이 알려 준 출처 주소가 같은 사이트 ③ 구글 표시 이름에 그 사이트 이름이 들어 있음(예: 「thebell Free」)."""
+    ma = _mnorm(a.get("media"))
+    if ma and ma == _mnorm(p.get("media")):
+        return True
+    d = _domain(a.get("media")) or _src_domain(a.get("url"))
+    if not d:
+        return False
+    sd = _src_domain(p.get("src"))
+    if sd and (sd == d or sd.endswith("." + d) or d.endswith("." + sd)):
+        return True
+    lab = _dlabel(d)
+    return len(lab) >= 5 and lab in re.sub(r"\s+", "", str(p.get("media") or "")).lower()
+
+
 def _near(a, b):
     try:
         x = dt_parse(a.get("published")); y = dt_parse(b.get("published"))
@@ -208,27 +245,39 @@ def restore_from_peers(items, label=""):
             _, rest = _split_tag(a.get("title") or "", a.get("media"))
             n = _norm(rest)
             if len(n) >= PEER_MIN:
-                peers.setdefault((_mnorm(a.get("media")), n[:PEER_MIN - 2]), []).append((n, rest.strip(), a))
-        ok = amb = 0
+                peers.setdefault(n[:PEER_MIN - 2], []).append((n, rest.strip(), a))
+        ok = 0
+        why = Counter()
+        pairs = Counter()
         for a in todo:
             tag, stem = _split_tag(_ELL.sub("", a["title"]), a.get("media"))
             sn = _norm(stem)
             if len(sn) < PEER_MIN:
+                why["짧아서 건너뜀"] += 1
                 continue
-            cands = {}
-            for n, rest, p in peers.get((_mnorm(a.get("media")), sn[:PEER_MIN - 2]), []):
-                if n.startswith(sn) and len(n) > len(sn) and _near(a, p):
-                    cands[rest] = p
-            if len(cands) == 1:
+            allc = [(n, rest, p) for n, rest, p in peers.get(sn[:PEER_MIN - 2], []) if n.startswith(sn) and len(n) > len(sn)]
+            if not allc:
+                why["구글에 같은 제목 없음"] += 1
+                continue
+            same = [(n, rest, p) for n, rest, p in allc if _same_media(a, p)]
+            if not same:
+                why["매체 달라 건너뜀"] += 1
+                pairs[f"{a.get('media')}↔{allc[0][2].get('media')}"] += 1
+                continue
+            cands = {rest: p for n, rest, p in same if _near(a, p)}
+            if not cands:
+                why["날짜 차이"] += 1
+            elif len(cands) > 1:
+                why["후보 여러 개"] += 1
+            else:
                 new = (tag + next(iter(cands))).strip()
                 if 0 < len(new) <= MAX_LEN:
                     a["title"] = new
                     a["title_restored"] = True
                     ok += 1
-            elif len(cands) > 1:
-                amb += 1
-        print(f"      [제목 빌리기] {label}: 잘린 제목 {len(todo)}건 → 구글 뉴스 제목으로 복원 {ok}건"
-              + (f" · 후보가 여러 개라 건너뜀 {amb}건" if amb else ""))
+        detail = " · ".join(f"{k} {v}" for k, v in why.most_common())
+        ex = (" (예: " + ", ".join(f"{k} {v}" for k, v in pairs.most_common(2)) + ")") if pairs else ""
+        print(f"      [제목 빌리기] {label}: 잘린 제목 {len(todo)}건 → 구글 뉴스 제목으로 복원 {ok}건" + (f" | 못 한 이유: {detail}{ex}" if why else ""))
         return items
     except Exception as e:  # noqa — 부가 기능, 수집은 계속한다
         print(f"      [제목 빌리기] {label}: 건너뜀({type(e).__name__})")

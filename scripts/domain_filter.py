@@ -169,7 +169,13 @@ def filter_sweep(items, site="", path=None):
             top = sorted(cnt.items(), key=lambda kv: -kv[1])
             show = " · ".join(f"{n} {c}" + {"x": "✕", "?": "?", "": ""}[m] for (n, m), c in top[:8])
             more = f" 외 {len(top) - 8}종" if len(top) > 8 else ""
-            print(f"      [훑기 매체명] {site}: {show}{more}" + (f" → 계열 {dropped}건 제외" if dropped else ""))
+            hosts = {}
+            for a in items:
+                h = _host_of(a.get("src"))
+                if h:
+                    hosts[h] = hosts.get(h, 0) + 1
+            hs = " | 출처주소 " + ", ".join(f"{h} {c}" for h, c in sorted(hosts.items(), key=lambda kv: -kv[1])[:2]) if hosts else " | 출처주소 없음"
+            print(f"      [훑기 매체명] {site}: {show}{more}{hs}" + (f" → 계열 {dropped}건 제외" if dropped else ""))
         return kept
     except Exception as e:  # noqa
         print(f"      [훑기 계열] {site}: 건너뜀({type(e).__name__})")
