@@ -1,10 +1,10 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-23 14:53 KST
+collected: 2026-11-23 15:28 KST
 mode: on
 status: ok
-checked: 18 (유료 3 · 무료 15 · 판정불가 0)
+checked: 21 (유료 3 · 무료 18 · 판정불가 0)
 excluded: 3건 (세트별 a 0 · b 3 · c 3 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 15, paid 3
+reasons: free 18, paid 3
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
 임팩트온 | 【ESG Deal】펄펙스, 종이병 생산기술 투자 활보·플래닛세이버스, DAC 개발자금 확보·PIDG, 폐기물 재활용 기업 지분투자 | https://www.impacton.net/news/articleView.html?idxno=30767 | bc
