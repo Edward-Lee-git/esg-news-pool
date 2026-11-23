@@ -1,9 +1,10 @@
-# collected: 2026-11-23 13:24 KST
-# window: 2026-11-20 00:00 ~ 2026-11-23 13:24 KST
+# collected: 2026-11-23 13:59 KST
+# window: 2026-11-20 00:00 ~ 2026-11-23 13:59 KST
 # part 5 of 5, lines: 200
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-20 16:54 | newsworker.co.kr | 브렉시트 6년 만에 무역장벽 낮춘다…영국·EU, 연간 89억 파운드 경제효과 기대 | https://www.newsworker.co.kr/news/articleView.html?idxno=515323 | b3,b4
 2026-11-20 16:54 | newsmaker.or.kr | 전북자치도, 사용후 배터리 재활용·AI 진단 기술 북유럽에 소개 | http://www.newsmaker.or.kr/news/articleView.html?idxno=186196 | b7
 2026-11-20 16:52 | tjb.co.kr | 민주유공자법, 26년만에 국회 문턱 넘어…635명 의료·복지 예우 | https://www.tjb.co.kr/news05/bodo/view/id/106340 | b42
 2026-11-20 16:51 | LRT | Lithuania ranks fifth-lowest in EU for tax revenue as share of GDP | google:LRT#8e995254 | bgb8
@@ -30,23 +31,23 @@
 2026-11-20 16:38 | 에너지경제 | “발전공사 통합 이후 투자 재원·노동 전환 지금부터 설계해야” | https://www.ekn.kr/web/view.php?key=20261120022382660 | b27
 2026-11-20 16:36 | 세계일보 | 민주유공자법 26년 만에 국회 본회의 통과…권오을 “야당 지적 적극 보완할 것” | https://www.segye.com/newsView/20261120512143?OutUrl=naver | b42
 2026-11-20 16:33 | 한국경제 | 고려아연, ESG 평가 최고등급 'AAA'…지배구조도 한 단계 상승 | https://www.hankyung.com/article/202611200489g | b6
-2026-11-20 16:32 | 파이낸셜뉴스 | 민주유공자법, 본회의 통과..尹 거부권 행사 2년 만 | https://www.fnnews.com/news/202611201541354361 | b42
 2026-11-20 16:32 | 아주경제 | 신용한 지사, 청주가정법원 조기 설치 추진...국회 법안 통과 협력 | https://www.ajunews.com/view/20261120154432237 | b42
 2026-11-20 16:32 | 한국일보 | 尹 거부권에 막혔던 민주유공자법, 與 주도로 2년 만에 국회 통과 | https://www.hankookilbo.com/news/article/A2026112013050002163?did=NA | b42
+2026-11-20 16:32 | 파이낸셜뉴스 | 민주유공자법, 본회의 통과..尹 거부권 행사 2년 만 | https://www.fnnews.com/news/202611201541354361 | b42
 2026-11-20 16:32 | businessplus.kr | 신한은행, 통영 연대도 해양쓰레기 수거 지원…연말까지 25톤 목표 | https://www.businessplus.kr/news/articleView.html?idxno=120231 | b6
 2026-11-20 16:32 | news.dealsitetv.com | 보험업계 찬바람…교보·NH농협 희망퇴직 | https://news.dealsitetv.com/articles/178967 | b15
 2026-11-20 16:32 | paxetv.com | [이슈] 포시에스, 31년 전자문서 노하우로 승부수···AI '에카'로 제조 AX 출격 | http://www.paxetv.com/news/articleView.html?idxno=287492 | b27
 2026-11-20 16:32 | ekoreanews.co.kr | NH농협금융, ESG 전략 재정비…기후금융을 신사업으로 육성 | https://www.ekoreanews.co.kr/news/articleView.html?idxno=89321 | b32
 2026-11-20 16:31 | 중앙일보 | 민주유공자법 본회의 통과…26년 만 입법에 野 “운동권 특혜” | https://www.joongang.co.kr/article/25480524 | b42
+2026-11-20 16:30 | 프레시안 | 민주유공자법 국회 통과…박종철·이한열 열사 '유공자' 된다 | https://www.pressian.com/pages/articles/2026112015180285283?utm_source=naver&utm_medium=search | b42
 2026-11-20 16:30 | dtnews24.com | 세종시 보통교부세, 내년부터 광역시 기준 적용 | http://www.dtnews24.com/news/articleView.html?idxno=817458 | b42
 2026-11-20 16:30 | pennmike.com | 민주유공자법 일방 처리한 '민주' 세력, 대법원장 탄핵 당론 "가능한 한 빨리" | https://www.pennmike.com/news/articleView.html?idxno=132346 | b42
-2026-11-20 16:30 | 프레시안 | 민주유공자법 국회 통과…박종철·이한열 열사 '유공자' 된다 | https://www.pressian.com/pages/articles/2026112015180285283?utm_source=naver&utm_medium=search | b42
 2026-11-20 16:28 | newstomato.com | 민주유공자법 26년 만에 국회 통과…내년 6월 시행, 치료·돌봄 국가 지원 | http://www.newstomato.com/ReadNews.aspx?no=1321276&inflow=N | b42,b43
 2026-11-20 16:28 | digitalchosun.dizzo.com | 신한은행, WWF와 해양환경 보호 나서… 통영 해양쓰레기 수거사업 후원 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080161.html | b6
 2026-11-20 16:28 | newsfreezone.co.kr | 나경원 "민주유공자법은 현대판 음서제…국민 통합 아닌 분열 초래" | https://www.newsfreezone.co.kr/news/articleView.html?idxno=720543 | b42
-2026-11-20 16:26 | ngonews.kr | ‘민주유공자법’ 2년여 만에 국회 본회의 통과…형평성·심사 공정성 논란 재점화 | https://www.ngonews.kr/news/articleView.html?idxno=243767 | b42
-2026-11-20 16:26 | 스트레이트뉴스 | 민주유공자법 국회 통과…박종철·이한열 열사도 예우 길 열려 | https://www.straightnews.co.kr/news/articleView.html?idxno=315850 | b42
 2026-11-20 16:26 | 브레이크뉴스 | 국회 본회의, 여당 주도로 ‘민주유공자법’ 등 5건 처리…필터 대치 끝 가결:브레이크뉴스 | http://www.breaknews.com/1252698 | b42
+2026-11-20 16:26 | 스트레이트뉴스 | 민주유공자법 국회 통과…박종철·이한열 열사도 예우 길 열려 | https://www.straightnews.co.kr/news/articleView.html?idxno=315850 | b42
+2026-11-20 16:26 | ngonews.kr | ‘민주유공자법’ 2년여 만에 국회 본회의 통과…형평성·심사 공정성 논란 재점화 | https://www.ngonews.kr/news/articleView.html?idxno=243767 | b42
 2026-11-20 16:24 | thepowernews.co.kr | 재난으로 숨져도 보험금 못 받는 아이들... 김의겸, 상법 개정 추진 | https://www.thepowernews.co.kr/view.php?ud=2026112014245672993dfcd109a8_7 | b27
 2026-11-20 16:24 | 글로벌이코노믹 | 신한은행·WWF, 세계 어민의 날 맞아 해양환경 보호·어촌 상생 앞장 | https://www.g-enews.com/view.php?ud=202611201522305615bb91c46fcd_1 | b6
 2026-11-20 16:23 | chukkyung.co.kr | [지금 이곳에선] 농협사료 전북지사 "고품질 사료·맞춤형 컨설팅으로 농가 생산성 뒷받침' | https://www.chukkyung.co.kr/news/articleView.html?idxno=83786 | b20
@@ -58,6 +59,7 @@
 2026-11-20 16:20 | 대한경제 | ‘민주유공자법’, 與 주도로 국회 본회의 통과 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201559456910970 | b42
 2026-11-20 16:18 | newscj.com | 민주당, '조희대 탄핵' 당론 채택… 연내 소추안 발의 추진 | https://www.newscj.com/news/articleView.html?idxno=3450728 | b42
 2026-11-20 16:16 | Sustainability Online | EU reaches agreement on new sustainability disclosure rules for financial products | google:Sustainability Online#2c80b44a | bgb11
+2026-11-20 16:16 | https://streamlinefeed.co.ke/ | Nigerian Employers Warn Mandatory ESG Rules Strain Manufacturers | google:https://streamlinefeed.co.ke/#cee5911f | bgb3
 2026-11-20 16:16 | 아시아경제 | 신한은행, 통영 해양쓰레기 수거사업 돕는다 | https://view.asiae.co.kr/article/2026112016161555999 | b6
 2026-11-20 16:16 | polinews.co.kr | [본회의] 尹거부권에 막혔던 '민주유공자법', 2년여 만에 국회 통과…유가족들 끝내 '눈물' | https://www.polinews.co.kr/news/articleView.html?idxno=748861 | b42
 2026-11-20 16:15 | jnilbo.com | 민주유공자법 국회 본회의 통과…635명 의료·요양 등 지원 | https://www.jnilbo.com/news/articleView.html?idxno=90000085021 | b42
@@ -71,45 +73,46 @@
 2026-11-20 16:12 | 법률신문 | 與, 의총서 '조희대 대법원장 탄핵소추' 당론 채택 | https://www.lawtimes.co.kr/news/articleView.html?idxno=229819 | b42
 2026-11-20 16:12 | news.cpbc.co.kr | '민주유공자법' 국회 본회의서 與주도 통과 | https://news.cpbc.co.kr/article/1177160?division=NAVER | b42
 2026-11-20 16:11 | 한국일보 | "청주가정법원 조기 설치"... 충북도·충북변호사회 맞손 | https://www.hankookilbo.com/news/article/A2026112016020002668?did=NA | b42
+2026-11-20 16:10 | newsworker.co.kr | 영암군, '2030 지역순환경제 기본계획 확정'... 지역 내 생산·소비 선순환 구축 | https://www.newsworker.co.kr/news/articleView.html?idxno=515314 | b6
 2026-11-20 16:08 | 브레이크뉴스 | 상주시, ‘2026 탄소중립 경연대회’ 기후에너지환경부 장관상 수상 | http://www.breaknews.com/1252686 | b1
 2026-11-20 16:08 | 블로터 | [어바웃 코람코] 주주 재편으로 커진 LF 입지, '독립경영' 유지될까 | https://www.bloter.net/news/articleView.html?idxno=679265 | b27
-2026-11-20 16:08 | newdaily.co.kr | 이진숙, 자발적 온라인 필버로 민주유공자법 통과 비판 … "기준과 범위 명확해야" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050249.html | b42
-2026-11-20 16:08 | 아시아타임즈 | 與 주도로 ‘민주유공자법’ 국회 통과…국힘 표결 불참 | https://www.asiatime.co.kr/article/20261120500340 | b42
 2026-11-20 16:08 | 쿠키뉴스 | ‘민주유공자법’ 與주도 국회 본회의 통과…국민의힘 전원 불참 | https://www.kukinews.com/article/view/kuk202611200144 | b42
+2026-11-20 16:08 | 아시아타임즈 | 與 주도로 ‘민주유공자법’ 국회 통과…국힘 표결 불참 | https://www.asiatime.co.kr/article/20261120500340 | b42
+2026-11-20 16:08 | newdaily.co.kr | 이진숙, 자발적 온라인 필버로 민주유공자법 통과 비판 … "기준과 범위 명확해야" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050249.html | b42
 2026-11-20 16:07 | 헤럴드경제 | 민주유공자법, 26년 만에 국회 통과…권오을 “국보법 위반자 등록 불가 원칙” | https://biz.heraldcorp.com/article/10944292?ref=naver | b42
 2026-11-20 16:06 | veritas-a.com | [2027논술면접 최종체크] 이번 주말 서강대 논술 어떻게 나올까.. ‘논술100% 전 계열 2문항’ | https://www.veritas-a.com/news/articleView.html?idxno=638291 | b2
 2026-11-20 16:06 | intn.co.kr | 한국회계기준원, 투자자 전문위원회 확대 | https://www.intn.co.kr/news/articleView.html?idxno=3000418 | b32
 2026-11-20 16:06 | 한겨레 | [만리재사진첩] “드디어!” 부둥켜안았다…26년 만에 민주유공자법 통과 | https://www.hani.co.kr/arti/society/society_general/1288365.html | b42
-2026-11-20 16:05 | 연합뉴스 | 민주유공자법 국회 통과…기뻐하는 유가협 회원들 | https://www.yna.co.kr/view/PYH20261120146700013?input=1196m | b42
-2026-11-20 16:05 | 연합뉴스 | '기쁨의 눈물' | https://www.yna.co.kr/view/PYH20261120146800013?input=1196m | b42
+2026-11-20 16:05 | 연합뉴스 | 민주유공자법 국회 통과…기뻐하는 유가협 회원들 | https://www.yna.co.kr/view/PYH20261120147300013?input=1196m | b42
 2026-11-20 16:05 | 뉴시스 | 보훈장관 "유공자법 하위법령 마련…억울한 국보법 위반자, 공정 심의" | https://www.newsis.com/view/NISX20261120_0003876649 | b42
+2026-11-20 16:05 | 연합뉴스 | '기쁨의 눈물' | https://www.yna.co.kr/view/PYH20261120146800013?input=1196m | b42
 2026-11-20 16:04 | worknworld.kctu.org | 의료연대본부, 산재보험 당연적용 촉구 기자회견 및 국회토론회 개최 | http://worknworld.kctu.org/news/articleView.html?idxno=510359 | b14
 2026-11-20 16:02 | thefirstmedia.net | "바다 살리고 어촌 소득도 돕는다"…신한은행, 해양쓰레기 수거 지원 | http://www.thefirstmedia.net/news/articleView.html?idxno=214330 | b6
 2026-11-20 16:02 | koreareport.co.kr | 경찰, 조원태 회장 휴대폰 압수… 자사주 무상출연 '배임' 고발돼 | https://www.koreareport.co.kr/news/articleView.html?idxno=54973 | b26,b27
 2026-11-20 16:02 | betanews.net | 부산항 ESG 경쟁력 국제 입증…부산항만공사, LACP 스포트라이트 어워즈 3년 연속 플래티넘 | https://www.betanews.net/article/view/beta202611200144 | b32,b36
 2026-11-20 16:02 | 연합뉴스 | 26년 만에 통과된 민주유공자법…입시혜택 없이 의료·복지 예우 | https://www.yna.co.kr/view/AKR20261120071700504?input=1195m | b42
+2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 환호하는 전국민족민주유가족협의회 | https://biz.heraldcorp.com/article/10944272?ref=naver | b42
 2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 박수치는 더불어민주당 의원들 | https://biz.heraldcorp.com/article/10944275?ref=naver | b42
 2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 민주유공자 예우에 관한 법률안(민주유공자법) 국회 통과 | https://biz.heraldcorp.com/article/10944273?ref=naver | b42
-2026-11-20 16:01 | 헤럴드경제 | [헤럴드pic] 환호하는 전국민족민주유가족협의회 | https://biz.heraldcorp.com/article/10944272?ref=naver | b42
 2026-11-20 16:00 | 머니투데이 | 와이와이소프트, 심평원·건보공단 등 공공기관 5곳 AI 기술 인증 | https://www.mt.co.kr/future/2026/11/20/2026112013313397383 | b3,b4
 2026-11-20 16:00 | 데일리안 | ‘포장을 보다’ 25일까지 진행…제조사 15곳·242개 제품 선정 | https://www.dailian.co.kr/news/view/1717851/?sc=Naver | b6
 2026-11-20 16:00 | lcnews.co.kr | [산업 Pick] HS효성첨단소재·고려아연, ‘ALB 한국법률대상’ 혁신 법무팀 수상과 ESG 평가 종합 ‘AAA’ 획득 | https://www.lcnews.co.kr/news/articleView.html?idxno=211773 | b6
-2026-11-20 16:00 | newdaily.co.kr | [단독] 82억 특활비 부활시킨 靑, 이번엔 "초과근무수당 2배 올려달라" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html | b42
 2026-11-20 16:00 | newstnt.com | 강준현 의원, 4.19혁명공로자 및 특수임무공로자 위탁병원 진료 대상 포함 근거 마련 | https://www.newstnt.com/news/articleView.html?idxno=729553 | b42
 2026-11-20 16:00 | 한스경제 | 민주유공자법, 국회 본회의 통과…필리버스터 24시간 만에 종결 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885659 | b42
-2026-11-20 15:59 | KBS | [사사건건] 민주당 ‘조희대 탄핵’ 당론 채택 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718509&ref=A | b42
-2026-11-20 15:59 | YTN | 민주, '조희대 탄핵' 당론으로...국힘 "재판 결과 싫다는 광기" | https://www.ytn.co.kr/_ln/0101_202611201559480949 | b42
+2026-11-20 16:00 | newdaily.co.kr | [단독] 82억 특활비 부활시킨 靑, 이번엔 "초과근무수당 2배 올려달라" | https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html | b42
 2026-11-20 15:59 | 뉴시스 | 기뻐하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540629 | b42
 2026-11-20 15:59 | 서울신문 | 권오을 보훈장관 “민주유공자법 대입 특혜 없어…엄정한 심사 진행” | https://www.seoul.co.kr/news/politics/2026/11/20/20261120500241?wlog_tag3=naver | b42
+2026-11-20 15:59 | KBS | [사사건건] 민주당 ‘조희대 탄핵’ 당론 채택 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718509&ref=A | b42
+2026-11-20 15:59 | YTN | 민주, '조희대 탄핵' 당론으로...국힘 "재판 결과 싫다는 광기" | https://www.ytn.co.kr/_ln/0101_202611201559480949 | b42
 2026-11-20 15:58 | venturesquare.net | 넷스카우트, M 시리즈 전력 효율 20% 개선…AI 데이터센터 에너지 부담 줄인다 | https://www.venturesquare.net/1130348/ | b6
-2026-11-20 15:58 | 뉴시스 | 민주유공자법 국회 본회의 통과 환영 제정 당 시민사회단체 기자회견 | https://www.newsis.com/view/NISI20261120_0021540605 | b42
+2026-11-20 15:58 | 뉴시스 | 민주유공자법 국회 본회의 통과 환영 제정 당 시민사회단체 기자회견 | https://www.newsis.com/view/NISI20261120_0021540628 | b42
 2026-11-20 15:58 | pointdaily.co.kr | [인터뷰] 경기도의회 남종섭 의장 “35년 숙원 지방의회법 제정... 지방자치 새 시대 열겠다” | https://www.pointdaily.co.kr/news/articleView.html?idxno=326837 | b42
 2026-11-20 15:58 | natv.go.kr | '민주유공자법' 본회의 통과..."운동권 특혜법" 국민의힘 반대 | https://www.natv.go.kr/natv/news/newsView.do?newsId=514628 | b42
-2026-11-20 15:57 | 뉴시스 | 기자회견 위해 이동하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540622 | b42
-2026-11-20 15:57 | 뉴시스 | 민주유공자법 통과 환영 기자회견하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540619 | b42
-2026-11-20 15:57 | 뉴시스 | 발언하는 장남수 유가협 회장 | https://www.newsis.com/view/NISI20261120_0021540625 | b42
+2026-11-20 15:57 | 뉴시스 | 발언하는 장남수 유가협 회장 | https://www.newsis.com/view/NISI20261120_0021540612 | b42
+2026-11-20 15:57 | 뉴시스 | 민주유공자법 통과 환영 기자회견하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540614 | b42
 2026-11-20 15:57 | 뉴스1 | 보훈부 "민주유공자법, 26년만에 국회 통과…후속 조치 조속히 시행" | https://www.news1.kr/diplomacy/defense-diplomacy/6360786 | b42
-2026-11-20 15:56 | 뉴스1 | 유가협, 민주유공자법 국회 본회의 통과 환영 기자회견 | https://www.news1.kr/photos/8225455 | b42
+2026-11-20 15:57 | 뉴시스 | 기자회견 위해 이동하는 유가협 | https://www.newsis.com/view/NISI20261120_0021540623 | b42
+2026-11-20 15:56 | 뉴스1 | 유가협, 민주유공자법 국회 본회의 통과 환영 기자회견 | https://www.news1.kr/photos/8225459 | b42
 2026-11-20 15:55 | 연합뉴스 | '민주유공자법' 국회 본회의 통과 '하트' | https://www.yna.co.kr/view/PYH20261120142000013?input=1196m | b42
 2026-11-20 15:55 | 뉴스1 | 민주유공자법 통과에 젖은 눈시울 | https://www.news1.kr/photos/8225437 | b42
 2026-11-20 15:54 | updownnews.co.kr | 신한은행, 세계자연기금과 통영 연대도서 해양환경 보호·어촌 상생 실천 | https://www.updownnews.co.kr/news/articleView.html?idxno=319670 | b6
@@ -118,16 +121,16 @@
 2026-11-20 15:54 | 한스경제 | 김천시, 제5차 국가철도망 연계 노선 건의로 철도 중심도시 위상 강화 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885642 | b42
 2026-11-20 15:53 | Salmon Business | UK: £382m salmon price-fixing claim gets green light | google:Salmon Business#e4a3f04c | bgb6
 2026-11-20 15:53 | 연합뉴스 | '민주유공자법' 국회 본회의 의결 | https://www.yna.co.kr/view/PYH20261120141500013?input=1196m | b42
-2026-11-20 15:50 | 아시아경제 | 부산항만공사, 美 LACP 지속가능경영보고서 평가 3년 연속 최고등급 수상 | https://view.asiae.co.kr/article/2026112015500531580 | b32,b36,sw
+2026-11-20 15:50 | 아시아경제 | 부산항만공사, 美 LACP 지속가능경영보고서 평가 3년 연속 최고등급 수상 | https://view.asiae.co.kr/article/2026112015500531580 | b32,b36
 2026-11-20 15:50 | 국제뉴스 | 부산항만공사, 美 LACP 지속가능경영보고서 평가 '3년 연속' 플래티넘 수상 | https://www.gukjenews.com/news/articleView.html?idxno=3758434 | b36
-2026-11-20 15:50 | 뉴시스 | 민주유공자법 통과의 순간 | https://www.newsis.com/view/NISI20261120_0021540589 | b42
-2026-11-20 15:50 | 연합뉴스 | 민주유공자법 통과 지켜보고 나오는 장남수 유가협 회장 | https://www.yna.co.kr/view/PYH20261120138700013?input=1196m | b42
-2026-11-20 15:50 | 뉴시스 | 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540574 | b42
+2026-11-20 15:50 | 뉴시스 | 민주유공자법 국회 통과, 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540577 | b42
+2026-11-20 15:50 | 뉴시스 | 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540576 | b42
+2026-11-20 15:50 | sisafocus.co.kr | [시포TV] 민주유공자법, 국회 본회의 통과…재석 178명 전원 찬성 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367869 | b42
 2026-11-20 15:50 | 뉴시스 | 민주유공자법 통과 순간 담는 우원식 | https://www.newsis.com/view/NISI20261120_0021540597 | b42
+2026-11-20 15:50 | 연합뉴스 | 민주유공자법 통과 지켜보고 나오는 장남수 유가협 회장 | https://www.yna.co.kr/view/PYH20261120138700013?input=1196m | b42
+2026-11-20 15:50 | 뉴시스 | 민주유공자법 통과의 순간 | https://www.newsis.com/view/NISI20261120_0021540589 | b42
 2026-11-20 15:50 | 비즈니스포스트 | 민주당 '대법원장 조희대 탄핵 추진' 당론 채택, 탄핵소추 추진단 구성 | https://www.businesspost.co.kr/BP?command=article_view&num=452526 | b42
 2026-11-20 15:50 | 더팩트 | 민주유공자법 與 주도 본회의 통과…부마·6월항쟁 등 예우 근거 마련 | https://news.tf.co.kr/read/ptoday/2391608.htm | b42
-2026-11-20 15:50 | 뉴시스 | 민주유공자법 국회 통과, 만세 부르는 유가협 | https://www.newsis.com/view/NISI20261120_0021540579 | b42
-2026-11-20 15:50 | sisafocus.co.kr | [시포TV] 민주유공자법, 국회 본회의 통과…재석 178명 전원 찬성 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367869 | b42
 2026-11-20 15:49 | ESG경제 | IEA "韓, 에너지 수요 80% 수입 의존…공급망 다변화 필요" | https://www.esgeconomy.com/news/articleView.html?idxno=17488 | sw
 2026-11-20 15:49 | ESG경제 | KB금융 이재근 회장시대 개막..‘과감한 변화·세대교체’ 시험대 올랐다 | https://www.esgeconomy.com/news/articleView.html?idxno=17491 | sw
 2026-11-20 15:41 | 매일노동뉴스 | 민주일반연맹 ‘4년 비대위’ 마감, 전영아 집행부 출범 | https://www.labortoday.co.kr/news/articleView.html?idxno=237853 | sw
@@ -167,7 +170,6 @@
 2026-11-20 11:00 | ESG경제 | 삼성전자, 메모리·갤럭시 새 수장에 황상준·최원준...전·노‘투톱’ 유지 | https://www.esgeconomy.com/news/articleView.html?idxno=17484 | sw
 2026-11-20 11:00 | techm.kr | [탄소중립과 혁신V] (10)지속가능한 탄소중립 실천교육 | https://www.techm.kr/news/articleView.html?idxno=157632 | b1
 2026-11-20 10:33 | Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI) | Palm Exporters Urged to Prepare Geolocation Data For EUDR | google:Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI)#94ac2813 | bgb1
-2026-11-20 10:32 | Mining News Net | Sigma says mining rights in force despite seizure order | google:Mining News Net#a0ff874a | bgb11
 2026-11-20 10:28 | ESG경제 | KT&G, 여가친화기업 장관상 수상…10년간 일·생활 균형 강화 | https://www.esgeconomy.com/news/articleView.html?idxno=17482 | sw
 2026-11-20 10:24 | ESG경제 | 아모레퍼시픽, '2026 굿디자인 어워드' 4건 수상 | https://www.esgeconomy.com/news/articleView.html?idxno=17481 | sw
 2026-11-20 10:22 | ESG경제 | 미래에셋자산운용, 운용자산 617조 돌파…미래세대 인재 육성 확대 | https://www.esgeconomy.com/news/articleView.html?idxno=17479 | sw
@@ -193,14 +195,12 @@
 2026-11-20 08:10 | WWD | Thailand Says US Trade Deal Includes Lowering of Forced Labor Duties | google:WWD#dfc6e02a | ben2
 2026-11-20 08:04 | Rochester Beacon | AG alleges forced labor, trafficking at former Rochester Holiday Inn | google:Rochester Beacon#fe8b3226 | ben2
 2026-11-20 08:00 | WGRZ | OAG: Forced labor at Rochester Holiday Inn | google:WGRZ#31564128 | ben2
-2026-11-20 07:54 | TradingView | Calif. AG serves Nvidia investigative subpoena over China issues | google:TradingView#28327111 | bgb11
 2026-11-20 07:38 | WWD | Does Uzbekistan’s Silk Industry Have a Forced Labor Problem? | google:WWD#5d601834 | ben2
 2026-11-20 07:00 | Mining Weekly | Carbon offset benefits highlighted at Minerals Council climate day | google:Mining Weekly#7bce246d | bgb6
-2026-11-20 06:49 | Global Banking & Finance Review | EU Revamps Sustainable Finance Rules to Tackle Greenwashing | google:Global Banking & Finance Review#0d5e27ef | bgb11
-2026-11-20 05:15 | Cyprus Inform | EU negotiators reach provisional deal on sustainability disclosure rules for financial products | google:Cyprus Inform#438957f4 | bgb11
+2026-11-20 05:45 | INSIGHT EU MONITORING | EU Commission: STEP mobilised €23.9 billion for critical technologies by end-2025 | google:INSIGHT EU MONITORING#772f24a8 | bgb8
 2026-11-20 04:12 | Legal 500 | New Sectors Designated As High-Priority Enforcement Under UFLPA | google:Legal 500#b1d56580 | ben1
 2026-11-20 03:37 | Business and Human Rights Centre | Preventing policy capture: Why lobbying transparency matters for UK business and human rights law | google:Business and Human Rights Centre#20860b4f | bgb5
 2026-11-20 02:43 | Safestate | NVIDIA Data Breach Claim Appears With No Proof on Leak Site | google:Safestate#d4b0b31d | bgb6
-2026-11-20 01:10 | Arthur Cox LLP | Central Bank consults on streamlining the PCF list | google:Arthur Cox LLP#40342a39 | bgb11
-2026-11-20 00:58 | A&O Shearman | The evolution of fiduciary duty for UK pension schemes as institutional investors | google:A&O Shearman#fbbadb46 | bgb11
+2026-11-20 00:58 | Packaging Europe | Packworld USA announces new remote heat-sealing system | google:Packaging Europe#f1510eb4 | bgb7
 2026-11-20 00:51 | RochesterFirst | Holiday Inn named in lawsuit over forced labor, trafficking in Rochester | google:RochesterFirst#53aece75 | ben2
+2026-11-20 00:16 | Invesco | Constructing resilient fixed income portfolios | google:Invesco#6c83dcf6 | bgb2

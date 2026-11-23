@@ -1,17 +1,19 @@
-# collected: 2026-11-23 13:24 KST
-# window: 2026-11-20 00:00 ~ 2026-11-23 13:24 KST
+# collected: 2026-11-23 13:59 KST
+# window: 2026-11-20 00:00 ~ 2026-11-23 13:59 KST
 # part 3 of 5, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
+2026-11-22 13:25 | 세계일보 | 오세훈 서울시장 “조희대 대법원장 탄핵은 사법부 장악 마침표” | https://www.segye.com/newsView/20261122506166?OutUrl=naver | b42
+2026-11-22 13:22 | kihoilbo.co.kr | 민주화 유공자법 여 주도 본회의 통과…야당 "운동권 특혜법" 반발 | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041669 | b42
 2026-11-22 13:20 | ftoday.co.kr | 정부, 중고차 온라인 광고 '총구매비용' 표시 의무화 추진 | http://www.ftoday.co.kr/news/articleView.html?idxno=370279 | b45
 2026-11-22 13:14 | mdtoday.co.kr | 중고차 온라인 광고에 총구매비용 표시 의무화…수수료도 공개 | https://www.mdtoday.co.kr/news/articleView.html?idxno=626872 | b41,b45
 2026-11-22 13:08 | namdonews.com | 호남·제주 철콘 노사, 제주서 안전·상생 워크숍 | https://www.namdonews.com/news/articleView.html?idxno=929994 | b20
 2026-11-22 13:02 | 국민일보 | 대졸 취업문 ‘바늘구멍’…5명 중 1명만 서류 통과 | https://www.kmib.co.kr/article/20261122500323 | b15
 2026-11-22 13:01 | 전자신문 | [사설] EU 가전 규제, 오히려 기회 만들자 | https://www.etnews.com/20261122000048 | b3,b4,b6
 2026-11-22 13:01 | shindonga.donga.com | KOTRA가 제시하는 수출기업 ESG 생존 전략 | https://shindonga.donga.com/3/all/13/6467131/1 | b3,b37,b4
-2026-11-22 13:00 | 매일일보 | [기획]원전·재생·석탄…전력망 재설계 韓 '에너지 딜레마' | https://www.m-i.kr/news/articleView.html?idxno=2021636 | b5
 2026-11-22 13:00 | 매일일보 | [기획]발전소부터 송전선까지…전력 전환 '산 넘어 산' | https://www.m-i.kr/news/articleView.html?idxno=2021639 | b5
+2026-11-22 13:00 | 매일일보 | [기획]원전·재생·석탄…전력망 재설계 韓 '에너지 딜레마' | https://www.m-i.kr/news/articleView.html?idxno=2021636 | b5
 2026-11-22 12:53 | 부산일보 | 중고차 광고시, 차량가격외 수수료·관리비용 등 포함시켜야 | https://www.busan.com/view/busan/view.php?code=2026112212515790163 | b41
 2026-11-22 12:44 | cctimes.kr | 건양대 산하·수탁기관 합동 안전교육 | http://www.cctimes.kr/news/articleView.html?idxno=938338 | b20
 2026-11-22 12:34 | 이데일리 | 노동장관 "27일 국회 정년연장 합의 없으면 정부안 발표" | https://www.edaily.co.kr/News/Read?newsId=01564566645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b15
@@ -51,36 +53,36 @@
 2026-11-22 11:34 | jeonmae.co.kr | 김영훈 노동장관 "정년 연장 합의 안 되면 정부안 발표" | https://www.jeonmae.co.kr/news/articleView.html?idxno=1314326 | b15
 2026-11-22 11:32 | 조선비즈 | 김영훈 노동장관 “27일 정년연장 합의 없으면 정부안 제시” | https://biz.chosun.com/topics/topics_social/2026/11/22/5DXH7A3SUBHNVOU4CVXAJHAC2Y/?utm_source=naver&utm_medium=original&utm_campaign=biz | b15
 2026-11-22 11:31 | dt.co.kr | 중고차 광고에 수수료 표시 추진… 현장선 업무 부담 | https://www.dt.co.kr/article/12096485?ref=naver | b41,b45
-2026-11-22 11:30 | SBS | 노동장관 "정년 연장, 27일 여당 특위 합의 없으면 정부안 발표 결단" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008857566&plink=ORI&cooper=NAVER | b15
 2026-11-22 11:30 | 헤럴드경제 | 대학생 62% “정년연장 시 취업 더 어려워져”…노동장관은 “정년연장 입법 빨리” 재촉 | https://biz.heraldcorp.com/article/10945015?ref=naver | b15
+2026-11-22 11:30 | SBS | 노동장관 "정년 연장, 27일 여당 특위 합의 없으면 정부안 발표 결단" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008857566&plink=ORI&cooper=NAVER | b15
 2026-11-22 11:30 | it.chosun.com | 기후에너지 인사이트 2027 [새책] | https://it.chosun.com/news/articleView.html?idxno=3000000001568 | b2,b4
 2026-11-22 11:30 | m-economynews.com | 대학생 45% “올해 취업시장 더 어려워졌다”...10명 중 4명은 취준 1년 이상 예상 | https://www.m-economynews.com/news/article.html?no=73428 | b15
-2026-11-22 11:28 | 아시아경제 | 노동장관 "27일 정년연장 특위 합의 불발 땐 정부안 제시" | https://view.asiae.co.kr/article/2026112211283070006 | b15
+2026-11-22 11:28 | 아시아경제 | 노동장관 "27일 정년연장 특위 합의 불발 땐 정부안 제시" | https://view.asiae.co.kr/article/2026112211283070006 | b15,sw
 2026-11-22 11:24 | delighti.co.kr | 전북 김제 수목원 공사 현장서 60대 근로자 추락해 사망 | https://www.delighti.co.kr/news/articleView.html?idxno=125363 | b20
 2026-11-22 11:20 | 매일일보 | 경기도의회 민주당 수석대표단, 초선의원과 지방의회법 제정 논의 | https://www.m-i.kr/news/articleView.html?idxno=2021650 | b42
 2026-11-22 11:19 | kado.net | 대학생 45% “취업시장 지난해보다 악화”…10명 중 4명 취업 준비 1년 이상 예상 | https://www.kado.net/news/articleView.html?idxno=2086288 | b15
 2026-11-22 11:08 | ngonews.kr | 민주당 "12월 내 조희대 대법원장 탄핵 의결" | https://www.ngonews.kr/news/articleView.html?idxno=243824 | b42
 2026-11-22 11:06 | jeonmin.co.kr | 군산시, 온실가스 감축 '사후관리⤍사전예방'… 탄소중립 정책 전환 | http://www.jeonmin.co.kr/news/articleView.html?idxno=450901 | b1,b2
 2026-11-22 11:05 | kookje.co.kr | 중고차 판매 광고 때 가격 외에 실제 부담액까지 표시 의무화된다 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006628 | b41
-2026-11-22 11:02 | 신아일보 | 취업시장 '한파'…대학생 45% "작년보다 어렵다" | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086184 | b15
-2026-11-22 11:02 | 이데일리 | "10곳 지원해도 서류합격 2곳 미만"…대졸 취준생 현실 | https://www.edaily.co.kr/News/Read?newsId=01430086645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b15
 2026-11-22 11:02 | 브릿지경제 | 대학생 45.1% “대졸 취업시장 어렵다”⋯적극 구직해도 서류합격 18.6%뿐 | https://www.viva100.com/article/20261122500132 | b15
+2026-11-22 11:02 | 이데일리 | "10곳 지원해도 서류합격 2곳 미만"…대졸 취준생 현실 | https://www.edaily.co.kr/News/Read?newsId=01430086645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b15
+2026-11-22 11:02 | 신아일보 | 취업시장 '한파'…대학생 45% "작년보다 어렵다" | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086184 | b15
 2026-11-22 11:02 | 중앙일보 | 국힘 “주식시장 심상치 않아…탄핵 아닌 ‘블랙먼데이’ 신경 써야” | https://www.joongang.co.kr/article/25480751 | b27
 2026-11-22 11:02 | 이데일리 | 중고차 '바가지 수수료' 막는다…광고에 총가격 표시 의무화 | https://www.edaily.co.kr/News/Read?newsId=01423526645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | b41,b45
 2026-11-22 11:01 | 더팩트 | 중고차 가격표에 숨은 수수료 없앤다…자동차관리법 개정안 입법예고 | https://news.tf.co.kr/read/economy/2391648.htm | b41
 2026-11-22 11:01 | joseilbo.com | 조희대 탄핵안 통과 땐 즉시 직무정지…전원합의체 운영 차질 우려 | http://www.joseilbo.com/news/news_read.php?uid=580162&class=33&grp= | b42
-2026-11-22 11:01 | 헤럴드경제 | 수수료 뺀 눈속임 중고차 판매 광고 사라진다 | https://biz.heraldcorp.com/article/10944730?ref=naver | b41,b45
 2026-11-22 11:01 | 데일리안 | 중고차 광고에 수수료 포함 총액 표시…‘실구매비용’ 미리 알린다 | https://www.dailian.co.kr/news/view/1718093/?sc=Naver | b41,b45
 2026-11-22 11:01 | 노컷뉴스 | 중고차 광고할 때 수수료까지 더한 '총비용' 표시해야 | https://www.nocutnews.co.kr/news/6610580?utm_source=naver&utm_medium=article&utm_campaign=20261122110037 | b41,b45
+2026-11-22 11:01 | 헤럴드경제 | 수수료 뺀 눈속임 중고차 판매 광고 사라진다 | https://biz.heraldcorp.com/article/10944730?ref=naver | b41,b45
 2026-11-22 11:01 | yonhapnewstv.co.kr | [여의도풍향계] 현실화된 '조희대 탄핵'…역대 사례는 어땠나? | http://www.yonhapnewstv.co.kr/news/MYH20261121143342qae | b42
+2026-11-22 11:00 | 아시아경제 | 경기 불황에 대졸 취업 더 어려워졌다…10명 중 4명 "준비 1년 이상" | https://view.asiae.co.kr/article/2026112210320685803 | b15,sw
+2026-11-22 11:00 | 머니투데이 | "시험·면접도 꿈" 10명 중 8명은 서류 '탈락'…취업 더 힘들어졌다 | https://www.mt.co.kr/industry/2026/11/22/2026112209513552273 | b15
 2026-11-22 11:00 | 뉴스1 | 대학생 45% "올해 채용시장, 작년보다 어렵다"…서류 합격률 18.6% | https://www.news1.kr/industry/general-industry/6361866 | b15
 2026-11-22 11:00 | wolyo.co.kr | 대학생 10명 중 4명 "올해 신규채용 시장 작년보다 어려워" | https://www.wolyo.co.kr/news/articleView.html?idxno=320840 | b15
-2026-11-22 11:00 | 아시아경제 | 경기 불황에 대졸 취업 더 어려워졌다…10명 중 4명 "준비 1년 이상" | https://view.asiae.co.kr/article/2026112210320685803 | b15
-2026-11-22 11:00 | 머니투데이 | "시험·면접도 꿈" 10명 중 8명은 서류 '탈락'…취업 더 힘들어졌다 | https://www.mt.co.kr/industry/2026/11/22/2026112209513552273 | b15
-2026-11-22 11:00 | 머니투데이 | 중고차 살 때 '숨은 수수료' 없앤다…국토부 '총비용' 표시 의무화 | https://www.mt.co.kr/estate/2026/11/22/2026112210154591153 | b41,b45
-2026-11-22 11:00 | imaeil.com | 중고차 광고에 수수료 더한 '총비용' 표시해야 | https://www.imaeil.com/page/view/2026112015221926289 | b41,b45
 2026-11-22 11:00 | news.bbsi.co.kr | 국토부, 중고차 광고에 총구매비용 표시 의무화 추진 | https://news.bbsi.co.kr/news/articleView.html?idxno=4119980 | b41,b45
 2026-11-22 11:00 | 뉴스1 | 중고차 팔 때 '숨은 수수료' 못 붙인다…온라인 광고에 총액 공개 | https://www.news1.kr/realestate/general/6361829 | b41,b45
+2026-11-22 11:00 | imaeil.com | 중고차 광고에 수수료 더한 '총비용' 표시해야 | https://www.imaeil.com/page/view/2026112015221926289 | b41,b45
+2026-11-22 11:00 | 머니투데이 | 중고차 살 때 '숨은 수수료' 없앤다…국토부 '총비용' 표시 의무화 | https://www.mt.co.kr/estate/2026/11/22/2026112210154591153 | b41,b45
 2026-11-22 11:00 | 뉴시스 | 아동학대·몰카 논란에 주목 받았던 코콤[급등주 지금은] | https://www.newsis.com/view/NISX20261120_0003877071 | b42
 2026-11-22 10:56 | autodaily.co.kr | BMW, 신형 전기 SUV iX4 양산 시작⋯1회 충전 최대 828km | https://www.autodaily.co.kr/news/articleView.html?idxno=602302 | b6
 2026-11-22 10:54 | newsbrite.net | 정년 늘었는데 퇴직금은 5000만원 삭감?... '임금피크제'의 역설 | http://www.newsbrite.net/news/articleView.html?idxno=201668 | b15
@@ -110,8 +112,8 @@
 2026-11-22 09:00 | 뉴스펭귄 | 이름만 '임시저장'...원전 안 핵폐기물 30년 넘게 보관? | https://www.newspenguin.com/news/articleView.html?idxno=22475 | b5
 2026-11-22 09:00 | 뉴시스 | '50%+1주' 놓고 "법안 취지 무색"…의무공개매수제 논란 가열 | https://www.newsis.com/view/NISX20261121_0003877719 | b26,b27,b42
 2026-11-22 09:00 | 뉴스1 | "실험쥐의 생명도 소중"…건국대 수의대, 수혼제로 동물 넋 기려 | https://www.news1.kr/society/general-society/6361761 | b42
-2026-11-22 08:54 | 더구루 | [K-방산 AtoZ] 美 바이퍼 대신 '마린온'…KAI 상륙공격헬기가 4년 만에 탄생한 비결 | https://www.theguru.co.kr/news/article.html?no=110049 | sw
 2026-11-22 08:18 | newsfreezone.co.kr | AI 칩 지각변동·EU 규제 쇼크···연말 공급망 '초비상' | https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648 | b3,b4
+2026-11-22 07:31 | FreedomUnited | Australia must end child marriage – no exceptions | google:FreedomUnited#4fdd264f | bgb2
 2026-11-22 07:26 | sateconomy.co.kr | 예산안 법정시한 앞둔 국회…조희대 탄핵, 헌재·정년까지 ‘겹치는 시계’ | https://sateconomy.co.kr/news/view/1065564447888929 | b42
 2026-11-22 07:00 | 신아일보 | 부안군, 탄소중립 정책간담회 개최…청정에너지 기반 성장전략 논의 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5085871 | b1
 2026-11-22 07:00 | 신아일보 | 영암군, 2030 지역순환경제 기본계획 확정 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5085918 | b6
@@ -147,6 +149,7 @@
 2026-11-21 18:20 | YTN | 민주유공자법 공방..."운동권 특혜법" vs "유령 공세" | https://www.ytn.co.kr/_ln/0101_202611211820259210 | b42
 2026-11-21 17:36 | insnews.co.kr | (사)한국보험연구원, '2028년 ESG 공시와 보험업의 과제' 세미나 개최 | https://www.insnews.co.kr/news/articleView.html?idxno=93975 | b32,b34
 2026-11-21 17:26 | Wales Online | Andy Burnham said to be looking into UK 'rejoining' European Union long-term | google:Wales Online#b32d9b25 | bgb8
+2026-11-21 17:25 | Legal 500 | Workplace Relations Monthly Update - August 2018 | google:Legal 500#1b129557 | bgb2
 2026-11-21 17:16 | 한스경제 | [신간] 좋은 회사 재무제표/월급쟁이 맞춤형 ETF 포트폴리오 등 | http://www.hansbiz.co.kr/news/articleView.html?idxno=885806 | b11
 2026-11-21 17:15 | Wood Central | Who Will Police the EUDR? Brussels Opens Cases Against Four EU States | google:Wood Central#4d8dc29f | bgb1
 2026-11-21 17:13 | 한국일보 | 국힘, 대구서도 조작기소 특검법 규탄집회 열어... "탄핵만이 답" | https://www.hankookilbo.com/news/article/A2026112116540004175?did=NA | b42
@@ -189,7 +192,6 @@
 2026-11-21 12:19 | YTN | 민주, 조희대 탄핵 추진 본격화...국민의힘 장외투쟁 | https://www.ytn.co.kr/_ln/0101_202611211219042199 | b42
 2026-11-21 12:08 | 국제뉴스 | 동남기후에너지포럼 '부산 탄소중립·미래에너지산업' 세미나 | https://www.gukjenews.com/news/articleView.html?idxno=3758947 | b1
 2026-11-21 12:04 | 문화일보 | 국힘, 대구서 ‘이재명 탈옥법’ 규탄…민주당 “유랑극단 행태” | https://www.munhwa.com/article/11632996?ref=naver | b42
-2026-11-21 12:01 | TradingView | Hong Kong Bill Proposes HK$100,000 Fine for Unauthorized Crypto Titles, Two-Year Jail Term for Fake License Claims | google:TradingView#69566b3d | bgb11
 2026-11-21 11:48 | interfootball.co.kr | [전문] 대한축구협회 특혜 의혹 제기→입장문 통해 정면반박..."사실과 다른 주장 피해, 할 수 있는 모든 조치 강구 예정" | https://www.interfootball.co.kr/news/articleView.html?idxno=698928 | b31
 2026-11-21 11:25 | 뉴시스 | 여야, 민주유공자법 두고 공방…"대입 혜택은 허위" "운동권 셀프 특혜법" | https://www.newsis.com/view/NISX20261121_0003877633 | b42
 2026-11-21 11:22 | tk.newdaily.co.kr | 대구시의회 임인환 의장, 지방의회법 ‘연내 제정’ 국회 설득전 | https://tk.newdaily.co.kr/site/data/html/2026/11/21/2026112150024.html | b42
@@ -218,12 +220,11 @@
 2026-11-21 09:22 | monthly.chosun.com | 민주유공자법 본회의 통과.... 국민의힘 "운동권 노후 무임승차를 위한 '운동권 특혜법'" 비판 | https://monthly.chosun.com/news/articleView.html?idxno=72079 | b42
 2026-11-21 09:22 | gokorea.kr | 대법원장 최초 탄핵 초읽기, 정치권 긴장 고조 | https://www.gokorea.kr/news/articleView.html?idxno=886693 | b42
 2026-11-21 09:16 | aitimes.com | 비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진 | https://www.aitimes.com/news/articleView.html?idxno=217616 | b12
-2026-11-21 09:15 | Bloomberg.com | UK regulatory reporting: MIFIR, EMIR and SFTR requirements and reform | google:Bloomberg.com#3487e11b | bgb11
 2026-11-21 09:02 | 아주경제 | 신한은행, 통영 해양쓰레기 수거 후원…연말까지 25톤 지원 | https://www.ajunews.com/view/20261120142130981 | b6
 2026-11-21 09:01 | 한국경제 | 웃돈 주고 샀는데 가짜?…애플·BMW 의심에 기업들 '초비상' [김리안의 에네르기파WAR] | https://www.hankyung.com/article/202611209672i | b11
 2026-11-21 08:48 | newscj.com | 국민의힘 '조작기소 특검법' 공포에 TK서 장외전… 부산 이어 2번째 | https://www.newscj.com/news/articleView.html?idxno=3450816 | b42
-2026-11-21 08:29 | yonhapnewstv.co.kr | 트럼프 "미중러 회담서 한반도 위험 대응 논의" | http://www.yonhapnewstv.co.kr/news/MYH20261121082835tql | b24
-2026-11-21 08:27 | FreedomUnited | End slavery in US immigration detention centers | google:FreedomUnited#b062ed88 | ben2
+2026-11-21 08:29 | yonhapnewstv.co.kr | 트럼프 "미중러 회담서 한반도 위험 대응 논의" | http://www.yonhapnewstv.co.kr/news/MYH20261121082835tql | b24,sw
+2026-11-21 08:27 | FreedomUnited | End slavery in US immigration detention centers | google:FreedomUnited#b062ed88 | ben2,bgb2
 2026-11-21 08:24 | 한국경제TV | [칼럼] 배당을 미룰수록 불어나는 순자산가치, 어떻게 관리할 것인가 | http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160156&t=NN | b27
 2026-11-21 08:22 | tfmedia.co.kr | 브렉시트로 갈라선 EU·영국, 정상회담서 관계 재설정 시동 | https://www.tfmedia.co.kr/news/article.html?no=209088 | b2
 2026-11-21 08:22 | 파이낸셜포스트 | 상장 앞두고 터진 보안 사고…컬리, '초저마진' 회의론에 1만명 정보유출 악재 | https://www.financialpost.co.kr/news/articleView.html?idxno=302330 | b42
@@ -235,17 +236,16 @@
 2026-11-21 08:00 | newsroad.co.kr | 새만금 '버려진 들풀', 축산 사료로 다시 난다 | http://www.newsroad.co.kr/news/articleView.html?idxno=68171 | b6
 2026-11-21 08:00 | 에너지경제 | 186명 중 150명만 찬성하면 조희대 대법원장 직무정지 | https://www.ekn.kr/web/view.php?key=20261121028522811 | b42
 2026-11-21 07:52 | seMissourian | Fiona’s death gives parents a chance to teach kids about gri... | google:seMissourian#bcf58af4 | bgb10
-2026-11-21 07:48 | magazine.hankyung.com | 자율주행 실증, ‘허가의 문’이 지역으로 내려온다[국고은의 법으로 읽는 세상] | https://magazine.hankyung.com/business/article/202611121790b | b41,b42,b46
+2026-11-21 07:48 | magazine.hankyung.com | 자율주행 실증, ‘허가의 문’이 지역으로 내려온다[국고은의 법으로 읽... | https://magazine.hankyung.com/business/article/202611121790b | b41,b42,b46
 2026-11-21 07:30 | tfmedia.co.kr | 美무역대표 "'상호관세 대체' 301조 조사 연말까지 마무리" | https://www.tfmedia.co.kr/news/article.html?no=209084 | b24
 2026-11-21 07:30 | sisaon.co.kr | 집 지으라면서 부담금은 별개인가요 [주간필담] | https://www.sisaon.co.kr/news/articleView.html?idxno=206248 | b41
-2026-11-21 07:26 | Reuters | Robinhood faces shareholder challenge as SEC loosens proxy oversight | google:Reuters#cd562a35 | bgb11
 2026-11-21 07:20 | 뉴시스 | 이번주 국회에는 무슨 일이? [뉴시스국회토pic] | https://www.newsis.com/view/NISX20261120_0003876692 | b42
 2026-11-21 07:07 | 노컷뉴스 | 與 초유의 '대법원장 탄핵' 초읽기…野 "광기" 반발[오늘아침] | https://www.nocutnews.co.kr/news/6610482?utm_source=naver&utm_medium=article&utm_campaign=20261121070622 | b42
 2026-11-21 07:06 | kor.theasian.asia | [오늘의 신문] 코스피 5%대 급락·수출 1조 달러 돌파…대법원장 탄핵 논란에 정국 격랑·법원 국제신문 회생 인가 | http://kor.theasian.asia/archives/422340 | b24
 2026-11-21 07:02 | newscj.com | [천지일보 이슈종합] 수능 AI 부정행위·세계날씨·민주유공자법·미중러 정상회담·코스피·코스닥 | https://www.newscj.com/news/articleView.html?idxno=3450806 | b42
 2026-11-21 07:01 | imnews.imbc.com | 1부 오늘의 주요뉴스 | https://imnews.imbc.com/replay/2026/nwtoday/article/6867419_37012.html | b42
-2026-11-21 07:00 | 이투데이 | [이법저법] AI 안경 쓰고 시험…어떤 형사처벌을 받을 수 있나요? | https://www.etoday.co.kr/news/view/2649568 | b20
 2026-11-21 07:00 | 뉴스1 | 노동당국·경찰, 환경미화원 사망 '청주시 책임 규명' 수사 본격화 | https://www.news1.kr/local/sejong-chungbuk/6361141 | b20
+2026-11-21 07:00 | 이투데이 | [이법저법] AI 안경 쓰고 시험…어떤 형사처벌을 받을 수 있나요? | https://www.etoday.co.kr/news/view/2649568 | b20
 2026-11-21 07:00 | weekly.chosun.com | 젠슨 황은 물러났지만 한국 총수는 못 자른다?…결정적 차이 | http://weekly.chosun.com/news/articleView.html?idxno=57296 | b26,b27
 2026-11-21 07:00 | 연합뉴스 | [마켓人] IT 접목해 주주운동 뒷받침하는 이상목 컨두잇 대표 | https://www.yna.co.kr/view/AKR20261120137900008?input=1195m | b27
 2026-11-21 07:00 | 뉴시스 | 사진으로 보는 일주일 [뉴시스Pic] | https://www.newsis.com/view/NISX20261120_0003877305 | b42
