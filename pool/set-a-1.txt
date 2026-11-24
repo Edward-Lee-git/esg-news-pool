@@ -1,207 +1,237 @@
-# collected: 2026-11-24 07:30 KST
-# window: 2026-11-23 00:00 ~ 2026-11-24 07:30 KST
-# part 1 of 1, lines: 201
+# collected: 2026-11-25 07:30 KST
+# window: 2026-11-24 00:00 ~ 2026-11-25 07:30 KST
+# part 1 of 1, lines: 231
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-24 07:30 | 조선일보 | Moderna's Revival Sparks CDMO Growth Amid 2028 Bio Investment Themes | google:조선일보#2112c37b | aen3
-2026-11-24 06:30 | e코노미톡뉴스 | '래미안'에 갇히지 않는 홈닉…삼성물산, 주거 플랫폼 외연 넓힌다 | http://www.economytalk.kr/news/articleView.html?idxno=425479 | a1
-2026-11-24 06:02 | 쿠키뉴스 | ‘하이테크·원가관리’ 앞세운 최영재 사장…삼성물산 건설부문 새판 ... | https://www.kukinews.com/article/view/kuk202611230172 | a1,a3
-2026-11-24 06:00 | 이투데이 | 박인숙 삼성물산 상무 "노후 아파트 잠재가치 극대화"⋯넥스트리모델링 구상 [인터뷰] | https://www.etoday.co.kr/news/view/2651076 | a1
-2026-11-24 00:58 | Social News XYZ | Bourse operator activates sell-side sidecar for KOSPI on sharp fall | google:Social News XYZ#ac40fcb4 | aen3
-2026-11-24 00:35 | 조선일보 | Samsung C&T, Heavy Industries Appoint Choi, Lee | google:조선일보#e4da5251 | aen1
-2026-11-24 00:34 | 조선일보 | 삼성물산 건설부문장 최영재, 삼성重 대표 이왕근 | https://www.chosun.com/economy/industry-company/2026/11/24/53VSMDR34JFA3GNGNFUIRRBZOQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | a1
-2026-11-24 00:32 | 동아일보 | [경제계 인사]삼성물산 건설부문장 사장 최영재씨 | https://www.donga.com/news/Economy/article/all/20261123/135076082/2 | a1,a3
-2026-11-23 22:50 | webeconomy.co.kr | 삼성물산 건설부문, 최영재 사장 승진 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2386121 | a1,a3
-2026-11-23 22:16 | 비건뉴스 | 삼성물산 건설부문장에 최영재 부사장 승진 보임 | https://www.vegannews.co.kr/news/article.html?no=410007 | a1,a3
-2026-11-23 22:03 | 조선일보 | Lee Boo-jin's Son Adopts Maternal Lee Surname | google:조선일보#2bd7ba1f | aen1
-2026-11-23 21:42 | woodkorea.co.kr | "하이테크·인프라 아우른 전략통 전진 배치"… 삼성물산, 건설부문장에 최영재 사장 승진 보임 | https://www.woodkorea.co.kr/news/articleView.html?idxno=92758 | a1,a3
-2026-11-23 21:18 | Blockonomi | Korea Stock Crash: Rescue Fund Is Ready, but Samsung and SK Hynix Keep Sliding | google:Blockonomi#59ce2645 | aen3
-2026-11-23 21:18 | TradingView | Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? | google:TradingView#e1b60edf | aen4
-2026-11-23 20:36 | apnews.kr | 삼성물산, 건설 새 수장에 최영재…"하이테크 전문가로 질적 성장" | https://www.apnews.kr/news/articleView.html?idxno=3053443 | a1
-2026-11-23 20:24 | thedailypost.kr | 삼성물산 건설부문 새 수장에 최영재…체질 개선·질적 성장 주도 | https://www.thedailypost.kr/news/articleView.html?idxno=117187 | a1,a3
-2026-11-23 20:00 | BUALBUAL.com | Warga Siambul Inhu Dikejutkan Penemuan Jenazah Laki-Laki di Perkebunan Kelapa Sawit | google:BUALBUAL.com#be73f9f7 | aid8
-2026-11-23 19:26 | Tribunpekanbaru.com | Pilu, Bapak di Inhu Temukan Anak Terbaring Kaku Tak Bernyawa di Areal Kebun Sawit | google:Tribunpekanbaru.com#5c027690 | aid8
-2026-11-23 19:00 | ANTARA News Riau | Pencabutan PBHP PT RAPP, APINDO Pelalawan: Pemerintah harus kaji matang dampaknya | google:ANTARA News Riau#0fb1dab0 | aid6
-2026-11-23 18:58 | Bagynews.com | Pamit ke Kebun, Warga Batang Gansal Ditemukan Meninggal Dunia, Ini Penyebabnya | google:Bagynews.com#9fbc687b | aid8
-2026-11-23 18:52 | 아주경제 | [아주부동산 PICK] 삼성물산 수장 6년 만에 교체…건설사 CEO 연임 변수는 PF·안전 外 | https://www.ajunews.com/view/20261123175041228 | a1
-2026-11-23 18:51 | Sammy Fans | Samsung makes big move to protect Galaxy S Pen partnership as MBK acquires Wacom | google:Sammy Fans#06a33e7e | aen1
-2026-11-23 18:50 | sports.hankooki.com | [건설부문] 삼성물산 건설부문·롯데건설·DL이앤씨·SK에코플랜트·IPARK현대산업개발·GS건설 | https://sports.hankooki.com/news/articleView.html?idxno=6944054 | a1,a3
-2026-11-23 18:48 | DataRiau.com | IPM-KTM Pekanbaru Minta Presiden Evaluasi Pencabutan Izin PT RAPP, Soroti Nasib Ribuan Pekerja | google:DataRiau.com#05fa43bf | aid6
-2026-11-23 18:46 | RiauAktual.com | Warga Inhu Geger, Mayat Pria Ditemukan di Perkebunan Sawit | google:RiauAktual.com#cc24c74a | aid8
-2026-11-23 18:38 | news.bbsi.co.kr | [인사]삼성물산 건설부문 사장 최영재 | https://news.bbsi.co.kr/news/articleView.html?idxno=4120372 | a1,a3
-2026-11-23 18:26 | 파이낸셜뉴스 | 삼성물산 건설부문 새 수장에 최영재... 현장·재무 역량 두루 갖춘 30년 삼성맨 | https://www.fnnews.com/news/202611231824287378 | a1,a3
-2026-11-23 18:19 | 뉴스핌 | 삼성 금융계열사 인사 임박…이르면 내일 생명·화재 CEO 거취 윤곽 | https://www.newspim.com/news/view/20261123001132 | a1,a3
-2026-11-23 18:12 | bizwnews.com | 삼성물산, 건설부문 최영재 부사장 사장으로 승진 보임 | http://www.bizwnews.com/news/articleView.html?idxno=152822 | a1,a3
-2026-11-23 18:08 | polinews.co.kr | 삼성물산 '홈닉' 손잡은 건설사 22곳…협약 수는 늘었지만 실적은 아직 확인 안 돼 | https://www.polinews.co.kr/news/articleView.html?idxno=748978 | a1
-2026-11-23 17:59 | catchnews.kr | '올해 하이테크 11조수주 살림꾼 중용' 삼성물산, 건설부문장에 최영재 사장 | https://www.catchnews.kr/news/articleView.html?idxno=130887 | a1,a3
-2026-11-23 17:58 | 한국경제 | 삼성물산 건설부문장에 최영재 사장 | https://www.hankyung.com/article/2026112350911 | a1,a3
-2026-11-23 17:42 | 서울경제 | 삼성물산 건설부문장에 최영재…중공업엔 이왕근 내정 | https://www.sedaily.com/article/20117906?ref=naver | a1,a3
-2026-11-23 17:41 | Seoul Economic Daily | Samsung Taps Technical Experts as Presidents of C&T, Heavy Industries | google:Seoul Economic Daily#cc723067 | aen1
-2026-11-23 17:36 | 조선일보 | Samsung Lions Hold 12-Year Victory Parade in Daegu | google:조선일보#dda04ad7 | aen1
-2026-11-23 17:14 | SINDOnews Nasional | Duta Palma Group Jawab Tuntutan JPU Rp81,8 Triliun: Sebut Mengulang Perkara Surya Darmadi | google:SINDOnews Nasional#61ce09fb | aid8
-2026-11-23 17:10 | 재경일보 | Samsung Electronics closes in the 170,000 won range... SK Hynix also gives up the 1.1 million won mark | google:재경일보#60a7f2de | aen1
-2026-11-23 17:08 | techholic.co.kr | 삼성물산 '홈닉', 한양건설 '립스'에 도입-차별화된 주거 서비스 제공 | http://www.techholic.co.kr/news/articleView.html?idxno=223788 | a1,a3
-2026-11-23 17:05 | 매일경제 | Samsung Vice President Kim Won-jun and Choi Jin-won… Promoted to Global Research President | google:매일경제#7b242f5a | aen1,aen2
-2026-11-23 17:01 | Fortune Business Insights | Healthcare Visual Inspection Services Market Size, 2034 | google:Fortune Business Insights#19c6022e | aen3
-2026-11-23 16:57 | Riau Pos | Gerebek Gudang BBM Ilegal di Pelalawan, Polisi Amankan 3.500 Solar Subsidi | google:Riau Pos#f40017cf | aid6
-2026-11-23 16:48 | 서울경제TV | 삼성물산 건설부문장에 최영재 사장…6년 만에 수장 교체 | https://www.sentv.co.kr/article/view/sentv202611230233 | a1,a3
-2026-11-23 16:46 | huffingtonpost.kr | 삼성그룹 인프라 계열사 장수 CEO 물러나고 새 바람 분다 : 삼성물산 건... | https://www.huffingtonpost.kr/article/262308 | a1
-2026-11-23 16:44 | dailypop.kr | 삼성물산, 한양건설 아파트에 '홈닉' 도입…계약 때부터 이사·관리 한 앱에 | http://www.dailypop.kr/news/articleView.html?idxno=104862 | a1
-2026-11-23 16:40 | dailypop.kr | [줌인] 삼성물산, 건설 수장 6년 만에 교체…최영재 발탁에 담긴 '수익성 중심' 경영 | http://www.dailypop.kr/news/articleView.html?idxno=104887 | a1
-2026-11-23 16:34 | 아주경제 | 삼성물산 수장 6년 만에 교체…건설사 CEO 연임 변수는 PF·안전 | https://www.ajunews.com/view/20261123151823516 | a1
-2026-11-23 16:26 | 에너지경제 | 삼성물산 건설부문 6년 만에 수장 교체…신임 사장에 최영재 부사장 | https://www.ekn.kr/web/view.php?key=20261123026513471 | a1,a3
-2026-11-23 16:25 | 헤럴드경제 | Kospi falls 3.31% as US semiconductor stocks collapse; sell-side sidecar triggered | google:헤럴드경제#592bab6a | aen3
-2026-11-23 16:17 | Riau Pos | Update Kasus Penangkapan di Pelalawan Berujung Kematian Istri, Propam Polda Periksa 13 Anggota | google:Riau Pos#a149d0d0 | aid6
-2026-11-23 16:04 | RiauAktual.com | Polda Riau Gerebek Gudang Biosolar Bersubsidi di Pelalawan, 3.500 Liter BBM Diamankan | google:RiauAktual.com#9f94975b | aid6
-2026-11-23 16:02 | 핀포인트뉴스 | 삼성물산, 건설부문 수장 교체…최영재 신임 사장 발탁 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=507136 | a1,a3
-2026-11-23 16:00 | 아시아경제 | KOSPI Barely Holds Above 4,700, Closes Down 3.3% | google:아시아경제#b58eac40 | aen3
-2026-11-23 16:00 | 핀포인트뉴스 | [거래소 기관] 삼성전자 사고 NAVER·SK하이닉스 팔았다… 기관 선택 엇갈린 이유 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=507130 | a1,a7,ax2
-2026-11-23 15:56 | s-journal.co.kr | 삼성물산 건설부문, 6년 만에 수장 교체… 최영재 사장 선임 | https://www.s-journal.co.kr/news/articleView.html?idxno=45546 | a1,a3
-2026-11-23 15:55 | 디지털투데이 | KOSPI slides 3.31 percent to 4,700 level as Nvidia, AI worries persist | google:디지털투데이#3eb13111 | aen3
-2026-11-23 15:50 | biztribune.co.kr | 삼성물산, 한양건설에 '홈닉' 공급… 스마트 주거 플랫폼 확대 | http://www.biztribune.co.kr/news/articleView.html?idxno=362983 | a1
-2026-11-23 15:48 | 그린포스트 | 삼성물산 건설 6년 만의 수장 교체···실적 반등기에 '관리통' 하이테크사업부장 발탁 | https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308134 | a1
-2026-11-23 15:46 | 토요경제 | 삼성물산 최영재號, 이익은 하이테크·늘어난 일감은 주택 | https://sateconomy.co.kr/news/view/1065591171993380 | a1
-2026-11-23 15:46 | todayeconomic.com | 삼성물산 건설부문 사장에 최영재 승진…하이테크·인프라 사업 두루 경험 | https://www.todayeconomic.com/news/article.html?no=32945 | a1,a3
-2026-11-23 15:46 | huffingtonpost.kr | 삼성바이오로직스 노사협상 벽 부딪혔다 : 노조는 한국노총 가입 강공인데 존 림 글로벌 인수·수주 위해 '강경 기조' 접나 | https://www.huffingtonpost.kr/article/262301 | a7,ax2
-2026-11-23 15:44 | ttlnews.com | 삼성물산, 최영재 부사장 건설부문 사장으로 승진 보임 | http://www.ttlnews.com/news/articleView.html?idxno=3165147 | a1,a3
-2026-11-23 15:38 | 비즈워치 | 삼성물산 건설 '세대교체'…하이테크 최영재 수장으로 | https://news.bizwatch.co.kr/article/real_estate/2026/11/23/0022 | a1
-2026-11-23 15:34 | dailysmart.co.kr | “계약 순간부터 홈스타일링·에너지 관리까지”… 삼성물산 건설부문 ‘홈닉’, 한양건설 손잡고 주거 판 흔든다 | http://www.dailysmart.co.kr/news/articleView.html?idxno=132984 | a1,a3
-2026-11-23 15:30 | EBN | [프로필]최영재 삼성물산 건설부문장 사장 | https://www.ebn.co.kr/news/articleView.html?idxno=1732701 | a1,a3
-2026-11-23 15:30 | nbntv.co.kr | [인사] 삼성물산 | https://www.nbntv.co.kr/news/articleView.html?idxno=4027826 | a1
-2026-11-23 15:28 | opinionnews.co.kr | 실적 반등에도 세대교체 택한 삼성물산…새 수장에 최영재 사장 선임 | http://www.opinionnews.co.kr/news/articleView.html?idxno=147375 | a1
-2026-11-23 15:20 | hbnpress.com | [인사] 삼성물산 건설부문 신임 사장에 최영재 부사장 | https://hbnpress.com/news/view/1065593862685562 | a1,a3
-2026-11-23 15:12 | 아시아투데이 | 삼성물산 건설부문 새 수장에 최영재 부사장…6년만 교체 | https://www.asiatoday.co.kr/kn/view.php?key=20261123010008877 | a1,a3
-2026-11-23 15:10 | Wisevoter | Celltrion Unveils Next-Generation Cancer Drug Research | google:Wisevoter#ad096c7b | aen4
-2026-11-23 15:05 | Hallo Bisnis | Tujuh Korporasi Duta Palma Groʻup Dituntut Rp81,8 Triliun, Putusan Surya Darmadi Jadi Rujukan Keberatan - Hallobisnis.com | google:Hallo Bisnis#614921e8 | aid8
-2026-11-23 14:55 | 한국경제 | 삼성물산 건설부문 새 수장에 최영재…경영관리·하이테크 두루 거쳐 | https://www.hankyung.com/article/202611234298i | a1,a3
-2026-11-23 14:54 | cstimes.com | 삼성물산 건설부문 수장 교체…최영재 부사장 사장 승진 | https://www.cstimes.com/news/articleView.html?idxno=729001 | a1,a3
-2026-11-23 14:52 | 비즈니스포스트 | [오늘Who] 삼성물산 건설부문 6년 만에 새 얼굴, 최영재 'AI투자 확대' 그... | https://www.businesspost.co.kr/BP?command=article_view&num=452652 | a1,a3
-2026-11-23 14:44 | cstimes.com | 삼성물산 홈닉, 한양건설 'LEEPS' 브랜드에 주거서비스 플랫폼 공급 | https://www.cstimes.com/news/articleView.html?idxno=729000 | a1
-2026-11-23 14:42 | METRORIAU.COM | Tiga Ruas Tol Sumatera Dibuka Gratis Saat Nataru, Tol Lingkar Pekanbaru Ikut Difungsikan | google:METRORIAU.COM#f03d1ffb | aid1
-2026-11-23 14:42 | news2day.co.kr | 삼성물산 건설부문장에 최영재 사장…사업·관리 두루 거친 '하이테크사업부장' 발탁 | https://www.news2day.co.kr/article/20261123500158 | a1,a3
-2026-11-23 14:40 | newsprime.co.kr | 삼성물산 건설부문장에 최영재 사장 승진 '체질 개선·질적 성장 본격화... | http://www.newsprime.co.kr/news/article.html?no=756067 | a1,a3
-2026-11-23 14:30 | 파이낸셜뉴스 | KOSPI Falls to the 4,500 Level, Then Rebounds to 4,700... Individual and Foreign Investors Still Selling [fn Afternoon Market] | google:파이낸셜뉴스#197adfad | aen3
-2026-11-23 14:24 | asiaa.co.kr | 삼성물산, 최영재 건설부문장 사장 승진...2027년 사장단 인사 | https://www.asiaa.co.kr/news/articleView.html?idxno=272401 | a1,a3
-2026-11-23 14:21 | 아시아경제 | "I Can't Stand Seeing My Portfolio in the Red Anymore": KOSPI Sinks Below 4,700 as Foreign and Retail Investors Head for the Exit | google:아시아경제#0fb2eda1 | aen3
-2026-11-23 14:20 | 잡포스트 | 삼성바이오로직스 4.87% 하락…연간 성장 전망 상향 뒤 차익 매물 | https://www.job-post.co.kr/news/articleView.html?idxno=240254 | a7,ax2
-2026-11-23 14:18 | Korea Biomedical Review | Repeated pressure may fuel acral melanoma spread, immunotherapy resistance: study | google:Korea Biomedical Review#fac45203 | aen4
-2026-11-23 14:15 | TradingView | KOSPI Stock Falls Below 4,700 as Black Monday Fears Grip South Korea | google:TradingView#bbbc02b6 | aen3
-2026-11-23 14:14 | news.dealsitetv.com | 삼성물산 건설 새 수장 최영재…하이테크 성과 뚜렷 | https://news.dealsitetv.com/articles/178999 | a1
-2026-11-23 14:06 | datanews.co.kr | 삼성물산, 최영재 부사장 승진…건설부문 대표 보임 | http://www.datanews.co.kr/news/article.html?no=147779 | a1,a3
-2026-11-23 14:06 | 미디어펜 | [현장]대우건설, 목동8단지에 던진 승부수…설계 차별화에 사업조건까지 | https://www.mediapen.com/news/view/1139260 | a1
-2026-11-23 13:46 | 시사CAST | 삼성물산 건설, 6년 만에 바뀌는 수장…최영재 하이테크사업부장 사장 승진 | http://www.sisacast.kr/news/articleView.html?idxno=102229 | a1
-2026-11-23 13:39 | 매일경제 | Choi Young-jae, vice president of the high-tech business, has become the new head of Samsung C&T.. | google:매일경제#455df751 | aen1,aen2
-2026-11-23 13:38 | globalepic.co.kr | 삼성물산 건설부문 새 사장 '최영재'의 과제는? | https://www.globalepic.co.kr/view.php?ud=20261123133311518448439a4874_29 | a1,a3
-2026-11-23 13:36 | 전자신문 | 한-카타르, LNG 우선 공급·삼성물산 2GW 태양광 사업 협력 | https://www.etnews.com/20261123000292 | a1
-2026-11-23 13:32 | Nawacita Post | Diduga Terima Sawit dari Kawasan Hutan Tanpa Izin, Pabrik PT GSL Jadi Sorotan - Nawacita Post | google:Nawacita Post#dbf69c19 | aid6
-2026-11-23 13:25 | 재경일보 | Samsung C&T appoints Choi Young-jae as President... First leadership change in Construction Division in 6 years | google:재경일보#ca7fbdb6 | aen1
-2026-11-23 13:19 | 뉴스웍스 | KOSPI plunges 5% intraday to the 4,600 level…Activate the sell-side car | google:뉴스웍스#de18eb02 | aen3
-2026-11-23 13:19 | 뉴스웍스 | Despite concerns over a 'Black Monday,' the KOSPI is holding up against a 2% decline…Retreat of 4,700 | google:뉴스웍스#04123f58 | aen3
-2026-11-23 13:12 | 뉴스웍스 | 삼성물산, 최영재 건설부문장 사장 승진…6년 만에 CEO 교체 | https://www.newsworks.co.kr/news/articleView.html?idxno=904033 | a1,a3
-2026-11-23 13:04 | 내일신문 | 삼성물산 건설부문 최영재 사장 선임 | https://www.naeil.com/news/read/609714?ref=naver | a1,a3
-2026-11-23 13:00 | newsfreezone.co.kr | 삼성물산 건설, 6년 만 수장 교체···'숫자·현장' 겸비 50대 전진 배치 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=720761 | a1
-2026-11-23 12:45 | TradingView | South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off | google:TradingView#d80ab9ad | aen3
-2026-11-23 12:34 | 비건뉴스 | 삼성에피스홀딩스 장중 10.89% 하락…브라질 공급 조건 미정 | https://www.vegannews.co.kr/news/article.html?no=409805 | a9,ax3,ax4
-2026-11-23 12:26 | 위키트리 | 삼성물산 건설부문 새 수장에 최영재 사장…실적 반등 이끈 하이테크 전문가 | https://www.wikitree.co.kr/articles/1176934 | a1,a3
-2026-11-23 12:20 | sisafocus.co.kr | 삼성물산 건설부문장 최영재 사장…삼성중공업 대표 이왕근 내정 | http://www.sisafocus.co.kr/news/articleView.html?idxno=367922 | a1,a3
-2026-11-23 12:08 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Swadaya Riau Periode 18-24 November 2026 Turun Rp117,18 per Kg Jadi Rp3.602,81 per Kg | google:Warta Suluh#cc1adf0f | aid6
-2026-11-23 12:05 | BigGo Finance | South Korea's Top Traders Dump Samsung Electronics, SK Hynix and Scoop Up Celltrion, Samsung SDS in Sharp Selloff | google:BigGo Finance#133504a8 | aen3
-2026-11-23 11:57 | 문화일보 | 제약 상장사 3곳중 1곳 ‘1000억 클럽’… 삼성바이오·셀트리온 선두 | https://www.munhwa.com/article/11633324?ref=naver | ax2
-2026-11-23 11:50 | 아이뉴스24 | 삼성물산 건설부문 수장 교체…사장에 최영재 부사장 선임 | http://www.inews24.com/view/2029174 | a1,a3
-2026-11-23 11:49 | 매일경제 | Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market | google:매일경제#db3567f6 | aen1
-2026-11-23 11:48 | 00news.co.kr | 삼성물산 건설 새 리더십...최영재 승부수 | http://www.00news.co.kr/news/articleView.html?idxno=108269 | a1
-2026-11-23 11:44 | 소비자가만드는신문 | 삼성물산, 건설부문장에 최영재 사장...체질 개선·질적 성장 속도 낸다 | http://www.consumernews.co.kr/news/articleView.html?idxno=768861 | a1,a3
-2026-11-23 11:38 | updownnews.co.kr | 삼성물산 건설부문 사장에 최영재 부사장 승진...6년 만에 새 리더십 | https://www.updownnews.co.kr/news/articleView.html?idxno=319696 | a1,a3
-2026-11-23 11:37 | Ceritojambi.com | Kasus Duta Palma Group Memasuki Babak Perdebatan Hukum, Tuntutan Rp81,8 Triliun Jadi Sorotan Tim Pembela - Ceritojambi.com | google:Ceritojambi.com#d3c025b9 | aid8
-2026-11-23 11:37 | magazine.hankyung.com | 삼성물산 건설부문 수장 6년 만에 교체…최영재 사장 승진 | https://magazine.hankyung.com/business/article/202611233858b | a1,a3
-2026-11-23 11:35 | BigGo Finance | QatarEnergy Chief Visits South Korea: LNG Priority Supply, Plus Solar and Shipbuilding Cooperation | google:BigGo Finance#d3e83bea | aen1
-2026-11-23 11:35 | Chosunbiz | KOSPI plunges over 5%, triggering sell-sidecar | google:Chosunbiz#66b1dfbc | aen3
-2026-11-23 11:34 | 전자신문 | 한-카타르, 태양광·에너지효율 협력 확대 논의…삼성물산 2GW 사업 지원 요청 | https://www.etnews.com/20261123000238 | a1
-2026-11-23 11:34 | 스트레이트뉴스 | 삼성물산 건설부문 새 사장에 최영재…AI 특수에 하이테크 부사장 승진 | https://www.straightnews.co.kr/news/articleView.html?idxno=315943 | a1,a3
-2026-11-23 11:30 | widedaily.com | 삼성물산 건설부문 새 사령탑에 최영재 사장 선임…현장·경영 아우른 '실무형 리더' | https://www.widedaily.com/news/articleView.html?idxno=304428 | a1,a3
-2026-11-23 11:29 | 블로터 | 삼성물산 건설부문, 최영재 대표 발탁...'하이테크 수주 11조' | https://www.bloter.net/news/articleView.html?idxno=679367 | a1,a3
-2026-11-23 11:27 | Yonhap News Agency | Seoul shares extend losses late Mon. morning on AI-driven tech sell-off | google:Yonhap News Agency#2321e694 | aen3
-2026-11-23 11:24 | 조선일보 | Samsung C&T Construction Division Names Choi Young-jae President | google:조선일보#cf6b5292 | aen1
-2026-11-23 11:24 | 국민일보 | 삼성물산 건설부문장에 최영재 사장 임명, 6년 만에 수장 바뀐다 | https://www.kmib.co.kr/article/20261123500310 | a1,a3
-2026-11-23 11:12 | riaupos.co | Izin PBPH Dicabut Pemerintah Pastikan Operasional PT RAPP Tetap Jalan Melalui Skema BUMN BUMD Tanpa PHK | google:riaupos.co#ba30de33 | aid8
-2026-11-23 11:11 | Asia News Network | Indonesian government revokes 338,536 ha forest permit held by APRIL Group’s unit | google:Asia News Network#7350b843 | aen16
-2026-11-23 11:08 | it.chosun.com | 삼성물산 건설부문 수장 교체…최영재 하이테크사업부장 사장 승진 | https://it.chosun.com/news/articleView.html?idxno=3000000001607 | a1,a3
-2026-11-23 11:06 | 파이낸셜포스트 | 삼성바이오로직스, 폴리펩타이드그룹 인수자금 확보했지만...'수익성' 과제 | https://www.financialpost.co.kr/news/articleView.html?idxno=302473 | a7,ax2
-2026-11-23 11:04 | 로이슈 | 삼성물산 ‘홈닉’, 한양건설과 업무협약…‘LEEPS by 홈닉’ 도입 | https://www.lawissue.co.kr/view.php?ud=20261123110220194867191f6c6e_12 | a1
-2026-11-23 11:04 | newsway.co.kr | 최영재 삼성물산 건설부문장···전략·관리·현장 아우른 '팔방미인' - 뉴스웨이 | https://www.newsway.co.kr/news/view?ud=2026112310394107357 | a1,a3
-2026-11-23 11:00 | lcnews.co.kr | 삼성물산, '홈닉' 플랫폼 외연 확장 속 건설부문 새 사령탑 선임 | https://www.lcnews.co.kr/news/articleView.html?idxno=211827 | a1,a3
-2026-11-23 11:00 | 뉴스톱 | 6년 만에 수장 교체...삼성물산, 건설부문장에 최영재 사장 승진 | https://www.newstopkorea.com/ko-kr/articles/49236 | a1,a3
-2026-11-23 11:00 | 이코노믹리뷰 | 삼성물산, 건설부문 최영재 부사장 건설부문장 사장 승진 보임 | https://www.econovill.com/news/articleView.html?idxno=758157 | a1,a3
-2026-11-23 11:00 | 로이슈 | 삼성물산, 건설부문장에 최영재 부사장 승진…2027년 정기 사장단 인사 | https://www.lawissue.co.kr/view.php?ud=2026112310583892167191f6c6e_12 | a1,a3
-2026-11-23 10:58 | ezyeconomy.com | 삼성물산 건설부문장에 최영재 사장…사업 체질 개선 속도 | https://www.ezyeconomy.com/news/articleView.html?idxno=242086 | a1,a3
-2026-11-23 10:56 | smedaily.co.kr | 반도체 사업 맡던 최영재사장 삼성물산 건설부문 수장으로 | http://www.smedaily.co.kr/news/articleView.html?idxno=366457 | a1,a3
-2026-11-23 10:52 | 땅집고 | 삼성물산 대표 62년생→69년생으로 세대교체…반도체 공장 짓던 전문가로 | https://realty.chosun.com/site/data/html_dir/2026/11/23/2026112301053.html | a1
-2026-11-23 10:52 | 국제뉴스 | 인하공전, 삼성바이오로직스 동문 초청 온라인 직무 멘토링 | https://www.gukjenews.com/news/articleView.html?idxno=3760001 | a7,ax2
-2026-11-23 10:50 | 아주경제 | 삼성물산 건설부문 수장 6년 만에 교체…최영재 신임 사장 선임 | https://www.ajunews.com/view/20261123104749470 | a1,a3
-2026-11-23 10:46 | thebigdata.co.kr | 삼성물산 건설부문 6년 만에 수장 교체…하이테크사업부장 최영재 사장 승진 | https://www.thebigdata.co.kr/view.php?ud=202611231042595320bbceadc3c9_23 | a1,a3
-2026-11-23 10:46 | 연합인포맥스 | 삼성물산, 6년 만에 건설부문 수장 교체…신임 사장에 최영재(종합) | https://news.einfomax.co.kr/news/articleView.html?idxno=4445999 | a1,a3
-2026-11-23 10:44 | ANTARA News Sultra | Pemerintah cabut izin PBPH PT RAPP di Riau | google:ANTARA News Sultra#6e2ba71a | aid6
-2026-11-23 10:44 | fetv.co.kr | 삼성물산 건설부문, '팹' 짓던 최영재 사장 승진…'대표 교체' | https://www.fetv.co.kr/news/articleView.html?idxno=314108 | a1,a3
-2026-11-23 10:44 | globalepic.co.kr | 계약하는 순간부터 시작된 주거 서비스, 삼성물산이 한양건설과 손잡은 이유 | https://www.globalepic.co.kr/view.php?ud=20261123104028348848439a4874_29 | a1
-2026-11-23 10:42 | 아시아경제 | South Korea Seeks Priority LNG Supplies from Qatar, Expanded Cooperation in Solar, Shipbuilding and Plant Projects | google:아시아경제#d6265b89 | aen1
-2026-11-23 10:41 | TradingView | ASIA MARKET OPEN / KOSPI Opens 2.77% Lower, Taiwan Turns Higher After Weak Start, Japan Closed for Holiday | google:TradingView#b9ba8cb0 | aen3
-2026-11-23 10:38 | 팝콘뉴스 | 삼성물산 건설부문, 신임 건설부문장 사장에 최영재 하이테크사업부장 승진 선임 | http://www.popcornnews.net/news/articleView.html?idxno=141078 | a1,a3
-2026-11-23 10:38 | 비즈니스포스트 | 삼성물산 건설부문 사장 6년 만에 교체, 최영재 하이테크사업부장 선임 | https://www.businesspost.co.kr/BP?command=article_view&num=452609 | a1,a3
-2026-11-23 10:38 | womentimes.co.kr | 삼성물산, 최영재 건설부문 신임 사장 승진 선임 | https://www.womentimes.co.kr/news/articleView.html?idxno=108147 | a1,a3
-2026-11-23 10:36 | 한국경제 | 삼성물산 건설부문장에 최영재 사장…현장·경영지원 두루 거쳐 | https://www.hankyung.com/article/2026112336526 | a1,a3
-2026-11-23 10:36 | 톱스타뉴스 | 삼성바이오로직스 주가, 11월 23일 장중 1,283,000원 5.31% 하락 | https://www.topstarnews.net/news/articleView.html?idxno=16283540 | a7,ax2
-2026-11-23 10:35 | BigGo Finance | South Korea's Samsung C&T Names Choi Young-jae Construction Chief in First Leadership Change in Six Years | google:BigGo Finance#11dfa4e2 | aen1
-2026-11-23 10:30 | 글로벌이코노믹 | 삼성물산 건설부문 새 수장에 최영재 사장…질적 성장 가속화 | https://www.g-enews.com/view.php?ud=202611231021059922aa6f4cdad_1 | a1,a3
-2026-11-23 10:26 | CNB뉴스 | 삼성물산, 건설부문장에 6년만에 최영재 사장 선임 | https://www.cnbnews.com/news/articleView.html?idxno=1024771 | a1,a3
-2026-11-23 10:26 | CNB뉴스 | 삼성물산, 한양건설에 '홈닉' 주거서비스 도입 | https://www.cnbnews.com/news/articleView.html?idxno=1024772 | a1
-2026-11-23 10:21 | RiauNews.com | Petani di Siak Diterkam Beruang Saat Beraktivitas di Kebun Sawit, Luka di Tangan hingga Mata | google:RiauNews.com#a75886cb | aid6,aid9
-2026-11-23 10:17 | 파이낸셜뉴스 | “Fell to the 4,600 Level” ... KOSPI and KOSDAQ Both Weaken Amid Individual Selling [fn Morning Market Update] | google:파이낸셜뉴스#a4f1f5cb | aen3
-2026-11-23 10:16 | weeklytoday.com | [건설업계 동향] 삼성물산ㆍDL이앤씨ㆍ롯데건설(11.23) | http://www.weeklytoday.com/news/articleView.html?idxno=802936 | a1
-2026-11-23 10:16 | 미디어펜 | 삼성물산 건설부문 새 수장, 최영재 하이테크사업 부사장 선임 | https://www.mediapen.com/news/view/1139176 | a1,a3
-2026-11-23 10:14 | 헤럴드경제 | Kospi tumbles over 3% as US semiconductor index plunges 10% | google:헤럴드경제#8bb909fa | aen3
-2026-11-23 10:14 | wikileaks-kr.org | 삼성물산 건설부문, 신임사령탑에 최영재 사장 낙점 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195067 | a1,a3
-2026-11-23 10:14 | 머니투데이 | 삼성물산 건설부문장에 최영재 사장…현장·재무 두루 거친 30년 삼성맨 | https://www.mt.co.kr/estate/2026/11/24/2026112310035086110 | a1,a3
-2026-11-23 10:14 | thevaluenews.co.kr | 삼성물산, 최영재 건설부문 부사장 부문장 사장으로 승진 보임 | http://www.thevaluenews.co.kr/news/view.php?idx=203524 | a1,a3
-2026-11-23 10:10 | Seoul Economic Daily | Samsung C&T Taps Choi Young-jae to Lead Construction Unit | google:Seoul Economic Daily#8a9a3808 | aen1
-2026-11-23 10:07 | 아시아경제 | KOSPI Down 3.8%, Falls Into 4,600s for First Time in 10 Months (Updated) | google:아시아경제#f5e70bcb | aen3
-2026-11-23 10:02 | Sammy Fans | Samsung C&T names Choi Young-jae President to drive construction business growth | google:Sammy Fans#9e22b7cf | aen1
-2026-11-23 10:00 | delighti.co.kr | 삼성물산, 최영재 하이테크사업부장을 건설부문장 사장으로 승진 발령 | https://www.delighti.co.kr/news/articleView.html?idxno=125378 | a1,a3
-2026-11-23 09:58 | ziksir.com | 삼성물산, 최영재 부사장 건설부문장 사장 승진…6년 만에 수장 교체 | https://www.ziksir.com/news/articleView.html?idxno=154283 | a1,a3
-2026-11-23 09:58 | newsian.co.kr | 삼성물산, 신임 건설부문장에 최영재 하이테크사업부장 승진 선임 | https://www.newsian.co.kr/news/articleView.html?idxno=101806 | a1,a3
-2026-11-23 09:57 | Ceritojambi.com | Duta Palma Group Hadapi Tuntutan Rp81,8 Triliun, Putusan MA Surya Darmadi Jadi Dasar Keberatan Kuasa Hukum - Ceritojambi.com | google:Ceritojambi.com#32b2384b | aid8
-2026-11-23 09:54 | 1conomynews.co.kr | 삼성물산, 건설부문장에 최영재 사장…하이테크 중심 성장동력 강화 | https://www.1conomynews.co.kr/news/articleView.html?idxno=51454 | a1,a3
-2026-11-23 09:53 | Jambi Ekspres | Bukan Sekadar Hiburan, Samsung Rancang Galaxy Tab S12 Series Jadi Perangkat Kerja Utama - https://jambiekspres.disway.id/ | google:Jambi Ekspres#6e81d6c0 | aid12
-2026-11-23 09:52 | smartbizn.com | 삼성물산 건설 수장 교체···최영재 사장 승진, 하이테크 이어 전 사업 지휘 | https://www.smartbizn.com/news/articleView.html?idxno=160219 | a1
-2026-11-23 09:49 | 머니투데이 | 삼성물산 건설부문장에 최영재 사장…오세철 약 6년 만에 물러나 | https://www.mt.co.kr/estate/2026/11/23/2026112309433456825 | a1,a3
-2026-11-23 09:46 | 뉴데일리경제 | 삼성물산 건설부문 사장에 최영재 부사장 … 하이테크사업부장서 승진 | https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350068.html | a1,a3
-2026-11-23 09:44 | 노컷뉴스 | 삼성물산 건설부문 새 수장에 최영재…6년 만에 CEO 교체 | https://www.nocutnews.co.kr/news/6610804?utm_source=naver&utm_medium=article&utm_campaign=20261123094348 | a1,a3
-2026-11-23 09:44 | weekly.hankooki.com | 삼성물산, 최영재 신임 건설부문장 사장 승진 보임 | https://weekly.hankooki.com/news/articleView.html?idxno=7195131 | a1,a3
-2026-11-23 09:39 | 뉴스핌 | [인사] 삼성물산 건설부문 | https://www.newspim.com/news/view/20261123000273 | a1,a3
-2026-11-23 09:34 | dizzotv.com | 삼성물산, 2027년 정기 사장단 인사 단행…건설부문 최영재 사장 승진 | https://www.dizzotv.com/site/data/html_dir/2026/11/23/2026112380021.html | a1,a3
-2026-11-23 09:34 | Chosunbiz | Samsung C&T names Choi Young-jae to lead construction division | google:Chosunbiz#8ca83c56 | aen1
-2026-11-23 09:31 | jnilbo.com | 삼성전자·SK하이닉스 장 초반 동반 급락…'18만전자·110만닉스' 붕괴 | https://www.jnilbo.com/news/articleView.html?idxno=90000085481 | a1
-2026-11-23 09:30 | pointdaily.co.kr | 삼성물산, 건설부문장에 최영재 사장 선임…2027년 사장단 인사 | https://www.pointdaily.co.kr/news/articleView.html?idxno=326947 | a1,a3
-2026-11-23 09:30 | moneystorm.kr | 삼성물산, 최영재 건설부문장 사장 승진…6년만에 교체로 현장 전문가 선임 | https://www.moneystorm.kr/news/articleView.html?idxno=8707 | a1,a3
-2026-11-23 09:30 | insight.co.kr | 삼성물산 건설, 수장 6년 만에 교체...오세철 후임에 최영재 | https://www.insight.co.kr/news/583124 | a1
-2026-11-23 09:28 | 아시아경제 | Stocks Plunge More Than 3% Early; KOSPI 'Teeters' Near 4,700 Mark | google:아시아경제#de39c8c2 | aen3
-2026-11-23 09:28 | koreaittimes.com | 삼성물산 '홈닉', 한양건설 아파트로 확대…건설 넘어 주거 플랫폼 사업 강화 | https://www.koreaittimes.com/news/articleView.html?idxno=159357 | a1
-2026-11-23 09:19 | 매일경제 | President Choi Young-jae Named Head of Samsung C&T's Construction Division; First Leadership Change in Six Years | google:매일경제#59f693f4 | aen1
-2026-11-23 09:19 | The Korea Times | Seoul shares open over 2% lower amid AI fears | google:The Korea Times#ec8a8fce | aen3
-2026-11-23 09:18 | 중앙이코노미뉴스 | 삼성물산, 건설부문장에 최영재 사장 선임...건설사업 전반 쇄신 기대 | https://www.joongangenews.com/news/articleView.html?idxno=565708 | a1,a3
-2026-11-23 09:16 | 연합인포맥스 | 삼성물산, 건설부문 대표에 최영재 부사장 | https://news.einfomax.co.kr/news/articleView.html?idxno=4445958 | a1,a3
-2026-11-23 09:10 | thetracker.co.kr | 삼성물산 건설부문장에 최영재 사장…하이테크 전문가 전면 배치 | https://thetracker.co.kr/View.aspx?No=4324280 | a1,a3
-2026-11-23 09:08 | Aju Press | KOSPI Plummets Over 3% to Fall Below 4700 Amid Sell-off in AI and Semiconductor Stocks | google:Aju Press#fc4f66ac | aen3
-2026-11-23 09:04 | catchnews.kr | "립스아파트에 홈닉 깔린다" 삼성물산, 한양건설과 '맞손' | https://www.catchnews.kr/news/articleView.html?idxno=130840 | a1
-2026-11-23 08:58 | weekly.hankooki.com | 삼성물산·한양건설, 'LEEPS by 홈닉' 도입 협약… 입주 전 단계부터 서비스 제공 | https://weekly.hankooki.com/news/articleView.html?idxno=7195115 | a1
-2026-11-23 08:32 | 글로벌이코노믹 | [개장 전 주요 공시] 카카오·SK하이닉스·HD한국조선해양·삼성바이오에피스·한화솔루션 등 | https://www.g-enews.com/view.php?ud=202611230817306586923c501012_1 | ax2
-2026-11-23 08:31 | 데일리안 | 기후부, 카타르에 삼성물산 2GW 태양광 사업 협조 요청 | https://www.dailian.co.kr/news/view/1718160/?sc=Naver | a1
-2026-11-23 08:30 | 뉴시스 | 김성환 장관, 카타르에 삼성물산 2GW 태양광 사업 협조 요청 | https://www.newsis.com/view/NISX20261122_0003878108 | a1
-2026-11-23 08:28 | inthenews.co.kr | 삼성물산 홈닉, 한양건설 LEEPS에 도입…입주 전후 주거서비스 확대 | https://www.inthenews.co.kr/news/article.html?no=94814 | a1
-2026-11-23 08:28 | 이코노믹리뷰 | 삼성물산 '홈닉', 한양건설과 'LEEPS by 홈닉' 도입 업무협약 | https://www.econovill.com/news/articleView.html?idxno=758104 | a1
-2026-11-23 08:27 | Seoul Economic Daily | Samsung, SK hynix Slide 6% in Premarket Despite Stabilization Fund Plan | google:Seoul Economic Daily#73dbfe99 | aen3
-2026-11-23 08:11 | 헤럴드경제 | 삼성물산 ‘홈닉’, 한양건설 ‘립스’에 도입…이사 예약부터 에너지 관리까지 | https://biz.heraldcorp.com/article/10945406?ref=naver | a1
-2026-11-23 08:10 | 헤럴드경제 | Samsung C&T's Homenik platform adopted by Hanyang Construction's LEEPS brand | google:헤럴드경제#633667d5 | aen1
-2026-11-23 08:00 | 연합인포맥스 | 삼성 준감위, 주주환원 논란 심의…지배구조 개선 시험대 | https://news.einfomax.co.kr/news/articleView.html?idxno=4445920 | a1
-2026-11-23 07:32 | 이데일리 | 삼성바이오에피스와 손잡은 바이온사이트, 日 빅파마도 러브콜 | https://www.edaily.co.kr/News/Read?newsId=01275926645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a10,ax2,ax5
-2026-11-23 02:59 | law-justice.co | Respons DPR soal Izin Usaha Pemanfaatan Hutan Sukanto Tanoto Dicabut | google:law-justice.co#c8e48a12 | aid6
+2026-11-25 07:30 | 연합뉴스 | 노동장관, 삼성물산 등과 반도체팹 건설 논의…인력 확보 총력 | https://www.yna.co.kr/view/AKR20261124166100530?input=1195m | a1
+2026-11-25 07:22 | autodaily.co.kr | 삼성 준법감시위, 이재용회장 이해충돌 의혹 검토…주주환원 결정 시점 쟁점 | https://www.autodaily.co.kr/news/articleView.html?idxno=602405 | a1
+2026-11-25 06:22 | 대한경제 | [2026 SCCI] (1) 삼성물산, 역대 최초 ‘AAA’…현대·GS·대우·포스코 ‘... | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241052233040343 | a1
+2026-11-25 06:00 | Chosunbiz | Sole bids in Mokdong contrast with lower prices in contested Seongsu project | google:Chosunbiz#0cdb4a54 | aen1
+2026-11-25 05:23 | GoRiau.com | Riau Andalan Pulp and Paper | google:GoRiau.com#8316ee3f | aid6
+2026-11-25 04:05 | 머니투데이 | 초격차 잇는다… 삼성바이오 '투톱' 유임 | https://www.mt.co.kr/thebio/2026/11/25/2026112419595390014 | ax2
+2026-11-25 02:36 | apnews.kr | 삼성바이오, 부사장 2명·상무 5명 승진…글로벌 CDMO 리더십 강화 | https://www.apnews.kr/news/articleView.html?idxno=3053513 | ax2
+2026-11-25 02:06 | ktnews.com | 삼성물산 패션, 3분기 실적 '호조'…브랜드별 성장전략 통했다 | http://www.ktnews.com/news/articleView.html?idxno=150422 | a1
+2026-11-25 01:45 | TradingView | PolyPeptide strengthens full-year 2026 guidance and raises EBITDA margin outlook | google:TradingView#68a7d48f | aen3
+2026-11-25 00:34 | 조선일보 | Seoul Redevelopment Projects Awarded Without Competition | google:조선일보#4adbd43e | aen1
+2026-11-25 00:10 | apnews.kr | 삼성물산, '1등급 층간소음 저감 기술' 공유…업계 기술 수준 높인다 | https://www.apnews.kr/news/articleView.html?idxno=3053499 | a1
+2026-11-24 23:41 | Seoul Economic Daily | Samsung's Insurance and Brokerage Chiefs Set to Stay On | google:Seoul Economic Daily#47f49494 | aen1
+2026-11-24 23:41 | KABARAN.ID | IPMPB Desak Prabowo Evaluasi Pencabutan Izin PBPH RAPP | google:KABARAN.ID#424d1d0a | aid6
+2026-11-24 22:38 | bsinews.id | BKSDA Selamatkan Induk dan Anak Orang Utan dari Kebun Sawit | google:bsinews.id#1632e532 | aid12
+2026-11-24 22:26 | 로이슈 | 삼성바이오로직스, 2027년 임원 승진 인사 | https://www.lawissue.co.kr/view.php?ud=202611242223445037f4ab64559d_12 | a7,ax2
+2026-11-24 22:24 | 로이슈 | 삼성바이오에피스, 정기 임원 인사 단행 | https://www.lawissue.co.kr/view.php?ud=202611242222295690f4ab64559d_12 | a10,ax2,ax5
+2026-11-24 21:50 | Bermadah.co.id | RAPP Angkat Bicara Usai 338.536 Hektare Izin Dicabut, Nasib 41 Ribu Pekerja Jadi Sorotan | google:Bermadah.co.id#26d9868a | aid6,aid9
+2026-11-24 21:44 | klikmx.com | Kredit Macet Selama Belasan Tahun, Pemkab Inhu Turun Tangan Jembatani Petani dan Perbankan | google:klikmx.com#65723edd | aid8
+2026-11-24 21:33 | 블로터 | [삼성바이오 인사]① 분할 1년, 법인 관리 보강·본업 전문가 중용 | https://www.bloter.net/news/articleView.html?idxno=679606 | ax2
+2026-11-24 21:28 | webeconomy.co.kr | 삼성물산, 층간소음 저감 기술 건설업계 공유…연구논문 9편 발표 | https://www.webeconomy.co.kr/news/articleView.html?idxno=2388188 | a1
+2026-11-24 21:04 | EBN | 삼성물산, 층간소음 1등급 기술 개방…건설업계 공동 연구 확대 | https://www.ebn.co.kr/news/articleView.html?idxno=1732844 | a1
+2026-11-24 21:01 | Industry.co.id | RAPP Tinjau Keputusan Pemerintah Terkait Pencabutan Izin PBPH | google:Industry.co.id#78017e2d | aid9
+2026-11-24 20:06 | HALLORIAU.COM | RAPP Terima SK Pencabutan Izin, Nasib 41 Ribu Pekerja Jadi Sorotan | google:HALLORIAU.COM#a8f691be | aid9
+2026-11-24 20:03 | Seoul Economic Daily | Samsung Compliance Panel Clears Shareholder Return Timing | google:Seoul Economic Daily#ccfdc4d0 | aen1
+2026-11-24 19:27 | Tirto.id | Izin PBPH Dicabut, PT RAPP Khawatirkan Nasib 41 Ribu Pekerja | google:Tirto.id#36b15755 | aid6
+2026-11-24 19:24 | 서울경제TV | 삼성물산 최영재號 출범…30조 수주 달성 과제 | https://www.sentv.co.kr/article/view/sentv202611240161 | a1
+2026-11-24 19:14 | Wccftech | Samsung And SK hynix Face Labor Crunch For Its Semiconductor Mega-Projects; South Korea Reportedly Meeting 260,000 Workforce Requirement Through Retired Soldiers | google:Wccftech#5ae0b7e9 | aen1
+2026-11-24 19:06 | Prohealth.id | Tanggapan PT RAPP atas Keputusan Pemerintah Menutup Izinnya | google:Prohealth.id#931c36c2 | aid9
+2026-11-24 18:48 | MetroTVNews.com | BKSDA Riau Telusuri Dua Beruang Madu yang Serang Petani Sawit di Siak | google:MetroTVNews.com#14377030 | aid6
+2026-11-24 18:43 | MediaKompeten | RAPP Tegaskan Pengelolaan Konsesi Hutan Sesuai Aturan | google:MediaKompeten#a3abe6fc | aid9
+2026-11-24 18:42 | Demokratis.co.id | RAPP Tanggapi Pencabutan Izin Konsesi Hutan di Riau | google:Demokratis.co.id#44cbf7aa | aid9
+2026-11-24 18:42 | 에너지경제 | 삼성바이오에피스, 정병인 부사장 승진…1970년대생 임원 3명 발탁 | https://www.ekn.kr/web/view.php?key=20261124027293958 | a10,ax2,ax5
+2026-11-24 18:40 | medical-tribune.co.kr | 삼성바이오에피스 임원 | http://www.medical-tribune.co.kr/news/articleView.html?idxno=216010 | a10,ax2,ax5
+2026-11-24 18:32 | sports.hankooki.com | [건설소식] 삼성물산 건설부문·호반그룹·현대건설·부영그룹·IPARK현대산업개발 | https://sports.hankooki.com/news/articleView.html?idxno=6944108 | a1,a3
+2026-11-24 18:22 | 대한경제 | 삼성바이오에피스, 정병인 부사장 승진…임원 총 3명 승진 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241809242960459 | a10,ax2,ax5
+2026-11-24 18:14 | kdfnews.com | 삼성바이오로직스, 임원 7명 승진…30대 여성 상무 발탁 | http://www.kdfnews.com/news/articleView.html?idxno=191381 | a7,ax2
+2026-11-24 18:13 | 파이낸셜뉴스 | 삼성바이오 2사 임원인사 | https://www.fnnews.com/news/202611241812494372 | ax2
+2026-11-24 18:06 | 시사CAST | 삼성물산, 자체 개발 '층간소음 저감 기술' 공유… 특별 기업 세션 운영 | http://www.sisacast.kr/news/articleView.html?idxno=102303 | a1
+2026-11-24 18:06 | 시사CAST | 삼성웰스토리, 유망 스타트업과 '오픈 이노베이션' 7기 데모데이 개최 | http://www.sisacast.kr/news/articleView.html?idxno=102306 | a12,ax6
+2026-11-24 18:06 | businessplus.kr | 삼성바이오, 임원 승진 인사…30대 여성 임원 '눈길' | https://www.businessplus.kr/news/articleView.html?idxno=120434 | ax2
+2026-11-24 17:52 | 서울경제 | 삼성바이오로직스 구영한·발로예스…에피스 정병인 부사장 승진 | https://www.sedaily.com/article/20118447?ref=naver | a7,ax2
+2026-11-24 17:51 | Seoul Economic Daily | Samsung Biologics Promotes 7 Executives, Including Two to EVP | google:Seoul Economic Daily#048accb2 | aen1,aen3,aen4
+2026-11-24 17:50 | wikileaks-kr.org | 삼성물산, 층간소음 저감 기술 공유로 업계 생태계 확장 나선다 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195190 | a1
+2026-11-24 17:50 | 이뉴스투데이 | [인사] 삼성바이오에피스 | http://www.enewstoday.co.kr/news/articleView.html?idxno=2496560 | a10,ax2,ax5
+2026-11-24 17:42 | 뉴스웍스 | 이찬희 삼성 준감위원장 "주주환원 이해상충 논란 신중히 다룰 것" | https://www.newsworks.co.kr/news/articleView.html?idxno=904283 | a1
+2026-11-24 17:42 | newsprime.co.kr | 삼성바이오에피스, 전문 인재 앞세워 성장동력 강화 | http://www.newsprime.co.kr/news/article.html?no=756343 | a10,ax2,ax5
+2026-11-24 17:40 | thedailypost.kr | 삼성물산, 층간소음 저감에 AI 접목…예측·상쇄 기술 공개 | https://www.thedailypost.kr/news/articleView.html?idxno=117192 | a1
+2026-11-24 17:40 | 현대경제신문 | 삼성바이오로직스, 2027년 임원인사···7명 승진 | http://www.finomy.com/news/articleView.html?idxno=267795 | a7,ax2
+2026-11-24 17:38 | 현대경제신문 | [인사] 삼성바이오로직스 | http://www.finomy.com/news/articleView.html?idxno=267796 | a7,ax2
+2026-11-24 17:36 | YTN | [기업] 삼성물산, 층간소음 저감 기술 업계에 공유 | https://www.ytn.co.kr/_ln/0102_202611241736295729 | a1
+2026-11-24 17:30 | Seoul Economic Daily | Keryong Construction Wins Top BIM Award for Modular Housing Project | google:Seoul Economic Daily#54913332 | aen13
+2026-11-24 17:28 | 에너지경제 | 삼성바이오로직스, 부사장 2명·상무 5명 승진 인사…“전문성 강화” | https://www.ekn.kr/web/view.php?key=20261124022563952 | a7,ax2
+2026-11-24 17:19 | 매일경제 | The government will secure construction professionals to support the construction of large-scale sem.. | google:매일경제#12de4ae3 | aen1
+2026-11-24 17:17 | INIRIAU.COM | Pemprov Riau Tetapkan UMK 2027, Dumai Paling Tinggi Rp4,67 Juta | google:INIRIAU.COM#263a05b7 | aid6,aid8
+2026-11-24 17:10 | insightkorea.co.kr | 삼성물산·중공업 CEO 교체...'젊은 피' 수혈로 새 리더십 구축 | https://www.insightkorea.co.kr/news/articleView.html?idxno=259658 | a1
+2026-11-24 17:10 | ilyoseoul.co.kr | 삼성바이오로직스 노사 갈등 새 국면… 삼바노조, 한국노총 업고 교섭력 키우나 | https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525524 | a7,ax2
+2026-11-24 17:09 | InfoPublik | UMK Riau 2027 Resmi Ditetapkan, Cek Gaji Minimum di 12 Kabupaten dan Kota | google:InfoPublik#2dc7c713 | aid8
+2026-11-24 17:08 | 히트뉴스 | 삼성바이오로직스, 임원 7명 승진…30대 여성·외국인 임원 발탁 | https://www.hitnews.co.kr/news/articleView.html?idxno=81049 | a7,ax2
+2026-11-24 17:00 | pointdaily.co.kr | 삼성바이오에피스, 임원인사 단행…"미래 도약 이끌 인재 발탁" | https://www.pointdaily.co.kr/news/articleView.html?idxno=327235 | a10,ax2,ax5
+2026-11-24 16:58 | 이코노믹리뷰 | 기술 상생 나선 삼성물산, 층간소음 연구시설·기술 개방 | https://www.econovill.com/news/articleView.html?idxno=758388 | a1
+2026-11-24 16:54 | SR타임스 | 삼성바이오로직스, 구영한 상무 부사장 승진 등 7명 임원인사 | http://www.srtimes.kr/news/articleView.html?idxno=218501 | a7,ax2
+2026-11-24 16:50 | 미디어펜 | 삼성바이오로직스·에피스, 정기 임원 인사…핵심 사업 경쟁력 강화 | https://www.mediapen.com/news/view/1139687 | a7,ax2
+2026-11-24 16:48 | 비즈니스포스트 | 삼성물산 건설업계와 상생 방안 모색, 층간소음 저감 기술 공유한다 | https://www.businesspost.co.kr/BP?command=article_view&num=452807 | a1
+2026-11-24 16:43 | Seoul Economic Daily | Samsung Financial Affiliates Hunt Overseas Targets as M&A Push Accelerates | google:Seoul Economic Daily#f42b473e | aen1
+2026-11-24 16:38 | 신아일보 | 층간소음 기술 공유 나선 삼성물산…1등급 바닥구조·연구시설 개방 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086987 | a1
+2026-11-24 16:38 | 히트뉴스 | 삼성바이오에피스, 임원 3명 승진…인허가·IT·바이오분석 전문가 발탁 | https://www.hitnews.co.kr/news/articleView.html?idxno=81047 | a10,ax2,ax5
+2026-11-24 16:38 | ziksir.com | 삼성바이오에피스, 인허가·개발 전문가 중용…임원 3명 승진 | https://www.ziksir.com/news/articleView.html?idxno=154532 | a10,ax5
+2026-11-24 16:32 | SR타임스 | 삼성물산 수장 교체…포스코이앤씨·IPARK현산 대표 연임 '촉각' | http://www.srtimes.kr/news/articleView.html?idxno=218488 | a1
+2026-11-24 16:28 | s-journal.co.kr | 삼성바이오로직스, 2027년 정기 임원인사… 부사장 2명·상무 5명 승진 | https://www.s-journal.co.kr/news/articleView.html?idxno=45609 | a7,ax2
+2026-11-24 16:27 | 동아일보 | 삼성바이오로직스 부사장 2명·상무 5명 승진…2년 연속 30대 여성 임원 발탁 | https://www.donga.com/news/Health/article/all/20261124/135082169/1 | a7,ax2
+2026-11-24 16:26 | huffingtonpost.kr | 삼성물산 이웃과 평화 지키는 '바닥 기술' 경쟁사와 나눈다, 층간소음 ... | https://www.huffingtonpost.kr/article/262356 | a1
+2026-11-24 16:24 | 뉴데일리경제 | '분할 1년' 삼성바이오, 승진 임원 10명 중 5명이 여성 … 글로벌 인재도 중용 | https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450299.html | ax2
+2026-11-24 16:18 | hbnpress.com | 삼성물산, 소음진동학술대회서 층간소음 관련 논문 9편 발표 | https://hbnpress.com/news/view/1065597268733156 | a1
+2026-11-24 16:18 | newsprime.co.kr | 삼성바이오로직스, 성과 중심 인사…젊은 리더 전면 배치 | http://www.newsprime.co.kr/news/article.html?no=756293 | a7,ax2
+2026-11-24 16:18 | ziksir.com | 삼성바이오로직스, 생산·품질 전문가 중용…임원 7명 승진 | https://www.ziksir.com/news/articleView.html?idxno=154523 | a7,ax2
+2026-11-24 16:18 | 핀포인트뉴스 | [거래소 기관] 삼성전자 삼성SDI 삼성전기 현대차 쓸어 담고 삼성바이오로직스 이수페타시스 팔았다 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=507576 | ax2
+2026-11-24 16:10 | 파이낸셜뉴스 | [단독]흑석1구역 부정선거 논란 속 조합장 공백...내년 새 집행부 꾸린다 | https://www.fnnews.com/news/202611240032550849 | a1
+2026-11-24 16:07 | 아이뉴스24 | 이재용 이해상충 예외없다…삼성 준감위원장 "주주환원 유보 논란 검토... | http://www.inews24.com/view/2029851 | a1
+2026-11-24 15:56 | whitepaper.co.kr | 삼성바이오로직스, 임원 7명 발탁···2년 연속 여성 임원 배출 | http://www.whitepaper.co.kr/news/articleView.html?idxno=269119 | a7,ax2
+2026-11-24 15:54 | bizwnews.com | 삼성바이오에피스, 임원인사 단행…부사장 1명·상무 2명 승진 | http://www.bizwnews.com/news/articleView.html?idxno=152920 | a10,ax2,ax5
+2026-11-24 15:54 | Bagynews.com | Resmi Diteken! Inilah Daftar Lengkap UMK Riau 2027 di 12 Kabupaten/Kota, Dumai Tertinggi Tembus Rp4,67 Juta | google:Bagynews.com#00801a50 | aid8
+2026-11-24 15:50 | Seoul Economic Daily | Samsung Compliance Panel to Review Conflict Between Gift Tax, Shareholder Returns | google:Seoul Economic Daily#48bbc1e3 | aen1
+2026-11-24 15:50 | huffingtonpost.kr | 삼성바이오에피스 임원 인사에서 정병인 팀장 부사장 승진 : 약사 출신 바이오의약품 인허가 전문가 | https://www.huffingtonpost.kr/article/262348 | a10,ax2,ax5
+2026-11-24 15:48 | smartbizn.com | 층간소음 잡아야 아파트 경쟁력···삼성물산, 기술 공유로 해법 찾는다 | https://www.smartbizn.com/news/articleView.html?idxno=160458 | a1
+2026-11-24 15:46 | 팝콘뉴스 | 삼성바이오로직스, 2027년 정기 임원인사 단행...30대 여성 상무 등 7명 승진 | http://www.popcornnews.net/news/articleView.html?idxno=141321 | a7,ax2
+2026-11-24 15:40 | 뉴스락 | 삼성웰스토리, WIT 7기 데모데이…"스타트업과 사업경쟁력 강화" | http://www.newslock.co.kr/news/articleView.html?idxno=140836 | a12,ax6
+2026-11-24 15:38 | 브릿지경제 | 이찬희 삼성 준감위원장 “증여세•주주환원 시기 이행상충 논란 신중하게 검토할 것” | https://www.viva100.com/article/20261124501092 | a1
+2026-11-24 15:38 | 더퍼스트미디어 | 삼성웰스토리, 스타트업 기술로 식품 품질관리·헬스케어 고도화 추진 | http://www.thefirstmedia.net/news/articleView.html?idxno=214532 | a12,ax6
+2026-11-24 15:36 | 로이슈 | 삼성물산, 층간소음 저감 기술 업계에 공유…“상생 협력 확대” | https://www.lawissue.co.kr/view.php?ud=20261124153330224567191f6c6e_12 | a1
+2026-11-24 15:34 | s-journal.co.kr | 삼성물산, 층간소음 연구 성과 업계에 푼다… 1등급 바닥구조도 개방 | https://www.s-journal.co.kr/news/articleView.html?idxno=45603 | a1
+2026-11-24 15:34 | news2day.co.kr | [인사] 삼성바이오, 정기 임원인사 단행...총 10명 승진 | https://www.news2day.co.kr/article/20261124500168 | ax2
+2026-11-24 15:30 | yonhapnewstv.co.kr | 삼성바이오, '30대 여성' 임원 발탁…부사장 2명·상무 5명 승진 | http://www.yonhapnewstv.co.kr/news/AKR20261124152919Css | ax2
+2026-11-24 15:20 | 중앙이코노미뉴스 | 삼성바이오, 부사장 2명·상무 5명 승진…30대 여성 발탁 | https://www.joongangenews.com/news/articleView.html?idxno=566222 | ax2
+2026-11-24 15:18 | 딜사이트 | 삼성바이오에피스, 글로벌 인허가 전문가 정병인 부사장 승진 | https://dealsite.co.kr/articles/173396 | a10,ax2,ax5
+2026-11-24 15:16 | 뉴스핌 | 삼성물산 세대교체 신호탄…포스코이앤씨·IPARK현산·GS 수장 거취 주목 | https://www.newspim.com/news/view/20261124000973 | a1
+2026-11-24 15:12 | 아주경제 | 삼성웰스토리, AI·푸드테크 스타트업과 맞손…미래 사업 경쟁력 키운다 | https://www.ajunews.com/view/20261124150129442 | a12,ax6
+2026-11-24 15:06 | niceeconomy.co.kr | [제약 브리핑] 삼성바이오로직스·차병원 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=91972 | a7,ax2
+2026-11-24 15:05 | Warta Suluh | Harga TBS Kelapa Sawit Mitra Plasma Riau Periode 18-24 November 2026 Turun Rp85,37 per Kg Jadi Rp3,701.42 per Kg | google:Warta Suluh#a5eb3ed5 | aid6
+2026-11-24 15:04 | ilovepc.co.kr | [삼성바이오 인사] 구영한 부사장 外 | https://www.ilovepc.co.kr/news/articleView.html?idxno=61426 | ax2
+2026-11-24 15:02 | newsian.co.kr | 삼성바이오에피스, '인허가·AI·분석 전문가' 중용…미래 도약 시동 | https://www.newsian.co.kr/news/articleView.html?idxno=101918 | a10,ax2,ax5
+2026-11-24 15:02 | weekly.hankooki.com | 삼성웰스토리, 스타트업 기술 사업화 추진…품질관리·헬스케어 접목 | https://weekly.hankooki.com/news/articleView.html?idxno=7195403 | a12,ax6
+2026-11-24 14:55 | 아이뉴스24 | 삼성바이오로직스, 정기 임원 인사 단행⋯7명 승진 | http://www.inews24.com/view/2029798 | a7,ax2
+2026-11-24 14:50 | huffingtonpost.kr | 삼성바이오로직스 정기 임원 인사에서 구영한·발로예스 부사장 포함 7명 승진 | https://www.huffingtonpost.kr/article/262343 | a7,ax2
+2026-11-24 14:46 | 로이슈 | 삼성웰스토리, 스타트업 4곳과 AI·식품기술 사업 적용 검증 | https://www.lawissue.co.kr/view.php?ud=202611241441526591204ead0791_12 | a12,ax6
+2026-11-24 14:38 | biztribune.co.kr | 삼성바이오에피스, 부사장 1명·상무 2명 승진… 신약 개발·AI 역량 강화 | http://www.biztribune.co.kr/news/articleView.html?idxno=363082 | a10,ax2,ax5
+2026-11-24 14:34 | thevaluenews.co.kr | [인사] 삼성바이오에피스, 정병인 부사장 승진…정기 임원인사 3명 | http://www.thevaluenews.co.kr/news/view.php?idx=203589 | a10,ax2,ax5
+2026-11-24 14:24 | insight.co.kr | 삼성바이오로직스·에피스, 글로벌 경쟁력 강화 위한 핵심 인재 중용 | https://www.insight.co.kr/news/583387 | a7,ax2
+2026-11-24 14:24 | 잡포스트 | 삼성바이오로직스 0.78% 상승…증설과 수주잔고 점검 | https://www.job-post.co.kr/news/articleView.html?idxno=240599 | a7,ax2
+2026-11-24 14:22 | 더팩트 | "젊은 인재 중용" 삼성바이오로직스, 30대 여성 임원 발탁 | https://news.tf.co.kr/read/economy/2392727.htm | a7,ax2
+2026-11-24 14:20 | goodkyung.com | 삼성바이오, 2027 임원 승진 인사…지속 성장 기반 강화 | https://www.goodkyung.com/news/articleView.html?idxno=293808 | ax2
+2026-11-24 14:18 | goodkyung.com | 삼성바이오에피스, 정기 임원 인사 단행 …성과주의 원칙 적용 | https://www.goodkyung.com/news/articleView.html?idxno=293809 | a10,ax2,ax5
+2026-11-24 14:18 | Chosunbiz | South Korea forms joint body to address construction labor shortages | google:Chosunbiz#e1d33ca9 | aen1,aen13
+2026-11-24 14:16 | 딜사이트 | 삼성바이오로직스, 성과주의 원칙 적용… 임원 7명 승진 | https://dealsite.co.kr/articles/173391 | a7,ax2
+2026-11-24 14:15 | 이코노미스트 | 삼성바이오에피스, 정기 임원인사...글로벌 인허가 전문가 정병인 부사장 승진 | https://economist.co.kr/article/view/ecn202611240119 | a10,ax2,ax5
+2026-11-24 14:14 | newsway.co.kr | 삼성바이오로직스, 구영한 부사장 등 7명 승진…30대 여성 임원 발탁 | https://www.newsway.co.kr/news/view?ud=2026112414061058345 | a7,ax2
+2026-11-24 14:10 | newsroad.co.kr | 삼성바이오, 2년 연속 30대 여성 임원 배출…"젊은 인재 과감히 중용" | http://www.newsroad.co.kr/news/articleView.html?idxno=68338 | ax2
+2026-11-24 14:09 | 이코노미스트 | 삼성바이오로직스, 정기 임원인사… '생산 인프라 구축' 구영찬 부사장... | https://economist.co.kr/article/view/ecn202611240118 | a7,ax2
+2026-11-24 14:09 | catchnews.kr | 'ADC·5공장 증설 진두지휘' 삼성바이오로직스, 구영한 부사장 승진 | https://www.catchnews.kr/news/articleView.html?idxno=130928 | a7,ax2
+2026-11-24 14:08 | 1conomynews.co.kr | 삼성바이오로직스, 존림 체제 유지…임원 7명 승진 | https://www.1conomynews.co.kr/news/articleView.html?idxno=51515 | a7,ax2
+2026-11-24 14:06 | LiputanOke.Com | Dini Hari Mencekam, 7 Ruko di Rengat Ludes Terbakar Usai Suara Ledakan | google:LiputanOke.Com#8f484860 | aid2
+2026-11-24 14:04 | 파이낸셜포스트 | 삼성바이오로직스, 30대 여성 임원 발탁…성과 중심 세대교체 | https://www.financialpost.co.kr/news/articleView.html?idxno=302807 | a7,ax2
+2026-11-24 14:04 | lcnews.co.kr | [인사] 삼성바이오로직스, 임원 7명 승진…생산·품질 책임자 전진 배치 | https://www.lcnews.co.kr/news/articleView.html?idxno=211921 | a7,ax2
+2026-11-24 14:02 | 아주경제 | 삼성바이오로직스, 임원인사…30대 여성 상무 탄생 | https://www.ajunews.com/view/20261124134627083 | a7,ax2
+2026-11-24 14:01 | 녹색경제신문 | 하이테크 역량 집중하는 건설사들…삼성물산 건설부문장 발탁·SK에코플랜트 조직개편 | https://www.greened.kr/news/articleView.html?idxno=355391 | a3
+2026-11-24 13:57 | 조선일보 | Samsung Electronics Promotes HBM, Robotics Executives | google:조선일보#70f6d478 | aen3
+2026-11-24 13:57 | 연합뉴스 | 삼성바이오, 임원 승진 인사…30대 여성 임원 발탁(종합) | https://www.yna.co.kr/view/AKR20261124087551017?input=1195m | ax2
+2026-11-24 13:56 | fetv.co.kr | 삼성바이오로직스, 2027년 임원인사 단행…30대 상무 탄생 | https://www.fetv.co.kr/news/articleView.html?idxno=314214 | a7,ax2
+2026-11-24 13:56 | newsway.co.kr | 삼성바이오에피스, 정병인 부사장 등 3명 승진···신약·AI 인허가 힘 싣는다 | https://www.newsway.co.kr/news/view?ud=2026112411582806460 | a10,ax2,ax5
+2026-11-24 13:55 | 전자신문 | [2027 삼성 인사]삼성바이오 2개사 임원 10명 승진…생산·품질·인허가 전문가 발탁 | https://www.etnews.com/20261124000339 | ax2
+2026-11-24 13:52 | 신아일보 | 삼성바이오에피스, 임원 3명 승진…정병인 부사장 발탁 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5087065 | a10,ax2,ax5
+2026-11-24 13:50 | 소비자가만드는신문 | 삼성바이오로직스·에피스, 구영한·정병인 부사장 승진...30대 여성임원 발탁 | http://www.consumernews.co.kr/news/articleView.html?idxno=768963 | a7,ax2
+2026-11-24 13:46 | 메트로신문 | 삼성바이오에피스, 정병인 부사장 등 임원 3인 승진 인사 단행 | http://www.metroseoul.co.kr/article/20261124500219 | a10,ax2,ax5
+2026-11-24 13:45 | Aju Press | Chip fab construction needs 260,000 more workers | google:Aju Press#c548e75a | aen1
+2026-11-24 13:44 | 글로벌경제신문 | 삼성바이오로직스, 임원 7명 승진..지속 성장 강화 | https://www.getnews.co.kr/news/articleView.html?idxno=888294 | a7,ax2
+2026-11-24 13:37 | 파이낸셜뉴스 | Labor Shortages in Semiconductor and Housing Construction...MOLIT to Form Public-Private Consultative Body | google:파이낸셜뉴스#7e40c04c | aen13
+2026-11-24 13:36 | 아시아투데이 | 생산 키우는 삼성바이오·신약 힘싣는 에피스…전문가 중용 | https://www.asiatoday.co.kr/kn/view.php?key=20261124010009267 | ax2
+2026-11-24 13:35 | 서울경제 | 삼성바이오로직스, 구영한·캐롤리나 발로예스 부사장 승진…임원 7명 인사 | https://www.sedaily.com/article/20118214?ref=naver | a7,ax2
+2026-11-24 13:34 | Seoul Economic Daily | Samsung Biologics Promotes Two Executive Vice Presidents in Reshuffle | google:Seoul Economic Daily#ff7a70f4 | aen1,aen3
+2026-11-24 13:30 | 녹색경제신문 | 삼성바이오에피스, 정병인 RA팀장 부사장 승진…임상 인허가 역량 강화 | https://www.greened.kr/news/articleView.html?idxno=355388 | a10,ax2,ax5
+2026-11-24 13:30 | 브릿지경제 | 삼성바이오에피스, 임원 3명 승진⋯글로벌 인허가 전문가 부사장 발탁 | https://www.viva100.com/article/20261124500804 | a10,ax2,ax5
+2026-11-24 13:27 | 녹색경제신문 | 삼성바이오로직스, 'ADC 프로젝트' 주도 구영한 부사장 승진…세대교체 단행 | https://www.greened.kr/news/articleView.html?idxno=355386 | a7,ax2
+2026-11-24 13:24 | newsian.co.kr | 삼성바이오, '성과·다양성' 역점 두고 '부사장 2명·상무 5명' 승진 | https://www.newsian.co.kr/news/articleView.html?idxno=101913 | ax2
+2026-11-24 13:22 | 브릿지경제 | 삼성바이오로직스, 부사장 2명·상무 5명 승진⋯생산·품질 역량 강화 | https://www.viva100.com/article/20261124500779 | a7,ax2
+2026-11-24 13:21 | 매일경제 | More than 10,000 people flocked to the "Jamsil Raemian I-Park" (unranked) subscription for the newly.. | google:매일경제#f1b7e818 | aen1
+2026-11-24 13:20 | livebiz.today | 삼성바이오, 7명 임원 승진 인사…30대 여성 임원 탄생 | https://www.livebiz.today/news/articleView.html?idxno=206845 | ax2
+2026-11-24 13:16 | 머니투데이 | Samsung Biologics, John Rim and Kim Kyung-ah to Continue Leading as 'Dual Top'… "Global Growth Assessment" | google:머니투데이#9663d76b | aen3
+2026-11-24 13:16 | 머니투데이 | Samsung bio affiliates retain John Rim-Kim Kyung-ah leadership duo on global growth | google:머니투데이#726ddf17 | aen3,aen4,aen5
+2026-11-24 13:16 | 머니투데이 | 삼성바이오, 존림-김경아 '투톱' 체제 더 간다…"글로벌 성장 평가" | https://www.mt.co.kr/thebio/2026/11/25/2026112412281812161 | ax2
+2026-11-24 13:06 | jasm.co.kr | 삼성바이오, 임원 7명 승진 인사…30대 여성 상무 탄생 | https://www.jasm.co.kr/news/view/326310/?sc=Naver | ax2
+2026-11-24 12:54 | Seoul Economic Daily | Samsung Bioepis Promotes Three Executives in Annual Reshuffle | google:Seoul Economic Daily#ef56e476 | aen1,aen3,aen4,aen5
+2026-11-24 12:54 | 서울경제 | 삼성에피스 정기 임원…부사장 1명, 상무 2명 승진 | https://www.sedaily.com/article/20118200?ref=naver | ax3
+2026-11-24 12:52 | 아시아경제 | Samsung C&T to Share Self-Developed Inter-Floor Noise Reduction Technologies with Industry | google:아시아경제#9560b084 | aen1
+2026-11-24 12:45 | 아시아경제 | 260,000 More Workers Needed to Build Semiconductor Plants... Public and Private Sectors Join Forces to Train Skilled Construction Workers | google:아시아경제#062d6b2f | aen1
+2026-11-24 12:38 | press9.kr | 삼성바이오에피스, 임원 3명 승진…인허가·IT·바이오분석 역량 | http://www.press9.kr/news/articleView.html?idxno=86929 | a10,ax2,ax5
+2026-11-24 12:38 | 뉴스락 | 삼성바이오에피스, 임원 인사…부사장 1명 등 3명 승진 | http://www.newslock.co.kr/news/articleView.html?idxno=140798 | a10,ax2,ax5
+2026-11-24 12:34 | press9.kr | 삼성바이오로직스, 임원 7명 승진…핵심사업 전문인력 중용 | http://www.press9.kr/news/articleView.html?idxno=86928 | a7,ax2
+2026-11-24 12:25 | 전자신문 | 삼성바이오로직스, 임원 7명 발탁…여성 임원 2명 배출 | https://www.etnews.com/20261124000274 | a7,ax2
+2026-11-24 12:24 | 바이오타임즈 | 삼성바이오에피스, 정기 임원 인사…정병인 부사장 등 3명 승진 | https://www.biotimes.co.kr/news/articleView.html?idxno=36445 | a10,ax2,ax5
+2026-11-24 12:22 | 포쓰저널 | 삼성바이오에피스, 정병인 부사장 등 3명 승진 | http://www.4th.kr/news/articleView.html?idxno=2122554 | a10,ax2,ax5
+2026-11-24 12:10 | kihoilbo.co.kr | 삼성바이오로직스 및 삼성바이오에피스 인사 | https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041910 | a10,a7,ax2,ax5
+2026-11-24 12:08 | 데일리안 | 삼성에피스, 글로벌 임상 전문가 정병인 신임 부사장 선임 | https://www.dailian.co.kr/news/view/1718974/?sc=Naver | ax3
+2026-11-24 12:00 | biospectator.com | [인사]삼성바이오로직스, 2027년 정기 임원승진 | https://www.biospectator.com/view/news_view.php?varAtcId=30518 | a7,ax2
+2026-11-24 12:00 | 뉴스웍스 | 삼성바이오로직스, 임원 인사…부사장 2명·상무 5명 승진 | https://www.newsworks.co.kr/news/articleView.html?idxno=904196 | a7,ax2
+2026-11-24 11:56 | 뉴데일리경제 | [인사] 삼성바이오에피스, 정병인 부사장 外 | https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450186.html | a10,ax2,ax5
+2026-11-24 11:55 | BigGo Finance | South Korea's Samsung Biologics Announces 2027 Executive Appointments: Two Executive VPs, Five Managing Directors Promoted | google:BigGo Finance#74cb6af9 | aen3,aen4
+2026-11-24 11:54 | koreareport.co.kr | 삼성바이오 부사장 2명 승진 인사…30대 여성 임원 눈길 | https://www.koreareport.co.kr/news/articleView.html?idxno=55085 | ax2
+2026-11-24 11:52 | 뉴데일리경제 | [인사] 삼성바이오로직스, 구영한 부사장 外 | https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450181.html | a7,ax2
+2026-11-24 11:50 | 데일리한국 | '존림號' 삼성바이오로직스, 글로벌 경쟁력 강화 속도…7명 승진 | https://daily.hankooki.com/news/articleView.html?idxno=1428046 | a7,ax2
+2026-11-24 11:50 | MTN | 삼성바이오에피스, 2027년 임원 인사…부사장 1명·상무 2명 승진 | https://news.mtn.co.kr/article/2026112411481188088 | a10,ax2,ax5
+2026-11-24 11:50 | 메디컬월드뉴스 | [인사]삼성바이오에피스 정병인 부사장 외 총 3명 승진 | https://medicalworldnews.co.kr/news/view.php?idx=1510978605 | a10,ax2,ax5
+2026-11-24 11:48 | MTN | 삼성바이오로직스, 2027년 임원 인사…30대 여성 임원 탄생 | https://news.mtn.co.kr/article/2026112411462393337 | a7,ax2
+2026-11-24 11:48 | apsk.co.kr | 삼성바이오로직스, 2027년 임원 7명 승진…생산·품질 리더십 강화 | https://www.apsk.co.kr/news/articleView.html?idxno=541134 | a7,ax2
+2026-11-24 11:48 | 서울경제TV | 삼성바이오에피스, 임원 3명 승진…인허가·신약 개발 전문가 중용 | https://www.sentv.co.kr/article/view/sentv202611240114 | a10,ax2,ax5
+2026-11-24 11:44 | Seoul Economic Daily | Samsung SDI Promotes 11 Executives, Including Four to Executive Vice President | google:Seoul Economic Daily#81273ba7 | aen1
+2026-11-24 11:42 | 머니투데이 | Samsung Bioepis promotes regulatory affairs expert Jung Byung-in to vice president, 2 others to managing directors | google:머니투데이#b4ea1188 | aen4
+2026-11-24 11:42 | 머니투데이 | 삼성바이오에피스, 인허가 전문가 정병인 부사장 승진…이규범·최소영 상무 승진 | https://www.mt.co.kr/thebio/2026/11/24/2026112411382128672 | a10,ax2,ax5
+2026-11-24 11:42 | 데일리한국 | 삼성웰스토리, WIT 7기 데모데이 진행…AI 스타트업 4곳과 기술검증 | https://daily.hankooki.com/news/articleView.html?idxno=1428295 | a12,ax6
+2026-11-24 11:39 | 아시아경제 | Samsung Bioepis Announces Regular Executive Promotions; One VP, Two Managing Directors | google:아시아경제#caf7e4c7 | aen4
+2026-11-24 11:38 | medicopharma.co.kr | 삼성바이오에피스, 성과·역량 중심 정기 임원 인사 단행 | https://www.medicopharma.co.kr/news/articleView.html?idxno=70607 | a10,ax2,ax5
+2026-11-24 11:38 | EBN | 삼성바이오에피스, 1970년대생 임원 3명 승진…인허가·IT·분석 역량 강화 | https://www.ebn.co.kr/news/articleView.html?idxno=1732803 | a10,ax2,ax5
+2026-11-24 11:35 | 뉴시스 | "차세대 리더"…삼성바이오, 30대 여성 상무 발탁 | https://www.newsis.com/view/NISX20261124_0003880825 | ax2
+2026-11-24 11:34 | 이데일리 | 삼성바이오로직스·에피스, 구영한·정병인 부사장 등 임원 승진 인사 | https://www.edaily.co.kr/News/Read?newsId=02784726645649000&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | a7,ax2
+2026-11-24 11:34 | pharmnews.com | 삼성바이오에피스, 정기 임원 인사 단행…리더십 강화 | https://www.pharmnews.com/news/articleView.html?idxno=308265 | a10,ax2,ax5
+2026-11-24 11:34 | 전자신문 | 삼성바이오에피스, 2027년 임원 인사…정병인 부사장 등 3명 승진 | https://www.etnews.com/20261124000257 | a10,ax2,ax5
+2026-11-24 11:32 | 뉴스웍스 | 삼성웰스토리, 스타트업 협업 'WIT' 7기 데모데이…AI·푸드테크 협력 확대 | https://www.newsworks.co.kr/news/articleView.html?idxno=904186 | a12,ax6
+2026-11-24 11:31 | Seoul Economic Daily | Samsung SDS Promotes 10 Executives in 2027 Reshuffle | google:Seoul Economic Daily#d3ed5eda | aen1
+2026-11-24 11:30 | EBN | 삼성바이오로직스, 임원 7명 승진…생산·품질·개발 역량 강화 | https://www.ebn.co.kr/news/articleView.html?idxno=1732800 | a7,ax2
+2026-11-24 11:29 | 머니투데이 | Samsung Biologics promotes 2 vice presidents and 5 managing directors to proactively respond to business changes | google:머니투데이#a2f1e449 | aen3
+2026-11-24 11:29 | 머니투데이 | 삼성바이오로직스, 부사장 2명·상무 5명 승진…"경영환경 변화 선제대응" | https://www.mt.co.kr/thebio/2026/11/24/2026112411210076370 | a7,ax2
+2026-11-24 11:28 | 데일리안 | 삼성바이오, 송도 5공장 주도한 구영한 신임 부사장 발탁 | https://www.dailian.co.kr/news/view/1718950/?sc=Naver | ax2
+2026-11-24 11:27 | seoultimes.news | 삼성바이오에피스, 정병인 부사장·이규범 최소영 상무 승진 | https://www.seoultimes.news/news/article.html?no=2000102618 | a10,ax2,ax5
+2026-11-24 11:24 | 아주경제 | 삼성바이오로직스·에피스 임원인사 단행… 구영한·정병인 부사장 승진 | https://www.ajunews.com/view/20261124111600761 | a7,ax2
+2026-11-24 11:24 | biospectator.com | [인사]삼성바이오에피스, 정기 임원인사 | https://www.biospectator.com/view/news_view.php?varAtcId=30517 | a10,ax2,ax5
+2026-11-24 11:22 | SR타임스 | 삼성바이오에피스, 정병인 상무 부사장 승진 등 총 3명 인사 단행 | http://www.srtimes.kr/news/articleView.html?idxno=218457 | a10,ax2,ax5
+2026-11-24 11:22 | digitalchosun.dizzo.com | 삼성바이오에피스, 40대 인허가 전문가 부사장 발탁…상무 2명도 승진 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/24/2026112480068.html | a10,ax2,ax5
+2026-11-24 11:22 | dailypharm.com | 인사-정병인 부사장 외 삼성바이오에피스 임원 승진 | https://www.dailypharm.com/user/news/today-focus/12573?REFERER=NP | a10,ax2,ax5
+2026-11-24 11:20 | dailypharm.com | 인사-구영한 부사장 외 삼성바이오로직스 승진 | https://www.dailypharm.com/user/news/today-focus/12572?REFERER=NP | a7,ax2
+2026-11-24 11:16 | digitalchosun.dizzo.com | 삼성바이오로직스, 2027년 임원 승진 인사…30대 여성 상무 발탁 | http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/24/2026112480064.html | a7,ax2
+2026-11-24 11:16 | 파이낸셜뉴스 | 삼성바이오에피스, 인허가·AI·분석 전문가 전진 배치...임원 3명 승진 | https://www.fnnews.com/news/202611241109405792 | a10,ax2,ax5
+2026-11-24 11:15 | 파이낸셜뉴스 | Samsung Bioepis Puts Regulatory Affairs, AI and Bioanalysis Experts in Key Roles; Promotes Three Executives | google:파이낸셜뉴스#770fc5c2 | aen4
+2026-11-24 11:14 | 이코노미사이언스 | 삼성바이오에피스, 2027년 임원인사…인허가·AI·바이오분석 전문가 발탁 | https://www.e-science.co.kr/news/articleView.html?idxno=140592 | a10,ax2,ax5
+2026-11-24 11:13 | 헤럴드경제 | Samsung Biologics promotes 7 executives in 2027 reshuffle | google:헤럴드경제#64080000 | aen3
+2026-11-24 11:12 | 이코노미사이언스 | 삼성바이오로직스, 2027년 임원인사…생산·품질·바이오 기술 전문인재 중용 | https://www.e-science.co.kr/news/articleView.html?idxno=140590 | a7,ax2
+2026-11-24 11:12 | issuenbiz.com | 삼성바이오로직스, 생산·품질 전문가 전진 배치…30대 여성 임원 발탁 | http://www.issuenbiz.com/news/articleView.html?idxno=81946 | a7,ax2
+2026-11-24 11:12 | dailypharm.com | 삼성바이오에피스, 70년대생 임원 3명 승진…전문성 강화 | https://www.dailypharm.com/user/news/344966?REFERER=NP | a10,ax2,ax5
+2026-11-24 11:11 | 아시아경제 | Samsung Biologics Announces 2027 Executive Appointments; Promotes 2 to Vice President and 5 to Executive Director | google:아시아경제#0badad48 | aen3
+2026-11-24 11:10 | 파이낸셜뉴스 | Samsung Biologics Promotes Two to Vice President and Five to Managing Director in 2027 Executive Appointments | google:파이낸셜뉴스#6ffa7a40 | aen3
+2026-11-24 11:10 | 신아일보 | 외식 창업 브랜드 개발 부담 줄인다…삼성웰스토리, 브랜드 솔루션 출시 | https://www.shinailbo.co.kr/news/articleView.html?idxno=5086537 | a12,ax6
+2026-11-24 10:57 | 매일경제 | Samsung promotes four executives in leadership shake-up | google:매일경제#42b1a5ce | aen1
+2026-11-24 10:48 | 뉴시스 | "사과 품질·임직원 체중 AI로 관리한다" 삼성웰스토리, 스타트업 협업 성과 | https://www.newsis.com/view/NISX20261124_0003880471 | a12,ax6
+2026-11-24 10:47 | 파이낸셜뉴스 | “Leading the Way in Win-Win Technology Sharing to Resolve Inter-Floor Noise”... Samsung C&T Shares Research Findings | google:파이낸셜뉴스#8a93f24e | aen1
+2026-11-24 10:34 | Seoul Economic Daily | Samsung C&T Opens Noise-Reduction Patents, Test Lab to Rival Builders | google:Seoul Economic Daily#15cec095 | aen1
+2026-11-24 10:26 | 머니투데이 | Samsung Electro-Mechanics promotes 15 executives, prioritizing talent in technology and market expansion | google:머니투데이#e5e2b961 | aen3
+2026-11-24 10:18 | 헤럴드경제 | Samsung C&T shares top-rated floor technology, unveils inter-floor noise research | google:헤럴드경제#c1dd0685 | aen1
+2026-11-24 10:12 | foodnews.co.kr | 스타트업 손잡은 삼성웰스토리, AI 이물 검출·초고압 살균 등 미래 사업 기술 확보 | http://www.foodnews.co.kr/news/articleView.html?idxno=121116 | a12,ax6
+2026-11-24 09:54 | 매일경제 | Samsung C&T's construction sector will co-exist technology related to inter-floor noise research.. | google:매일경제#ac8a6115 | aen1
+2026-11-24 09:53 | Seoul Economic Daily | Nvidia Soars 31.5%, Lifting Samsung and SK hynix 6-8% | google:Seoul Economic Daily#39ff7f70 | aen1
+2026-11-24 09:52 | Seoul Economic Daily | Samsung to Quintuple V9 NAND Output at Xi'an Plant for AI Demand | google:Seoul Economic Daily#2fac29c7 | aen1
+2026-11-24 09:36 | paxetv.com | 삼성물산, 건설부문장에 최영재 부사장 임명…체질 개선·질적 성장 도모 | http://www.paxetv.com/news/articleView.html?idxno=287683 | a3
+2026-11-24 09:25 | 머니투데이 | Jensen Huang's return triggers buy-sidecar at market open as chip and AI stocks rebound | google:머니투데이#d7311e09 | aen1,aen3
+2026-11-24 09:22 | newsquest.co.kr | 삼성웰스토리, AI로 식품 불량 잡고 건강 관리…스타트업 기술 현장 적용 | https://www.newsquest.co.kr/news/articleView.html?idxno=305666 | a12,ax6
+2026-11-24 09:20 | 한국금융신문 | [프로필] 최영재 삼성물산 건설부문장 사장, 경영지원·현장 두루 섭렵 | https://www.fntimes.com/html/view.php?ud=202611240905317012b372994c95_18 | a3
+2026-11-24 09:14 | newsian.co.kr | 삼성물산 건설부문, '층간소음 기술' 개방…'건설업계 상생' 이끈다 | https://www.newsian.co.kr/news/articleView.html?idxno=101879 | a3
+2026-11-24 09:04 | megaeconomy.co.kr | 삼성웰스토리, 스타트업 기술사업화 속도…AI 품질관리부터 헬스케어까지 신사업 확장 | https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571073595949 | a12,ax6
+2026-11-24 08:48 | 뉴데일리경제 | 스타트업 기술검증서 실제 사업까지 … 삼성웰스토리, AI·푸드테크 협력 확대 | https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450034.html | a12,ax6
+2026-11-24 08:48 | Chosunbiz | Samsung C&T to share inter-floor noise reduction research at conference | google:Chosunbiz#a4df2020 | aen1
+2026-11-24 08:20 | issuenbiz.com | 삼성웰스토리, AI로 사과 품질검사…건강관리까지 넓힌다 | http://www.issuenbiz.com/news/articleView.html?idxno=81928 | a12,ax6
+2026-11-24 08:02 | Media Center Riau | Plt Gubernur Riau Teken SK UMK/UMSK 2027, Berikut Rincian Lengkap Tiap Daerah | google:Media Center Riau#e0c73849 | aid6,aid8
+2026-11-24 07:52 | RiauAktual.com | Edy Natar Dorong Riau Perjuangkan Bagi Hasil 70:30 Kebun Sawit Sitaan | google:RiauAktual.com#e7b48b80 | aid9
+2026-11-24 07:11 | Seoul Economic Daily | Goldman Sachs Cuts Samsung, SK hynix Targets by Up to 43% | google:Seoul Economic Daily#eac084e9 | aen1
+2026-11-24 05:53 | 조선일보 | Samsung Appoints New Construction, Shipbuilding Chiefs | google:조선일보#e4da5251 | aen1
