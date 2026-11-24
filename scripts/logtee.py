@@ -7,6 +7,7 @@ GitHub 는 Actions 로그 본문을 로그인 없이는 보여 주지 않는다.
 
 - 기사 본문 조각이 든 「요약 근거」 줄은 뺀다. 비밀값은 출력하지 않는 코드이고, 환경변수는 실행 종류(GITHUB_EVENT_NAME·ADVANCE_STATE)만 적는다.
 - 파일 맨 위 한 줄에 시작·종료·소요 시간(KST)과 실행 종류를 적는다.
+- 백업 실행처럼 「[SKIP]」으로 끝난 실행은 run_log.txt 를 덮어쓰지 않고 run_log_skip.txt 에 따로 쓴다(07:55 백업 실행이 07:30 정기 수집 로그를 지우던 문제).
 - 어떤 오류도 수집을 막지 않는다. 끄려면 환경변수 RUN_LOG=off.
 """
 import atexit
@@ -77,10 +78,11 @@ def _write():
         root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         out = os.path.join(root, "pool")
         os.makedirs(out, exist_ok=True)
-        tmp = os.path.join(out, "run_log.txt.tmp")
+        name = "run_log_skip.txt" if any(ln.lstrip().startswith("[SKIP]") for ln in body) else "run_log.txt"   # 건너뛴 실행은 정기 로그를 지우지 않는다
+        tmp = os.path.join(out, name + ".tmp")
         with open(tmp, "wb") as f:
             f.write(data)
-        os.replace(tmp, os.path.join(out, "run_log.txt"))
+        os.replace(tmp, os.path.join(out, name))
     except Exception:  # noqa — 로그 저장 실패는 수집에 영향을 주지 않는다
         pass
 
