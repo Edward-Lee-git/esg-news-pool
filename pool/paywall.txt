@@ -1,14 +1,15 @@
 # 임팩트온 유료(구독자 전용) 기사 제외 결과 — 수집기가 자동으로 만든다(루틴은 읽지 않고 /check 가 읽는다)
-collected: 2026-11-25 07:30 KST
+collected: 2026-11-26 07:30 KST
 mode: on
 status: ok
-checked: 17 (유료 5 · 무료 12 · 판정불가 0)
-excluded: 5건 (세트별 a 0 · b 5 · c 5 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
-reasons: free 12, paid 5
+checked: 19 (유료 6 · 무료 13 · 판정불가 0)
+excluded: 6건 (세트별 a 0 · b 6 · c 6 — 같은 기사가 여러 세트에 있으면 겹쳐 센다)
+reasons: free 13, paid 6
 
 # 제외한 기사(매체 | 제목 | 주소 | 세트)
-임팩트온 | EU 규제 완화 땐 배터리 수요 247GWh 감소…韓 기업, 현지생산·수출 유불리 갈려 | https://www.impacton.net/news/articleView.html?idxno=30808 | bc
-임팩트온 | 메타, 탄소배출량 계산에 자체 기준 도입…스코프 1·3까지 인증서 반영 | https://www.impacton.net/news/articleView.html?idxno=30807 | bc
-임팩트온 | 엘니뇨에 바이엘·뉴몬트 비상…매출 타격부터 조 단위 기후적응 투자까지 | https://www.impacton.net/news/articleView.html?idxno=30801 | bc
-임팩트온 | AI 전력 확보 경쟁에 산업 공급망 흔들…설비 납기 4년·가스터빈 가격 30% 상승 | https://www.impacton.net/news/articleView.html?idxno=30794 | bc
-임팩트온 | 【ESG Deal】파워셀, 미국 수소 연료전지 수주·노르딕 렌가스, e-메탄 투자·브라이트AI, 산업설비 점검 플랫폼 투자유치 | https://www.impacton.net/news/articleView.html?idxno=30793 | bc
+임팩트온 | 에퀴노르 CEO “포집 프로젝트 지연으로 신규 저장계약 물량 부족” | https://www.impacton.net/news/articleView.html?idxno=30824 | bc
+임팩트온 | COP31 협상장에서 두드러진 중국 기업들, 20조원 튀르키예 투자협약 | https://www.impacton.net/news/articleView.html?idxno=30823 | bc
+임팩트온 | 26조원 전기차 투자손실 털어낸 포드, 이번엔 우주산업 진출 | https://www.impacton.net/news/articleView.html?idxno=30818 | bc
+임팩트온 | 폐배터리 부족한데 재활용 설비는 과잉…BASF도 사업 매각 | https://www.impacton.net/news/articleView.html?idxno=30816 | bc
+임팩트온 | 【ESG Deal】선메탈론, 금속 재활용 자금 확보·굿히트, 산업용 열배터리 투자 유치·GES, 수소·망간 흐름전지 실증 자금 조달 | https://www.impacton.net/news/articleView.html?idxno=30812 | bc
+임팩트온 | AI가 제품 탄소배출량 몇 분 만에 계산…그런데 구매 결정엔 못 쓰는 이유 | https://www.impacton.net/news/articleView.html?idxno=30809 | bc
