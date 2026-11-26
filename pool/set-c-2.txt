@@ -1,256 +1,256 @@
-# collected: 2026-11-26 07:30 KST
-# window: 2026-11-25 00:00 ~ 2026-11-26 07:30 KST
+# collected: 2026-11-27 07:30 KST
+# window: 2026-11-26 00:00 ~ 2026-11-27 07:30 KST
 # part 2 of 6, lines: 250
 # format: date | media | title | url | tags
 # note: 직전 날짜 정기 수집본에 이미 실린 기사는 이 목록에서 제외되어 있음
 
-2026-11-25 23:02 | 경향신문 | 미 USTR “한국 관세 15% 상한 유지” | https://www.khan.co.kr/article/202611252302005 | c26
-2026-11-25 23:01 | 매일경제 | 젠슨 황의 ‘찜찜한 사과’…후계자 없다 못박고, 트럼프 개입 반쪽해명 | https://www.mk.co.kr/article/12218760 | c44
-2026-11-25 22:58 | apnews.kr | 대신증권, 고배당·주주환원 상품 투자 고객에 '최대 40만원' 지원 | https://www.apnews.kr/news/articleView.html?idxno=3053578 | c38
-2026-11-25 22:58 | 아시아투데이 | 미 USTR, 한국·일본·EU 관세 15% 상한 유지…최대 20% 인상 여지 | https://www.asiatoday.co.kr/kn/view.php?key=20261125010010099 | c26
-2026-11-25 22:58 | kookje.co.kr | 미국 무역대표부, 과잉생산 관세 예고…“韓 15% 상한 유지” | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20261125.99099008270 | c26
-2026-11-25 22:58 | 뉴스1 | 美, '과잉생산' 추가 관세 발표…한국은 합의대로 15% 상한 유지 | https://www.news1.kr/world/usa-canada/6366265 | c26
-2026-11-25 22:58 | jasm.co.kr | 미 무역대표부 “한국·일본·EU 등 관세 15% 상한 유지” | https://www.jasm.co.kr/news/view/326513/?sc=Naver | c26
-2026-11-25 22:56 | 글로벌경제신문 | 금호타이어, 지속가능성지수 타이어 부문 4년 연속 1위 | https://www.getnews.co.kr/news/articleView.html?idxno=888492 | c46
-2026-11-25 22:54 | 뉴시스 | 美, 한국·일본 등 관세 15% 상한 유지…中에는 추가 20% 제안 | https://www.newsis.com/view/NISX20261125_0003883563 | c26,sw
-2026-11-25 22:52 | 아이뉴스24 | 美 '과잉생산 관세' 예고 발표…"韓은 15% 상한 유지" | http://www.inews24.com/view/2030523 | c26
-2026-11-25 22:51 | 한국일보 | 미 USTR, 과잉생산 관세 발표… "한국은 총 15% 상한 유지" | https://www.hankookilbo.com/news/article/A2026112522300004634?did=NA | c26
-2026-11-25 22:50 | 로이슈 | 한국중부발전, 협력기업과 함께하는 ‘안전동행 워크숍’ 개최 | https://www.lawissue.co.kr/view.php?ud=202611252248405984f4ab64559d_12 | c20
-2026-11-25 22:50 | kyeonggi.com | 美, 한국 등 14개 교역국에 추가 관세 추진…최대 15% 상한 유지 | https://www.kyeonggi.com/article/20261125580589 | c26
-2026-11-25 22:49 | 파이낸셜뉴스 | 美, 과잉생산 겨냥 14개국 새 관세…한국 최대 15% | https://www.fnnews.com/news/202611252247044160 | c26
-2026-11-25 22:47 | kalkine.co.uk | Why Did M.P. Evans Group plc LSE:MPE Drop 2.92% as Risk Appetite Stays Fragile in London? | google:kalkine.co.uk#73a22b79 | cgb1
-2026-11-25 22:44 | JTBC | 미국 USTR "한국, 일본, EU 등 관세 15% 상한 유지" | https://news.jtbc.co.kr/article/NB12329853?influxDiv=NAVER | c26,sw
-2026-11-25 22:44 | KBS | 미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한” | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722759&ref=A | c26
-2026-11-25 22:44 | 머니투데이 | 최악 피한 한국 수출…美 '과잉생산 관세' 맞지만 '15% 상한선' 유지 | https://www.mt.co.kr/world/2026/11/25/2026112522392990320 | c26
-2026-11-25 22:44 | 국제뉴스 | 스페이스X·테슬라 합병 시기 당겨지나...자문사 선정, 연내 타결 목표 | https://www.gukjenews.com/news/articleView.html?idxno=3763335 | c44
-2026-11-25 22:38 | 로이슈 | 법무법인 지음, 유플리트와 중대재해 대응 업무협약 체결 | https://www.lawissue.co.kr/view.php?ud=202611252235447072f4ab64559d_12 | c20
-2026-11-25 22:38 | 서울신문 | [속보] 美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고…“韓은 15% 상한 유지” | https://www.seoul.co.kr/news/international/2026/11/25/20261125500339?wlog_tag3=naver | c26,sw
-2026-11-25 22:36 | 이데일리 | [속보]美, 한국에 15% '과잉생산 관세' 예고…중국 20%·EU 15% | https://www.edaily.co.kr/News/Read?newsId=04316486645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c26
-2026-11-25 22:34 | 글로벌이코노믹 | 美, 한국·중국·EU 등 14개국에 '과잉생산' 신규 관세 예고 | https://www.g-enews.com/view.php?ud=20261125222912240e250e8e188_1 | c26
-2026-11-25 22:30 | magazine.hankyung.com | 고려아연 vs 영풍·MBK 정면충돌…상호주 공방에 이사회 12대 7 흔들리나 | https://magazine.hankyung.com/business/article/202611250622b | c36
-2026-11-25 22:30 | 뉴스핌 | 美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망 | https://www.newspim.com/news/view/20261125001329 | c26
-2026-11-25 22:30 | 국민일보 | 美, 한국·EU·일본 등에 ‘15% 상한’ 관세 예고 | https://www.kmib.co.kr/article/20261125502133 | c26
-2026-11-25 22:28 | biztribune.co.kr | 유한킴벌리, 지속가능성지수 생활용품 부문 1위… ESG 경영 경쟁력 강화 | http://www.biztribune.co.kr/news/articleView.html?idxno=363198 | c7
-2026-11-25 22:28 | imaeil.com | 美, '과잉생산 관세' 추가…한국은 '관세 상한' 15% 유지 | https://www.imaeil.com/page/view/2026112522271887985 | c26
-2026-11-25 22:27 | 조선일보 | 美, ‘과잉 생산’ 관세 추가... “한국엔 15% 상한 유지” | https://www.chosun.com/international/us/2026/11/25/LK4WTNOAWRAUFAPB4AK4XN7GLU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | c26
-2026-11-25 22:26 | 경향신문 | [속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지” | https://www.khan.co.kr/article/202611252226001 | c26,sw
-2026-11-25 22:21 | 중앙일보 | [속보] 美, 14개 경제주체에 과잉생산 관세…“韓 15% 상한 유지” | https://www.joongang.co.kr/article/25481966 | c26
-2026-11-25 22:20 | jejumaeil.net | 제주여성가족연구원 내부갈등 쟁점 부각 | https://www.jejumaeil.net/news/articleView.html?idxno=407128 | c18
-2026-11-25 22:20 | autodaily.co.kr | [칼럼] 젠슨 황 컴백 도운 트럼프, 도덕성 잃은 특권 정치 | https://www.autodaily.co.kr/news/articleView.html?idxno=602422 | c44
-2026-11-25 22:20 | inthenews.co.kr | iM금융, ‘녹색경영 우수기업’ 환경정보공개부문 기후부 장관상 | https://www.inthenews.co.kr/news/article.html?no=95020 | c47,c48,c49
-2026-11-25 22:19 | 지디넷코리아 | 삼성전기, 1.7조원 자사주 전량 소각 | https://zdnet.co.kr/view/?no=20261125220801 | c41
-2026-11-25 22:14 | CNB뉴스 | 성남시, 그린 애플 어워즈 최고 대상…해외 기관 최초 수상 | https://www.cnbnews.com/news/articleView.html?idxno=1025303 | c7
-2026-11-25 22:12 | CNB뉴스 | 남양주시 관내 기업 기원위스키, 영국 국제와인-스피릿대회에서 한국 위스키 증류소 최초로 대상 수상 | https://www.cnbnews.com/news/articleView.html?idxno=1025371 | c15
-2026-11-25 22:08 | mpmbc.co.kr | 호남고속철도 KTX 공사장 60대 추락 사망..현장 작업 중지 | https://mpmbc.co.kr/NewsArticle/1547363 | c20
-2026-11-25 22:02 | 뉴시스 | 임금 체불 후 24년간 해외 도피…반도체 설비업체 대표 구속 | https://www.newsis.com/view/NISX20261125_0003883521 | c17
-2026-11-25 22:02 | 한스경제 | 캠코,통영"해양숲 조성"위해 선촌어촌계...'잘피2천주 이식' | http://www.hansbiz.co.kr/news/articleView.html?idxno=887046 | c7
-2026-11-25 22:02 | 더퍼스트미디어 | 코스맥스, 타임 선정 ‘세계 최고 지속가능 성장기업’ 2년 연속 등재…ESG 경쟁력 인정 | http://www.thefirstmedia.net/news/articleView.html?idxno=214736 | c51
-2026-11-25 22:01 | blue News | Federal Council Plans to Introduce a Counterproposal to the Corporate Responsibility Initiative | google:blue News#e6b87cf4 | cgb2
-2026-11-25 22:00 | startuptoday.co.kr | [포커스] 4대 금융 '어떻게 주주 몫을 늘렸나'…밸류업 2년, 달라진 환원 | https://www.startuptoday.co.kr/news/articleView.html?idxno=820106 | c38
-2026-11-25 21:58 | geconomy.co.kr | 2년간 노동자 5명 숨진 세아베스틸…김철희 전 대표 집행유예에 노동계 반발 | https://www.geconomy.co.kr/news/article.html?no=326077 | c20,c21
-2026-11-25 21:52 | 뉴스핌 | 박영환 전교조 위원장 연임…"공교육의 새 방향 제시" | https://www.newspim.com/news/view/20261125001323 | c19
-2026-11-25 21:51 | IndexBox | Cooling Tower Inspection Equipment Market To 2035: Data Center Uptime Drives Growth - News and Statistics | google:IndexBox#07e8d438 | cgb2
-2026-11-25 21:50 | youngnong.co.kr | 산림청, 온두라스와 산림탄소 협력 합의…국제 산불 대응 공조 확대 | https://www.youngnong.co.kr/news/articleView.html?idxno=72218 | c3
-2026-11-25 21:50 | newstown.co.kr | 한국자산관리공사, 통영에 잘피 2000주…연간 탄소 25톤 저감 기대 | http://www.newstown.co.kr/news/articleView.html?idxno=723373 | c7
-2026-11-25 21:50 | KBS | “사고 뒤 점검만 반복”…예방은 불가능? | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722674&ref=A | c20
-2026-11-25 21:48 | bizwnews.com | KB증권, 지속가능성보고서상 금융부문 2년 연속 선정 | http://www.bizwnews.com/news/articleView.html?idxno=153139 | c46
-2026-11-25 21:48 | newstown.co.kr | 용인특례시의회, 3개 구청에 안전관리·감사 이행 강화 주문 | http://www.newstown.co.kr/news/articleView.html?idxno=723381 | c15
-2026-11-25 21:44 | youngnong.co.kr | 대동, 환경·사회·지배구조 평가 2년 연속 통합 에이(A)등급 | https://www.youngnong.co.kr/news/articleView.html?idxno=72201 | c35,c45,c49
-2026-11-25 21:38 | youngnong.co.kr | TYM, 지속가능경영 평가 종합 B+…전년보다 두 단계 상승 | https://www.youngnong.co.kr/news/articleView.html?idxno=72202 | c49
-2026-11-25 21:31 | ThePrint | Cargill and McCain Recognized for Sustainable Palm Oil Communication Leadership | google:ThePrint#2de761b8 | cgb1
-2026-11-25 21:30 | 로이슈 | 유한킴벌리, 지속가능성지수 생활용품 부문 1위…통산 16회 수상 | https://www.lawissue.co.kr/view.php?ud=202611252127145177204ead0791_12 | c46,c7
-2026-11-25 21:30 | SR타임스 | KCC, '대한민국 지속가능성보고서상' 12년 연속 수상 | http://www.srtimes.kr/news/articleView.html?idxno=218651 | c46,c48,c49
-2026-11-25 21:30 | abcn.kr | 홈플러스 67개 매장, 27일 또 문 닫는다…26일 온라인 배송도 중단 | https://www.abcn.kr/news/articleView.html?idxno=95048 | c25
-2026-11-25 21:28 | youngnong.co.kr | 산림청, 산림분야 지속가능경영 우수사례 7건 선정 | https://www.youngnong.co.kr/news/articleView.html?idxno=72216 | c7
-2026-11-25 21:25 | 파이낸셜뉴스 | 삼성전기, 1조7천억 자사주 소각… 주주환원 강화 | https://www.fnnews.com/news/202611252124089247 | c41
-2026-11-25 21:22 | gnmaeil.com | 금정산국립공원 멸종위기 생물 6종 발견 | http://www.gnmaeil.com/news/articleView.html?idxno=599491 | c7
-2026-11-25 21:21 | jnilbo.com | 무안 KTX 공사 현장서 60대 작업자 10ｍ 추락사…작업중지 | https://www.jnilbo.com/news/articleView.html?idxno=90000086682 | c20
-2026-11-25 21:19 | moneystorm.kr | 삼성전기, 1조7천억원 규모 자사주 전량 소각…취득 당시보다 시가 12배 | https://www.moneystorm.kr/news/articleView.html?idxno=8844 | c41
-2026-11-25 21:18 | thelec.kr | 삼성전기, 1조7000억원 자사주 전량 소각…취득가 대비 12배 | https://www.thelec.kr/news/articleView.html?idxno=65931 | c41
-2026-11-25 21:14 | newsian.co.kr | [증권픽] 교보증권, '지속가능성보고서상' 5년 연속 수상 外 | https://www.newsian.co.kr/news/articleView.html?idxno=102026 | c38,c48,c49
-2026-11-25 21:13 | 뉴스1 | 전교조 박영환 연임…"교육부만으론 한계" 범정부 교섭 추진(종합) | https://www.news1.kr/society/education/6366245 | c19
-2026-11-25 21:11 | Soko Directory | SanlamAllianz Reports KES819bn Assets, 58% Female Workforce In First Sustainability Report | google:Soko Directory#8fa80988 | cgb2
-2026-11-25 21:10 | ksmnews.co.kr | 포항 효곡동, 해병대 제7포병대대에 위문품 기탁 | https://www.ksmnews.co.kr/news/view.php?idx=631164 | c34
-2026-11-25 21:08 | yeongnam.com | 수달이 헤엄치고 아이들이 뛰노는 봉화 석포…영풍제련소의 ‘공존(共存) 실험’ / 영남일보 | https://www.yeongnam.com/web/view.php?key=20261125021432948 | c5
-2026-11-25 21:08 | safetynews.co.kr | "노동자 5명 사망인데… 세아베스틸 집행유예 강력 규탄" | https://www.safetynews.co.kr/news/articleView.html?idxno=251799 | c20
-2026-11-25 21:08 | yonhapnewstv.co.kr | 수출 1조 달러 시대…美 관세 변수에 촉각 | http://www.yonhapnewstv.co.kr/news/MYH20261125210747pHK | c26
-2026-11-25 21:06 | yeongnam.com | [경제기획 HOUSE⑥] 단절 아닌 연결… 경계 허문 아파트, 공동체 회복하다 / 영남일보 / 윤정혜 기자 | https://www.yeongnam.com/web/view.php?key=20261125027311451 | c45
-2026-11-25 21:05 | openPR.com | Forecast and Industry Outlook for the Heavy Commercial Vehicle Lubricants Market Through 2030 | google:openPR.com#01613c59 | cgb1
-2026-11-25 21:04 | inven.co.kr | [공지] 니케, 26일 PC 런처 보안 강화…복구 비용 지원 절차 안내 | https://www.inven.co.kr/webzine/news/?news=323850 | c33
-2026-11-25 21:00 | news.mbccb.co.kr | R) 4명 사상 "명백한 위험 신호 간과".. 에코프로비엠 전 대표 징역형 집... | http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261125&SEQUENCE=0123 | c21
-2026-11-25 20:59 | 머니투데이 | 박영환 전교조 위원장 연임 성공…"교권보호 강화하겠다" | https://www.mt.co.kr/policy/2026/11/25/2026112520354239350 | c19
-2026-11-25 20:56 | 경향신문 | 쥐덫 옆에서 식사…지하 감옥 같은 아파트 미화노동자 휴게실 | https://www.khan.co.kr/article/202611252056025 | c21
-2026-11-25 20:50 | nbntv.co.kr | KCC, 12년 연속 '지속가능성보고서상' 제조 부문 우수보고서 선정 | https://www.nbntv.co.kr/news/articleView.html?idxno=4027966 | c46,c48,c49
-2026-11-25 20:46 | 스트레이트뉴스 | 삼성전기, 1조7000억원대 자사주 소각…2015년 취득가보다 12배 커져 | https://www.straightnews.co.kr/news/articleView.html?idxno=316243 | c41
-2026-11-25 20:46 | vop.co.kr | 전교조 기호 2번 박영환 · 이민희 당선...51% 득표 | https://vop.co.kr/A00001697768.html | c19
-2026-11-25 20:46 | obsnews.co.kr | 미, '과잉생산 관세' 발표 임박…한 관세 15% 유지할 듯 | https://www.obsnews.co.kr/news/articleView.html?idxno=1544999 | c26
-2026-11-25 20:46 | news2day.co.kr | 변동성 장세에 금투업계 자금 유치 경쟁…채권부터 AI·로봇까지 | https://www.news2day.co.kr/article/20261125500201 | c38
-2026-11-25 20:44 | ESG경제 | 달라지는 기업지배구조보고서, 주주보호 실효성 꼼꼼히 공시해야 | https://www.esgeconomy.com/news/articleView.html?idxno=17546 | c37,c39,sw
-2026-11-25 20:42 | s-journal.co.kr | DL이앤씨 새만금수목원 현장서 60대 추락사…올해 그룹 건설현장 사망 세 번째 | https://www.s-journal.co.kr/news/articleView.html?idxno=45669 | c20,c23
-2026-11-25 20:42 | 한국NGO신문 | 성폭력 피해자 향한 역고소 40% '급증'…전국성폭력상담소협의회, 대책 촉구 | https://www.ngonews.kr/news/articleView.html?idxno=244194 | c18
-2026-11-25 20:37 | dt.co.kr | [속보] 무안 KTX 공사장서 60대 작업자, 10m 아래로 추락 사망…노동당국 조사 | https://www.dt.co.kr/article/12097294?ref=naver | c20
-2026-11-25 20:36 | 경남도민일보 | [사설]악화일로 한화오션 원·하청 노사, 성실 교섭으로 풀어야 | https://www.idomin.com/news/articleView.html?idxno=2020604 | c19
-2026-11-25 20:33 | 조선일보 | 무안 KTX 공사장서 60대 작업자 추락 사망 | https://www.chosun.com/national/regional/2026/11/25/733EY36BP5ELTCYDM4INYX2O2M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news | c20
-2026-11-25 20:30 | TradingView | NexGen Releases 6th Annual Sustainability Report | google:TradingView#4a7ea4fb | cgb2
-2026-11-25 20:30 | Stock Titan | Indigenous partnerships, worker safety and environmental stewardship feature in NexGen's 2025 report. | google:Stock Titan#91a686f2 | cgb2
-2026-11-25 20:28 | 한국NGO신문 | 인천시, SK인천석유화학 협력사 근로환경 개선 나서…상생 공간 개관 | https://www.ngonews.kr/news/articleView.html?idxno=244207 | c20
-2026-11-25 20:26 | knnews.co.kr | 도내 진보정당 7곳 “한화오션 원청교섭 사측·경남도 적극 나서야” | https://www.knnews.co.kr/news/articleView.php?idxno=1555932 | c19
-2026-11-25 20:24 | bizwnews.com | 인천연구원, '탄소중립 선도' 시민참여 방안 강조…“실효성 있는 지원 체계 마련해야” | http://www.bizwnews.com/news/articleView.html?idxno=153109 | c1
-2026-11-25 20:22 | newsmaker.or.kr | 하이원리조트, 26/27시즌 스키장 조기 개장…안전결의대회 개최 | http://www.newsmaker.or.kr/news/articleView.html?idxno=186470 | c20
-2026-11-25 20:20 | 더퍼스트미디어 | 유한킴벌리, 대한민국 지속가능성지수 생활용품 부문 1위선정 …ESG 성과·정보공개 역량 인정 | http://www.thefirstmedia.net/news/articleView.html?idxno=214715 | c46,c7
-2026-11-25 20:20 | 더퍼스트미디어 | 셀트리온, 인천 저어새 번식 환경 개선…지역사회와 생태계 보전 협력 | http://www.thefirstmedia.net/news/articleView.html?idxno=214722 | c47,c7
-2026-11-25 20:20 | 연합뉴스 | 무안 KTX 공사장서 60대 작업자 추락 사망…노동당국 조사(종합) | https://www.yna.co.kr/view/AKR20261125131251054?input=1195m | c20
-2026-11-25 20:20 | 더퍼스트미디어 | 공무원연금공단, 노사·외부 전문가와 안전보건경영방침 개정…종사자 안전권익 보호 강화 外 1건 | http://www.thefirstmedia.net/news/articleView.html?idxno=214730 | c20
-2026-11-25 20:17 | 뉴스1 | 전교조 박영환 위원장 연임 성공…임기 2028년까지 | https://www.news1.kr/society/education/6366230 | c19
-2026-11-25 20:14 | cctimes.kr | 청주시 자연환경대상 우수상 | http://www.cctimes.kr/news/articleView.html?idxno=939205 | c7
-2026-11-25 20:12 | 핀포인트뉴스 | 한국거래소, 상장사 이사 100여명 대상 밸류업 설명회 | https://www.pinpointnews.co.kr/news/articleView.html?idxno=508151 | c38
-2026-11-25 20:06 | 데일리환경 | “가정용 계량기는 왜 그대로?”…서울시 ‘친환경 수도계량기’ 반쪽 전환 지적 | https://www.dailyt.co.kr/newsView/dlt202611250039 | c15
-2026-11-25 20:04 | 비건뉴스 | COP31 후속 토론회 26일 서울서…탄소예산·국내 감축경로 논의 | https://www.vegannews.co.kr/news/article.html?no=411162 | c3
-2026-11-25 19:59 | 헤럴드경제 | 중대재해 영업정지 끝난 지 한 달 만에…삼부토건서 또 노동자 추락사 | https://biz.heraldcorp.com/article/10949451?ref=naver | c20,c21,c23
-2026-11-25 19:58 | kookje.co.kr | 디지털자산업자, 신고제서 인가·지정·등록제로 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261126.22011008255 | c42
-2026-11-25 19:52 | dongponews.net | 젠슨 황 살린 트럼프, 엔비디아에 '복귀 청구서' 내미나 | https://www.dongponews.net/news/articleView.html?idxno=61907 | c44
-2026-11-25 19:50 | newsian.co.kr | [금융픽] KB국민은행, 서울시 11개 구금고 유치…점유율 1위 外 | https://www.newsian.co.kr/news/articleView.html?idxno=102009 | c7
-2026-11-25 19:48 | gnnews.co.kr | 합천군의회 권영주 의원 "정양늪 습지보호지역 지정·여론 수렴" 촉구 | https://www.gnnews.co.kr/news/articleView.html?idxno=650357 | c7
-2026-11-25 19:47 | 뉴시스 | 전남 무안 건설현장서 60대 추락사…중대재해법 조사 | https://www.newsis.com/view/NISX20261125_0003883493 | c20,c21,c23
-2026-11-25 19:40 | 비건뉴스 | 일진홀딩스, 신탁으로 자사주 84만4455주 취득 | https://www.vegannews.co.kr/news/article.html?no=411152 | c41
-2026-11-25 19:38 | 이투뉴스 | 환경공단, 페루와 순환경제 협력 본격화 | http://www.e2news.com/news/articleView.html?idxno=336488 | c5
-2026-11-25 19:33 | KBS | 국회 문체위, ‘언론 4법’ 심사 착수…국민의힘 “언론 길들이기” 반발 | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722475&ref=A | c44
-2026-11-25 19:30 | news.hidoc.co.kr | 모욕과 압박이 성과 높일 수 있을까?... CEO 복귀한 젠슨 황, '폭언' 논란은 계속 | https://news.hidoc.co.kr/news/articleView.html?idxno=70565 | c18
-2026-11-25 19:28 | newstomato.com | 삼성전기, 자사주 1조7000억 소각…주주환원 확대 | http://www.newstomato.com/ReadNews.aspx?no=1321904&inflow=N | c41
-2026-11-25 19:26 | 한스경제 | 성남시, 영국 국제환경상 32년 역사 새로 썼다 | http://www.hansbiz.co.kr/news/articleView.html?idxno=887359 | c7
-2026-11-25 19:26 | 뉴스후플러스 | 충남 공무직 정년 65세로 연장…임금 삭감 없이 고용 보장 | https://www.newswhoplus.com/news/articleView.html?idxno=75433 | c19
-2026-11-25 19:24 | kookje.co.kr | 호주 국립공원 블루마운틴, 경제도 자연도 살리는 관광…年 782만 명 찾아 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261126.22006007956 | c7
-2026-11-25 19:23 | kookje.co.kr | 직원에 음란 영상 전송, 부산 골프장 대표 송치 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261126.22010008233 | c18
-2026-11-25 19:18 | 데일리한국 | 환경공단, '한국형 순환경제 노하우' 페루에 전수 | https://daily.hankooki.com/news/articleView.html?idxno=1429097 | c5
-2026-11-25 19:17 | KBS | 대불산단 잇단 사망사고…안전 관리 대책은? | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722419&ref=A | c20,c21,c28
-2026-11-25 19:16 | weekly.hankooki.com | [토큰워치] ‘결국, 그래도 은행’…원화 스테이블코인 ‘은행 중심 발행’ 추진 | https://weekly.hankooki.com/news/articleView.html?idxno=7195746 | c42
-2026-11-25 19:16 | kfenews.co.kr | KCC, 지속가능성보고서 12년 연속 우수상 | https://www.kfenews.co.kr/news/articleView.html?idxno=668777 | c48,c49
-2026-11-25 19:14 | 인천일보 | 인천연구원 "탄소중립 선도도시 조성 위해 다각적 시민참여 필요" | https://www.incheonilbo.com/news/articleView.html?idxno=1337845 | c1
-2026-11-25 19:14 | 매일경제 | 삼성전기, 1조7000억원 자사주 전량 소각 | https://www.mk.co.kr/article/12218546 | c41
-2026-11-25 19:12 | sisanews24.co.kr | 윤철상 천안시의원, 도시공사 조직문화 개선·청년정책 내실화 주문 | http://www.sisanews24.co.kr/19990 | c18
-2026-11-25 19:12 | bizwnews.com | 신한카드, '백두대간 자생식물 종자' 시드볼트 저장 | http://www.bizwnews.com/news/articleView.html?idxno=153118 | c7
-2026-11-25 19:06 | 데일리한국 | 삼성전기, 자사주 200만주 소각…1조7000억원 규모 | https://daily.hankooki.com/news/articleView.html?idxno=1429095 | c41
-2026-11-25 19:06 | startuptoday.co.kr | [기획] 달라진 금융주 3色 투자…내년 키워드는 '이익 방어력과 주주환... | https://www.startuptoday.co.kr/news/articleView.html?idxno=820120 | c38
-2026-11-25 19:04 | 에너지경제 | [종합] ‘60대’ 통합 진에어, ‘규모의 경제’ 시험대…리스료 협상 첫 고비는 2028년 | https://www.ekn.kr/web/view.php?key=20261125028384728 | c44
-2026-11-25 19:02 | 뉴데일리경제 | 삼성전기, 1.7조원 자사주 소각 … 주가 상승에 규모 12배↑ | https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550348.html | c41
-2026-11-25 19:00 | ggilbo.com | [남형민 노무사의 노무병법] 직장안에서의 가능한 사랑 | https://www.ggilbo.com/news/articleView.html?idxno=1195630 | c18
-2026-11-25 19:00 | ggilbo.com | 산림청, 온두라스와 산림탄소 사업 합의…산림분야 국제협력 성과 거둬 | https://www.ggilbo.com/news/articleView.html?idxno=1195645 | c3
-2026-11-25 18:58 | EBN | 삼성전기, 자사주 1조7000억원어치 태운다…"주주가치 제고" | https://www.ebn.co.kr/news/articleView.html?idxno=1733011 | c41
-2026-11-25 18:56 | newsworker.co.kr | 아산시의회, 충남지속가능발전협의회와 탄소중립 업무협약 체결 | https://www.newsworker.co.kr/news/articleView.html?idxno=516216 | c1
-2026-11-25 18:54 | joongboo.com | SK인천석유화학 ‘협력사 상생협력 안전행복관’ 문 열어...원·하청 동반성장 거점 | https://www.joongboo.com/news/articleView.html?idxno=363743613 | c20
-2026-11-25 18:54 | incheonin.com | SK인천석유화학 사업장 내 '협력사 상생협력 안전행복관' 개관 | http://www.incheonin.com/news/articleView.html?idxno=122582 | c20
-2026-11-25 18:53 | seoultimes.news | 용인 반도체공장 건설현장서 근로자 사망 | https://www.seoultimes.news/news/article.html?no=2000102709 | c23
-2026-11-25 18:52 | 뉴데일리경제 | [단독] 김성연, 이해상충 정면 돌파 … "제노스코 인수 이사회 자료도 안 받겠다" | https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550346.html | c36
-2026-11-25 18:48 | ccdn.co.kr | 청주상의, 중대재해 예방 세미나 | https://www.ccdn.co.kr/news/articleView.html?idxno=1113624 | c20
-2026-11-25 18:48 | wikileaks-kr.org | [카드 NOW] 신한카드·NH농협카드 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195231 | c7
-2026-11-25 18:48 | sjbnews.com | 생명과 공존을 배우다 | https://sjbnews.com/news/news.php?number=893629 | c7
-2026-11-25 18:48 | ccdn.co.kr | 오송참사 이어 또 안전사고...청주시 공직사회 '긴장' | https://www.ccdn.co.kr/news/articleView.html?idxno=1113632 | c20
-2026-11-25 18:48 | 국민일보 | “한국, 15% 상한 유지” 美, 14개국 ‘과잉생산 관세’ 부과 | https://www.kmib.co.kr/article/20261125501826 | c26
-2026-11-25 18:48 | wikileaks-kr.org | [뱅크 NOW] 카카오뱅크·케이뱅크·JB금융지주 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195267 | c48,c49
-2026-11-25 18:47 | sjbnews.com | “글로벌 최상위 수준 ESG 역량 입증”...JB금융그룹, 한국ESG기준원(KCGS) ESG 평가 “통합 A+ 등급” 획득 | https://sjbnews.com/news/news.php?number=893621 | c47,c48,c49,c51
-2026-11-25 18:47 | sjbnews.com | 익산 함열 도시재생, 주민 주도 자립 기반 다진다 | https://sjbnews.com/news/news.php?number=893622 | c5
-2026-11-25 18:47 | sjbnews.com | '전북농협 안전법령 컨설팅' 실시 | https://sjbnews.com/news/news.php?number=893623 | c20
-2026-11-25 18:46 | ccdn.co.kr | 코레일·철도학회, 고속철도 통합 이후 한국철도 미래전략 모색 | https://www.ccdn.co.kr/news/articleView.html?idxno=1113617 | c20
-2026-11-25 18:46 | 뉴시스 | 美 '과잉생산 관세' 전망에 中 "거짓 명제로 정치적 조작" | https://www.newsis.com/view/NISX20261125_0003883360 | c26
-2026-11-25 18:45 | 서울경제 | 삼성전기, 11년 전 매입한 자사주 1.7조 원어치 소각 | https://www.sedaily.com/article/20119036?ref=naver | c41
-2026-11-25 18:42 | samdailbo.com | 본청은 늘고, 행정시는 줄고..."탄소중립 예산 엇박자" | http://www.samdailbo.com/news/articleView.html?idxno=273203 | c1,c3
-2026-11-25 18:41 | 머니투데이 | "위험 경고 여러 번 무시해"…'4명 사상' 에코프로비엠 전 대표 집유 | https://www.mt.co.kr/society/2026/11/25/2026112518074672423 | c21
-2026-11-25 18:40 | SR타임스 | 삼성SDI 울산사업장, ‘2026 녹색경영 우수기업’ 대상…ESG 경영 성과 입증 | http://www.srtimes.kr/news/articleView.html?idxno=218643 | c47,sw
-2026-11-25 18:39 | 서울경제 | 알츠하이머 치료제 개발사 큐어버스, 230억 투자 유치 [투자 ABC] | https://www.sedaily.com/article/20119030?ref=naver | c20
-2026-11-25 18:37 | 파이낸셜뉴스 | 수은, EDCF 환경사회자문회의 개최…세이프가드 개정 논의 | https://www.fnnews.com/news/202611251754502608 | c34
-2026-11-25 18:36 | 에너지경제 | [현장] 이승철 아시아나항공 상무 “에어서울, 사모채 200억 원 자체적으로 해결” | https://www.ekn.kr/web/view.php?key=20261125024584720 | c44
-2026-11-25 18:35 | 아시아경제 | 삼성전기, 자사주 1.7조원 규모 전량 소각…주주가치 제고 | https://view.asiae.co.kr/article/2026112518354693979 | c41
-2026-11-25 18:34 | 비즈니스포스트 | KB증권 '지속가능성보고서상' 금융부문 2년 연속 수상, "ESG활동 투명하... | https://www.businesspost.co.kr/BP?command=article_view&num=452946 | c46
-2026-11-25 18:34 | 브레이크뉴스 | 옥천군, 충북교육청 거점 일반형 돌봄 2년 연속 선정…내년에도 ‘24시 어린이집’ 운영:브레이크뉴스 | http://www.breaknews.com/1253981 | c34
-2026-11-25 18:32 | 연합인포맥스 | SK하이닉스, 밸류업 이행 현황 공시…100조 주주환원 재확인 | https://news.einfomax.co.kr/news/articleView.html?idxno=4446534 | c38
-2026-11-25 18:32 | YTN | 삼성전기, 1.7조 규모 보유 자사주 소각하기로 | https://www.ytn.co.kr/_ln/0102_202611251832413847 | c41
-2026-11-25 18:32 | bizwnews.com | 한샘, ‘지속가능성보고서상’ 2년 연속 영예…'ESG 정보 투명성' 인정받았다 | http://www.bizwnews.com/news/articleView.html?idxno=153181 | c46
-2026-11-25 18:32 | lak.co.kr | 산림청, ‘제3회 산림 ESG 공모전’ 우수사례 7건 선정 | http://www.lak.co.kr/news/boardview.php?id=24408 | c7
-2026-11-25 18:32 | 조선비즈 | 임기 3개월 남았는데… IBK저축은행 대표 해임 추진 | https://biz.chosun.com/stock/finance/2026/11/25/57UVGDSZ7FE5PLFDFC4ZO6NZ34/?utm_source=naver&utm_medium=original&utm_campaign=biz | c18
-2026-11-25 18:32 | thebigdata.co.kr | 포스코그룹 차기 회장 선임절차 담당할 독립이사 7명 면면은… | https://www.thebigdata.co.kr/view.php?ud=202611251826396141570d99e4c8_23 | c44
-2026-11-25 18:30 | 이코노믹리뷰 | [바이오 브리프] 셀트리온·HK이노엔·부광약품·앱티스 | https://www.econovill.com/news/articleView.html?idxno=758534 | c7
-2026-11-25 18:30 | daejonilbo.com | 코레일·철도학회, 고속철도 통합 이후 미래전략 논의 | https://www.daejonilbo.com/news/articleView.html?idxno=2316302 | c20
-2026-11-25 18:30 | 에너지경제 | [금융 풍향계] JB금융, 깐깐해진 ESG 평가서 ‘통합 A+ 등급’ 外 | https://www.ekn.kr/web/view.php?key=20261125028404701 | c48,c49
-2026-11-25 18:28 | 머니투데이 | 삼성전기, 1.73조 규모 자사주 소각…주주환원 강화 | https://www.mt.co.kr/industry/2026/11/25/2026112517502435650 | c41
-2026-11-25 18:28 | livesnews.com | SK인천석유화학 협력사 7곳에 복지공간…안전 위험요인 162건 개선 | https://www.livesnews.com/news/article.html?no=66376 | c20
-2026-11-25 18:26 | 파이낸셜뉴스 | 상장사 자사주 63조… 삼성전자 등 5곳에 45% 몰렸다 | https://www.fnnews.com/news/202611251824273511 | c39,c41
-2026-11-25 18:26 | newsworker.co.kr | 천안시의회 노종관 의원, '시민 목소리 제도와 정책으로 구체화'... 최우수의원 | https://www.newsworker.co.kr/news/articleView.html?idxno=516214 | c15
-2026-11-25 18:26 | 서울신문 | ‘일장황몽’ 코스피, 관세까지 덮치나 | https://www.seoul.co.kr/news/economy/securities/2026/11/25/20261125500322?wlog_tag3=naver | c26
-2026-11-25 18:24 | 연합인포맥스 | 삼성전기, 1조7천억원 규모 자사주 전량 소각 결정 | https://news.einfomax.co.kr/news/articleView.html?idxno=4446533 | c41
-2026-11-25 18:24 | kwangju.co.kr | “ESG 못하면 납품도 수출도 위태”…전남광주 중기 지원 시급 | http://www.kwangju.co.kr/article.php?aid=1795598400805711005 | c25
-2026-11-25 18:23 | 파이낸셜뉴스 | 상법개정 후 자사주 소각 공시 2.2배.. 내년 9월 시한 앞두고 "보유분 털자" | https://www.fnnews.com/news/202611251822467724 | c41
-2026-11-25 18:20 | lak.co.kr | [자연자본 시대의 생태복원 ㉒] 자연자본시대, 생태복원을 위한 생태모... | http://www.lak.co.kr/news/boardview.php?id=24407 | c7
-2026-11-25 18:20 | 인천일보 | 김동민 인천시의원 "문화·복지 기관 정상화 온 힘" | https://www.incheonilbo.com/news/articleView.html?idxno=1337840 | c18
-2026-11-25 18:20 | jnilbo.com | 與, '언론4법' 심사 착수…국힘 "언론 길들이기" 반발 | https://www.jnilbo.com/news/articleView.html?idxno=90000086678 | c44
-2026-11-25 18:18 | bizwnews.com | [Car's 스토리] 배달용 오토바이도 ‘심장 교체’ 시대…규제 빗장 풀어야 ‘개조 전기차’ 뜬다 | http://www.bizwnews.com/news/articleView.html?idxno=153128 | c5
-2026-11-25 18:18 | 브릿지경제 | 정부, 취업부터 채용까지 맞춤형 지원 강화 | https://www.viva100.com/article/20261125501379 | c18
-2026-11-25 18:18 | 파이낸셜뉴스 | [fn이사람] "아시아의 네 기러기, 한·중·일·인도 성장 비밀 담아" | https://www.fnnews.com/news/202611251816536681 | c30
-2026-11-25 18:18 | goodnews1.com | 개도국 AI 도약 해법 모색…'PYEX 2026' 국제포럼 | https://www.goodnews1.com/news/articleView.html?idxno=466641 | c30
-2026-11-25 18:16 | 쿠키뉴스 | 한국형 자원순환 정책 페루로…환경공단, 중남미 환경시장 진출 교두보... | https://www.kukinews.com/article/view/kuk202611250223 | c5
-2026-11-25 18:16 | yonhapnewstv.co.kr | 문체소위, 여당 주도로 '언론 4법' 심사 착수…野 "언론 길들이기" | http://www.yonhapnewstv.co.kr/news/AKR20261125181549Mdq | c44
-2026-11-25 18:14 | 비즈니스포스트 | 카카오뱅크 개정 상법 따라 보유 자사주 27만 주 소각 결정, 66억 규모 | https://www.businesspost.co.kr/BP?command=article_view&num=452930 | c41
-2026-11-25 18:14 | 파이낸셜뉴스 | "근현대사 상처 간직한 용산공원… 주택공급용 개발 안된다" [논설실의 뉴스 진단] | https://www.fnnews.com/news/202611251813276449 | c7
-2026-11-25 18:14 | womennews.co.kr | 성폭력 피해자 상대 ‘역고소’ 2년새 40% 증가… “가해자 변호사가 부추겨” | https://www.womennews.co.kr/news/articleView.html?idxno=284945 | c18
-2026-11-25 18:14 | 일요신문 | [르포] ‘안방 40m 앞에 폐기물매립지가…’ 용인 반도체 단지 인근 주민들의 무너진 생존 | https://ilyo.co.kr/?ac=article_view&entry_id=513795 | c34
-2026-11-25 18:12 | starnewsk.com | 정태용 교수, 기후대응센터서 "韓 금융권 기후 대응 사실상 전무" 쓴소리 [K현장] | http://www.starnewsk.com/news/articleView.html?idxno=61392 | c3
-2026-11-25 18:11 | thebell Free | 아시아나, "진에어 에어서울 흡수시 주주영향 제한적" | google:thebell Free#d9c84698 | sw
-2026-11-25 18:11 | 매일경제 | 충남도, 도 단위 광역단체 최초 공무직 정년 65세 연장 | https://www.mk.co.kr/article/12218508 | c19
-2026-11-25 18:10 | ccdailynews.com | '공무직 정년 65세 시대' 충남이 연다 | https://www.ccdailynews.com/news/articleView.html?idxno=2453292 | c19
-2026-11-25 18:10 | ccdailynews.com | 국힘 "與, '언론 4법' 강행 처리 의도…언론 자유 옥죄는 이중제재" | https://www.ccdailynews.com/news/articleView.html?idxno=2453343 | c44
-2026-11-25 18:09 | 한국경제 | 공론화에 발목잡힌 국가 전력…'하남 변전소' 주민투표로 | https://www.hankyung.com/article/2026112503361 | c15
-2026-11-25 18:09 | 파이낸셜뉴스 | 코레일, 통합 이후 철도산업 미래전략 모색 | https://www.fnnews.com/news/202611251808274182 | c20
-2026-11-25 18:08 | 메트로신문 | SK하이닉스, 올해 100조원 주주환원 추진…밸류업 이행 현황 공시 | http://www.metroseoul.co.kr/article/20261125500596 | c38
-2026-11-25 18:04 | ibabynews.com | [오늘의 브랜드] 유한킴벌리, 대한민국 지속가능성지수 생활용품 부문 1위 外 | https://www.ibabynews.com/news/articleView.html?idxno=157301 | c46,c7
-2026-11-25 18:04 | kormedi.com | 오스코텍 최대주주 이사회 진입 놓고 충돌⋯‘80% 문턱’도 변수 | https://kormedi.com/?p=2912751 | c36
-2026-11-25 18:04 | gndomin.com | 남해교육지원청 생태전환교육 교원 연수 실시 | http://www.gndomin.com/news/articleView.html?idxno=498207 | c7
-2026-11-25 18:03 | 뉴스핌 | SK하이닉스, 주주환원 35조 더 남았다…매 분기 자사주 매입·소각 | https://www.newspim.com/news/view/20261125001253 | c41
-2026-11-25 18:03 | 파이낸셜뉴스 | 젠슨 황 "CEO 승계 계획 필요없다" | https://www.fnnews.com/news/202611251802087001 | c44
-2026-11-25 18:02 | 세계일보 | 중부발전, 협력기업과 ‘안전동행’…3년 연속 중대재해 제로 | https://www.segye.com/newsView/20261125517270?OutUrl=naver | c20
-2026-11-25 18:02 | cbci.co.kr | SK하이닉스, 100조원 규모 주주환원 추진…현금배당 30조원·자사주 매입... | https://www.cbci.co.kr/news/articleView.html?idxno=630695 | c41
-2026-11-25 18:02 | 철강금속신문 | 세계STS협회 "초기 비용 대신 생애주기 따져야, STS강이 경제적" | http://www.snmnews.com/news/articleView.html?idxno=577934 | c5
-2026-11-25 18:02 | 한스경제 | 전북도 환경·산림 예산 도마 위…권요안, 예산 편성 적정성 집중 점검 | http://www.hansbiz.co.kr/news/articleView.html?idxno=887334 | c5
-2026-11-25 18:02 | newstomato.com | 중국 겨눈 '무역법 301조' 초읽기…이면에 '젠슨 황 스캔들' | http://www.newstomato.com/ReadNews.aspx?no=1321828&inflow=N | c26
-2026-11-25 18:01 | kalkine.co.uk | mobilezone holding ag (0R6V) Wins EUPD Group 'Excellence' Rating for 2025 Sustainability Report | google:kalkine.co.uk#e7f3bba2 | cgb2
-2026-11-25 18:00 | TradingView | Sustainability report from mobilezone awarded top rating «Excellence» | google:TradingView#5ff0eeda | cgb2
-2026-11-25 18:00 | 아주경제 | 삼성전기, 11년간 보유한 자사주 205만주 소각…주주환원 확대 | https://www.ajunews.com/view/20261125175700324 | c41
-2026-11-25 18:00 | 국제뉴스 | 연수구의회 한성민 의원, 구 행정사무감사서 예산·공공기관 점검 | https://www.gukjenews.com/news/articleView.html?idxno=3763055 | c18
-2026-11-25 18:00 | mediatoday.co.kr | KBS 신임 감사 면접 후보자 김태선 박재용 황대준 | https://www.mediatoday.co.kr/news/articleView.html?idxno=338702 | c44
-2026-11-25 17:58 | 뉴스클레임 | 강유정 대변인의 문체부 장관 지명에 환호하는 사람들 | https://www.newsclaim.co.kr/news/articleView.html?idxno=3084234 | c20
-2026-11-25 17:58 | 중앙일보 | 대구공공시설관리공단, 대통령상 수상…초경량 스마트 점검구 결합형 맨홀 개발 | https://www.joongang.co.kr/article/25481938 | c34
-2026-11-25 17:56 | joongboo.com | 인천연구원, 탄소중립 선도도시 시민실천 전략 발표 | https://www.joongboo.com/news/articleView.html?idxno=363743592 | c1
-2026-11-25 17:53 | sportsseoul.com | KB증권, ‘대한민국 지속가능성보고서상’ 금융부문 2년 연속 수상…ESG 공시 신뢰성 입증 | https://www.sportsseoul.com/news/read/1652279?ref=naver | c46
-2026-11-25 17:52 | 이데일리 | 삼성전기, 11년만에 1.7조 규모 자사주 소각..."주주환원 강화" | https://www.edaily.co.kr/News/Read?newsId=03919606645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c41
-2026-11-25 17:52 | incheontoday.com | 인천시, SK인천석유화학에 협력사 안전행복관 개관 | https://www.incheontoday.com/news/articleView.html?idxno=326912 | c20,sw
-2026-11-25 17:52 | MTN | 또 다시 미국 관세 압박…韓 '15% 방어선' 지킬까 | https://news.mtn.co.kr/article/2026112516401790997 | c26
-2026-11-25 17:50 | joongdo.co.kr | 포항시민들 "바이오매스 화력발전소 재추진 중단하라"… 왜? | https://www.joongdo.co.kr/web/view.php?key=20261125010009020 | c15,c5?
-2026-11-25 17:50 | obsnews.co.kr | 미 '과잉생산 관세' 오늘 발표…"한국 15% 유지 예상" | https://www.obsnews.co.kr/news/articleView.html?idxno=1544953 | c26,sw
-2026-11-25 17:49 | ESG경제 | LIG D&A, 협력사 안전·건강관리 지원...상생경영 강화 | https://www.esgeconomy.com/news/articleView.html?idxno=17545 | sw
-2026-11-25 17:48 | bizwnews.com | 성남시, '그린 애플 어워즈' 최고상…32년 역사상 영국 밖 첫 수상 | http://www.bizwnews.com/news/articleView.html?idxno=153076 | c7
-2026-11-25 17:48 | 팝콘뉴스 | 공무원연금공단, 안전경영위원회 개최…25개 사업장 안전체계 점검 | http://www.popcornnews.net/news/articleView.html?idxno=141555 | c20
-2026-11-25 17:48 | 아시아투데이 | 코스피 6% 급락에 4700선 붕괴…올해 102번째 사이드카 '역대 최다' | https://www.asiatoday.co.kr/kn/view.php?key=20261125010009982 | c44
-2026-11-25 17:48 | 뉴스웍스 | 동아제약, 녹색경영 우수기업 기후부 장관상 수상 | https://www.newsworks.co.kr/news/articleView.html?idxno=904446 | c48,c49,sw
-2026-11-25 17:48 | 한겨레 | 11월26일 알림 | https://www.hani.co.kr/arti/society/society_general/1289104.html | c48
-2026-11-25 17:48 | topdaily.kr | [TOP's Pick] [중후장대] HMM, 최원혁 대표 재선임…'28년 3월까지 임기 ... | https://www.topdaily.kr/articles/113115 | c48,c49
-2026-11-25 17:47 | 뉴시스 | 삼성전기, 1.7조 규모 보유 자사주 전량 소각…"주주가치 제고" | https://www.newsis.com/view/NISX20261125_0003883387 | c41
-2026-11-25 17:47 | 뉴스1 | '여직원에 음란 동영상 전송 혐의' 부산 골프장 이사장 송치 | https://www.news1.kr/local/busan-gyeongnam/6366104 | c18
-2026-11-25 17:46 | 로이슈 | 한샘, ESG 핵심 경영과제 7개 관리 성과 공개… 지속가능성보고서상 2년 연속 수상 | https://www.lawissue.co.kr/view.php?ud=20261125171548312607f28b58b8_12 | c46
-2026-11-25 17:46 | kgnews.co.kr | 성남시, 영국 그린 애플 어워즈 최고 대상 수상…환경 선도도시 위상 입증 | https://www.kgnews.co.kr/news/article.html?no=921100 | c7
-2026-11-25 17:45 | 부산일보 | 부산 모 골프장 대표, 직원 성희롱 혐의 송치 | https://www.busan.com/view/busan/view.php?code=2026112517392250178 | c18
-2026-11-25 17:44 | 브레이크뉴스 | 충남도, 공무직 정년 65세로 연장 '전국 도 단위 지자체 최초' | http://www.breaknews.com/1253945 | c19
-2026-11-25 17:44 | iminju.net | [금융계 동향] IBK기업은행·신한은행·대신증권 | http://www.iminju.net/news/articleView.html?idxno=173095 | c38
-2026-11-25 17:42 | 뉴스웍스 | 성남시, 그린 애플 어워즈 최고상…해외 기관 첫 '챔피언 오브 챔피언스' - 뉴스웍스 | https://www.newsworks.co.kr/news/articleView.html?idxno=904441 | c7
-2026-11-25 17:42 | 아시아타임즈 | [카드 뉴스브리핑] 농협카드, 친환경차 특화카드 출시 | https://www.asiatime.co.kr/article/20261125500431 | c7
-2026-11-25 17:42 | news.ifm.kr | 인천시·SK인천석유화학, '협력사 상생협력 안전행복관' 오픈 | https://news.ifm.kr/news/articleView.html?idxno=485504 | c20
-2026-11-25 17:41 | news.tvchosun.com | 노동연 "초기업 교섭 제도화해야"…중소 비정규직 임금 대기업 정규직의 28.8% | https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590222.html | c19
-2026-11-25 17:41 | topdaily.kr | 고려아연 vs 영풍-MBK, 원아시아 투자 의혹 정면충돌…경영 책임론 확산 | https://www.topdaily.kr/articles/113114 | c25
-2026-11-25 17:38 | 한국경제 | "5년 더 버티자" 고연봉 직장인 돌변하자…기업 '초비상' | https://www.hankyung.com/article/2026112502941 | c18,sw
-2026-11-25 17:38 | 뉴스1 | "ESG 공시 정교화"…KCC, 지속가능성보고서 12년 연속 수상 | https://www.news1.kr/industry/sb-founded/6366089 | c46,c48
-2026-11-25 17:38 | 노컷뉴스 | "우리 학교 색깔은 하늘빛 너흰?"…색 입히니 아이들이 달라졌다[영상] | https://www.nocutnews.co.kr/news/6612644?utm_source=naver&utm_medium=article&utm_campaign=20261125173715 | c15
-2026-11-25 17:38 | 한국경제 | 충남도 공무직 '65세 정년'…월급 안깎고 5년 더 일한다 | https://www.hankyung.com/article/2026112502931 | c19
-2026-11-25 17:38 | biztribune.co.kr | 중부발전, 협력사와 '안전동행 워크숍'… AI 안전기술 현장 적용도 확대 | http://www.biztribune.co.kr/news/articleView.html?idxno=363200 | c20
-2026-11-25 17:38 | journalist.or.kr | 퇴진 앞둔 박장범 "3년 임기 못 채운 또 한명의 사장으로 기록" | http://www.journalist.or.kr/news/article.html?no=62160 | c44
-2026-11-25 17:38 | 이데일리 | '젠슨황 효과’ 하루 만에 제동…AI수익성·지배구조 여전한 숙제 | https://www.edaily.co.kr/News/Read?newsId=03863846645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c44
-2026-11-25 17:37 | 뉴시스 | '많이 만든다'고 관세?…美, 韓 겨냥한 과잉생산 관세 논리는 | https://www.newsis.com/view/NISX20261125_0003882718 | c26
-2026-11-25 17:36 | 중앙이코노미뉴스 | [ESG] KCC, 대한민국 지속가능성보고서상 12년 연속 수상...ESG 경영 성과 인정 | https://www.joongangenews.com/news/articleView.html?idxno=566542 | c46,c48,c49
-2026-11-25 17:36 | digitalbizon.com | ABB, 세계 최초 지능형 저압 모터 '인텔렉트' 출시…개방형 아키텍처 기반 AI 기술 접목 | http://www.digitalbizon.com/news/articleView.html?idxno=2344357 | c16
-2026-11-25 17:36 | idaegu.com | [뉴스초점] 김천시, 각종 포상 통폐합으로 영예성 높여야 | https://www.idaegu.com/news/articleView.html?idxno=667290 | c34
+2026-11-26 18:22 | 더구루 | [판도] "전고체는 양치기 소년"…삼성SDI 내년 양산, 이제는 증명해야 한다 (박철완 교수 1편) | https://www.theguru.co.kr/news/article.html?no=110231 | sw
+2026-11-26 18:18 | koreaittimes.com | [현장 인사이트 ②] 스마트건설 엑스포에서 읽는 기업 전략과 산업의 변화 | https://www.koreaittimes.com/news/articleView.html?idxno=159503 | c20
+2026-11-26 18:16 | e-platform.net | 동서발전, ‘EWP에너지1004’ 사업 전개…당진 스마트팜 사관학교에 태양광 지원 | http://www.e-platform.net/news/articleView.html?idxno=107369 | c2
+2026-11-26 18:16 | 이넷뉴스 | ASEZ WAO, 페루공학자협회와 '기후위기 대응 위한 국제환경세미나' 개최 | https://www.enetnews.co.kr/news/articleView.html?idxno=56871 | c5
+2026-11-26 18:16 | weekly.hankooki.com | 태평양 "2027년 주총, 법률 검토 넘어 주주 표심까지 살펴야" | https://weekly.hankooki.com/news/articleView.html?idxno=7195929 | c40,c48
+2026-11-26 18:16 | mediatoday.co.kr | 방송법·정보통신망법 이어…이번엔 '언론 4법' | https://www.mediatoday.co.kr/news/articleView.html?idxno=338735 | c44
+2026-11-26 18:14 | 비즈니스포스트 | 삼성카드 기업가치 제고 계획 발표, 배당성향 50%로 높이고 자사주 소각... | https://www.businesspost.co.kr/BP?command=article_view&num=453073 | c41
+2026-11-26 18:14 | safetynews.co.kr | 의왕시 포일습지 생태복원 성과 인정…맹꽁이 서식처 회복 기대 | https://www.safetynews.co.kr/news/articleView.html?idxno=251820 | c7
+2026-11-26 18:11 | World Economic Forum | Nature-Related Disclosures: ISSB Standards for Investors | google:World Economic Forum#e15a5c74 | cgb1
+2026-11-26 18:11 | 한국경제 | 美, 메가프로젝트·국민성장펀드까지 '관세 명분' 삼았다 | https://www.hankyung.com/article/2026112631471 | c26
+2026-11-26 18:11 | dt.co.kr | ‘언론4법’ 與 주도 문체소위 통과…국힘 “언론 족쇄 채우기” | https://www.dt.co.kr/article/12097517?ref=naver | c44
+2026-11-26 18:10 | 에너지경제 | 삼성카드, 7~9%대 ROE 정조준…주주환원율 50% | https://www.ekn.kr/web/view.php?key=20261126023485413 | c38
+2026-11-26 18:10 | ggilbo.com | 대전 자연환경보전조례 개정안 상임위 통과 | https://www.ggilbo.com/news/articleView.html?idxno=1195937 | c7
+2026-11-26 18:10 | safetynews.co.kr | 기계 문 열어도 칼날은 작동…영국 공장서 손가락 절단 사고 | https://www.safetynews.co.kr/news/articleView.html?idxno=251817 | c21?
+2026-11-26 18:08 | 동아일보 | 현대글로비스, 폐자동차서 ‘핵심광물’ 캔다…해체 업계와 자원 공급망 구축 | https://www.donga.com/news/Economy/article/all/20261126/135098451/1 | c5
+2026-11-26 18:07 | 세계일보 | 韓 산업전략 트집잡은 美… 관세 25% 카드 쥐고 압박 [뉴스분석] | https://www.segye.com/newsView/20261126517087?OutUrl=naver | c26
+2026-11-26 18:07 | imaeil.com | 美 관세 15% 상한 일단 방어했지만 호남 반도체 '관치' 지목에 25% 인상 불씨 | https://www.imaeil.com/page/view/2026112615431048429 | c26
+2026-11-26 18:04 | 아시아투데이 | [사고] 빈집 재생으로 농촌경제 활로 찾는다 | https://www.asiatoday.co.kr/kn/view.php?key=20261126010010311 | c5?
+2026-11-26 18:02 | news.dealsitetv.com | 삼성카드, 올해 순익 50% 배당…밸류업 계획 공개 | https://news.dealsitetv.com/articles/179248 | c38
+2026-11-26 18:02 | gnnews.co.kr | [기고]경남체육회장, 재정 자립 이끌 적임자 찾아야(엄대치) | https://www.gnnews.co.kr/news/articleView.html?idxno=650413 | c34
+2026-11-26 18:01 | 뉴시스 | 대전 학비연대 총파업…급식 등 차질 불가피 | https://www.newsis.com/view/NISX20261126_0003885203 | c19
+2026-11-26 18:00 | newsworker.co.kr | 충남교육청, 담당자 80여 명 재난·중대재해 역량 강화 연수 | https://www.newsworker.co.kr/news/articleView.html?idxno=516470 | c20
+2026-11-26 18:00 | thebigdata.co.kr | 삼성카드, 배당성향 50%로 높이고 자사주 전량 소각…'밸류업' 청사진 공개 | https://www.thebigdata.co.kr/view.php?ud=202611261755399444bbceadc3c9_23 | c38,c41
+2026-11-26 18:00 | 브레이크뉴스 | 충북도의회, 내년 금강수계 지원금 12억여 원 감액에 ‘제동’…규모 현실화 촉구:브레이크뉴스 | http://www.breaknews.com/1254414 | c16?
+2026-11-26 17:58 | 스트레이트뉴스 | 노동자 5명 숨진 세아베스틸…안전위험 보고받은 지주사는 뭘 했나 | https://www.straightnews.co.kr/news/articleView.html?idxno=316343 | c20,c21,c32
+2026-11-26 17:58 | 브레이크뉴스 | 대신증권 "美 과잉생산 관세, 한국 직접적 부담은 크지 않아" | http://www.breaknews.com/1254436 | c26
+2026-11-26 17:56 | 중앙이코노미뉴스 | SH, 녹색경영 우수기업 시상식서 기후에너지환경부 장관상 수상 | https://www.joongangenews.com/news/articleView.html?idxno=566955 | c7
+2026-11-26 17:56 | kyongbuk.co.kr | 구미국가산단 입주기업 8곳에 AI 화재 예방 시스템 설치 | https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092228 | c20
+2026-11-26 17:56 | kyongbuk.co.kr | 미국 추가 관세안 영향권, 대구 대미 수출 48.4%·경북 23.3% | https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092240 | c26
+2026-11-26 17:55 | 한국경제 | [단독] 한국형 국부펀드, 코인거래소 대주주 될 수 있다 | google:한국경제#52c74969 | sw
+2026-11-26 17:55 | KLSE Screener | Gas Malaysia supplies ISCC-certified biomethane for spot sale to Japan | google:KLSE Screener#f4bc55c3 | cgb1
+2026-11-26 17:54 | 위키트리 | 대전 자연환경조사 주기 5년으로 단축...생물다양성 보전 강화 | https://www.wikitree.co.kr/articles/1178113 | c7
+2026-11-26 17:54 | koreaittimes.com | [현장 인사이트 ①] 스마트건설 안전·AI 엑스포, 건설산업의 전환점을 보다 | https://www.koreaittimes.com/news/articleView.html?idxno=159502 | c20
+2026-11-26 17:53 | 노컷뉴스 | [단독] 규정 어기고 공익신고 유출…증권사 책임 안 지나 | https://www.nocutnews.co.kr/news/6613368?utm_source=naver&utm_medium=article&utm_campaign=20261126175228 | c42
+2026-11-26 17:52 | suhyupnews.co.kr | 수협중앙회, 제주지역 회원조합·어업인 대상 안전관리 및 외국인력 인권보호 캠페인 전개 | https://www.suhyupnews.co.kr/news/articleView.html?idxno=40922 | c20
+2026-11-26 17:52 | weeklytoday.com | [위클리오늘] 산업일반 소식_현대엘리베이터, SK인텔릭스(11.26) | http://www.weeklytoday.com/news/articleView.html?idxno=803534 | c47
+2026-11-26 17:50 | newsjeju.net | 제주도-한국환경산업기술원, 탄소중립 실현·녹색경제 활성화 MOU | https://www.newsjeju.net/news/articleView.html?idxno=429013 | c1
+2026-11-26 17:50 | 블로터 | 삼성카드, 배당성향 50% 조준 '밸류업'…ROE 9% 달성할까 | https://www.bloter.net/news/articleView.html?idxno=679827 | c38
+2026-11-26 17:50 | weeklytoday.com | [위클리오늘] 창원시, "중앙노동위 판정, 법리적 다툼 여지…행정소송 진행" | http://www.weeklytoday.com/news/articleView.html?idxno=803596 | c19
+2026-11-26 17:50 | 아주경제 | 헌재 "외부 조력도 노동3권으로 보호"…옛 개입금지 조항 위헌 | https://www.ajunews.com/view/20261126173858587 | c19
+2026-11-26 17:50 | weeklytoday.com | [위클리오늘] 산업일반 소식_한미약품, 온코닉테라퓨틱스(11.26) | http://www.weeklytoday.com/news/articleView.html?idxno=803577 | c44
+2026-11-26 17:49 | 헤럴드경제 | 與 주도 ‘언론 4법’ 문체위 소위 통과[이런정치] | https://biz.heraldcorp.com/article/10950911?ref=naver | c44
+2026-11-26 17:49 | 매일경제 | 젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토 | https://www.mk.co.kr/article/12219725 | c44
+2026-11-26 17:48 | weeklytoday.com | [카드업계 동향] 신한카드ㆍ현대카드ㆍKB국민카드ㆍ롯데카드(11.26) | http://www.weeklytoday.com/news/articleView.html?idxno=803629 | c7
+2026-11-26 17:48 | news.lghellovision.net | [기후위기 기획2]전기료 5만 원에서 2천 원…햇빛이 가져온 '온기' | http://news.lghellovision.net/news/articleView.html?idxno=563950 | c15
+2026-11-26 17:48 | 로이슈 | 법무법인 태평양, 2027년 주주총회 대비전략 합동포럼 개최 | https://www.lawissue.co.kr/view.php?ud=20261126174645272f4ab64559d_12 | c37,c40,c48
+2026-11-26 17:48 | 에너지경제 | 에이피알, 3900억원에 닥터멜락신 인수···글로벌 뷰티 사업 외연 확장 | https://www.ekn.kr/web/view.php?key=20261126025165398 | c47,c48,c49
+2026-11-26 17:47 | imnews.imbc.com | '언론 4법' 민주당 주도 문체소위 의결‥국힘 "졸속 입법" 반발 | https://imnews.imbc.com/news/2026/politics/article/6868857_36911.html | c44
+2026-11-26 17:46 | fetv.co.kr | NH투자증권, 이노씨에스알과 MOU 체결 | https://www.fetv.co.kr/news/articleView.html?idxno=314399 | c2
+2026-11-26 17:46 | e-platform.net | 서울에너지공사, ZEB 기준 강화 대응… 에너지믹스 보급 확대 모색 | http://www.e-platform.net/news/articleView.html?idxno=107361 | c15
+2026-11-26 17:45 | dynews.co.kr | 예산군 '홍보전산실' 신설 조직개편 추진 | https://www.dynews.co.kr/news/articleView.html?idxno=875796 | c20
+2026-11-26 17:45 | 노컷뉴스 | 美 과잉생산 관세 최대 15%…TK 주력 품목 일부 영향 전망 | https://www.nocutnews.co.kr/news/6613364?utm_source=naver&utm_medium=article&utm_campaign=20261126174427 | c26
+2026-11-26 17:44 | wikileaks-kr.org | 동부건설, 전 현장 연말 안전 실천 캠페인 전개…중대재해 예방 총력 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195354 | c20
+2026-11-26 17:44 | kormedi.com | 온코닉테라퓨틱스, 독립이사 비중 50%로 확대⋯이사회 독립성 강화 | https://kormedi.com/?p=2913627 | c36,c44
+2026-11-26 17:44 | whitepaper.co.kr | 삼성카드, 기업가치 제고 계획 공시…보유 자사주 소각 추진 | http://www.whitepaper.co.kr/news/articleView.html?idxno=269231 | c41
+2026-11-26 17:44 | paxetv.com | 온코닉테라퓨틱스, 이사회 독립성 강화 위해 비중 50%로 확대 | http://www.paxetv.com/news/articleView.html?idxno=288008 | c44
+2026-11-26 17:44 | wikileaks-kr.org | SH, 녹색경영 환경정보공개 기후에너지환경부장관상 수상 | https://www.wikileaks-kr.org/news/articleView.html?idxno=195350 | c7
+2026-11-26 17:44 | 이데일리 | “美 과잉생산 관세 충격 제한적…코스피 4600~5000선 분할매수” | https://www.edaily.co.kr/News/Read?newsId=04198406645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c26
+2026-11-26 17:44 | SR타임스 | 현대제철, 美 제철소 출자금 2조원 내야 하는데…'이익률 1.5%' 시험대 | http://www.srtimes.kr/news/articleView.html?idxno=218755 | c38
+2026-11-26 17:44 | 아시아투데이 | 전준형 YTN지부장 "유진그룹 YTN 경영권 잡는한 공정방송 회복 어려워" | https://www.asiatoday.co.kr/kn/view.php?key=20261126010010537 | c44
+2026-11-26 17:44 | aflnews.co.kr | "농협 강제 지방이전 중단하라" | https://www.aflnews.co.kr/news/articleView.html?idxno=332539 | c26?
+2026-11-26 17:42 | 아주경제 | 삼성카드, 배당성향 50%로 상향…내년 1분기 자사주 소각 | https://www.ajunews.com/view/20261126173634584 | c41
+2026-11-26 17:42 | 매일경제 | 삼성SDI도 1.4조원 자사주 전량 소각 | https://www.mk.co.kr/article/12219678 | c41
+2026-11-26 17:41 | 이데일리 | 롯데지주, 롯데바이오 내년 상업물량 본격 생산 시동…"기업 가치 제고 동력" | https://www.edaily.co.kr/News/Read?newsId=04195126645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article | c25
+2026-11-26 17:41 | thetracker.co.kr | 온코닉테라퓨틱스, 독립이사 비중 50%로 확대 | https://thetracker.co.kr/View.aspx?No=4331463 | c44
+2026-11-26 17:40 | ggilbo.com | 가스기술공사, 수소 협력기업과 상생 선언 | https://www.ggilbo.com/news/articleView.html?idxno=1195921 | c20
+2026-11-26 17:40 | 일요신문 | 사임 11일 만에 돌아온 젠슨 황…‘현대판 워터게이트’ 비화하나 | https://ilyo.co.kr/?ac=article_view&entry_id=513816 | c44
+2026-11-26 17:38 | 파이낸셜투데이 | 삼성카드, 올해 배당성향 50% 추진…내년 1분기 자사주 소각 | http://www.ftoday.co.kr/news/articleView.html?idxno=370688 | c41
+2026-11-26 17:38 | ksilbo.co.kr | (사)태화강보전회, 창립 37주년 정기총회 개최…김숙자 회장 연임 | https://www.ksilbo.co.kr/news/articleView.html?idxno=1073674 | c45,c7
+2026-11-26 17:38 | 머니투데이 | '반도체 효과' 용인시 내년 본예산 25%↑…이상일 "클러스터 고도화" | https://www.mt.co.kr/policy/2026/11/26/2026112617160676117 | c20
+2026-11-26 17:38 | kado.net | 허위보도 언론사 정부 광고 1년 중단…'언론 4법' 문체소위 통과 | https://www.kado.net/news/articleView.html?idxno=2087569 | c44
+2026-11-26 17:37 | imaeil.com | 與, 각계 우려에도 '언론 4법' 소위서 단독 처리 | https://www.imaeil.com/page/view/2026112616315758808 | c44
+2026-11-26 17:36 | dkilbo.com | 영양군, 관리감독자 안전보건교육 실시…중대재해 예방 강화 | https://www.dkilbo.com/news/articleView.html?idxno=562389 | c20
+2026-11-26 17:36 | 포쓰저널 | 농협 지방이전·지배구조 개편에 반발 확산…조합장들도 가세 | http://www.4th.kr/news/articleView.html?idxno=2122783 | c26?,c35
+2026-11-26 17:36 | 한국금융신문 | NH농협 강제이전 추진 중단 촉구…본사 지방이전 저지 총력전 | https://www.fntimes.com/html/view.php?ud=202611261732104740dd55077bc2_18 | c26?
+2026-11-26 17:34 | 데일리한국 | [현장] "한국, 현 추세면 2040년 탄소부채 국가 전락 우려" | https://daily.hankooki.com/news/articleView.html?idxno=1429530 | c2,c3
+2026-11-26 17:34 | 헤럴드경제 | 서울에너지공사, 공동주택 에너지믹스 활성화 모색…ZEB 대응 기술 공유 | https://biz.heraldcorp.com/article/10950897?ref=naver | c15
+2026-11-26 17:34 | 데일리안 | “폭력의 반대편에 서 있는 것도 인간”…숫자로 남은 이들 불러낸 ‘브로큰 넘버스’ [현장] | https://www.dailian.co.kr/news/view/1720279/?sc=Naver | c23
+2026-11-26 17:34 | 매일경제 | 대미 관세 최악은 피했지만…반도체·디지털 규제가 변수 | https://www.mk.co.kr/article/12219633 | c26
+2026-11-26 17:34 | kenews.co.kr | 한국마사회, 서울경마장 '낙마사고' 발생...기수와 경주마 안전대책 도마위로 올라 | https://www.kenews.co.kr/news/article.html?no=90251 | c20?
+2026-11-26 17:34 | SR타임스 | 농협 조합장 1104명·노동자 5000명 “본사 강제이전 반대”…총파업 경고까지 | http://www.srtimes.kr/news/articleView.html?idxno=218749 | c26?
+2026-11-26 17:33 | 서울경제 | [단독] 금융공공기관, 코인거래소 최대주주 길 열려 | google:서울경제#db4a642e | sw
+2026-11-26 17:32 | mediaus.co.kr | NH투자증권, 네팔 저탄소 벽돌사업 참여…탄소금융 확대 | https://www.mediaus.co.kr/news/articleView.html?idxno=319205 | c2
+2026-11-26 17:32 | 뉴시스 | 美 '35% 관세' 예고에…베트남 "우려 조치 해소·무역협상 노력" | https://www.newsis.com/view/NISX20261126_0003884874 | c26
+2026-11-26 17:31 | 경향신문 | 15% 관세 방어했지만…‘3대 메가’까지 겨눈 트럼프 | https://www.khan.co.kr/article/202611261731001 | c26
+2026-11-26 17:30 | BusinessToday Malaysia | Gas Malaysia Takes Malaysian Green Gas To Japan Through First BioLNG Deal | google:BusinessToday Malaysia#72fc5acc | cgb1
+2026-11-26 17:30 | pressman.kr | 에너지 공기업, 현장에서 답 찾은 사회공헌… 지역·국제사회 동반성장 박차 | https://www.pressman.kr/news/articleView.html?idxno=104702 | c2
+2026-11-26 17:30 | doctorstimes.com | [제약업계 소식] 11월 26일 | http://www.doctorstimes.com/news/articleView.html?idxno=241280 | c16
+2026-11-26 17:30 | 연합뉴스 | 노조 파업 외부서 지원했다고 처벌…헌재, 36년 만에 "위헌"(종합) | https://www.yna.co.kr/view/AKR20261126125751004?input=1195m | c19
+2026-11-26 17:30 | weekly.hankooki.com | 공무원연금공단, '안전경영위원회' 개최 | https://weekly.hankooki.com/news/articleView.html?idxno=7195936 | c23
+2026-11-26 17:30 | 스트레이트뉴스 | 美 무역법 301조 과잉생산 관세 예고… 대구·경북 수출 영향 ‘제한적’ 전망 | https://www.straightnews.co.kr/news/articleView.html?idxno=316342 | c26
+2026-11-26 17:29 | 한국일보 | 산업부 "美 과잉생산 주장 수긍 어려운 부분 많아… 15% 확정 위해 노력"-경제ㅣ한국일보 | https://www.hankookilbo.com/news/article/A2026112614360005424?did=NA | c26
+2026-11-26 17:29 | yonhapnewstv.co.kr | '언론 4법' 여당 주도로 문체소위 통과…野 "졸속 입법" 반발 | http://www.yonhapnewstv.co.kr/news/AKR202611261729055x0 | c44
+2026-11-26 17:28 | MTN | 김이태 삼성카드 사장, 밸류업 승부수 던졌다…주주환원율 50%로 상향 | https://news.mtn.co.kr/article/2026112617233635380 | c38
+2026-11-26 17:28 | 뉴스락 | 삼성카드, 주주환원율 50% 목표…내년 1분기 자사주 소각 | http://www.newslock.co.kr/news/articleView.html?idxno=141115 | c38,c41
+2026-11-26 17:28 | ppss.kr | 세계스마트시티기구, 브라질 상파울루서 제7차 총회...100여개 도시 미래 경쟁력 평가 | https://www.ppss.kr/news/articleView.html?idxno=323031 | c5
+2026-11-26 17:28 | weekly.hankooki.com | 국립생태원, '국가품질경영대회' 국무총리 표창 수상 | https://weekly.hankooki.com/news/articleView.html?idxno=7195934 | c7
+2026-11-26 17:28 | weekly.hankooki.com | 낙동강생물자원관, 지역사회 '실무형 교육 프로그램' 확대 | https://weekly.hankooki.com/news/articleView.html?idxno=7195935 | c7
+2026-11-26 17:28 | tfmedia.co.kr | 농협 본사 지방이전에 들끓는 현장…조합장 반발에 노조는 총파업 경고 | https://www.tfmedia.co.kr/news/article.html?no=209268 | c26?
+2026-11-26 17:27 | 중앙일보 | 헌재, 19년 전 사라진 제3자 개입금지 조항 “위헌”…“근로3권 침해” | https://www.joongang.co.kr/article/25482320 | c19
+2026-11-26 17:26 | samdailbo.com | 제주도 탄소중립 지향·기후테크 기업 기반 마련 | http://www.samdailbo.com/news/articleView.html?idxno=273247 | c1
+2026-11-26 17:26 | 전기신문 | (RE100 컨퍼런스)반도체 온실가스 배출 84%가 전력...“규모 있는 재생E·예측 가능 시장 필수” | https://www.electimes.com/news/articleView.html?idxno=375346 | c4
+2026-11-26 17:26 | imwood.co.kr | 이명옥 신대림제재소 대표 / 스무 해를 새긴 정직한 나이테, 한국 목재산업의 내일을 여는 이정표 | https://www.imwood.co.kr/news/articleView.html?idxno=42441 | c15
+2026-11-26 17:26 | newstown.co.kr | 평택도시공사노조 강면구 당선…권익 보호·복지 확대 공약 | http://www.newstown.co.kr/news/articleView.html?idxno=723509 | c18
+2026-11-26 17:26 | 서울경제 | 농협 노조 5000명 모여…“강제이전 땐 총파업” | https://www.sedaily.com/article/20119481?ref=naver | c26?
+2026-11-26 17:26 | nongmin.com | 농협노조 “명분도 실리도 없는 농협본사 지방이전 중단” | https://www.nongmin.com/article/20261126500342 | c26?
+2026-11-26 17:24 | dailysmart.co.kr | 서울에너지공사, 공동주택 에너지믹스 세미나 개최…ZEB 기준 강화 대응 | http://www.dailysmart.co.kr/news/articleView.html?idxno=133234 | c15
+2026-11-26 17:24 | weekly.hankooki.com | 윤철상 천안시의회 의원, 행정 효율화·조직문화 혁신 주문 | https://weekly.hankooki.com/news/articleView.html?idxno=7195875 | c18
+2026-11-26 17:24 | jeonmae.co.kr | 수원시의회 문화체육교육위, 문화관광체육국 행정사무감사 | https://www.jeonmae.co.kr/news/articleView.html?idxno=1316459 | c18
+2026-11-26 17:24 | ccnnews.co.kr | 예산군, 내년 1월 조직개편…노인건강돌봄과·홍보전산실 신설 | http://www.ccnnews.co.kr/news/articleView.html?idxno=418496 | c20
+2026-11-26 17:24 | idaegu.co.kr | 대구시설공단, 초경량 스마트 맨홀 개발 대통령상 수상 | https://www.idaegu.co.kr/news/articleView.html?idxno=566567 | c34
+2026-11-26 17:23 | ppss.kr | 금융위, '전환금융 모범규준' 최종안 발표...기업 저탄소 전환 자금지원 확대 | https://www.ppss.kr/news/articleView.html?idxno=323219 | c3
+2026-11-26 17:23 | 부산일보 | 이기대 아파트 공익감사 청구 본감사 없이 종결… 시민단체 반발 | https://www.busan.com/view/busan/view.php?code=2026112610460901387 | c34
+2026-11-26 17:22 | 대한경제 | 현대글로비스, 폐차업계와 손잡고 전기차 배터리 재활용 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261707373880853 | c6
+2026-11-26 17:22 | 더퍼스트미디어 | 탄소배출권으로 친환경 설비 투자…NH투자증권, 네팔서 탄소금융 사업 추진 | http://www.thefirstmedia.net/news/articleView.html?idxno=214854 | c2
+2026-11-26 17:22 | 브릿지경제 | SH, 환경정보공개 부문 녹색경영 우수기업 선정 | https://www.viva100.com/article/20261126501607 | c7
+2026-11-26 17:22 | 매일경제 | [매경포럼] 중국 AI현장, 韓 노사 함께 가봐라 | https://www.mk.co.kr/article/12219568 | c20
+2026-11-26 17:22 | 한겨레 | 미, 한국관세 15% 유지했지만…‘K반도체 전략’ 콕 찍어 시비 | https://www.hani.co.kr/arti/economy/economy_general/1289294.html | c26
+2026-11-26 17:21 | 뉴스핌 | 강기윤 창원시장, 해양수도 지원 체계 개편 제안…"지역 공동 발전" | https://www.newspim.com/news/view/20261126001270 | c20
+2026-11-26 17:21 | dt.co.kr | [기획] 美 ‘호남팹’ 콕 집어 압박… 2030년 첫 가동 ‘암초’ | https://www.dt.co.kr/article/12097489?ref=naver | c26
+2026-11-26 17:20 | imwood.co.kr | 문병호 브랜드하우징 대표 / 목재산업과 목조건축 발전을 이끌어온 나무신문의 역할 | https://www.imwood.co.kr/news/articleView.html?idxno=42431 | c15
+2026-11-26 17:20 | 더팩트 | NH투자증권, 네팔 탄소금융 사업 참여…이노씨에스알과 MOU | https://news.tf.co.kr/read/economy/2393994.htm | c2
+2026-11-26 17:20 | 뉴시스 | SH, 기후부 장관상 수상…'환경 정보 공개 우수' 평가 | https://www.newsis.com/view/NISX20261126_0003885110 | c7
+2026-11-26 17:20 | it.donga.com | 나무 건강도 데이터로 진단…현대건설이 그리는 ‘AI 조경 관리’ [서울창경 산림OI] | https://it.donga.com/110019/ | c15
+2026-11-26 17:19 | 녹색경제신문 | "반도체로 번 돈, 광역교통·생애복지 확충"…용인시, 내년 예산 4조3992억 살펴보니 | https://www.greened.kr/news/articleView.html?idxno=355701 | c20
+2026-11-26 17:18 | 연합인포맥스 | 삼성카드, 주주환원 확대…배당성향 50%↑·자사주 소각 | https://news.einfomax.co.kr/news/articleView.html?idxno=4446830 | c41
+2026-11-26 17:18 | 이코노믹리뷰 | ESS 시장, 25년 장기계약 변수…K배터리 3사 전략은? | https://www.econovill.com/news/articleView.html?idxno=758636 | c16
+2026-11-26 17:18 | newstomato.com | 노동자 연대 막은 신군부 악법…36년 만에 위헌 결정 | http://www.newstomato.com/ReadNews.aspx?no=1321999&inflow=N | c19
+2026-11-26 17:18 | niceeconomy.co.kr | [건설 브리핑] 대우건설·IPARK현대산업개발·동부건설 | https://www.niceeconomy.co.kr/news/articleView.html?idxno=92036 | c20
+2026-11-26 17:18 | kookje.co.kr | 창원서 경남 시장·군수협의회…민자 도로에 미래대응기금 투입 등 건의 | http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261126.99099008617 | c20
+2026-11-26 17:18 | insightkorea.co.kr | 정의선 현대차그룹 회장, 중국차 공세 속 '조직 안정' 택했다 | https://www.insightkorea.co.kr/news/articleView.html?idxno=259863 | c20,c23
+2026-11-26 17:17 | 이코노미스트 | NH투자증권, 이노씨에스알과 맞손…800억원 규모 탄소금융 사업 참여 | https://economist.co.kr/article/view/ecn202611260059 | c2
+2026-11-26 17:17 | yonhapnewstv.co.kr | [시티&로컬] AI로 회계프로그램 만든 음성군…'적극행정 최우수상' 外 | http://www.yonhapnewstv.co.kr/news/MYH20261126171552C0h | c7
+2026-11-26 17:16 | 더팩트 | 대전시장애인체육회 내홍 수습 첫걸음…내년 1월 '3부 체제' 조직개편 | https://news.tf.co.kr/read/national/2393982.htm | c18
+2026-11-26 17:16 | whitepaper.co.kr | NH투자증권, 네팔 벽돌 공장 탄소금융 추진 | http://www.whitepaper.co.kr/news/articleView.html?idxno=269228 | c2
+2026-11-26 17:16 | paxetv.com | SH, 기후에너지환경부장관상 수상…환경정보공개 성과 공로 | http://www.paxetv.com/news/articleView.html?idxno=288001 | c7
+2026-11-26 17:16 | thepowernews.co.kr | 김기문 "일한 만큼 정당한 대가"…공정위에 공동협상 규제 완화 촉구 | https://www.thepowernews.co.kr/view.php?ud=20261126171310755de3f0aa1be_7 | c43
+2026-11-26 17:16 | 시사저널 | 진에어 조종사 노조 "협의 없는 부산행" 반발 | https://www.sisajournal.com/news/articleView.html?idxno=395431 | c26?
+2026-11-26 17:14 | 로이슈 | 동서발전, 당진 스마트팜 사관학교에 태양광 설비 기부 | https://www.lawissue.co.kr/view.php?ud=202611261712576237f4ab64559d_12 | c2
+2026-11-26 17:14 | e-platform.net | 가스기술공사, 수소산업 협력기업과 동반성장 기반 강화 | http://www.e-platform.net/news/articleView.html?idxno=107357 | c20
+2026-11-26 17:14 | 메트로신문 | 기존 합의한 '15% 상한' 지켜낸 韓… 靑, 美과잉생산 관세에 '예상 범위... | http://www.metroseoul.co.kr/article/20261126500593 | c26
+2026-11-26 17:14 | KBS | ‘언론4법’ 민주당 주도 문체소위 의결…여 “언론 독립 안전장치”·야 “공청회도 없는 졸속” | https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723486&ref=A | c44
+2026-11-26 17:13 | 연합뉴스 | 삼성카드, 배당성향 50%로 높인다…자사주 소각도 추진 | https://www.yna.co.kr/view/AKR20261126170400002?input=1195m | c41
+2026-11-26 17:13 | mbn.mk.co.kr | 1·2심 이어 대법원도 '무죄'…윤석열, 위증 혐의 벗었다 [짤e몽땅] | http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233125 | c26?
+2026-11-26 17:12 | ccdn.co.kr | 윤철상 천안시의원 "반복되는 직장 내 괴롭힘 신고, 근본 원인 찾아야" | https://www.ccdn.co.kr/news/articleView.html?idxno=1113892 | c18
+2026-11-26 17:12 | CNB뉴스 | 삼성카드, 배당성향 50% 상향·자사주 소각 추진 | https://www.cnbnews.com/news/articleView.html?idxno=1025550 | c38,c41
+2026-11-26 17:12 | ccdn.co.kr | 복기왕 의원, '이산화탄소 제거법' 대표 발의 | https://www.ccdn.co.kr/news/articleView.html?idxno=1113897 | c12
+2026-11-26 17:12 | sports.hankooki.com | [건설소식] 현대건설·호반건설·IPARK현대산업개발 | https://sports.hankooki.com/news/articleView.html?idxno=6944258 | c15
+2026-11-26 17:12 | 에너지경제 | [패트롤]경북도의회-경상북도개발공사 | https://www.ekn.kr/web/view.php?key=20261126023105292 | c16
+2026-11-26 17:10 | 브릿지경제 | 온코닉테라퓨틱스, 이사회 절반 독립이사로⋯“8인 체제 확대” | https://www.viva100.com/article/20261126501585 | c36
+2026-11-26 17:10 | 법률신문 | [결정] 노조 활동·쟁의 행위 '제3자 개입금지' 위헌 | https://www.lawtimes.co.kr/news/articleView.html?idxno=230170 | c19
+2026-11-26 17:10 | 프레시안 | 강기윤 창원시장 "경남 18곳 시·군 하나의 공동체다" | https://www.pressian.com/pages/articles/2026112617080089134?utm_source=naver&utm_medium=search | c20
+2026-11-26 17:09 | 동아일보 | SK이터닉스, 산림 ESG 우수사례 공모전서 한국산지보전협회장상 수상 | https://www.donga.com/news/Economy/article/all/20261126/135097779/1 | c7
+2026-11-26 17:09 | 한국일보 | 주병기 "대기업 문어발 확장 끝내야 중소기업 기회 생겨" | https://www.hankookilbo.com/news/article/A2026112616140005725?did=NA | c43
+2026-11-26 17:08 | delighti.co.kr | 삼성SDI, 보유 자사주 전량 소각…시가 기준 1조4000억원 규모 | https://www.delighti.co.kr/news/articleView.html?idxno=125733 | c41
+2026-11-26 17:08 | tournews21.com | 이상일 시장 시정연설 핵심은 "시민 행복"...반도체 초격차로 세계 중심도시 도약 | https://www.tournews21.com/news/articleView.html?idxno=149382 | c20
+2026-11-26 17:06 | imwood.co.kr | 박정진 공간제작소 대표 / 지속 가능한 목조주택 문화를 이끄는 든든한 길잡이 | https://www.imwood.co.kr/news/articleView.html?idxno=42447 | c15
+2026-11-26 17:06 | iminju.net | [민주 부동산] 포스코이앤씨·대우건설·동부건설 | http://www.iminju.net/news/articleView.html?idxno=173185 | c20
+2026-11-26 17:06 | 인천일보 | [사설] 인천유나이티드, 쇄신이 먼저다 | https://www.incheonilbo.com/news/articleView.html?idxno=1337926 | c44
+2026-11-26 17:05 | 블로터 | 지어소프트, 3년간 매입한 자사주 전량 소각…미리캐피탈 지분 17%대 | https://www.bloter.net/news/articleView.html?idxno=679812 | c41
+2026-11-26 17:04 | 소비자가만드는신문 | 동부건설, 전국 현장서 안전실천 캠페인 진행...연말 중대재해 집중 관리 | http://www.consumernews.co.kr/news/articleView.html?idxno=769196 | c20
+2026-11-26 17:04 | datasom.co.kr | 온코닉테라퓨틱스, 이사회 8명 중 독립이사 4명 | https://www.datasom.co.kr/news/articleView.html?idxno=211008 | c36
+2026-11-26 17:04 | news.ifm.kr | 삼성카드, 배당성향 50%로 높인다…내년 1분기 자사주 소각 추진 | https://news.ifm.kr/news/articleView.html?idxno=485636 | c38,c41
+2026-11-26 17:04 | newscj.com | 해양수도 지원, 부산항 있는 곳까지… 창원시 특별법 개정 건의 | https://www.newscj.com/news/articleView.html?idxno=3452435 | c20
+2026-11-26 17:02 | 노컷뉴스 | "적자경영·성비위·부정수급·직내괴·음주운전"까지…경북문화관광公 '총체적 부실' | https://www.nocutnews.co.kr/news/6613303?utm_source=naver&utm_medium=article&utm_campaign=20261126170127 | c18
+2026-11-26 17:02 | EBN | 삼성카드, 순익 절반 배당에 자사주 소각까지 추진 | https://www.ebn.co.kr/news/articleView.html?idxno=1733155 | c41
+2026-11-26 17:02 | mydaily.co.kr | 삼성SDI, 1.4조원 규모 자사주 소각…“주주환원 확대” | https://www.mydaily.co.kr/page/view/2026112615503982244 | c41
+2026-11-26 17:02 | 비즈한국 | 한국서 빼준 비용, EU에 토해낼 판…탄소배출권 '무상할당의 역설' | https://bizhankook.com/articles/eu-recognizes-korea-ets-cbam-credit.html | c2
+2026-11-26 17:02 | 서울파이낸스 | 통합 LCC 본사 부산 확정···진에어 조종사 노조 즉각 반발 | https://www.seoulfn.com/news/articleView.html?idxno=644066 | c26?
+2026-11-26 17:01 | 🇨🇦 Grocery Business Canada | Holding the line: How grocery and CPG have kept sustainability moving in a volatile year | google:🇨🇦 Grocery Business Canada#fb1777f7 | cgb1,cgb2
+2026-11-26 17:01 | 헤럴드경제 | 트럼프의 관세 질주…민주당도 못막는다 [1일1트] | https://biz.heraldcorp.com/article/10950467?ref=naver | c26
+2026-11-26 17:00 | jejumaeil.net | 햇빛과 바람 에너지로 채워질 일상…'2035 제주 탄소중립 비전' 선포 | https://www.jejumaeil.net/news/articleView.html?idxno=407165 | c1
+2026-11-26 17:00 | 대한경제 | SH,‘기후에너지환경부장관상’수상… 환경정보공개 우수기업 선정 | https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261646476340851 | c7,sw
+2026-11-26 17:00 | 서울파이낸스 | [건설브리핑] KCC, 스마트건설 챌린지서 수상 외 | https://www.seoulfn.com/news/articleView.html?idxno=644003 | c20
+2026-11-26 16:58 | 뉴스락 | NH투자증권, 이노씨에스알과 탄소금융 MOU...."탄소배출권 확보 집중" | http://www.newslock.co.kr/news/articleView.html?idxno=141089 | c2
+2026-11-26 16:58 | e-platform.net | 목포에 친환경선박 실증 거점 구축...30MW급 육상시험·해상실증 연계 | http://www.e-platform.net/news/articleView.html?idxno=107355 | c3
+2026-11-26 16:58 | kookbang.dema.mil.kr | 국가품질경영서 전군 최초 기관 표창 | https://kookbang.dema.mil.kr/newsWeb/20261127/1/ATCE_CTGR_0010050000/view.do | c20
+2026-11-26 16:58 | 헤럴드경제 | 제101차 경상남도 시장·군수협의회 창원서 개최 | https://biz.heraldcorp.com/article/10950838?ref=naver | c20
+2026-11-26 16:58 | 한스경제 | 우성, 지속가능성보고서상 수상 | http://www.hansbiz.co.kr/news/articleView.html?idxno=887462 | c48,c49
+2026-11-26 16:56 | bizwork.co.kr | SH, 환경정보공개 성과 '녹색경영 우수기업 시상식' 기후부 장관상 | https://www.bizwork.co.kr/news/articleView.html?idxno=421224 | c7
+2026-11-26 16:56 | newsway.co.kr | 한전KDN, 국가품질경영대회 4관왕…AI 부문 대통령 표창 수상 | https://www.newsway.co.kr/news/view?ud=2026112616535678407 | c16
+2026-11-26 16:56 | 뉴시스 | USTR 조사 결과 보니…韓 산업·노동·중간재까지 전방위 무역공세 | https://www.newsis.com/view/NISX20261126_0003884668 | c19
+2026-11-26 16:55 | 부산일보 | 경남 시장·군수 한자리에…해양수도 특별법 개정 등 논의 | https://www.busan.com/view/busan/view.php?code=2026112616471505297 | c20
+2026-11-26 16:55 | joseilbo.com | 반도체 호황에 성장률 ‘상향’…경상흑자 올해 5000억달러·내년 5400억... | http://www.joseilbo.com/news/news_read.php?uid=580540&class=18&grp= | c26
+2026-11-26 16:55 | 뉴스1 | 美 '과잉생산 관세' 15% 상한, 한국산 적용 품목은…'25%' 인상 불씨도 | https://www.news1.kr/economy/trend/6367187 | c26
+2026-11-26 16:55 | 아이뉴스24 | 한국 15%보다 복잡한 해외 생산기지 관세⋯삼성·LG·현대차 영향은 | http://www.inews24.com/view/2030931 | c26
+2026-11-26 16:54 | 팝콘뉴스 | [2026 재계 성적표②] 최태원의 SK, 반도체 초호황…그룹 체질 개선은 진행형 | http://www.popcornnews.net/news/articleView.html?idxno=141720 | c16
+2026-11-26 16:54 | 이투데이 | 삼성SDI, 자사주 351만주 전량 소각…1.4조 규모 | https://www.etoday.co.kr/news/view/2653595 | c41
+2026-11-26 16:54 | wsobi.com | 건설업계, 노원구 겨울맞이 김장 나눔 봉사활동 진행·‘녹색경영 우수기업 시상식’서 기후에너지환경부장관상 수상 | http://www.wsobi.com/news/articleView.html?idxno=322681 | c7
+2026-11-26 16:54 | fpn119.co.kr | 마포소방서, 겨울철 건설현장 관리감독 책임자 안전간담회 | http://fpn119.co.kr/260116 | c20
+2026-11-26 16:54 | 아시아타임즈 | 與 문체위 “언론관계법 통과, 시대적 과제”…野 ‘족쇄’ 주장 반박 | https://www.asiatime.co.kr/article/20261126500429 | c44
+2026-11-26 16:54 | christiantoday.co.kr | 인도 기독교계 “모디 정부의 권위주의 통치, 소수종교 인권 침해 야기” : 국제 | https://www.christiantoday.co.kr/news/378907 | c44
+2026-11-26 16:52 | 아이뉴스24 | 삼성SDI, 1조4234억원 규모 자사주 소각⋯주주가치 제고 | http://www.inews24.com/view/2030963 | c41
+2026-11-26 16:52 | 서울경제TV | 76년 장수 브랜드의 변신…롯데칠성, ‘칠성사이다 RICH’로 과즙 시장 정조준 | https://www.sentv.co.kr/article/view/sentv202611260229 | c5
+2026-11-26 16:52 | 서울경제 | 中企, 공정위원장에 공동협상권 보장·온플법 제정 촉구 | https://www.sedaily.com/article/20119459?ref=naver | c43
+2026-11-26 16:51 | 프레시안 | 전교조 전북지부 새 지도부 선출…이다영·하송아 찬성률 94.61% | https://www.pressian.com/pages/articles/2026112615341055473?utm_source=naver&utm_medium=search | c19
+2026-11-26 16:50 | weekly.hankooki.com | 기후변화 속에서도 지켜낸 평택 쌀 품질…생산단지 현장 심사 97% 통과 | https://weekly.hankooki.com/news/articleView.html?idxno=7195864 | c13
+2026-11-26 16:50 | headlinejeju.co.kr | 제주 공공기관 '직장 내 괴롭힘' 의혹에...도의원은 '기관장 두둔' 논란 | https://www.headlinejeju.co.kr/news/articleView.html?idxno=602814 | c18
+2026-11-26 16:50 | thevaluenews.co.kr | [더밸류 브리핑] 오늘의 NH농협금융 소식...NH투자증권·NH-아문디자산운용 | http://www.thevaluenews.co.kr/news/view.php?idx=203722 | c2
+2026-11-26 16:50 | todayenergy.kr | SK이터닉스, 산림 ESG 우수사례 공모전 특별상 수상 | https://www.todayenergy.kr/news/articleView.html?idxno=306139 | c48,c49,c7
+2026-11-26 16:50 | 잡포스트 | 삼부토건, 회생절차 종결 신청 이틀 만에 사망사고… 경영 정상화 변수 부상 | https://www.job-post.co.kr/news/articleView.html?idxno=241327 | c20,c21
+2026-11-26 16:50 | 경북매일 | 대출·투자 연계 온실가스도 공개…iM금융, 기후부 장관상 | https://www.kbmaeil.com/article/20261126500129 | c47,c48
+2026-11-26 16:49 | 뉴스1 | 금속노조, 노동부 목포지청장 고발…"작업중지·밀폐공간 판단 방기" | https://www.news1.kr/local/gwangju-jeonnam/6367502 | c20
+2026-11-26 16:48 | 메디컬투데이 | 온코닉테라퓨틱스, 이사회 절반 독립이사로 구성…경영 견제 기능 강화 | https://www.mdtoday.co.kr/news/articleView.html?idxno=627989 | c36
+2026-11-26 16:48 | sports.hankooki.com | 한국동서발전, 당진 스마트팜 사관학교에 태양광 설비 지원 | https://sports.hankooki.com/news/articleView.html?idxno=6944254 | c2
+2026-11-26 16:48 | 세계일보 | 경남도 시장·군수협의회 열려…“해양수도 특별법 개정 등 공동 대응” | https://www.segye.com/newsView/20261126516601?OutUrl=naver | c20
+2026-11-26 16:48 | lkp.news | 롯데지주, 송도 1공장 IR로 바이오 성과 부각… NAV 상승과 신유열 체제... | http://www.lkp.news/news/articleView.html?idxno=86553 | c25
+2026-11-26 16:48 | 중앙이코노미뉴스 | "농협은 민간 협동조합... 강제이전 강행 땐 총파업" 5000명 광화문 결의 | https://www.joongangenews.com/news/articleView.html?idxno=566939 | c26?
+2026-11-26 16:46 | 팝콘뉴스 | KCC, 임직원 자사주 보상에 이사 보상위 신설...보상체계 손질 | http://www.popcornnews.net/news/articleView.html?idxno=141723 | c41,c44
+2026-11-26 16:46 | 팝콘뉴스 | NH투자증권, 네팔 벽돌산업 탈탄소 지원…이노씨에스알과 맞손 | http://www.popcornnews.net/news/articleView.html?idxno=141724 | c2
+2026-11-26 16:46 | pointdaily.co.kr | 하나님의 교회 ASEZ WAO, 한국·페루 환경 협력의 가교 놓다 | https://www.pointdaily.co.kr/news/articleView.html?idxno=327599 | c5
+2026-11-26 16:46 | 부산일보 | LH부울지역본부-대한건설기계안전관리원, 건설기계 사고 예방 협약 | https://www.busan.com/view/busan/view.php?code=2026112615424564826 | c20
+2026-11-26 16:45 | 더팩트 | 금속노조, 노동부 목포지청장 직무유기 혐의 고발…노동자 사망사고 대응 논란 - 전국 / 기사 | https://news.tf.co.kr/read/national/2393951.htm | c20,c26?
+2026-11-26 16:44 | ESG경제 | TNFD, ISSB에 자연 관련 공시 기준서 도입 촉구 | https://www.esgeconomy.com/news/articleView.html?idxno=17565 | c46,c7,sw
+2026-11-26 16:44 | newsway.co.kr | 이사회·주총 남았는데…장현국 원 대표 '부산行 선언'에 술렁 | https://www.newsway.co.kr/news/view?ud=2026112611015796745 | c19,c36
+2026-11-26 16:44 | 머니투데이 | 유플리트-법무법인 지음, 중대재해 대응 상호협력 MOU 체결 | https://www.mt.co.kr/industry/2026/11/26/2026112610390825443 | c20
+2026-11-26 16:44 | 데일리한국 | 온코닉테라퓨틱스, 이사회 8인 체제로 확대…독립이사 절반 구성 | https://daily.hankooki.com/news/articleView.html?idxno=1429531 | c36
+2026-11-26 16:44 | ccdailynews.com | 산림품종센터, 미선나무 공동연구로 보존·활용 ↑ | https://www.ccdailynews.com/news/articleView.html?idxno=2453583 | c7
+2026-11-26 16:44 | whitepaper.co.kr | SH, 기후부장관상 수상 '환경정보공개' 투명성 인정 | http://www.whitepaper.co.kr/news/articleView.html?idxno=269229 | c7
+2026-11-26 16:44 | jejumaeil.net | "제주여가원 갑질 의혹 2차 가해" | https://www.jejumaeil.net/news/articleView.html?idxno=407160 | c18
+2026-11-26 16:44 | 한스경제 | HD현대, 5886억 규모 교환사채 발행 완료 | http://www.hansbiz.co.kr/news/articleView.html?idxno=887734 | c20
+2026-11-26 16:44 | ggilbo.com | 홈플러스 석 달 만에 재휴업…충청 8개 점포 멈춘다 | https://www.ggilbo.com/news/articleView.html?idxno=1195885 | c25
+2026-11-26 16:44 | 뉴스클레임 | 온코닉테라퓨틱스 독립이사 50% 확대 투명경영 강화 | https://www.newsclaim.co.kr/news/articleView.html?idxno=3084418 | c44
+2026-11-26 16:44 | 연합뉴스 | [바이오스냅] 한미약품, 미국비만학회서 신약 연구결과 발표 | https://www.yna.co.kr/view/AKR20261126159000017?input=1195m | c44
+2026-11-26 16:43 | 뉴시스 | 헌재 "노동쟁의 제3자 개입금지 처벌 조항 위헌"…33년만에 변경 | https://www.newsis.com/view/NISX20261126_0003885047 | c19
+2026-11-26 16:42 | ESG경제 | 한투도 사이버 공격에 뚫렸다…한투저축은행서 대규모 개인정보 유출 | https://www.esgeconomy.com/news/articleView.html?idxno=17564 | sw
+2026-11-26 16:42 | koscaj.com | 건설현장 외국인근로자 질병관리 난제 | https://www.koscaj.com/news/articleView.html?idxno=327686 | c20,c23
+2026-11-26 16:42 | press9.kr | 온코닉테라퓨틱스, 이사회 절반 독립이사로…책임경영 강화 | http://www.press9.kr/news/articleView.html?idxno=87105 | c36
+2026-11-26 16:42 | 아시아투데이 | ‘마르디 메크르디’ 피스피스스튜디오, 100억 자사주 소각…대표 지분도 내놓는다 | https://www.asiatoday.co.kr/kn/view.php?key=20261126010010516 | c41
+2026-11-26 16:42 | newskr.kr | 여수시민협, 교통약자 이동지원센터 특별감사 촉구 | http://www.newskr.kr/news/articleView.html?idxno=108336 | c18
+2026-11-26 16:42 | SBS Biz | [뉴욕증시 전략] 10월 근원 PCE 3.3%…2023년 이후 최고 | https://biz.sbs.co.kr/article_hub/20000349133?division=NAVER | c44
+2026-11-26 16:41 | 헤럴드경제 | “결국 믿을 건 ‘삼성닉스’ 뿐” 단칼에 자사주 폭풍 매입 기대…내년 3월까지 가능[투자360] | https://biz.heraldcorp.com/article/10950009?ref=naver | c38,c41
+2026-11-26 16:41 | 뉴스핌 | SH, 기후에너지환경부장관상 수상...환경정보공개·ESG 경영 확대 | https://www.newspim.com/news/view/20261126001228 | c7
+2026-11-26 16:40 | gasnews.com | 내년 ‘계약시장’ 전환 앞둔 재생에너지 의무화···정부, 기업 RE100 지원책 윤곽 공개 | https://www.gasnews.com/news/articleView.html?idxno=127906 | c4
+2026-11-26 16:40 | 아주경제 | SH, 환경정보공개 우수기업 선정…기후에너지환경부 장관상 수상 | https://www.ajunews.com/view/20261126162637244 | c7
+2026-11-26 16:40 | 브레이크뉴스 | 국립산림품종관리센터, 미선나무 보존·활용 공동연구 성과 공유 | http://www.breaknews.com/1254266 | c7
+2026-11-26 16:38 | gasnews.com | AI·반도체 전력난 해법 모색···'2026 한국RE100컨퍼런스' | https://www.gasnews.com/news/articleView.html?idxno=127905 | c4
+2026-11-26 16:38 | 브릿지경제 | 인천시설공단, 국가품질경영대회 대통령상 은상…2년 연속 수상 | https://www.viva100.com/article/20261126501488 | c16
+2026-11-26 16:38 | SBS | 헌재 "'쟁의행위 제3자 개입 금지' 구 노동쟁의조정법 조항은 위헌" | https://news.sbs.co.kr/news/endPage.do?news_id=N1008865407&plink=ORI&cooper=NAVER | c19
+2026-11-26 16:37 | 뉴시스 | [여수소식]GS칼텍스, 아동 '희망에너지교실' 17년째 운영 등 | https://www.newsis.com/view/NISX20261126_0003884984 | c16
+2026-11-26 16:36 | todayeconomic.com | NH투자증권, 네팔 벽돌공장 탈탄소 지원…탄소배출권으로 설비 도입 | https://www.todayeconomic.com/news/article.html?no=33017 | c2
+2026-11-26 16:36 | gocj.net | 대전시의회 김민숙 의원, '대전광역시 자연환경보전조례 전부개정조례안' 대표발의 | http://www.gocj.net/news/articleView.html?idxno=154883 | c7
+2026-11-26 16:35 | 머니투데이 | 美 USTR "한국 구조적 과잉생산" 주장에…정부 "수긍 어렵다" 반박 | https://www.mt.co.kr/economy/2026/11/26/2026112616262982207 | c26
+2026-11-26 16:34 | smartbizn.com | 경남 시장·군수 창원서 한자리에···지역 현안 해결·공동 발전 모색 | https://www.smartbizn.com/news/articleView.html?idxno=160776 | c20
+2026-11-26 16:34 | CNB뉴스 | 경남 시장·군수들 창원 집결…해양수도 특별법 개정 등 건의 | https://www.cnbnews.com/news/articleView.html?idxno=1025513 | c20
+2026-11-26 16:34 | gasnews.com | 수소사업 협력기업과 소통하는 가스기술공사 | https://www.gasnews.com/news/articleView.html?idxno=127904 | c20
+2026-11-26 16:34 | fieldnews.kr | 램프사업 매각하는 현대모비스, 주가 약세에 최대 4조원 현금 유출 '고민' < 산업/IT < 경제 < 기사본문 | http://www.fieldnews.kr/news/articleView.html?idxno=33441 | c40
+2026-11-26 16:32 | 충남일보 | [포토] 충남교육청, 재난·중대 재해 업무 담당자 역량 강화 연수 실시 | http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923338 | c20
+2026-11-26 16:32 | 뉴스핌 | 민간정비 용적률 완화 논의 제자리…국토부·서울시 회동도 불투명 | https://www.newspim.com/news/view/20261126001175 | c19
+2026-11-26 16:32 | cstimes.com | 온코닉테라퓨틱스, 독립이사 절반 체제 구축…투명 경영 강화 | https://www.cstimes.com/news/articleView.html?idxno=729614 | c44
